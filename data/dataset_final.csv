@@ -1,0 +1,14 @@
+sentence,options,answer,difficulty,question_type
+The weather is very beautiful ___.,"word1|word2|word3|today",today,medium,LISTENING
+She has been working here for ten ___.,"word1|word2|word3|years",years,medium,LISTENING
+The global economy is facing a ___.,"word1|word2|word3|recession",recession,medium,LISTENING
+Apple,MATCHING_PAIR,Quả táo,easy,MATCHING
+Library,MATCHING_PAIR,Thư viện,medium,MATCHING
+Sustainable,MATCHING_PAIR,Bền vững,hard,MATCHING
+Volunteer,MATCHING_PAIR,Tình nguyện viên,medium,MATCHING
+How are you doing?,/haʊ ɑːr juː ˈduːɪŋ/,How are you doing?,easy,SPEAKING
+Could you repeat that please?,/kʊd juː rɪˈpiːt ðæt pliːz/,Could you repeat that please?,easy,SPEAKING
+I would like to make a reservation.,/aɪ wʊd laɪk tu meɪk ə ˌrezəˈveɪʃən/,I would like to make a reservation.,medium,SPEAKING
+What is the meaning of: Stagnant,"Active|Flowing|Developing|Not growing or changing",Not growing or changing,easy,VOCAB
+What is the meaning of: Eloquent,"Quiet|Confused|Shy|Fluent or persuasive in speaking",Fluent or persuasive in speaking,easy,VOCAB
+What is the meaning of: Brave,"Fearful|Weak|Lazy|Showing courage",Showing courage,easy,VOCAB
