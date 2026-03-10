@@ -3,6 +3,15 @@ import * as path from "path";
 import { fileURLToPath } from "url";
 import csv from "csv-parser";
 import * as fastcsv from "fast-csv";
+// @ts-ignore
+import winkPosTagger from "wink-pos-tagger";
+
+import {
+  initDifficultyClassifier,
+  classifyDifficulty,
+} from "./ai/difficulty-embedding-classifier.ts";
+
+const tagger = winkPosTagger(); //lọc và loại bỏ các loại từ ko cần thiết (liên từ, trạng từ,..)
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -14,6 +23,9 @@ interface FinalQuestion {
   answer: string;
   difficulty: string;
   question_type: "VOCAB" | "LISTENING" | "SPEAKING" | "MATCHING";
+  audio_url?: string;
+  phonetic?: string;
+  hint?: string;
 }
 
 const RAW_DIR = path.resolve(__dirname, "../data/raw");
@@ -22,42 +34,141 @@ const OUTPUT_FILE = path.resolve(__dirname, "../data/dataset_final.csv");
 // Kho chứa từ vựng dùng chung để làm distractors (từ gây nhiễu)
 let vocabPool: string[] = [];
 
+//Map lưu độ khó từng từ trong file vocab_raw.csv
+let wordLevelMap: Map<string, string> = new Map();
+
+// tự động xoá file dataset_final.csv để rồi tạo lại file đó mới chỉ có các dòng mới trong /raw
+if (fs.existsSync(OUTPUT_FILE)) {
+  fs.unlinkSync(OUTPUT_FILE);
+  console.log(`Đã xóa file cũ: ${OUTPUT_FILE} để chuẩn bị tạo bản mới.`);
+}
+
 // Hàm bốc 3 từ nhiễu ngẫu nhiên từ kho vocabPool
 function getDistractorsFromPool(exclude: string, count: number = 3): string {
   // Lọc bỏ từ đáp án đúng để không bị trùng
-  const filtered = vocabPool.filter(w => w.toLowerCase() !== exclude.toLowerCase());
+  const filtered = vocabPool.filter(
+    (w) => w.toLowerCase() !== exclude.toLowerCase(),
+  );
   // Trộn ngẫu nhiên và lấy số lượng mong muốn
   const shuffled = filtered.sort(() => 0.5 - Math.random());
-  return shuffled.slice(0, count).join('|');
+  return shuffled.slice(0, count).join("|");
+}
+
+//Dùng cho đục lỗ
+// Stopword
+const stopwords = new Set([
+  "is",
+  "am",
+  "are",
+  "was",
+  "were",
+  "be",
+  "been",
+  "being",
+  "have",
+  "has",
+  "had",
+  "do",
+  "does",
+  "did",
+  "the",
+  "a",
+  "an",
+  "and",
+  "or",
+  "but",
+  "to",
+  "of",
+  "in",
+  "on",
+  "at",
+]);
+
+// POS filter helper
+function isValidPOS(pos: string) {
+  return (
+    pos.startsWith("NN") || // noun
+    pos.startsWith("VB") || // verb
+    pos.startsWith("JJ") // adjective
+  );
+}
+
+// clean punctuation
+function normalizeWord(word: string) {
+  return word.toLowerCase().replace(/[.,!?;:"'()]/g, "");
 }
 
 //đục lỗ trống cho phần listening (nghe- điền khuyết)
-function getRandomWordToHide(sentence: string) {
-  // Tách câu thành mảng các từ và loại bỏ các ký tự đặc biệt như dấu chấm, phẩy
-  const words = sentence.split(" ").map((w) => w.replace(/[.,!?;]/g, ""));
+function getRandomWordToHide(
+  sentence: string,
+  sentenceLevel: "easy" | "medium" | "hard",
+) {
+  const tokens = tagger.tagSentence(sentence); //gắn loại từ cho từng từ trong câu (trả về dạng object từ:pos(loại từ))
+  const levelCandidates: string[] = [];
+  const fallbackCandidates: string[] = [];
 
-  // Lọc bỏ các từ quá ngắn (dưới 3 ký tự) để tránh đục lỗ vào "a", "is", "in"...
-  const validWords = words.filter((word) => word.length > 3);
+  for (const token of tokens) {
+    const word = normalizeWord(token.value); //chuẩn hoá từ, xoá dấu câu
+    if (!word) continue;
 
-  // Nếu không tìm được từ nào thỏa mãn, lấy đại một từ bất kỳ
-  const targetList = validWords.length > 0 ? validWords : words;
-  const randomIndex = Math.floor(Math.random() * targetList.length);
+    //stopword
+    if (stopwords.has(word)) continue;
 
-  return targetList[randomIndex];
+    // POS filter
+    if (!isValidPOS(token.pos)) continue;
+
+    //CEFR
+    const level =
+      wordLevelMap.get(word) || wordLevelMap.get(word.replace(/s$/, ""));
+    if (!level) continue;
+    if (level === sentenceLevel) {
+      levelCandidates.push(word);
+    } else {
+      fallbackCandidates.push(word);
+    }
+  }
+
+  const pool =
+    levelCandidates.length > 0 ? levelCandidates : fallbackCandidates;
+
+  if (!pool.length) {
+    const words = sentence
+      .split(" ")
+      .map(normalizeWord)
+      .filter((w) => !stopwords.has(w) && w.length > 3);
+    if (!words.length) return sentence.split(" ")[0];
+    return words[Math.floor(Math.random() * words.length)];
+  }
+
+  return pool[Math.floor(Math.random() * pool.length)];
 }
 
 async function processFiles() {
+  //load model embedding
+  await initDifficultyClassifier();
+
   const allResults: FinalQuestion[] = [];
   const files = fs.readdirSync(RAW_DIR);
 
-  // Quét trước để nạp từ vào vocabPool
+  // Quét trước để nạp từ vào vocabPool và wordLevelMap
   for (const file of files) {
     if (file.toLowerCase().includes("vocab")) {
       const filePath = path.join(RAW_DIR, file);
       await new Promise((resolve) => {
         fs.createReadStream(filePath)
-          .pipe(csv())
-          .on("data", (row) => { if (row.word) vocabPool.push(row.word); })
+          .pipe(
+            csv({
+              mapHeaders: ({ header }) => header.trim().replace(/^\uFEFF/, ""),
+            }),
+          )
+          .on("data", (row) => {
+            if (row.word) {
+              const word = normalizeWord(row.word);
+              vocabPool.push(word); //danh sách từ trong file vocab_raw.csv
+              //map từ với độ khó, topic của nó
+              wordLevelMap.set(word, row.difficulty?.toLowerCase() || "easy");
+            }
+          })
           .on("end", resolve);
       });
     }
@@ -67,64 +178,79 @@ async function processFiles() {
     const filePath = path.join(RAW_DIR, file);
     console.log(`Đang quét file: ${file}`);
 
+    const rows: any[] = [];
+
     await new Promise((resolve) => {
       fs.createReadStream(filePath)
-        .pipe(csv())
-        .on("data", (row) => {
-          let processed: FinalQuestion | null = null;
-
-          // Nhận diện loại bài tập dựa trên tên file
-          //1. Xử lý VOCABULARY
-          if (file.toLowerCase().includes("vocab")) {
-            processed = {
-              sentence: `What is the meaning of: ${row.word}`,
-              options: `${row.distractors}|${row.definition}`,
-              answer: row.definition,
-              difficulty: row.difficulty || "easy",
-              question_type: "VOCAB",
-            };
-            //2. Xử lý LISTENING
-          } else if (file.toLowerCase().includes("listening")) {
-            // Logic đục lỗ ngẫu nhiên cho bài nghe
-            const answer = getRandomWordToHide(row.transcript);
-            // Tạo câu hỏi với dấu gạch dưới tại vị trí từ đã chọn
-            const regex = new RegExp(`\\b${answer}\\b`, "i");
-            const maskedSentence = row.transcript.replace(regex, "___");
-
-            processed = {
-              sentence: maskedSentence,
-              // Chèn đáp án đúng vào cuối danh sách options
-              options: `${getDistractorsFromPool(answer, 3)}|${answer}`,
-              answer: answer,
-              difficulty: row.difficulty || "easy", // Lấy độ khó từ file CSV
-              question_type: "LISTENING",
-            };
-          }
-          // 3. Xử lý SPEAKING
-          else if (file.toLowerCase().includes("speaking")) {
-            processed = {
-              sentence: row.sentence,
-              options: row.phonetic || "", // Lưu phiên âm để hiển thị gợi ý
-              answer: row.sentence,
-              difficulty: row.difficulty || "easy",
-              question_type: "SPEAKING",
-            };
-          }
-          // 4. Xử lý MATCHING (Cặp Anh - Việt)
-          else if (file.toLowerCase().includes("matching")) {
-            processed = {
-              sentence: row.word_en, // Vế trái: Tiếng Anh
-              options: "MATCHING_PAIR", // Flag nhận diện
-              answer: row.word_vi, // Vế phải: Tiếng Việt
-              difficulty: row.difficulty || "easy",
-              question_type: "MATCHING",
-            };
-          }
-
-          if (processed) allResults.push(processed);
-        })
-        .on("end", () => resolve(true));
+        .pipe(
+          csv({
+            mapHeaders: ({ header }) => header.trim().replace(/^\uFEFF/, ""),
+          }),
+        )
+        .on("data", (row) => rows.push(row))
+        .on("end", resolve);
     });
+
+    for (const row of rows) {
+      let processed: FinalQuestion | null = null;
+
+      // Nhận diện loại bài tập dựa trên tên file
+      //1. Xử lý VOCABULARY
+      if (file.toLowerCase().includes("vocab")) {
+        processed = {
+          sentence: `What is the meaning of: ${row.word}`,
+          options: `${row.distractors}|${row.definition}`,
+          answer: row.definition,
+          difficulty: row.difficulty || "easy",
+          question_type: "VOCAB",
+        };
+        //2. Xử lý LISTENING
+      } else if (file.toLowerCase().includes("listening")) {
+        // Logic đục lỗ ngẫu nhiên cho bài nghe
+        const difficulty = await classifyDifficulty(row.transcript);
+        const answer = getRandomWordToHide(row.transcript, difficulty);
+        const hint = `${answer.length} letters`;
+        // Tạo câu hỏi với dấu gạch dưới tại vị trí từ đã chọn
+        const regex = new RegExp(`\\b${answer}\\b`, "i");
+        const maskedSentence = row.transcript.replace(regex, "___");
+
+        processed = {
+          sentence: maskedSentence,
+          // Chèn đáp án đúng vào cuối danh sách options
+          options: "", //phần nghe cho tự điền (ko có 4 đáp án, nhưng sẽ có hint giải đáp)
+          answer: answer,
+          difficulty: difficulty, //lấy độ khó từ hàm dò độ khó
+          question_type: "LISTENING",
+          audio_url: row.audio_url,
+          phonetic: "", // Lấy link MP3 từ file CSV raw
+          hint: hint,
+        };
+      }
+      // 3. Xử lý SPEAKING
+      else if (file.toLowerCase().includes("speaking")) {
+        processed = {
+          sentence: row.sentence,
+          options: "", // Speaking thường không cần distractors
+          answer: row.sentence,
+          difficulty: await classifyDifficulty(row.sentence),
+          question_type: "SPEAKING",
+          phonetic: row.phonetic || "", // Lưu phiên âm riêng
+          audio_url: row.audio_url || "", // Lưu link audio mẫu
+        };
+      }
+      // 4. Xử lý MATCHING (Cặp Anh - Việt)
+      else if (file.toLowerCase().includes("matching")) {
+        processed = {
+          sentence: row.word_en, // Vế trái: Tiếng Anh
+          options: "MATCHING_PAIR", // Flag nhận diện
+          answer: row.word_vi, // Vế phải: Tiếng Việt
+          difficulty: row.difficulty || "easy",
+          question_type: "MATCHING",
+        };
+      }
+
+      if (processed) allResults.push(processed);
+    }
   }
 
   // Ghi kết quả ra file tổng hợp dataset_final.csv
