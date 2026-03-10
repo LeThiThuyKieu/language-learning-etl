@@ -64,12 +64,13 @@ async function evaluateDataset() {
   const sample = rows.slice(0, 200);
 
   const results: any[] = [];
+  const candidateTopics = Object.keys(topicTitle).map(Number);
 
   for (const item of sample) {
 
     const sentence = item.sentence;
 
-    const predictedTopic = await classifyTopic(sentence);
+    const predictedTopic = await classifyTopic(sentence,candidateTopics);
 
     results.push({
       sentence: sentence,

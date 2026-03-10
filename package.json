@@ -8,6 +8,7 @@
     "crawl": "ts-node src/crawl-data.ts",
     "pre-process": "ts-node src/pre-process.ts",
     "evaluate-vocab-matching": "ts-node src/ai/evaluate/evaluate-vocab-matching.ts",
+    "evaluate-difficulty":"ts-node src/ai/evaluate/evaluate_difficulty.ts",
     "etl": "ts-node src/main.ts",
     "dev": "npm run pre-process && npm run etl"
   },
