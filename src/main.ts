@@ -27,6 +27,46 @@ const QuestionMongoSchema = new Schema({
 });
 const QuestionModel = mongoose.model("questions", QuestionMongoSchema);
 
+function isSrvLookupError(error: unknown): boolean {
+  const message = String((error as Error)?.message || "").toLowerCase();
+  return (
+    message.includes("querysrv") ||
+    message.includes("srv") ||
+    message.includes("dns")
+  );
+}
+
+async function connectMongoWithFallback() {
+  const srvUri = process.env.MONGODB_URI;
+  const directUri = process.env.MONGODB_URI_DIRECT;
+
+  if (!srvUri) {
+    throw new Error("MONGODB_URI is missing in .env");
+  }
+
+  try {
+    await mongoose.connect(srvUri);
+    console.log("Connected MongoDB using MONGODB_URI (SRV)");
+    return;
+  } catch (error) {
+    if (!isSrvLookupError(error)) {
+      throw error;
+    }
+
+    if (!directUri) {
+      throw new Error(
+        "MongoDB SRV lookup failed and MONGODB_URI_DIRECT is missing. Add MONGODB_URI_DIRECT in .env using the non-SRV Atlas connection string.",
+      );
+    }
+
+    console.warn(
+      "MongoDB SRV lookup failed. Falling back to MONGODB_URI_DIRECT...",
+    );
+    await mongoose.connect(directUri);
+    console.log("Connected MongoDB using MONGODB_URI_DIRECT");
+  }
+}
+
 async function runETL() {
   try {
     // 1. Load AI classifier - Topic
@@ -40,7 +80,7 @@ async function runETL() {
       database: process.env.DB_NAME,
     });
 
-    await mongoose.connect(process.env.MONGODB_URI!);
+    await connectMongoWithFallback();
     console.log("Connected to MySQL & MongoDB Atlas");
 
     const results: any[] = [];
