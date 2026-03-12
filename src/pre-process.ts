@@ -207,7 +207,7 @@ async function processFiles() {
         //2. Xử lý LISTENING
       } else if (file.toLowerCase().includes("listening")) {
         // Logic đục lỗ ngẫu nhiên cho bài nghe
-        const difficulty = await classifyDifficulty(row.transcript);
+        const difficulty = await classifyDifficulty(row.transcript, "LISTENING");
         const answer = getRandomWordToHide(row.transcript, difficulty);
         const hint = `${answer.length} letters`;
         // Tạo câu hỏi với dấu gạch dưới tại vị trí từ đã chọn
@@ -232,7 +232,7 @@ async function processFiles() {
           sentence: row.sentence,
           options: "", // Speaking thường không cần distractors
           answer: row.sentence,
-          difficulty: await classifyDifficulty(row.sentence),
+          difficulty: await classifyDifficulty(row.sentence, "SPEAKING"),
           question_type: "SPEAKING",
           phonetic: row.phonetic || "", // Lưu phiên âm riêng
           audio_url: row.audio_url || "", // Lưu link audio mẫu

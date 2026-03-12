@@ -7,24 +7,41 @@ import {
   initDifficultyClassifier,
   classifyDifficulty,
 } from "../difficulty-embedding-classifier.ts";
+import type { DifficultyModality } from "../difficulty-embedding-classifier.ts";
 
 interface TestRow {
-  sentence: string;
+  sentence?: string;
+  transcript?: string;
   difficulty: "easy" | "medium" | "hard";
 }
 
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-const TEST_FILE = path.resolve(__dirname, "../../../data/test_difficulty.csv");
+const DEFAULT_TEST_FILE = path.resolve(__dirname, "../../../data/test_difficulty.csv");
+
+function parseModality(input?: string): DifficultyModality {
+  const value = (input || "GENERAL").toUpperCase();
+  if (value === "LISTENING" || value === "SPEAKING") return value;
+  return "GENERAL";
+}
+
+function getSentence(row: TestRow): string {
+  return row.sentence || row.transcript || "";
+}
 
 async function evaluate() {
+  const modality = parseModality(process.argv[2]);
+  const testFile = process.argv[3]
+    ? path.resolve(process.cwd(), process.argv[3])
+    : DEFAULT_TEST_FILE;
+
   await initDifficultyClassifier();
 
   const rows: TestRow[] = [];
 
   await new Promise((resolve) => {
-    fs.createReadStream(TEST_FILE)
+    fs.createReadStream(testFile)
       .pipe(csv())
       .on("data", (row) => rows.push(row))
       .on("end", resolve);
@@ -39,7 +56,10 @@ async function evaluate() {
   };
 
   for (const row of rows) {
-    const predicted = await classifyDifficulty(row.sentence);
+    const sentence = getSentence(row);
+    if (!sentence || !row.difficulty) continue;
+
+    const predicted = await classifyDifficulty(sentence, modality);
     const actual = row.difficulty;
 
     if (predicted === actual) correct++;
@@ -53,6 +73,8 @@ async function evaluate() {
 
   const accuracy = correct / rows.length;
 
+  console.log("Modality:", modality);
+  console.log("Test file:", testFile);
   console.log("Total samples:", rows.length);
   console.log("Accuracy:", accuracy.toFixed(3));
 
