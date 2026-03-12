@@ -27,6 +27,30 @@ const QuestionMongoSchema = new Schema({
 });
 const QuestionModel = mongoose.model("questions", QuestionMongoSchema);
 
+function buildTopicInputText(item: any): string {
+  const qType = String(item.question_type || "").toUpperCase();
+  const sentence = String(item.sentence || "").trim();
+  const answer = String(item.answer || "").trim();
+
+  if (qType === "VOCAB") {
+    // Dữ liệu VOCAB có dạng: "What is the meaning of: <word>"
+    const match = sentence.match(/what\s+is\s+the\s+meaning\s+of:\s*(.+)$/i);
+    if (match?.[1]) {
+      const word = match[1].trim();
+      // Kết hợp từ gốc + nghĩa để tăng ngữ cảnh phân topic.
+      return `${word} ${answer}`.trim();
+    }
+    return `${sentence} ${answer}`.trim();
+  }
+
+  if (qType === "MATCHING") {
+    // MATCHING thường rất ngắn; ghép cả 2 vế để có thêm tín hiệu.
+    return `${sentence} ${answer}`.trim();
+  }
+
+  return sentence;
+}
+
 function isSrvLookupError(error: unknown): boolean {
   const message = String((error as Error)?.message || "").toLowerCase();
   return (
@@ -152,20 +176,24 @@ async function runETL() {
                 continue;
               }
 
-              // F. Phân loại theo chủ đề (mỗi skill_tree là mỗi chủ đề)
+              // F. Chuẩn hóa text đầu vào cho phân loại topic theo loại câu hỏi
+              const topicInputText = buildTopicInputText(item);
+
+              // G. Phân loại theo chủ đề (mỗi skill_tree là mỗi chủ đề)
               const skill_tree_id = await classifyTopic(
-                sentence,
+                topicInputText,
                 candidateTopics,
               );
 
-              // G. question_type
+              // H. question_type
               const qType = item.question_type || "VOCAB";
 
-              // H. Sau khi biết skill tree id thì sẽ map với node theo type tương ứng
+              // I. Sau khi biết skill tree id thì sẽ map với node theo type tương ứng
               const nodeId = mapNodeId(skill_tree_id, qType);
 
               console.log({
                 sentence,
+                topicInputText,
                 levelId,
                 candidateTopics,
                 skill_tree_id,

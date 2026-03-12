@@ -10,9 +10,50 @@ let extractor: any = null;
 export type DifficultyLabel = "easy" | "medium" | "hard";
 export type DifficultyModality = "GENERAL" | "LISTENING" | "SPEAKING";
 
-const difficultyEmbeddings: Record<string, number[]> = {};
-const listeningDifficultyEmbeddings: Record<string, number[]> = {};
-const speakingDifficultyEmbeddings: Record<string, number[]> = {};
+// Bucket embedding theo từng modality. Mỗi level lưu một vector centroid.
+const difficultyEmbeddings: Record<DifficultyLabel, number[]> = {
+  easy: [],
+  medium: [],
+  hard: [],
+};
+const listeningDifficultyEmbeddings: Record<DifficultyLabel, number[]> = {
+  easy: [],
+  medium: [],
+  hard: [],
+};
+const speakingDifficultyEmbeddings: Record<DifficultyLabel, number[]> = {
+  easy: [],
+  medium: [],
+  hard: [],
+};
+
+// Nguồn dữ liệu train theo từng modality.
+const modalityDatasets: Record<DifficultyModality, Record<DifficultyLabel, string[]>> = {
+  GENERAL: difficultyTrainingData,
+  LISTENING: listeningDifficultyTrainingData,
+  SPEAKING: speakingDifficultyTrainingData,
+};
+
+// Bucket embedding dùng lúc chạy theo modality.
+const modalityEmbeddingBuckets: Record<
+  DifficultyModality,
+  Record<DifficultyLabel, number[]>
+> = {
+  GENERAL: difficultyEmbeddings,
+  LISTENING: listeningDifficultyEmbeddings,
+  SPEAKING: speakingDifficultyEmbeddings,
+};
+
+// Trạng thái lazy-load và chống build trùng khi có nhiều request đồng thời.
+const modalityEmbeddingReady: Record<DifficultyModality, boolean> = {
+  GENERAL: false,
+  LISTENING: false,
+  SPEAKING: false,
+};
+
+const modalityEmbeddingBuildPromises: Partial<
+  Record<DifficultyModality, Promise<void>>
+> = {};
 
 const CEFR_LEVEL_WEIGHT: Record<string, number> = {
   a1: 0.15,
@@ -32,6 +73,12 @@ const CEFR_LEXICON: Record<string, Set<string>> = {
 const levelThresholds = {
   easy: 0.35,
   medium: 0.49,
+};
+
+const embeddingLevelAnchors: Record<DifficultyLabel, number> = {
+  easy: 0.2,
+  medium: 0.5,
+  hard: 0.82,
 };
 
 const modalityWeights = {
@@ -206,14 +253,88 @@ async function buildEmbeddings(
 }
 
 function getEmbeddingBucket(modality: DifficultyModality) {
-  if (modality === "LISTENING") return listeningDifficultyEmbeddings;
-  if (modality === "SPEAKING") return speakingDifficultyEmbeddings;
-  return difficultyEmbeddings;
+  return modalityEmbeddingBuckets[modality];
+}
+
+async function ensureEmbeddingsForModality(modality: DifficultyModality) {
+  // Bước 1: nếu modality đã được khởi tạo thì thoát ngay.
+  if (modalityEmbeddingReady[modality]) return;
+
+  // Bước 2: nếu có request khác đang build modality này thì chờ.
+  const inFlight = modalityEmbeddingBuildPromises[modality];
+  if (inFlight) {
+    await inFlight;
+    return;
+  }
+
+  // Bước 3: build embeddings một lần rồi đánh dấu modality đã sẵn sàng.
+  const buildPromise = (async () => {
+    await buildEmbeddings(
+      modalityDatasets[modality],
+      modalityEmbeddingBuckets[modality],
+    );
+    modalityEmbeddingReady[modality] = true;
+  })();
+
+  modalityEmbeddingBuildPromises[modality] = buildPromise;
+
+  try {
+    await buildPromise;
+  } finally {
+    delete modalityEmbeddingBuildPromises[modality];
+  }
+}
+
+function embeddingDifficultyScore(
+  sentenceVector: number[],
+  bucket: Record<DifficultyLabel, number[]>,
+) {
+  const levels: DifficultyLabel[] = ["easy", "medium", "hard"];
+
+  // Bước 1: tính similarity đã chuẩn hóa cho từng level.
+  const normalizedByLevel: Record<DifficultyLabel, number> = {
+    easy: 0,
+    medium: 0,
+    hard: 0,
+  };
+
+  for (const level of levels) {
+    const cosine = cosineSimilarity(sentenceVector, bucket[level]);
+    normalizedByLevel[level] = clamp01((cosine + 1) / 2);
+  }
+
+  // Bước 2: dùng softmax để đổi similarity thành xác suất mượt giữa các level.
+  const temperature = 6;
+  let denominator = 0;
+  const softmaxByLevel: Record<DifficultyLabel, number> = {
+    easy: 0,
+    medium: 0,
+    hard: 0,
+  };
+
+  for (const level of levels) {
+    const value = Math.exp(normalizedByLevel[level] * temperature);
+    softmaxByLevel[level] = value;
+    denominator += value;
+  }
+
+  if (!denominator) return 0.5;
+
+  // Bước 3: tính điểm độ khó kỳ vọng theo trọng số anchor easy/medium/hard.
+  return clamp01(
+    levels.reduce(
+      (sum, level) =>
+        sum +
+        (softmaxByLevel[level] / denominator) * embeddingLevelAnchors[level],
+      0,
+    ),
+  );
 }
 
 export async function initDifficultyClassifier() {
   if (extractor) return;
 
+  // Bước 1: load model embedding một lần cho toàn bộ tiến trình.
   console.log("Loading difficulty model...");
 
   extractor = await pipeline(
@@ -221,19 +342,10 @@ export async function initDifficultyClassifier() {
     "Xenova/all-MiniLM-L6-v2",
   );
 
+  // Bước 2: build CEFR lexicon một lần; embedding theo modality sẽ lazy-load sau.
   buildCefrLexicon();
 
-  await buildEmbeddings(difficultyTrainingData, difficultyEmbeddings);
-  await buildEmbeddings(
-    listeningDifficultyTrainingData,
-    listeningDifficultyEmbeddings,
-  );
-  await buildEmbeddings(
-    speakingDifficultyTrainingData,
-    speakingDifficultyEmbeddings,
-  );
-
-  console.log("Difficulty classifier ready");
+  console.log("Difficulty classifier ready (embeddings lazy-loaded by modality)");
 }
 
 export async function classifyDifficulty(
@@ -244,22 +356,16 @@ export async function classifyDifficulty(
     throw new Error("Call initDifficultyClassifier() first");
   }
 
+  // Bước 1: đảm bảo embeddings của modality hiện tại đã sẵn sàng.
+  await ensureEmbeddingsForModality(modality);
+
+  // Bước 2: tạo embedding cho câu và suy ra điểm độ khó từ embedding.
   const sentenceVector = await createEmbedding(sentence);
 
   const bucket = getEmbeddingBucket(modality);
+  const embeddingScore = embeddingDifficultyScore(sentenceVector, bucket);
 
-  let bestScore = -Infinity;
-
-  for (const level of ["easy", "medium", "hard"] as DifficultyLabel[]) {
-    const score = cosineSimilarity(sentenceVector, bucket[level]);
-
-    if (score > bestScore) {
-      bestScore = score;
-    }
-  }
-
-  const embeddingScore = clamp01((bestScore + 1) / 2);
-
+  // Bước 3: kết hợp điểm embedding với các tín hiệu ngôn ngữ theo luật.
   const signals = {
     embeddingScore,
     sentenceLengthScore: sentenceLengthScore(sentence),
@@ -269,6 +375,7 @@ export async function classifyDifficulty(
 
   const weights = modalityWeights[modality];
 
+  // Bước 4: trộn điểm theo trọng số và map ngưỡng sang easy/medium/hard.
   const finalScore =
     weights.embedding * signals.embeddingScore +
     weights.sentenceLength * signals.sentenceLengthScore +
