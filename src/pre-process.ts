@@ -95,7 +95,7 @@ function isValidPOS(pos: string) {
 
 // clean punctuation
 function normalizeWord(word: string) {
-  return word.toLowerCase().replace(/[.,!?;:"'()]/g, "");
+  return word.toLowerCase().replace(/[.,!?;:"()]/g, "");
 }
 
 //đục lỗ trống cho phần listening (nghe- điền khuyết)
@@ -207,12 +207,25 @@ async function processFiles() {
         //2. Xử lý LISTENING
       } else if (file.toLowerCase().includes("listening")) {
         // Logic đục lỗ ngẫu nhiên cho bài nghe
-        const difficulty = await classifyDifficulty(row.transcript, "LISTENING");
+        const difficulty = await classifyDifficulty(
+          row.transcript,
+          "LISTENING",
+        );
         const answer = getRandomWordToHide(row.transcript, difficulty);
         const hint = `${answer.length} letters`;
         // Tạo câu hỏi với dấu gạch dưới tại vị trí từ đã chọn
-        const regex = new RegExp(`\\b${answer}\\b`, "i");
-        const maskedSentence = row.transcript.replace(regex, "___");
+        const tokens = tagger.tagSentence(row.transcript);
+        let replaced = false;
+        const maskedSentence = tokens
+          .map((t: any) => {
+            const clean = normalizeWord(t.value);
+            if (!replaced && clean === answer) {
+              replaced = true;
+              return "___";
+            }
+            return t.value;
+          })
+          .join(" ");
 
         processed = {
           sentence: maskedSentence,
