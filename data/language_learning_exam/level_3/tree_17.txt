@@ -1,0 +1,149 @@
+TREE 17: Science
+====================================
+
+NODE VOCAB
+
+Q1: What is the meaning of: curiosity
+A. trì hoãn
+B. ám chỉ
+C. sự tò mò
+D. sự dồi dào
+Answer: C
+
+Q2: What is the meaning of: topography
+A. sinh thái
+B. địa hình
+C. mưu mẹo
+D. tiên đề
+Answer: B
+
+Q3: What is the meaning of: testimonial
+A. sự hình thức
+B. sự hội tụ
+C. tù nhân
+D. lời chứng thực
+Answer: D
+
+Q4: What is the meaning of: likelihood
+A. nghĩ
+B. sự lây lan
+C. người chậm chạp
+D. xác suất
+Answer: D
+
+Q5: What is the meaning of: sediment
+A. trầm tích
+B. khu vực bầu cử
+C. có thể nói
+D. diệt chủng
+Answer: A
+
+Q6: What is the meaning of: zodiac
+A. đe dọa
+B. phần mười
+C. vụ thảm sát
+D. cung hoàng đạo
+Answer: D
+
+Q7: What is the meaning of: watershed
+A. sự không đúng mực
+B. bổ sung
+C. lưu vực
+D. cách ly
+Answer: C
+
+Q8: What is the meaning of: gravity
+A. khẩn cấp
+B. vi phạm
+C. nhiệm kỳ
+D. trọng lực
+Answer: D
+
+Q9: What is the meaning of: abstention
+A. kiêng cữ
+B. vận tốc
+C. thần giao cách cảm
+D. để chia buồn
+Answer: A
+
+Q10: What is the meaning of: flux
+A. tuôn ra
+B. liền kề
+C. điểm kỳ dị
+D. sự trả thù
+Answer: A
+
+
+
+NODE LISTENING
+
+
+
+NODE SPEAKING
+
+
+
+NODE MATCHING
+
+1. sediment -> trầm tích
+2. tentative -> dự kiến
+3. zodiac -> cung hoàng đạo
+4. scion -> cành ghép
+5. fluid -> dịch
+6. simulate -> mô phỏng
+7. evolutionary -> tiến hóa
+8. reconnaissance -> trinh sát
+9. curiosity -> sự tò mò
+10. to acquit -> tha bổng
+
+
+NODE REVIEW
+
+1. to acquit -> tha bổng
+Q2: What is the meaning of: watershed
+A. lưu vực
+B. sự không đúng mực
+C. bổ sung
+D. cách ly
+Answer: A
+
+Q3: What is the meaning of: topography
+A. sinh thái
+B. mưu mẹo
+C. tiên đề
+D. địa hình
+Answer: D
+
+Q4: What is the meaning of: gravity
+A. vi phạm
+B. trọng lực
+C. nhiệm kỳ
+D. khẩn cấp
+Answer: B
+
+5. evolutionary -> tiến hóa
+6. tentative -> dự kiến
+Q7: What is the meaning of: sediment
+A. diệt chủng
+B. trầm tích
+C. có thể nói
+D. khu vực bầu cử
+Answer: B
+
+Q8: What is the meaning of: abstention
+A. thần giao cách cảm
+B. để chia buồn
+C. vận tốc
+D. kiêng cữ
+Answer: D
+
+9. sediment -> trầm tích
+Q10: What is the meaning of: curiosity
+A. ám chỉ
+B. trì hoãn
+C. sự tò mò
+D. sự dồi dào
+Answer: C
+
+
+
