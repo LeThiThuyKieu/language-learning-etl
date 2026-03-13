@@ -1,0 +1,177 @@
+TREE 10: Health
+====================================
+
+NODE VOCAB
+
+Q1: What is the meaning of: consistent
+A. cánh tay
+B. thiết yếu
+C. nhất quán
+D. hiệu trưởng
+Answer: C
+
+Q2: What is the meaning of: painful
+A. báo thức
+B. cổ tay
+C. hư hại
+D. đau đớn
+Answer: D
+
+Q3: What is the meaning of: cancer
+A. thế chấp
+B. sự tập trung
+C. bệnh ung thư
+D. cơ sở dữ liệu
+Answer: C
+
+Q4: What is the meaning of: fraction
+A. phân số
+B. hơn nữa
+C. tương tác
+D. thông minh
+Answer: A
+
+Q5: What is the meaning of: combine
+A. người lớn tuổi
+B. tế bào
+C. kết hợp
+D. cao
+Answer: C
+
+Q6: What is the meaning of: holy
+A. thánh
+B. nhiệm vụ
+C. nếp gấp
+D. lều
+Answer: A
+
+Q7: What is the meaning of: adequate
+A. cuộc điều tra
+B. đủ
+C. ca phẫu thuật
+D. săn bắn
+Answer: B
+
+Q8: What is the meaning of: truly
+A. thực sự
+B. phần
+C. cư dân
+D. tập đoàn
+Answer: A
+
+Q9: What is the meaning of: sensitive
+A. đề cập đến
+B. quét
+C. nhạy cảm
+D. bậc thầy
+Answer: C
+
+Q10: What is the meaning of: oppose
+A. nhận nuôi
+B. đông cứng
+C. phản đối
+D. chiết xuất
+Answer: C
+
+
+
+NODE LISTENING
+
+Q1: The last time I saw him , he was ___ healthy .
+Answer: very
+
+Q2: Tom has some food ___ , so he has to be careful about what he eats .
+Answer: allergies
+
+Q3: I ___ swim well even when I was a child .
+Answer: could
+
+Q4: ___ of them are healthy , but some of them are n't .
+Answer: some
+
+Q5: ___ you rather have a cup of coffee or a cup of tea ?
+Answer: would
+
+Q6: ___ Tom couldn't bear the pain any longer , he went to the hospital .
+Answer: when
+
+Q7: If you eat nothing but ice cream , you 'll get a stomachache .
+Answer: you'll
+
+Q8: She has two cats . One is ___ and the other one is black .
+Answer: white
+
+Q9: It irritates Tom when Mary ___ the cap off the toothpaste .
+Answer: leaves
+
+Q10: I ca n't ___ you how good it makes me feel to see you alive .
+Answer: tell
+
+
+
+NODE SPEAKING
+
+1. You can't take that.
+2. You can dance, can't you?
+3. Can't you do that?
+4. Well, are you coming?
+5. Tom told me that he does thirty push-ups every morning.
+6. Do you know that?
+7. Can you answer that?
+8. Are you hurt, Tom?
+9. Can you believe this?
+10. There's a problem there that you don't see.
+
+
+NODE MATCHING
+
+1. adequate -> đủ
+2. fitness -> sự thích hợp
+3. sensitive -> nhạy cảm
+4. courage -> lòng can đảm
+5. greatly -> rất nhiều
+6. consume -> tiêu thụ
+7. suspend -> đình chỉ
+8. integrate -> tích hợp
+9. mechanic -> thợ cơ khí
+10. breathing -> thở
+
+
+NODE REVIEW
+
+Q1: She has two cats . One is ___ and the other one is black .
+Answer: white
+
+Q2: What is the meaning of: painful
+A. đau đớn
+B. báo thức
+C. cổ tay
+D. hư hại
+Answer: A
+
+Q3: What is the meaning of: holy
+A. thánh
+B. lều
+C. nhiệm vụ
+D. nếp gấp
+Answer: A
+
+Q4: ___ Tom couldn't bear the pain any longer , he went to the hospital .
+Answer: when
+
+5. You can't take that.
+Q6: If you eat nothing but ice cream , you 'll get a stomachache .
+Answer: you'll
+
+Q7: What is the meaning of: sensitive
+A. bậc thầy
+B. quét
+C. nhạy cảm
+D. đề cập đến
+Answer: C
+
+8. Can you believe this?
+9. consume -> tiêu thụ
+10. mechanic -> thợ cơ khí
+
+

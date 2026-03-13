@@ -1,0 +1,144 @@
+TREE 21: Law
+====================================
+
+NODE VOCAB
+
+Q1: What is the meaning of: condemn
+A. xấu đi
+B. mảnh vụn trôi nổi
+C. tàn phá
+D. lên án
+Answer: D
+
+Q2: What is the meaning of: to ostracise
+A. độ nhạy cảm
+B. người khắc kỷ
+C. biểu tượng
+D. tẩy chay
+Answer: D
+
+Q3: What is the meaning of: adversary
+A. sự tàn phá
+B. ghê tởm
+C. kẻ thù
+D. quở trách
+Answer: C
+
+Q4: What is the meaning of: dumb
+A. câm
+B. đầm lầy
+C. tổng thống
+D. phòng thủ
+Answer: A
+
+Q5: What is the meaning of: residence
+A. nơi cư trú
+B. quỳ lạy
+C. vô lý
+D. di sản
+Answer: A
+
+Q6: What is the meaning of: repugnant
+A. thai kỳ
+B. ghê tởm
+C. mắng mỏ
+D. chất ăn mòn
+Answer: B
+
+Q7: What is the meaning of: spouse
+A. sự thiếu thận trọng
+B. bình minh
+C. sinh thái
+D. vợ chồng
+Answer: D
+
+Q8: What is the meaning of: parsimony
+A. câu đố
+B. tiết kiệm
+C. nói nhiều
+D. bất cứ điều gì
+Answer: B
+
+Q9: What is the meaning of: voracious
+A. tham ăn
+B. máy chủ proxy
+C. tị nạn
+D. nhà ở
+Answer: A
+
+Q10: What is the meaning of: vernacular
+A. ngôn ngữ bản địa
+B. kẻ khai man
+C. một số lượng rất lớn
+D. lá phiếu
+Answer: A
+
+
+
+NODE LISTENING
+
+
+
+NODE SPEAKING
+
+1. If you don't want to go to that party, you don't have to.
+
+
+NODE MATCHING
+
+1. tenacity -> sự kiên trì
+2. solicitor -> luật sư
+3. pathos -> sự thương cảm
+4. churlish -> thô lỗ
+5. erudite -> uyên bác
+6. confession -> lời thú tội
+7. adverse -> bất lợi
+8. attorney -> luật sư
+9. to allude -> ám chỉ
+10. restitution -> bồi thường
+
+
+NODE REVIEW
+
+Q1: What is the meaning of: residence
+A. di sản
+B. vô lý
+C. nơi cư trú
+D. quỳ lạy
+Answer: C
+
+2. restitution -> bồi thường
+3. erudite -> uyên bác
+4. attorney -> luật sư
+5. churlish -> thô lỗ
+Q6: What is the meaning of: parsimony
+A. bất cứ điều gì
+B. nói nhiều
+C. câu đố
+D. tiết kiệm
+Answer: D
+
+Q7: What is the meaning of: spouse
+A. sự thiếu thận trọng
+B. bình minh
+C. sinh thái
+D. vợ chồng
+Answer: D
+
+8. If you don't want to go to that party, you don't have to.
+Q9: What is the meaning of: to ostracise
+A. người khắc kỷ
+B. biểu tượng
+C. độ nhạy cảm
+D. tẩy chay
+Answer: D
+
+Q10: What is the meaning of: dumb
+A. phòng thủ
+B. đầm lầy
+C. câm
+D. tổng thống
+Answer: C
+
+
+

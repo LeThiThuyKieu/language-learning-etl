@@ -1,0 +1,175 @@
+TREE 13: Transportation
+====================================
+
+NODE VOCAB
+
+Q1: What is the meaning of: golden
+A. đính hôn
+B. ôn lại
+C. vàng
+D. chức vụ
+Answer: C
+
+Q2: What is the meaning of: withdraw
+A. xác định vị trí
+B. kỹ lưỡng
+C. rút
+D. theo đuổi
+Answer: C
+
+Q3: What is the meaning of: equip
+A. liên bang
+B. hành lang
+C. tuyệt vọng
+D. trang bị
+Answer: D
+
+Q4: What is the meaning of: ballet
+A. sự giới thiệu
+B. sự liên tiếp
+C. ba lê
+D. chuyển khoản
+Answer: C
+
+Q5: What is the meaning of: moving
+A. xây dựng
+B. di chuyển
+C. có khả năng
+D. vận hành
+Answer: B
+
+Q6: What is the meaning of: alarm
+A. nhân tạo
+B. giải phóng
+C. chữ ký
+D. báo thức
+Answer: D
+
+Q7: What is the meaning of: impatient
+A. thiếu kiên nhẫn
+B. đáng giá
+C. chủ thể
+D. thành lập
+Answer: A
+
+Q8: What is the meaning of: dealer
+A. đàm phán
+B. đại lý
+C. sắc sảo
+D. điểm đến
+Answer: B
+
+Q9: What is the meaning of: unity
+A. đoàn kết
+B. sự trung thực
+C. thời gian
+D. tai nạn
+Answer: A
+
+Q10: What is the meaning of: anticipate
+A. dây điện
+B. trí thông minh
+C. khủng bố
+D. dự đoán
+Answer: D
+
+
+
+NODE LISTENING
+
+Q1: Close the door after you when you leave the ___ .
+Answer: room
+
+Q2: ___ was the last time you rode a bicycle ?
+Answer: when
+
+Q3: Tell me the reason you were absent from school ___ .
+Answer: yesterday
+
+Q4: Tom does n't have a cat . However , Tom does have a dog , does n't he ?
+Answer: doesn't
+
+Q5: If you have nothing to do , why not ___ a book ?
+Answer: read
+
+Q6: Yesterday , ___ Tom was backing up his car , he ran over Mary 's bicycle .
+Answer: when
+
+Q7: I do n't ___ for certain when he will arrive .
+Answer: know
+
+Q8: When the bell rang , the ___ ended the class .
+Answer: teacher
+
+Q9: You should arrive at school ___ eight .
+Answer: before
+
+Q10: Tom missed the last train and spent the ___ at an Internet cafe .
+Answer: night
+
+
+
+NODE SPEAKING
+
+1. The more I know him, the more I like him.
+2. I don't know for certain when he will arrive.
+3. Since he was very drunk, he couldn't drive his car home.
+4. If we miss the train, we'll go by bus.
+5. Tom doesn't have a cat. However, Tom does have a dog, doesn't he?
+6. Are you coming, Tom?
+7. When was the last time you rode a bicycle?
+8. Yesterday, when Tom was backing up his car, he ran over Mary's bicycle.
+9. When are you busy?
+10. When will Tom arrive?
+
+
+NODE MATCHING
+
+1. armed -> vũ trang
+2. moving -> di chuyển
+3. operate -> vận hành
+4. urgent -> cấp bách
+5. circuit -> mạch điện
+6. golden -> vàng
+7. reasonable -> hợp lý
+8. union -> công đoàn
+9. 1 n -> 1 n
+10. input -> đầu vào
+
+
+NODE REVIEW
+
+1. Since he was very drunk, he couldn't drive his car home.
+Q2: What is the meaning of: golden
+A. vàng
+B. ôn lại
+C. chức vụ
+D. đính hôn
+Answer: A
+
+3. If we miss the train, we'll go by bus.
+Q4: Yesterday , ___ Tom was backing up his car , he ran over Mary 's bicycle .
+Answer: when
+
+5. When will Tom arrive?
+Q6: When the bell rang , the ___ ended the class .
+Answer: teacher
+
+Q7: What is the meaning of: withdraw
+A. theo đuổi
+B. rút
+C. xác định vị trí
+D. kỹ lưỡng
+Answer: B
+
+8. armed -> vũ trang
+9. circuit -> mạch điện
+Q10: What is the meaning of: unity
+A. sự trung thực
+B. đoàn kết
+C. thời gian
+D. tai nạn
+Answer: B
+
+
+
