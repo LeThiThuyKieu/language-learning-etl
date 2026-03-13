@@ -27,6 +27,63 @@ const QuestionMongoSchema = new Schema({
 });
 const QuestionModel = mongoose.model("questions", QuestionMongoSchema);
 
+type TopicGroup = "VOCAB_MATCHING" | "LISTENING_SPEAKING";
+
+function resolveTopicGroup(questionType: string): TopicGroup {
+  const qType = String(questionType || "").toUpperCase();
+  if (qType === "LISTENING" || qType === "SPEAKING") {
+    return "LISTENING_SPEAKING";
+  }
+  return "VOCAB_MATCHING";
+}
+
+async function getCandidateTopicsByGroup(
+  mysqlConn: mysql.Connection,
+  levelId: number,
+  group: TopicGroup,
+): Promise<number[]> {
+  const groupNodeOrders =
+    group === "VOCAB_MATCHING"
+      ? [1, 4] // VOCAB, MATCHING
+      : [2, 3]; // LISTENING, SPEAKING
+
+  const [trees]: any = await mysqlConn.execute(
+    `SELECT DISTINCT st.id
+     FROM skill_tree st
+     JOIN skill_node sn ON sn.skill_tree_id = st.id
+     WHERE st.level_id = ?
+       AND sn.order_index IN (?, ?)
+     ORDER BY st.id`,
+    [levelId, groupNodeOrders[0], groupNodeOrders[1]],
+  );
+
+  return trees.map((t: any) => t.id);
+}
+
+function buildTopicInputText(item: any): string {
+  const qType = String(item.question_type || "").toUpperCase();
+  const sentence = String(item.sentence || "").trim();
+  const answer = String(item.answer || "").trim();
+
+  if (qType === "VOCAB") {
+    // Dữ liệu VOCAB có dạng: "What is the meaning of: <word>"
+    const match = sentence.match(/what\s+is\s+the\s+meaning\s+of:\s*(.+)$/i);
+    if (match?.[1]) {
+      const word = match[1].trim();
+      // Kết hợp từ gốc + nghĩa để tăng ngữ cảnh phân topic.
+      return `${word} ${answer}`.trim();
+    }
+    return `${sentence} ${answer}`.trim();
+  }
+
+  if (qType === "MATCHING") {
+    // MATCHING thường rất ngắn; ghép cả 2 vế để có thêm tín hiệu.
+    return `${sentence} ${answer}`.trim();
+  }
+
+  return sentence;
+}
+
 function isSrvLookupError(error: unknown): boolean {
   const message = String((error as Error)?.message || "").toLowerCase();
   return (
@@ -141,32 +198,45 @@ async function runETL() {
               // D. Lấy ra level theo độ khó trong file csv
               const levelId = levelMapping[item.difficulty?.toLowerCase()] || 1;
 
-              // E. Lấy ra danh sách skill tree thuộc level đó
-              const [trees]: any = await mysqlConn.execute(
-                `SELECT id FROM skill_tree WHERE level_id = ?`,
-                [levelId],
+              // E. Lấy group theo loại câu hỏi để chọn tập topic phù hợp.
+              const qType = String(item.question_type || "VOCAB").toUpperCase();
+              const topicGroup = resolveTopicGroup(qType);
+
+              // F. Lấy ra danh sách topic theo level + group (vocab/matching hoặc listening/speaking).
+              const candidateTopics = await getCandidateTopicsByGroup(
+                mysqlConn,
+                levelId,
+                topicGroup,
               );
-              const candidateTopics = trees.map((t: any) => t.id); //danh sách topic các skill tree của level đó
+
               if (candidateTopics.length === 0) {
-                console.log("No skill_tree found for level:", levelId);
+                console.log("No topic candidates found for level/group:", {
+                  levelId,
+                  topicGroup,
+                });
                 continue;
               }
 
-              // F. Phân loại theo chủ đề (mỗi skill_tree là mỗi chủ đề)
+              // G. Chuẩn hóa text đầu vào cho phân loại topic theo loại câu hỏi
+              const topicInputText = buildTopicInputText(item);
+
+              // H. Phân loại theo chủ đề trên tập candidate theo group.
               const skill_tree_id = await classifyTopic(
-                sentence,
+                topicInputText,
                 candidateTopics,
               );
 
-              // G. question_type
-              const qType = item.question_type || "VOCAB";
+              // I. question_type
+              const normalizedQType = qType || "VOCAB";
 
-              // H. Sau khi biết skill tree id thì sẽ map với node theo type tương ứng
-              const nodeId = mapNodeId(skill_tree_id, qType);
+              // J. Sau khi biết skill tree id thì sẽ map với node theo type tương ứng
+              const nodeId = mapNodeId(skill_tree_id, normalizedQType);
 
               console.log({
                 sentence,
+                topicInputText,
                 levelId,
+                topicGroup,
                 candidateTopics,
                 skill_tree_id,
                 nodeId,
@@ -179,7 +249,7 @@ async function runETL() {
                   mongoQuestion._id.toString(),
                   nodeId,
                   levelId,
-                  qType,
+                  normalizedQType,
                   item.answer,
                 ],
               );
