@@ -11,7 +11,7 @@
     "evaluate-vocab-matching": "ts-node src/ai/evaluate/evaluate-vocab-matching.ts",
     "evaluate-topic": "ts-node src/ai/evaluate/evaluate_topic.ts",
     "evaluate-topic-vocab-matching": "ts-node src/ai/evaluate/evaluate_topic.ts VOCAB_MATCHING data/topic-evaluation-vocab-matching.csv",
-    "evaluate-topic-listening-speaking": "ts-node src/ai/evaluate/evaluate_topic.ts LISTENING_SPEAKING data/topic-evaluation-listening-speaking.csv",
+    "evaluate-topic-listening-speaking": "ts-node src/ai/evaluate/evaluate_topic.ts LISTENING_SPEAKING data/test_listening_speaking_topic.csv",
     "evaluate-topic-all": "ts-node src/ai/evaluate/evaluate_topic.ts ALL",
     "evaluate-difficulty": "ts-node src/ai/evaluate/evaluate_difficulty.ts",
     "evaluate-listening": "ts-node src/ai/evaluate/evaluate_difficulty.ts LISTENING",

@@ -1,0 +1,201 @@
+question_type,source_text,topic_input_text,actual_topic_id,actual_topic,predicted_topic_id,predicted_topic,actual_family,predicted_family,correct
+UNKNOWN,lovely,lovely,1,Greetings,1,Greetings,Social & Identity,Social & Identity,1
+UNKNOWN,drift,drift,24,Innovation,13,Transportation,Knowledge & Innovation,Mobility & Services,0
+UNKNOWN,gang,gang,19,Politics,2,Family,"Work, Economy & Institutions",Social & Identity,0
+UNKNOWN,worse,worse,13,Transportation,14,Communication,Mobility & Services,Social & Identity,0
+UNKNOWN,launch,launch,16,Business,16,Business,"Work, Economy & Institutions","Work, Economy & Institutions",1
+UNKNOWN,identity,identity,2,Family,19,Politics,Social & Identity,"Work, Economy & Institutions",0
+UNKNOWN,warning,warning,14,Communication,14,Communication,Social & Identity,Social & Identity,1
+UNKNOWN,blood,blood,2,Family,2,Family,Social & Identity,Social & Identity,1
+UNKNOWN,term,term,16,Business,19,Politics,"Work, Economy & Institutions","Work, Economy & Institutions",0
+UNKNOWN,bell,bell,13,Transportation,14,Communication,Mobility & Services,Social & Identity,0
+UNKNOWN,old,old,13,Transportation,19,Politics,Mobility & Services,"Work, Economy & Institutions",0
+UNKNOWN,approximately,approximately,3,Numbers,3,Numbers,Daily Life Basics,Daily Life Basics,1
+UNKNOWN,division,division,16,Business,3,Numbers,"Work, Economy & Institutions",Daily Life Basics,0
+UNKNOWN,investigate,investigate,17,Science,17,Science,Knowledge & Innovation,Knowledge & Innovation,1
+UNKNOWN,wind,wind,12,Environment,12,Environment,Global Systems,Global Systems,1
+UNKNOWN,favour,favour,12,Environment,19,Politics,Global Systems,"Work, Economy & Institutions",0
+UNKNOWN,nowhere,nowhere,6,Travel,6,Travel,Mobility & Services,Mobility & Services,1
+UNKNOWN,honour,honour,15,Culture,15,Culture,Social & Identity,Social & Identity,1
+UNKNOWN,proud,proud,18,Psychology,5,Daily Activities,Social & Identity,Daily Life Basics,0
+UNKNOWN,warn,warn,14,Communication,14,Communication,Social & Identity,Social & Identity,1
+UNKNOWN,fee,fee,3,Numbers,7,Shopping,Daily Life Basics,Mobility & Services,0
+UNKNOWN,extra,extra,16,Business,11,Technology,"Work, Economy & Institutions",Knowledge & Innovation,0
+UNKNOWN,credit,credit,7,Shopping,7,Shopping,Mobility & Services,Mobility & Services,1
+UNKNOWN,involved,involved,16,Business,2,Family,"Work, Economy & Institutions",Social & Identity,0
+UNKNOWN,house,house,2,Family,2,Family,Social & Identity,Social & Identity,1
+UNKNOWN,included,included,3,Numbers,7,Shopping,Daily Life Basics,Mobility & Services,0
+UNKNOWN,interest,interest,20,Economy,20,Economy,"Work, Economy & Institutions","Work, Economy & Institutions",1
+UNKNOWN,become,become,9,Education,9,Education,Knowledge & Innovation,Knowledge & Innovation,1
+UNKNOWN,executive,executive,8,Work,8,Work,"Work, Economy & Institutions","Work, Economy & Institutions",1
+UNKNOWN,young,young,3,Numbers,2,Family,Daily Life Basics,Social & Identity,0
+UNKNOWN,run,run,5,Daily Activities,10,Health,Daily Life Basics,Daily Life Basics,0
+UNKNOWN,like,like,16,Business,6,Travel,"Work, Economy & Institutions",Mobility & Services,0
+UNKNOWN,mountain,mountain,12,Environment,6,Travel,Global Systems,Mobility & Services,0
+UNKNOWN,power,power,12,Environment,19,Politics,Global Systems,"Work, Economy & Institutions",0
+UNKNOWN,conventional,conventional,24,Innovation,1,Greetings,Knowledge & Innovation,Social & Identity,0
+UNKNOWN,harm,harm,12,Environment,12,Environment,Global Systems,Global Systems,1
+UNKNOWN,avoid,avoid,12,Environment,12,Environment,Global Systems,Global Systems,1
+UNKNOWN,label,label,3,Numbers,3,Numbers,Daily Life Basics,Daily Life Basics,1
+UNKNOWN,illustrate,illustrate,20,Economy,9,Education,"Work, Economy & Institutions",Knowledge & Innovation,0
+UNKNOWN,normally,normally,7,Shopping,1,Greetings,Mobility & Services,Social & Identity,0
+UNKNOWN,us,us,1,Greetings,25,Global Issues,Social & Identity,Global Systems,0
+UNKNOWN,fridge,fridge,5,Daily Activities,2,Family,Daily Life Basics,Social & Identity,0
+UNKNOWN,architect,architect,8,Work,8,Work,"Work, Economy & Institutions","Work, Economy & Institutions",1
+UNKNOWN,affordable,affordable,7,Shopping,7,Shopping,Mobility & Services,Mobility & Services,1
+UNKNOWN,try,try,16,Business,24,Innovation,"Work, Economy & Institutions",Knowledge & Innovation,0
+UNKNOWN,loose,loose,22,Media,22,Media,Global Systems,Global Systems,1
+UNKNOWN,influence,influence,22,Media,20,Economy,Global Systems,"Work, Economy & Institutions",0
+UNKNOWN,salary,salary,8,Work,8,Work,"Work, Economy & Institutions","Work, Economy & Institutions",1
+UNKNOWN,exist,exist,23,Philosophy,23,Philosophy,Social & Identity,Social & Identity,1
+UNKNOWN,document,document,21,Law,14,Communication,"Work, Economy & Institutions",Social & Identity,0
+UNKNOWN,till,till,3,Numbers,1,Greetings,Daily Life Basics,Social & Identity,0
+UNKNOWN,wing,wing,19,Politics,19,Politics,"Work, Economy & Institutions","Work, Economy & Institutions",1
+UNKNOWN,disdain,disdain,18,Psychology,18,Psychology,Social & Identity,Social & Identity,1
+UNKNOWN,biological,biological,17,Science,17,Science,Knowledge & Innovation,Knowledge & Innovation,1
+UNKNOWN,temporarily,temporarily,11,Technology,1,Greetings,Knowledge & Innovation,Social & Identity,0
+UNKNOWN,cake,cake,4,Food,2,Family,Daily Life Basics,Social & Identity,0
+UNKNOWN,cater,cater,4,Food,4,Food,Daily Life Basics,Daily Life Basics,1
+UNKNOWN,defy,defy,7,Shopping,14,Communication,Mobility & Services,Social & Identity,0
+UNKNOWN,evaluate,evaluate,3,Numbers,19,Politics,Daily Life Basics,"Work, Economy & Institutions",0
+UNKNOWN,confine,confine,21,Law,20,Economy,"Work, Economy & Institutions","Work, Economy & Institutions",0
+UNKNOWN,contention,contention,22,Media,25,Global Issues,Global Systems,Global Systems,0
+UNKNOWN,permanence,permanence,23,Philosophy,18,Psychology,Social & Identity,Social & Identity,0
+UNKNOWN,hand,hand,2,Family,1,Greetings,Social & Identity,Social & Identity,0
+UNKNOWN,event,event,15,Culture,15,Culture,Social & Identity,Social & Identity,1
+UNKNOWN,indoors,indoors,5,Daily Activities,2,Family,Daily Life Basics,Social & Identity,0
+UNKNOWN,carriage,carriage,13,Transportation,13,Transportation,Mobility & Services,Mobility & Services,1
+UNKNOWN,notoriety,notoriety,22,Media,22,Media,Global Systems,Global Systems,1
+UNKNOWN,pallor,pallor,10,Health,12,Environment,Daily Life Basics,Global Systems,0
+UNKNOWN,await,await,14,Communication,14,Communication,Social & Identity,Social & Identity,1
+UNKNOWN,anonymous,anonymous,22,Media,1,Greetings,Global Systems,Social & Identity,0
+UNKNOWN,nasty,nasty,18,Psychology,1,Greetings,Social & Identity,Social & Identity,0
+UNKNOWN,loan,loan,20,Economy,7,Shopping,"Work, Economy & Institutions",Mobility & Services,0
+UNKNOWN,judge,judge,21,Law,21,Law,"Work, Economy & Institutions","Work, Economy & Institutions",1
+UNKNOWN,perception,perception,18,Psychology,18,Psychology,Social & Identity,Social & Identity,1
+UNKNOWN,cooperate,cooperate,8,Work,25,Global Issues,"Work, Economy & Institutions",Global Systems,0
+UNKNOWN,labyrinth,labyrinth,6,Travel,6,Travel,Mobility & Services,Mobility & Services,1
+UNKNOWN,ride,ride,13,Transportation,13,Transportation,Mobility & Services,Mobility & Services,1
+UNKNOWN,latest,latest,16,Business,11,Technology,"Work, Economy & Institutions",Knowledge & Innovation,0
+UNKNOWN,obstreperous,obstreperous,18,Psychology,1,Greetings,Social & Identity,Social & Identity,0
+UNKNOWN,assist,assist,8,Work,9,Education,"Work, Economy & Institutions",Knowledge & Innovation,0
+UNKNOWN,skilled,skilled,9,Education,9,Education,Knowledge & Innovation,Knowledge & Innovation,1
+UNKNOWN,mannerism,mannerism,23,Philosophy,18,Psychology,Social & Identity,Social & Identity,0
+UNKNOWN,subversion,subversion,22,Media,22,Media,Global Systems,Global Systems,1
+UNKNOWN,composition,composition,9,Education,4,Food,Knowledge & Innovation,Daily Life Basics,0
+UNKNOWN,clarity,clarity,21,Law,21,Law,"Work, Economy & Institutions","Work, Economy & Institutions",1
+UNKNOWN,to permeate,to permeate,12,Environment,12,Environment,Global Systems,Global Systems,1
+UNKNOWN,mural,mural,15,Culture,15,Culture,Social & Identity,Social & Identity,1
+UNKNOWN,to curtail,to curtail,20,Economy,1,Greetings,"Work, Economy & Institutions",Social & Identity,0
+UNKNOWN,actual,actual,16,Business,18,Psychology,"Work, Economy & Institutions",Social & Identity,0
+UNKNOWN,disingenous,disingenous,18,Psychology,15,Culture,Social & Identity,Social & Identity,0
+UNKNOWN,cargo,cargo,13,Transportation,13,Transportation,Mobility & Services,Mobility & Services,1
+UNKNOWN,note,note,22,Media,14,Communication,Global Systems,Social & Identity,0
+UNKNOWN,whether,whether,23,Philosophy,23,Philosophy,Social & Identity,Social & Identity,1
+UNKNOWN,culprit,culprit,21,Law,6,Travel,"Work, Economy & Institutions",Mobility & Services,0
+UNKNOWN,incongruity,incongruity,23,Philosophy,2,Family,Social & Identity,Social & Identity,0
+UNKNOWN,remember,remember,12,Environment,1,Greetings,Global Systems,Social & Identity,0
+UNKNOWN,phone,phone,11,Technology,14,Communication,Knowledge & Innovation,Social & Identity,0
+UNKNOWN,age,age,3,Numbers,2,Family,Daily Life Basics,Social & Identity,0
+UNKNOWN,badly,badly,6,Travel,1,Greetings,Mobility & Services,Social & Identity,0
+UNKNOWN,incarnation,incarnation,23,Philosophy,10,Health,Social & Identity,Daily Life Basics,0
+UNKNOWN,impropriety,impropriety,21,Law,23,Philosophy,"Work, Economy & Institutions",Social & Identity,0
+UNKNOWN,pretty,pretty,15,Culture,1,Greetings,Social & Identity,Social & Identity,0
+UNKNOWN,to preempt,to preempt,16,Business,23,Philosophy,"Work, Economy & Institutions",Social & Identity,0
+UNKNOWN,plant,plant,17,Science,17,Science,Knowledge & Innovation,Knowledge & Innovation,1
+UNKNOWN,to precipitate,to precipitate,12,Environment,12,Environment,Global Systems,Global Systems,1
+UNKNOWN,former,former,9,Education,8,Work,Knowledge & Innovation,"Work, Economy & Institutions",0
+UNKNOWN,contempt,contempt,23,Philosophy,1,Greetings,Social & Identity,Social & Identity,0
+UNKNOWN,maverick,maverick,19,Politics,1,Greetings,"Work, Economy & Institutions",Social & Identity,0
+UNKNOWN,consciousness,consciousness,23,Philosophy,23,Philosophy,Social & Identity,Social & Identity,1
+UNKNOWN,cautious,cautious,12,Environment,1,Greetings,Global Systems,Social & Identity,0
+UNKNOWN,domain,domain,11,Technology,11,Technology,Knowledge & Innovation,Knowledge & Innovation,1
+UNKNOWN,strictly,strictly,21,Law,21,Law,"Work, Economy & Institutions","Work, Economy & Institutions",1
+UNKNOWN,cordial,cordial,14,Communication,11,Technology,Social & Identity,Knowledge & Innovation,0
+UNKNOWN,strike,strike,8,Work,8,Work,"Work, Economy & Institutions","Work, Economy & Institutions",1
+UNKNOWN,admit,admit,21,Law,1,Greetings,"Work, Economy & Institutions",Social & Identity,0
+UNKNOWN,relevant,relevant,9,Education,1,Greetings,Knowledge & Innovation,Social & Identity,0
+UNKNOWN,lie,lie,18,Psychology,18,Psychology,Social & Identity,Social & Identity,1
+UNKNOWN,measure,measure,17,Science,17,Science,Knowledge & Innovation,Knowledge & Innovation,1
+UNKNOWN,proliferation,proliferation,17,Science,15,Culture,Knowledge & Innovation,Social & Identity,0
+UNKNOWN,high,high,3,Numbers,1,Greetings,Daily Life Basics,Social & Identity,0
+UNKNOWN,methodology,methodology,17,Science,24,Innovation,Knowledge & Innovation,Knowledge & Innovation,0
+UNKNOWN,wave,wave,1,Greetings,22,Media,Social & Identity,Global Systems,0
+UNKNOWN,play,play,5,Daily Activities,9,Education,Daily Life Basics,Knowledge & Innovation,0
+UNKNOWN,encouraging,encouraging,18,Psychology,18,Psychology,Social & Identity,Social & Identity,1
+UNKNOWN,domicile,domicile,21,Law,21,Law,"Work, Economy & Institutions","Work, Economy & Institutions",1
+UNKNOWN,allege,allege,21,Law,21,Law,"Work, Economy & Institutions","Work, Economy & Institutions",1
+UNKNOWN,rest,rest,5,Daily Activities,10,Health,Daily Life Basics,Daily Life Basics,0
+UNKNOWN,exile,exile,19,Politics,6,Travel,"Work, Economy & Institutions",Mobility & Services,0
+UNKNOWN,convict,convict,21,Law,21,Law,"Work, Economy & Institutions","Work, Economy & Institutions",1
+UNKNOWN,quarter,quarter,3,Numbers,3,Numbers,Daily Life Basics,Daily Life Basics,1
+UNKNOWN,permission,permission,21,Law,21,Law,"Work, Economy & Institutions","Work, Economy & Institutions",1
+UNKNOWN,arrange,arrange,3,Numbers,2,Family,Daily Life Basics,Social & Identity,0
+UNKNOWN,obesity,obesity,10,Health,10,Health,Daily Life Basics,Daily Life Basics,1
+UNKNOWN,explicit,explicit,14,Communication,1,Greetings,Social & Identity,Social & Identity,0
+UNKNOWN,inclusive,inclusive,2,Family,25,Global Issues,Social & Identity,Global Systems,0
+UNKNOWN,assembly,assembly,19,Politics,1,Greetings,"Work, Economy & Institutions",Social & Identity,0
+UNKNOWN,often,often,3,Numbers,5,Daily Activities,Daily Life Basics,Daily Life Basics,0
+UNKNOWN,innumerable,innumerable,3,Numbers,3,Numbers,Daily Life Basics,Daily Life Basics,1
+UNKNOWN,spectacular,spectacular,15,Culture,1,Greetings,Social & Identity,Social & Identity,0
+UNKNOWN,solid,solid,17,Science,1,Greetings,Knowledge & Innovation,Social & Identity,0
+UNKNOWN,innovation,innovation,24,Innovation,24,Innovation,Knowledge & Innovation,Knowledge & Innovation,1
+UNKNOWN,commence,commence,16,Business,1,Greetings,"Work, Economy & Institutions",Social & Identity,0
+UNKNOWN,minutiae,minutiae,17,Science,1,Greetings,Knowledge & Innovation,Social & Identity,0
+UNKNOWN,portent,portent,20,Economy,23,Philosophy,"Work, Economy & Institutions",Social & Identity,0
+UNKNOWN,impunity,impunity,21,Law,25,Global Issues,"Work, Economy & Institutions",Global Systems,0
+UNKNOWN,award,award,9,Education,15,Culture,Knowledge & Innovation,Social & Identity,0
+UNKNOWN,nemesis,nemesis,18,Psychology,1,Greetings,Social & Identity,Social & Identity,0
+UNKNOWN,embody,embody,23,Philosophy,18,Psychology,Social & Identity,Social & Identity,0
+UNKNOWN,enrich,enrich,20,Economy,10,Health,"Work, Economy & Institutions",Daily Life Basics,0
+UNKNOWN,festival,festival,15,Culture,15,Culture,Social & Identity,Social & Identity,1
+UNKNOWN,donate,donate,20,Economy,10,Health,"Work, Economy & Institutions",Daily Life Basics,0
+UNKNOWN,possible,possible,3,Numbers,7,Shopping,Daily Life Basics,Mobility & Services,0
+UNKNOWN,aspiration,aspiration,23,Philosophy,17,Science,Social & Identity,Knowledge & Innovation,0
+UNKNOWN,interesting,interesting,6,Travel,18,Psychology,Mobility & Services,Social & Identity,0
+UNKNOWN,January,January,3,Numbers,1,Greetings,Daily Life Basics,Social & Identity,0
+UNKNOWN,official,official,16,Business,19,Politics,"Work, Economy & Institutions","Work, Economy & Institutions",0
+UNKNOWN,compelling,compelling,21,Law,22,Media,"Work, Economy & Institutions",Global Systems,0
+UNKNOWN,progeny,progeny,2,Family,2,Family,Social & Identity,Social & Identity,1
+UNKNOWN,crucible,crucible,21,Law,21,Law,"Work, Economy & Institutions","Work, Economy & Institutions",1
+UNKNOWN,coincide,coincide,17,Science,2,Family,Knowledge & Innovation,Social & Identity,0
+UNKNOWN,atrocity,atrocity,19,Politics,15,Culture,"Work, Economy & Institutions",Social & Identity,0
+UNKNOWN,painting,painting,15,Culture,24,Innovation,Social & Identity,Knowledge & Innovation,0
+UNKNOWN,adopt,adopt,2,Family,2,Family,Social & Identity,Social & Identity,1
+UNKNOWN,convivial,convivial,1,Greetings,15,Culture,Social & Identity,Social & Identity,0
+UNKNOWN,consultation,consultation,21,Law,21,Law,"Work, Economy & Institutions","Work, Economy & Institutions",1
+UNKNOWN,attack,attack,16,Business,11,Technology,"Work, Economy & Institutions",Knowledge & Innovation,0
+UNKNOWN,spokesperson,spokesperson,22,Media,8,Work,Global Systems,"Work, Economy & Institutions",0
+UNKNOWN,indulge,indulge,4,Food,4,Food,Daily Life Basics,Daily Life Basics,1
+UNKNOWN,luxury,luxury,7,Shopping,6,Travel,Mobility & Services,Mobility & Services,0
+UNKNOWN,Wednesday,Wednesday,1,Greetings,5,Daily Activities,Social & Identity,Daily Life Basics,0
+UNKNOWN,execute,execute,21,Law,8,Work,"Work, Economy & Institutions","Work, Economy & Institutions",0
+UNKNOWN,philosophy,philosophy,23,Philosophy,23,Philosophy,Social & Identity,Social & Identity,1
+UNKNOWN,nurse,nurse,10,Health,10,Health,Daily Life Basics,Daily Life Basics,1
+UNKNOWN,opposite,opposite,3,Numbers,18,Psychology,Daily Life Basics,Social & Identity,0
+UNKNOWN,aspire,aspire,18,Psychology,11,Technology,Social & Identity,Knowledge & Innovation,0
+UNKNOWN,short,short,3,Numbers,1,Greetings,Daily Life Basics,Social & Identity,0
+UNKNOWN,beauty,beauty,15,Culture,6,Travel,Social & Identity,Mobility & Services,0
+UNKNOWN,programming,programming,11,Technology,9,Education,Knowledge & Innovation,Knowledge & Innovation,0
+UNKNOWN,loss,loss,16,Business,14,Communication,"Work, Economy & Institutions",Social & Identity,0
+UNKNOWN,audit,audit,16,Business,8,Work,"Work, Economy & Institutions","Work, Economy & Institutions",0
+UNKNOWN,thesis,thesis,9,Education,9,Education,Knowledge & Innovation,Knowledge & Innovation,1
+UNKNOWN,chaos,chaos,18,Psychology,19,Politics,Social & Identity,"Work, Economy & Institutions",0
+UNKNOWN,flesh,flesh,23,Philosophy,4,Food,Social & Identity,Daily Life Basics,0
+UNKNOWN,government,government,19,Politics,19,Politics,"Work, Economy & Institutions","Work, Economy & Institutions",1
+UNKNOWN,to procure,to procure,21,Law,7,Shopping,"Work, Economy & Institutions",Mobility & Services,0
+UNKNOWN,space,space,17,Science,17,Science,Knowledge & Innovation,Knowledge & Innovation,1
+UNKNOWN,incident,incident,16,Business,21,Law,"Work, Economy & Institutions","Work, Economy & Institutions",0
+UNKNOWN,meet,meet,1,Greetings,1,Greetings,Social & Identity,Social & Identity,1
+UNKNOWN,nine,nine,3,Numbers,3,Numbers,Daily Life Basics,Daily Life Basics,1
+UNKNOWN,quartet,quartet,3,Numbers,3,Numbers,Daily Life Basics,Daily Life Basics,1
+UNKNOWN,various,various,3,Numbers,11,Technology,Daily Life Basics,Knowledge & Innovation,0
+UNKNOWN,content,content,22,Media,22,Media,Global Systems,Global Systems,1
+UNKNOWN,bear,bear,12,Environment,12,Environment,Global Systems,Global Systems,1
+UNKNOWN,entire,entire,3,Numbers,1,Greetings,Daily Life Basics,Social & Identity,0
+UNKNOWN,to revoke,to revoke,21,Law,21,Law,"Work, Economy & Institutions","Work, Economy & Institutions",1
+UNKNOWN,disappointing,disappointing,18,Psychology,1,Greetings,Social & Identity,Social & Identity,0
+UNKNOWN,clause,clause,21,Law,21,Law,"Work, Economy & Institutions","Work, Economy & Institutions",1
+UNKNOWN,pay,pay,7,Shopping,7,Shopping,Mobility & Services,Mobility & Services,1
+UNKNOWN,radiance,radiance,17,Science,12,Environment,Knowledge & Innovation,Global Systems,0
+UNKNOWN,go,go,5,Daily Activities,6,Travel,Daily Life Basics,Mobility & Services,0

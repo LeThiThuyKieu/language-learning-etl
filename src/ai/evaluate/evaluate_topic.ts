@@ -7,7 +7,7 @@ import { fileURLToPath } from "url";
 import { initTopicClassifier, classifyTopic } from "../topic-embedding-classifier.ts";
 import { topicTrainingData } from "../topic-data.ts";
 
-type EvalGroup = "VOCAB_MATCHING" | "LISTENING_SPEAKING" | "ALL";
+type EvalGroup = "LISTENING_SPEAKING";
 
 type QuestionType = "VOCAB" | "MATCHING" | "LISTENING" | "SPEAKING" | "UNKNOWN";
 
@@ -58,10 +58,13 @@ const TITLE_TO_ID = Object.fromEntries(
 ) as Record<string, number>;
 
 function parseGroup(input?: string): EvalGroup {
-  const value = (input || "VOCAB_MATCHING").toUpperCase();
-  if (value === "LISTENING_SPEAKING") return value;
-  if (value === "ALL") return value;
-  return "VOCAB_MATCHING";
+  const value = (input || "LISTENING_SPEAKING").toUpperCase();
+  if (value !== "LISTENING_SPEAKING") {
+    console.warn(
+      `Unsupported group '${value}'. This evaluator now supports LISTENING_SPEAKING only.`,
+    );
+  }
+  return "LISTENING_SPEAKING";
 }
 
 function parseQuestionType(input?: string): QuestionType {
@@ -73,12 +76,6 @@ function parseQuestionType(input?: string): QuestionType {
 }
 
 function shouldUseRow(group: EvalGroup, qType: QuestionType): boolean {
-  if (group === "ALL") return true;
-  if (group === "VOCAB_MATCHING") {
-    // Legacy vocab/matching manual files may not include question_type.
-    if (qType === "UNKNOWN") return true;
-    return qType === "VOCAB" || qType === "MATCHING";
-  }
   return qType === "LISTENING" || qType === "SPEAKING";
 }
 
@@ -149,6 +146,14 @@ async function evaluate() {
       .on("end", resolve);
   });
 
+  const hasTypedRows = rows.some((row) => parseQuestionType(row.question_type) !== "UNKNOWN");
+
+  if (!hasTypedRows) {
+    console.warn(
+      "Warning: No question_type found in test file. All rows will be treated as LISTENING_SPEAKING inputs.",
+    );
+  }
+
   const stats: Record<number, { tp: number; fp: number; fn: number }> = {};
   for (const topicId of candidateTopics) {
     stats[topicId] = { tp: 0, fp: 0, fn: 0 };
@@ -165,7 +170,7 @@ async function evaluate() {
   for (const row of rows) {
     const qType = parseQuestionType(row.question_type);
 
-    if (!shouldUseRow(group, qType)) {
+    if (hasTypedRows && !shouldUseRow(group, qType)) {
       skippedByGroup++;
       continue;
     }
@@ -228,7 +233,7 @@ async function evaluate() {
   macroRecall /= candidateTopics.length;
   macroF1 /= candidateTopics.length;
 
-  const outputName = `topic-eval-results-${group.toLowerCase()}.csv`;
+  const outputName = "topic-eval-results-listening_speaking.csv";
   const outputPath = path.resolve(__dirname, `../../../data/${outputName}`);
   fastcsv.write(outputRows, { headers: true }).pipe(fs.createWriteStream(outputPath));
 
