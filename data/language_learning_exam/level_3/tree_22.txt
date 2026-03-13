@@ -1,0 +1,137 @@
+TREE 22: Media
+====================================
+
+NODE VOCAB
+
+Q1: What is the meaning of: dense
+A. dày đặc
+B. luật sư
+C. khổng lồ
+D. thờ ơ
+Answer: A
+
+Q2: What is the meaning of: biography
+A. gây cháy
+B. sự hợp tác
+C. làm suy yếu
+D. tiểu sử
+Answer: D
+
+Q3: What is the meaning of: discord
+A. sự ngẫu hứng
+B. miễn cưỡng
+C. liều lĩnh
+D. discord
+Answer: D
+
+Q4: What is the meaning of: shoddy
+A. phai
+B. sự nhàm chán
+C. kém chất lượng
+D. thiền định
+Answer: C
+
+Q5: What is the meaning of: assassination
+A. ám sát
+B. tài sản
+C. người tiên phong
+D. thấm qua
+Answer: A
+
+Q6: What is the meaning of: identification
+A. nhận dạng
+B. ngọn cờ
+C. sự xâm nhập
+D. thánh
+Answer: A
+
+Q7: What is the meaning of: pageant
+A. cuộc thi sắc đẹp
+B. danh giá
+C. liên tục
+D. bố cục
+Answer: A
+
+Q8: What is the meaning of: query
+A. sự nhạo báng
+B. cựu chiến binh
+C. hiệu quả
+D. truy vấn
+Answer: D
+
+Q9: What is the meaning of: liturgy
+A. vinh quang
+B. phụng vụ
+C. giả thuyết
+D. tha bổng
+Answer: B
+
+Q10: What is the meaning of: statistical
+A. mô-men xoắn
+B. thống kê
+C. sự trả thù
+D. để tăng cường
+Answer: B
+
+
+
+NODE LISTENING
+
+
+
+NODE SPEAKING
+
+
+
+NODE MATCHING
+
+1. indictment -> cáo trạng
+2. smattering -> rải rác
+3. confer -> trao
+4. assassination -> ám sát
+5. disclose -> tiết lộ
+6. prognosis -> tiên lượng
+7. punctilious -> tỉ mỉ
+8. transparent -> trong suốt
+9. hostage -> con tin
+10. wisp -> làn khói
+
+
+NODE REVIEW
+
+1. confer -> trao
+Q2: What is the meaning of: statistical
+A. thống kê
+B. mô-men xoắn
+C. sự trả thù
+D. để tăng cường
+Answer: A
+
+3. disclose -> tiết lộ
+4. prognosis -> tiên lượng
+5. indictment -> cáo trạng
+Q6: What is the meaning of: assassination
+A. thấm qua
+B. ám sát
+C. tài sản
+D. người tiên phong
+Answer: B
+
+Q7: What is the meaning of: pageant
+A. bố cục
+B. liên tục
+C. cuộc thi sắc đẹp
+D. danh giá
+Answer: C
+
+8. punctilious -> tỉ mỉ
+Q9: What is the meaning of: dense
+A. dày đặc
+B. khổng lồ
+C. thờ ơ
+D. luật sư
+Answer: A
+
+10. transparent -> trong suốt
+
+

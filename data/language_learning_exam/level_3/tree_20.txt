@@ -1,0 +1,149 @@
+TREE 20: Economy
+====================================
+
+NODE VOCAB
+
+Q1: What is the meaning of: commodity
+A. lãng phí
+B. tương ứng
+C. đầu dò
+D. hàng hóa
+Answer: D
+
+Q2: What is the meaning of: ludicrous
+A. lố bịch
+B. sự khinh miệt
+C. loại bỏ
+D. hoán vị
+Answer: A
+
+Q3: What is the meaning of: token
+A. quá tự phụ
+B. mã thông báo
+C. choáng váng
+D. hội chứng
+Answer: B
+
+Q4: What is the meaning of: heighten
+A. tăng cường
+B. phục vụ
+C. vô số
+D. đau đớn
+Answer: A
+
+Q5: What is the meaning of: mirage
+A. nhà tiên tri
+B. để báo hiệu
+C. thoáng qua
+D. ảo ảnh
+Answer: D
+
+Q6: What is the meaning of: exaggerate
+A. nói quá
+B. ý chí
+C. sức chống cự
+D. thị trường
+Answer: A
+
+Q7: What is the meaning of: intake
+A. giải quyết
+B. lượng tiêu thụ
+C. vật gia truyền
+D. thai kỳ
+Answer: B
+
+Q8: What is the meaning of: ratio
+A. lời mở đầu
+B. thư rác
+C. hai
+D. tỷ lệ
+Answer: D
+
+Q9: What is the meaning of: thicket
+A. thời trung cổ
+B. bụi rậm
+C. đại biểu
+D. sự việc
+Answer: B
+
+Q10: What is the meaning of: yield
+A. dấu vết
+B. đức hạnh
+C. năng suất
+D. hấp dẫn
+Answer: C
+
+
+
+NODE LISTENING
+
+
+
+NODE SPEAKING
+
+
+
+NODE MATCHING
+
+1. residue -> dư lượng
+2. accumulation -> sự tích lũy
+3. yield -> năng suất
+4. to languish -> để héo mòn
+5. acre -> mẫu Anh
+6. stabilize -> ổn định
+7. tariff -> biểu phí
+8. boon -> lợi ích
+9. singularity -> điểm kỳ dị
+10. premise -> tiền đề
+
+
+NODE REVIEW
+
+1. accumulation -> sự tích lũy
+Q2: What is the meaning of: commodity
+A. lãng phí
+B. hàng hóa
+C. tương ứng
+D. đầu dò
+Answer: B
+
+Q3: What is the meaning of: thicket
+A. bụi rậm
+B. sự việc
+C. đại biểu
+D. thời trung cổ
+Answer: A
+
+4. residue -> dư lượng
+Q5: What is the meaning of: ludicrous
+A. lố bịch
+B. sự khinh miệt
+C. loại bỏ
+D. hoán vị
+Answer: A
+
+Q6: What is the meaning of: yield
+A. năng suất
+B. đức hạnh
+C. hấp dẫn
+D. dấu vết
+Answer: A
+
+7. yield -> năng suất
+Q8: What is the meaning of: ratio
+A. tỷ lệ
+B. hai
+C. thư rác
+D. lời mở đầu
+Answer: A
+
+9. stabilize -> ổn định
+Q10: What is the meaning of: intake
+A. thai kỳ
+B. vật gia truyền
+C. giải quyết
+D. lượng tiêu thụ
+Answer: D
+
+
+
