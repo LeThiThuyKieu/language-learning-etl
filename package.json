@@ -20,7 +20,8 @@
     "evaluate-speaking-test": "ts-node src/ai/evaluate/evaluate_difficulty.ts SPEAKING data/test_speaking_difficulty.csv",
     "etl": "ts-node src/main.ts",
     "dev": "npm run pre-process && npm run etl",
-    "export-sample": "ts-node src/sample-questions/export-sample.ts"
+    "export-sample": "ts-node src/sample-questions/export-sample.ts",
+    "build-vocab-dictionary": "ts-node src/build_vocab_dictionary.ts"
   },
   "keywords": [],
   "author": "",
