@@ -18,7 +18,7 @@ interface TestRow {
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-const DEFAULT_TEST_FILE = path.resolve(__dirname, "../../../data/test_difficulty.csv");
+const DEFAULT_TEST_FILE = path.resolve(__dirname, "../../../data/test_listening_difficulty.csv");
 
 function parseModality(input?: string): DifficultyModality {
   const value = (input || "GENERAL").toUpperCase();

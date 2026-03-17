@@ -1,9 +1,20 @@
+import fs from "fs";
+import path from "path";
+import { fileURLToPath } from "url";
 import { pipeline } from "@xenova/transformers";
 import {
   difficultyTrainingData,
   listeningDifficultyTrainingData,
   speakingDifficultyTrainingData,
 } from "./difficulty-data.ts";
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
+const VOCAB_DIFFICULTY_FILE = path.resolve(
+  __dirname,
+  "../../data/json/vocab_difficulty.json",
+);
 
 let extractor: any = null;
 
@@ -28,7 +39,10 @@ const speakingDifficultyEmbeddings: Record<DifficultyLabel, number[]> = {
 };
 
 // Nguồn dữ liệu train theo từng modality.
-const modalityDatasets: Record<DifficultyModality, Record<DifficultyLabel, string[]>> = {
+const modalityDatasets: Record<
+  DifficultyModality,
+  Record<DifficultyLabel, string[]>
+> = {
   GENERAL: difficultyTrainingData,
   LISTENING: listeningDifficultyTrainingData,
   SPEAKING: speakingDifficultyTrainingData,
@@ -135,7 +149,9 @@ async function createEmbedding(text: string): Promise<number[]> {
 
 function sentenceLengthScore(sentence: string) {
   const words = sentence.split(/\s+/).filter(Boolean);
-  return clamp01((words.length - 6) / 16);
+  const min = 5;
+  const max = 25;
+  return clamp01((words.length - min) / (max - min));
 }
 
 function grammarComplexityScore(sentence: string) {
@@ -194,7 +210,7 @@ function inferVocabularyScore(sentence: string) {
     } else if (CEFR_LEXICON.easy.has(token)) {
       total += CEFR_LEVEL_WEIGHT.a2;
     } else {
-      total += 0.45;
+      total += 0.5;
     }
   }
 
@@ -209,24 +225,17 @@ function labelFromScore(score: number): DifficultyLabel {
 
 function buildCefrLexicon() {
   if (CEFR_LEXICON.easy.size > 0) return;
-
-  const datasets = [
-    difficultyTrainingData,
-    listeningDifficultyTrainingData,
-    speakingDifficultyTrainingData,
-  ];
-
-  for (const dataset of datasets) {
-    for (const level of ["easy", "medium", "hard"] as DifficultyLabel[]) {
-      for (const sample of dataset[level]) {
-        const words = normalizeText(sample).split(/\s+/);
-
-        for (const w of words) {
-          if (w.length >= 3) CEFR_LEXICON[level].add(w);
-        }
-      }
-    }
+  const vocab = JSON.parse(fs.readFileSync(VOCAB_DIFFICULTY_FILE, "utf8"));
+  for (const [word, level] of Object.entries(vocab)) {
+    const clean = word.toLowerCase();
+    if (level === "easy") CEFR_LEXICON.easy.add(clean);
+    else if (level === "medium") CEFR_LEXICON.medium.add(clean);
+    else if (level === "hard") CEFR_LEXICON.hard.add(clean);
   }
+
+  console.log(
+    `Loaded CEFR vocabulary: easy=${CEFR_LEXICON.easy.size}, medium=${CEFR_LEXICON.medium.size}, hard=${CEFR_LEXICON.hard.size}`,
+  );
 }
 
 async function buildEmbeddings(
@@ -243,9 +252,10 @@ async function buildEmbeddings(
       vectors.push(emb);
     }
 
-    const avg = vectors[0].map((_: number, i: number) =>
-      vectors.reduce((sum: number, v: number[]) => sum + v[i], 0) /
-      vectors.length,
+    const avg = vectors[0].map(
+      (_: number, i: number) =>
+        vectors.reduce((sum: number, v: number[]) => sum + v[i], 0) /
+        vectors.length,
     );
 
     bucket[level] = avg;
@@ -337,15 +347,14 @@ export async function initDifficultyClassifier() {
   // Bước 1: load model embedding một lần cho toàn bộ tiến trình.
   console.log("Loading difficulty model...");
 
-  extractor = await pipeline(
-    "feature-extraction",
-    "Xenova/all-MiniLM-L6-v2",
-  );
+  extractor = await pipeline("feature-extraction", "Xenova/all-MiniLM-L6-v2");
 
   // Bước 2: build CEFR lexicon một lần; embedding theo modality sẽ lazy-load sau.
   buildCefrLexicon();
 
-  console.log("Difficulty classifier ready (embeddings lazy-loaded by modality)");
+  console.log(
+    "Difficulty classifier ready (embeddings lazy-loaded by modality)",
+  );
 }
 
 export async function classifyDifficulty(
