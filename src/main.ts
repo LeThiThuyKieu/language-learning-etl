@@ -27,6 +27,14 @@ const QuestionMongoSchema = new Schema({
 });
 const QuestionModel = mongoose.model("questions", QuestionMongoSchema);
 
+function normalizeDifficulty(value: string | undefined): "easy" | "medium" | "hard" {
+  const normalized = String(value || "").toLowerCase().trim();
+  if (normalized === "easy" || normalized === "medium" || normalized === "hard") {
+    return normalized;
+  }
+  return "medium";
+}
+
 function isSrvLookupError(error: unknown): boolean {
   const message = String((error as Error)?.message || "").toLowerCase();
   return (
@@ -99,14 +107,19 @@ async function runETL() {
       .on("end", async () => {
         console.log(`Found ${results.length} questions.`);
 
+        const normalizedResults = results.map((q) => ({
+          ...q,
+          difficulty: normalizeDifficulty(q.difficulty),
+        }));
+
         //đếm số câu theo từng độ khó
-        const easyQuestions = results.filter(
+        const easyQuestions = normalizedResults.filter(
           (q) => q.difficulty?.toLowerCase() === "easy",
         );
-        const mediumQuestions = results.filter(
+        const mediumQuestions = normalizedResults.filter(
           (q) => q.difficulty?.toLowerCase() === "medium",
         );
-        const hardQuestions = results.filter(
+        const hardQuestions = normalizedResults.filter(
           (q) => q.difficulty?.toLowerCase() === "hard",
         );
 

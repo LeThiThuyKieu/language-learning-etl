@@ -1,18 +1,35 @@
-import { textToSpeechFree } from "./Text-to-Speech.ts";
+import { TextToSpeechService } from "./text-to-Speech.ts";
+import fs from "fs";
 
 async function main() {
-  console.log("Bắt đầu chạy TTS...");
+  console.log("🚀 Bắt đầu generate audio từ CSV...");
 
   try {
-    const audioPath = await textToSpeechFree(
-      "Some of the instruments produced within the Council of Europe have played a decisive role in the teaching of so-called “foreign” languages by promoting methodological innovations and new approaches to designing teaching programmes, notably the development of a communicative approach.",
-      "test-audio",
+    const tts = new TextToSpeechService("audio");
+
+    // 👉 đổi sang file CSV
+    const inputFile = "data.csv";
+
+    const results = await tts.processFile(inputFile);
+
+    // lưu metadata (rất quan trọng cho KLTN)
+    fs.writeFileSync(
+      "metadata.json",
+      JSON.stringify(results, null, 2)
     );
 
-    console.log("Đã tạo file:", audioPath);
+    console.log("✅ Hoàn thành!");
+    console.log(`📊 Tổng file: ${results.length}`);
+
+    // in thử vài file
+    results.slice(0, 5).forEach((item, index) => {
+      console.log(`${index + 1}.`, item.file);
+    });
+
   } catch (error) {
-    console.error("Lỗi tạo giọng nói:", error);
+    console.error("❌ Lỗi:", error);
   }
 }
 
+main();
 main();
