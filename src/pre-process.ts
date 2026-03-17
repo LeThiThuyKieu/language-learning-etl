@@ -16,6 +16,11 @@ const tagger = winkPosTagger(); //lọc và loại bỏ các loại từ ko cầ
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
+const VOCAB_DIFFICULTY_FILE = path.resolve(
+  __dirname,
+  "../data/json/vocab_difficulty.json",
+);
+
 // Định nghĩa Interface cho dữ liệu chuẩn đầu ra
 interface FinalQuestion {
   sentence: string;
@@ -43,15 +48,15 @@ if (fs.existsSync(OUTPUT_FILE)) {
   console.log(`Đã xóa file cũ: ${OUTPUT_FILE} để chuẩn bị tạo bản mới.`);
 }
 
-// Hàm bốc 3 từ nhiễu ngẫu nhiên từ kho vocabPool
-function getDistractorsFromPool(exclude: string, count: number = 3): string {
-  // Lọc bỏ từ đáp án đúng để không bị trùng
-  const filtered = vocabPool.filter(
-    (w) => w.toLowerCase() !== exclude.toLowerCase(),
-  );
-  // Trộn ngẫu nhiên và lấy số lượng mong muốn
-  const shuffled = filtered.sort(() => 0.5 - Math.random());
-  return shuffled.slice(0, count).join("|");
+// Load vocab difficulty JSON
+function loadVocabularyDifficulty() {
+  const vocab = JSON.parse(fs.readFileSync(VOCAB_DIFFICULTY_FILE, "utf8"));
+  for (const [word, level] of Object.entries(vocab)) {
+    const clean = normalizeWord(word);
+    vocabPool.push(clean);
+    wordLevelMap.set(clean, level as string);
+  }
+  console.log(`Loaded ${vocabPool.length} vocabulary words`);
 }
 
 //Dùng cho đục lỗ
@@ -147,39 +152,15 @@ async function processFiles() {
   //load model embedding
   await initDifficultyClassifier();
 
+  loadVocabularyDifficulty();
+
   const allResults: FinalQuestion[] = [];
   const files = fs.readdirSync(RAW_DIR);
-
-  // Quét trước để nạp từ vào vocabPool và wordLevelMap
-  for (const file of files) {
-    if (file.toLowerCase().includes("vocab")) {
-      const filePath = path.join(RAW_DIR, file);
-      await new Promise((resolve) => {
-        fs.createReadStream(filePath)
-          .pipe(
-            csv({
-              mapHeaders: ({ header }) => header.trim().replace(/^\uFEFF/, ""),
-            }),
-          )
-          .on("data", (row) => {
-            if (row.word) {
-              const word = normalizeWord(row.word);
-              vocabPool.push(word); //danh sách từ trong file vocab_raw.csv
-              //map từ với độ khó, topic của nó
-              wordLevelMap.set(word, row.difficulty?.toLowerCase() || "easy");
-            }
-          })
-          .on("end", resolve);
-      });
-    }
-  }
-
   for (const file of files) {
     const filePath = path.join(RAW_DIR, file);
     console.log(`Đang quét file: ${file}`);
 
     const rows: any[] = [];
-
     await new Promise((resolve) => {
       fs.createReadStream(filePath)
         .pipe(
@@ -219,7 +200,7 @@ async function processFiles() {
         const maskedSentence = tokens
           .map((t: any) => {
             const clean = normalizeWord(t.value);
-            if (!replaced && clean === answer) {
+            if (!replaced && clean === normalizeWord(answer)) {
               replaced = true;
               return "___";
             }
@@ -268,7 +249,9 @@ async function processFiles() {
 
   // Ghi kết quả ra file tổng hợp dataset_final.csv
   const ws = fs.createWriteStream(OUTPUT_FILE);
-  fastcsv.write(allResults, { headers: true }).pipe(ws);
+  await new Promise((resolve) => {
+    fastcsv.write(allResults, { headers: true }).pipe(ws).on("finish", resolve);
+  });
   console.log(
     `Đã tạo file tổng hợp tại: ${OUTPUT_FILE} với ${allResults.length} câu hỏi.`,
   );
