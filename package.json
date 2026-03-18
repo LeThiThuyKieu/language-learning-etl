@@ -10,7 +10,7 @@
     "tts-difficulty": "ts-node src/tts-difficulty.ts",
     "statistic": "ts-node src/statistic/run-statistic.ts",
     "etl": "ts-node src/main.ts",
-    "dev": "npm run tts-difficulty && npm run pre-process && npm run etl",
+    "dev": "npm run pre-process && npm run etl",
     "export-sample": "ts-node src/sample-questions/export-sample.ts",
     "build-vocab-dictionary": "ts-node src/build_vocab_dictionary.ts",
     "merge-data": "ts-node src/utils/merge_data.ts"
@@ -23,6 +23,7 @@
     "chart.js": "^4.5.1",
     "chartjs-node-canvas": "^5.0.0",
     "cheerio": "^1.2.0",
+    "cloudinary": "^2.9.0",
     "csv-parser": "^3.2.0",
     "dotenv": "^17.2.3",
     "fast-csv": "^5.0.5",
