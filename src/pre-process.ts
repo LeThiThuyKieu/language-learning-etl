@@ -6,11 +6,6 @@ import * as fastcsv from "fast-csv";
 // @ts-ignore
 import winkPosTagger from "wink-pos-tagger";
 
-import {
-  initDifficultyClassifier,
-  classifyDifficulty,
-} from "./ai/difficulty-embedding-classifier.ts";
-
 const tagger = winkPosTagger(); //lọc và loại bỏ các loại từ ko cần thiết (liên từ, trạng từ,..)
 
 const __filename = fileURLToPath(import.meta.url);
@@ -103,6 +98,16 @@ function normalizeWord(word: string) {
   return word.toLowerCase().replace(/[.,!?;:"()]/g, "");
 }
 
+function normalizeDifficulty(
+  value: string | undefined,
+): "easy" | "medium" | "hard" {
+  const normalized = String(value || "").toLowerCase().trim();
+  if (normalized === "easy" || normalized === "medium" || normalized === "hard") {
+    return normalized;
+  }
+  return "medium";
+}
+
 //đục lỗ trống cho phần listening (nghe- điền khuyết)
 function getRandomWordToHide(
   sentence: string,
@@ -149,9 +154,6 @@ function getRandomWordToHide(
 }
 
 async function processFiles() {
-  //load model embedding
-  await initDifficultyClassifier();
-
   loadVocabularyDifficulty();
 
   const allResults: FinalQuestion[] = [];
@@ -188,10 +190,7 @@ async function processFiles() {
         //2. Xử lý LISTENING
       } else if (file.toLowerCase().includes("listening")) {
         // Logic đục lỗ ngẫu nhiên cho bài nghe
-        const difficulty = await classifyDifficulty(
-          row.transcript,
-          "LISTENING",
-        );
+        const difficulty = normalizeDifficulty(row.difficulty);
         const answer = getRandomWordToHide(row.transcript, difficulty);
         const hint = `${answer.length} letters`;
         // Tạo câu hỏi với dấu gạch dưới tại vị trí từ đã chọn
@@ -226,7 +225,7 @@ async function processFiles() {
           sentence: row.sentence,
           options: "", // Speaking thường không cần distractors
           answer: row.sentence,
-          difficulty: await classifyDifficulty(row.sentence, "SPEAKING"),
+          difficulty: normalizeDifficulty(row.difficulty),
           question_type: "SPEAKING",
           phonetic: row.phonetic || "", // Lưu phiên âm riêng
           audio_url: row.audio_url || "", // Lưu link audio mẫu
