@@ -57,11 +57,11 @@ const __dirname = path.dirname(__filename);
 
 const INPUT_FILE_PRIMARY = path.resolve(
   __dirname,
-  "../data/data-speaking-listening.txt",
+  "../data/data-listening-speaking-add.txt",
 );
 const INPUT_FILE_FALLBACK = path.resolve(
   __dirname,
-  "../data/data-listening-speaking.txt",
+  "../data/data-listening-speaking-add.txt",
 );
 const AUDIO_DIR = path.resolve(__dirname, "../audio");
 const TEST_TTS_ITEMS = Number(process.env.TTS_TEST_LIMIT ?? "5");
