@@ -1,0 +1,662 @@
+Is that your bike ?	1	1
+She had a beautiful necklace around her neck .	1	1
+I forgot to bring my umbrella .	1	1
+The baby kept crying .	1	1
+Do you know what you 're doing this weekend ?	1	1
+No one had money .	1	1
+Ben must like his new car a lot .	1	2
+Harrison got very excited when his parents gave him a car .	2	2
+I like dogs more than cats .	1	2
+Now I am being called by Softbank , too !	2	2
+Larry has a shark 's tooth .	2	2
+He 's already gone to bed .	1	2
+He 's very good at taking care of children .	2	2
+Sushi is raw fish .	2	2
+Children love to play outdoors .	2	2
+I want to eat something sweet .	1	2
+I will do it as soon as I return .	2	2
+Can you draw the British flag ?	1	2
+She 's so quiet that we forget she 's here .	2	2
+Where are my khaki shorts ?	1	2
+These are the friends whose names you know .	2	2
+David sent his friend a wedding gift .	1	2
+I wish I had some cool water to drink .	1	2
+Do n't wear khakis to the business meeting .	2	2
+Mother was too shy to wear a bikini .	2	2
+Shall I teach you to dance ?	1	2
+This huge store only has three cashiers !	2	2
+These were the men who ran the red light .	2	2
+His wife is Vietnamese .	1	2
+They were cycling in the mountains .	2	2
+They 've just asked her to stay another year .	1	2
+I have lunch after third period .	2	2
+This iPad is as fast as a desktop computer .	2	2
+It was past twelve when we arrived home .	1	2
+I find it easy to sleep .	1	2
+He planned to kill the president .	2	2
+I wish I could have stayed there forever on that beach .	2	2
+I could n't do it even if I tried .	2	2
+Keep your knees up when you jump .	2	2
+You may drive my car .	1	2
+Driving is something I enjoy doing .	1	2
+Do your work , or you wo n't get paid .	2	2
+I wish it could be different .	1	2
+It 's hard to tell if these are my socks or his .	2	2
+I always wanted to be an athlete .	2	2
+She 's changed her major from math to chemistry .	1	2
+Were there any dresses you wanted to buy ?	2	2
+Carley went shopping for a dress today .	2	2
+He has a talking dog .	1	2
+What 's the date today ?	1	2
+I thought I had to talk to him .	2	2
+I thought I saw him .	1	2
+There is very little traffic on Sundays here .	2	2
+He ran to the bus stop .	1	2
+Sugar was bad for Henry .	1	2
+We always see red fruit in the autumn .	2	2
+You can find the contractor in his office .	2	2
+I 'm looking for a carpenter .	2	2
+Let 's go for a bike ride .	1	2
+The divers were protected by a metal cage .	2	2
+He has done more than anyone else .	2	2
+I was called twice about it .	1	2
+Those musicians ' guitars were stolen .	2	2
+We should ask Amanda how to start a volunteer project .	2	2
+We went to look for food .	1	2
+Do you know what to say if you are stopped by the police ?	2	2
+Megan started playing soccer during the summer break .	1	2
+I do n't often wear ball gowns .	2	2
+John did n't know why Amanda was so angry at him .	2	2
+John knew they were bad people .	1	2
+The driver did n't know where to turn .	2	2
+I ca n't read all of these books .	1	2
+It is easy to understand people who speak clearly .	2	2
+You are as beautiful as ever to me .	2	2
+She was as helpless as a baby .	2	2
+It is difficult to talk to her peacefully .	2	2
+We watch the Olympics on TV .	1	2
+That clock is five minutes fast .	1	2
+I slept while he was gone .	1	2
+He was as old as my father .	1	2
+Many Russians died in WWII .	1	2
+Could you get my waiter , please ?	2	2
+Fortunately , salad was Gina 's favorite food .	2	2
+There is a photographer 's studio over there .	2	2
+I buy my bread from a local baker .	2	2
+They must be exhausted after their three month journey in Africa .	2	2
+She is jealous of your dog .	1	2
+I think that one is his .	1	2
+Do n't go swimming over there .	2	2
+If you wanted to talk to someone , who would you call ?	2	2
+You must feel very sick .	1	2
+My mother calls every weekend .	1	2
+Is there any of the vegetable spaghetti left from last night 's dinner ?	2	2
+Spotlight is a movie about some Boston reporters .	2	2
+I made dinner while you were napping .	2	2
+I will come with you to make sure you are okay .	2	2
+The temperature dropped as low as minus 20 .	2	2
+I did n't tell her to go .	1	2
+We have to change planes in New York .	2	2
+They were all required to wear suits .	1	2
+We rushed to the place where we last saw her .	2	2
+She is usually understanding .	1	2
+It was the teacher who wrote that .	1	2
+I wish I could be more like you .	2	2
+I met someone who is also from Vancouver .	1	2
+I hate Monday morning .	1	2
+She keeps the key in a flower pot by the door .	2	2
+They stood watching us from the window .	1	2
+The doctor asked if he had come to yet .	2	2
+When was the last time you saw yours ?	2	2
+Her son became a dentist .	1	2
+She 's inviting all her friends to the picnic .	2	2
+It is close to the station but far from home .	1	2
+He needs to make it clear .	2	2
+He said he had to come .	1	2
+I wish I knew who broke in to our house .	2	2
+I wish I could tell you who was responsible , but we may never know .	2	2
+He walked around the garden .	2	2
+She does n't want this one .	1	2
+I do n't know where I 'm going .	1	2
+I did n't know where you went .	1	2
+We saw a brown mouse run across the road .	2	2
+You have nothing left .	1	2
+Many things were broken .	1	2
+Did you brush your teeth ?	2	2
+Have you changed your hairstyle ?	1	2
+I have n't changed anything .	2	2
+I am very content with life and every day is filled with laughter .	2	2
+I 've never seen a movie about frogs .	2	2
+Are you on the field hockey team ?	2	2
+Can anyone lend me a pencil ?	2	2
+He failed the test to become a firefighter .	2	2
+Not all people like to have their pictures taken .	2	2
+The dog learned to sit .	1	2
+We can watch the planes from here .	1	2
+Everyone looked for the missing boys .	2	2
+Who is the Israeli prime minister now ?	2	2
+We hired a new gardener .	2	2
+He fell on his knees .	2	1
+I said this movie must be good .	1	2
+We were very close to going to France , but the flight was canceled .	2	2
+That was the day when we saw it .	2	2
+I 've spoken with all the parents except for his .	1	2
+I do n't like wearing skirts during winter .	2	2
+I shop where I see happy employees .	2	2
+Have you lost your mind ?	1	2
+Have you made up your mind ?	2	2
+I wonder why people still die of curable diseases .	2	2
+He is the man whose daughter is missing .	2	2
+These sneakers are so soft I could wear them to sleep in .	2	2
+Did you get what you wanted ?	1	2
+He did n't know how he should state that .	2	2
+They 'd be angry if she had gone too .	2	2
+She said she has not seen anyone all night .	2	2
+Nothing is as good as my mother 's homemade seafood pasta .	2	2
+Not all adults are always correct in what they do or say .	2	2
+This will help them to improve .	1	2
+Mayweather is the current heavy weight champion .	2	2
+He recently started boxing .	2	2
+My flight leaves at two o'clock .	1	2
+Latin is a dead language .	1	2
+We waited a long time for her arrival .	1	2
+They wish they could be happy .	1	2
+I am a high- level manager in a small company .	1	2
+A man dressed as a policeman was asking questions .	2	2
+It 's easy to buy silk in Asia .	1	2
+I love my cashmere sweater !	2	2
+I told her to call me if there was any news on his condition .	2	2
+The park near our house reminds me of our first date .	1	2
+The Seto Ohashi Bridge was built in the 1980s .	1	2
+Were there dogs at the park ?	2	2
+The teacher loves picking on me .	2	2
+The highway is faster .	1	2
+This is an area where most people drive rather than walk .	2	2
+I was excited because Stella and I had 500 dollars to share between the two of us .	2	2
+I have been ill since morning .	1	2
+It was that time when you got sick .	2	2
+Is the dog safe to pet ?	2	2
+Do you know what the kids ate for dinner last night ?	2	2
+If they had gone north , we could have followed them .	2	2
+There is no more water .	1	2
+Is there enough water ?	1	2
+Her smile told me everything I needed to know .	2	2
+We are against elephant hunting .	1	2
+The doors must be locked by midnight .	2	2
+There were many rabbits at the petting zoo .	2	2
+We have been to England as well as to France .	2	2
+Since she was n't feeling well today , she was working badly .	2	2
+Please ask your father to call me .	1	2
+Was there a man or a woman in the car ?	2	2
+Is there a problem ?	1	2
+There 's not enough salt .	1	2
+She does n't know what she is doing .	1	2
+Who wants to lead the way ?	1	2
+If I found myself in a new city , I 'd take a tour .	2	2
+Freestyle snowboarding is now an Olympic sport .	2	2
+Your mother told me all about your new job when I called last night .	2	2
+She sat at the table in front of ours .	1	2
+She put jam on her toast .	1	2
+The plastic chair is broken .	1	2
+She gave him a new cup .	1	2
+He has already opened all his birthday gifts .	2	2
+Look at that shooting star !	1	2
+I do n't know why he dislikes me .	1	2
+I 'd like you to meet my parents .	1	2
+I wish she could have forgiven him .	2	2
+If he was a few years older , he could join .	2	2
+If it were me , I 'd join .	1	2
+Can you keep a secret ?	1	2
+I felt sad after watching that movie .	2	2
+We had lobster for Jake 's birthday dinner .	2	2
+There is a hole in my sneakers .	2	2
+There were leaves in her hair .	1	2
+Stadium food is expensive .	2	2
+She was the woman whose name was forgotten .	2	2
+She went looking for her dog .	2	2
+Have you just arrived ?	1	2
+She 's just sent me a letter .	1	2
+If he went on Saturday , there might be less traffic .	2	2
+If he were my father , I 'd write him .	2	2
+My grandson visits often .	1	2
+It is close to our house .	1	2
+He never listens to what I say .	2	2
+It will start getting chilly in Tokyo soon .	2	2
+It 's too windy to sit outside .	2	2
+It is difficult to see you in pain .	2	2
+Liz got up quietly .	1	2
+Were there people at the concert ?	1	2
+Do you know what book he was reading ?	2	2
+I lost my gold ring .	1	2
+Have you been studying French ?	1	2
+That parking lot is full .	1	2
+My car was damaged in that parking lot .	1	2
+There are plans to build a new library at my school .	2	2
+Have you already had your lunch ?	1	2
+Every day he tells his wife not to worry but I know she does .	2	2
+Jill was always excited to eat melons .	2	2
+I need a place to put my bag .	1	2
+This is my bag .	1	2
+Louis finds fashion interesting .	1	2
+He has already left for his class .	2	2
+Gloria always wore very big earrings .	2	2
+Jack kept a white mouse as a pet .	2	2
+We did n't want to wake the sleeping girls .	1	2
+She started counting sheep so she could sleep .	2	2
+None of them were confident they would win .	2	2
+I wish they would stop knocking on my door .	2	2
+Turkey sandwich was her favorite .	2	2
+Have you been staying up late ?	2	2
+I do n't know how he did it .	1	2
+He does n't know how to do it .	1	2
+I ca n't wait for the day when we have flying cars .	2	2
+There were not many swimmers in the water .	1	2
+If we were all alike , life would be boring .	2	2
+All the dishes were broken in the earthquake .	2	2
+It 's too hot to sleep .	1	2
+You must not get too close to the fire .	1	2
+I wish she could have seen it .	2	2
+We were planning to go together , but she got sick .	2	2
+She often wore her pajamas until noon .	2	1
+Where are the kids ?	1	2
+He never talks about his ex-wife .	2	2
+The teacher asked him to close the windows .	2	2
+Mother was happy to finally get a new dog after Daisy died .	2	2
+Does it snow here ?	1	2
+He felt his chest tighten .	1	2
+That was the moment when they sang .	2	2
+Few people liked her .	1	2
+It 's football season in America .	1	2
+All of you should leave .	1	2
+Please return my book as soon as possible .	2	2
+Have you met our brother ?	1	2
+I do n't like heavy metal music .	1	2
+Lady Gaga is a woman whom many young people enjoy .	2	2
+I became interested in Japan .	1	2
+These houses were built before the war .	2	2
+There are few girls in the soccer team .	2	2
+The woman listening to the music looked so happy .	1	2
+She cooks for her little brother .	1	2
+Her little brother liked collecting pocket knives .	2	2
+There will be consequences .	2	2
+They were married in Rome .	2	2
+It 's time to go .	1	2
+The teacher often gave out chocolate .	1	2
+I wish I could find my real parents .	2	2
+I wish we could have gone to the movies .	2	2
+The soccer stadium was full of fans .	1	2
+The meat was still a little too raw .	1	2
+I am not sad either .	1	2
+His grandfather retired last year .	1	2
+I prefer mild climates .	2	2
+This was hers , and she gave it to me a few years before she died .	2	2
+He always had a toothpick in his mouth .	2	2
+She will do it as soon as she comes back from lunch .	2	2
+Would you like me to carry that for you ?	1	2
+He had to wear a tie to work .	1	2
+Today is another weekday .	1	2
+You can use ours .	1	2
+I wish I had a cat .	2	2
+My printer ran out of ink .	2	2
+Her eyes were closed .	1	2
+I wish I could go out tonight .	2	2
+I left the house on time but the train was late .	2	2
+Both of you are late .	1	2
+There is a teacher from France .	1	2
+There was a girl killed here yesterday .	1	2
+He ran around the park .	1	2
+He ran across the basketball court .	2	2
+He asked the teacher what to do .	2	2
+I feel it necessary to speak up .	1	2
+We rarely see each other .	1	2
+We have n't met yet .	1	2
+Everyone needs healthy food .	1	2
+Carrie knew her sister was happy .	1	2
+Would you hand me that white one ?	2	2
+Do you think you were changed by what you saw ?	1	2
+I have n't seen her since we were in high school together .	2	2
+He pressed the leaf in the pages of an old book .	2	2
+I wish I could find my other sock .	2	2
+We 've lived in Tokyo for a long time .	1	2
+This is made of paper .	1	2
+Chicken is healthier than beef .	1	2
+I have never met his girlfriend but I have seen her .	2	2
+He 's got a girlfriend .	1	2
+I was born here .	1	2
+I do not always listen to music .	2	2
+I 'm not sure when to use this unusual fork .	2	2
+You ca n't pet service dogs or police dogs .	2	2
+She runs very fast .	1	2
+I do n't know who she is .	1	2
+The area was best known for their pineapples .	2	2
+She taught her children to be polite .	2	2
+I wish I could be a scientist .	2	2
+He always boiled his broccoli .	1	2
+I wish I had known .	2	2
+The presenter started to speak .	2	2
+Can you teach her how to walk ?	2	2
+You must teach her where to go .	1	2
+Is it Tuesday already ?	1	2
+Is it already 5 p. m.?	1	2
+Sitting for too long is a bad idea .	2	2
+I got bored at the beach .	2	2
+There was nothing to save after the fire .	1	2
+There were several lobsters in the tank .	1	2
+Would you mind if our friends came with us ?	1	2
+He 's got a bad temper .	2	2
+I would like you to do it before dinner .	2	2
+Some pop singers have no talent .	1	2
+She is an FBI agent .	1	2
+She is very excited about her upcoming trip .	2	2
+My aunt had three daughters .	2	2
+I think I need to lose a few more kilograms .	2	2
+The dryer ate my sock .	1	2
+I grew up with three brothers .	1	2
+Shall I help you with your homework ?	2	2
+Each story is different from the others .	1	2
+Who is your favorite Japanese artist ?	2	1
+It was the day when she broke her arm .	1	2
+She was happy but now she is sad .	1	2
+I have n't mailed it yet .	2	2
+I wish we could tell them .	2	2
+I told him I would do it .	1	2
+I told you he could do it .	1	2
+What a boring teacher !	1	2
+Have you ever been married ?	1	2
+Have you met the groom yet ?	2	2
+She only has a few friends .	1	2
+It is as hot as the desert .	1	2
+If it was his , where did it go ?	1	2
+That child has a puppy .	1	2
+That boy seems interested in you .	2	2
+It would be better if I went .	1	2
+Many cities have metros .	2	1
+The food was brought on beautiful plates .	2	2
+They went skiing last winter .	2	1
+Let 's wait in front of the store .	2	2
+Mother loved mixing cream with everything .	2	2
+Many children picked the fruit .	2	2
+If we had known , we 'd have come .	2	2
+If I had known it would be like this , I would n't have come !	2	2
+The story was covered by many reporters .	2	2
+I tried to clean up .	1	2
+How many frogs are in your aquarium ?	2	2
+I wish it would stop raining .	2	2
+If she had known , she 'd have stayed .	1	2
+In order to lose weight , he ate vegetables .	2	2
+In order to save time , he drove .	2	2
+I said I was going home .	1	2
+She hoped to find a good job at the job fair .	2	2
+Movies produced in Hollywood are popular .	2	2
+She said she had something to tell you but she did n't say what it was .	2	2
+He spoke to both of us .	1	2
+He told us what he had seen .	1	2
+This area is known for its peaches .	2	2
+The food is usually good there .	1	2
+They planned to go to Canada .	2	2
+They often liked doing things together .	1	2
+I 'd like to be a godmother .	1	2
+If I had found it , you 'd know .	2	2
+Have you ever seen this kind of issue before ?	1	2
+Have you ever seen anything like this before ?	1	2
+Where did you buy that beautiful pair of pajamas ?	2	2
+Jane had a nice jacket collection .	2	2
+My tooth is loose .	1	2
+I need to see my dentist for this toothache .	1	2
+She began to walk more and more slowly .	1	2
+My dog died when I was five .	1	2
+Have you ever been in a limo ?	2	2
+I lent her my coat .	1	2
+She put makeup on every day .	2	2
+She ate spaghetti every week .	1	2
+The trees planted last year look great .	1	2
+It will be April soon , so I will finally get to see beautiful cherry blossom trees .	2	2
+Our kids have trouble deciding what to wear to school .	2	2
+Have you seen my sneakers ?	1	2
+My grandmother was always wonderful at telling bedtime stories .	2	2
+He caused a problem .	1	2
+Her hair was as soft as silk .	2	2
+The Americans fought in the Vietnamese War .	1	2
+We show children how to be creative .	2	2
+A baby sheep is called a lamb .	2	2
+It should get cooler in the afternoon .	1	2
+It is in the mountains where you see beautiful trees .	2	2
+Nothing in this dinosaur museum is real .	2	2
+They may be at the restaurant already .	2	2
+She went home late .	1	2
+Do not listen to your older sister because she is not always right .	2	2
+The story brought us hope .	1	2
+Because his fingers were broken , he could no longer play the piano .	2	2
+The staff have n't opened the office yet .	2	2
+Whales are generally peaceful animals .	2	2
+She was as beautiful as they said .	1	2
+Who is the author of that book ?	2	2
+Tokyo is preparing for the 2020 Olympics .	2	2
+It was then that I saw her .	1	2
+It was summer when I saw her again .	1	2
+I have just finished my homework .	1	2
+He was n't allowed to have any alcohol .	2	2
+He is a man whose career has been long and successful .	1	2
+I 'd like you to set the table for dinner .	1	2
+Shall we start the conference now ?	2	2
+She works on Wall Street .	1	2
+Do you have plans to travel to Europe this year ?	2	2
+I hope to go to France one day .	1	2
+Have you seen it already ?	1	2
+Her eyes were as kind as ever .	2	2
+I have been teaching here for many years .	1	2
+I wish I was rich .	2	2
+I do n't know what to do about those noisy neighbors .	2	2
+Has the movie just started ?	2	2
+He had very powerful legs .	2	2
+Lisa does not always want to spend time with her boyfriend .	1	2
+The women coming over today are my friends .	1	2
+We love to invite our friends over .	1	2
+He died doing what he believed in .	1	2
+It was found yesterday .	1	2
+It was found on the train .	1	2
+She said I could borrow hers .	1	2
+I forgot my slippers but she let me borrow hers .	2	2
+I wish she could be there .	1	2
+We heard frogs near the lake .	1	2
+Shall we take Jessica to the hospital ?	2	2
+She had to start over .	1	2
+Let 's eat fish as many times as possible .	2	2
+He loves his sneakers more than his regular shoes .	2	2
+Why do you always wear sneakers ?	1	2
+Obama is a person whose power is respected .	2	2
+I do n't know where I put my house keys last night .	1	2
+I found his keys by the door .	1	2
+When was this built ?	1	2
+Which Canadian cities have you visited ?	1	2
+There is a storm coming .	1	2
+Limestone is often used in cement .	2	2
+There will be war .	1	2
+The windows were locked .	1	2
+He suddenly got angry .	1	2
+She placed her bag on the floor .	2	2
+The plane was as small as a car .	2	2
+He was followed by the police .	1	2
+The police came looking for the thief .	1	2
+What a gorgeous sunset !	1	2
+There are a lot of sheep in Ireland .	1	2
+Have you ever been on a plane ?	1	2
+Have you ever gone to sleep on a train ?	1	2
+Who is your favorite illustrator ?	2	2
+I love this illustrator !	2	1
+This is the room where it all began .	2	2
+I wish I could tell them good-bye .	2	2
+I wish I could tell them that I forgive them .	2	2
+The alarm will ring in a second .	2	1
+Tell him when to leave .	1	2
+The school allowed him to perform .	2	2
+Is that the house where we met ?	1	2
+I wish I could have finished it .	2	2
+Blue crabs are famous in this area .	1	2
+It has been raining since Tuesday .	1	2
+There have been fights .	1	2
+Have you seen hers ?	1	2
+Have you seen my sister ?	1	2
+I could n't believe what he said .	1	2
+I wish I were smarter .	2	2
+Will you allow us to go ?	2	2
+He learned when to start dancing .	2	2
+We learned to dance .	1	2
+It started raining during our picnic .	2	2
+Tokyo is one of the most exciting cities in the world .	2	2
+He walked through the door .	1	2
+I miss the way my mother laughed .	2	2
+I miss my mom .	1	2
+She must go home soon .	1	2
+She had warm brown eyes .	2	2
+He was a respected man in his community .	2	2
+She strained her neck .	1	2
+She received a ring from her boyfriend .	1	2
+I told her to visit again soon .	1	2
+He could n't stop looking at her .	2	2
+I wish I could be there when she arrives , but I have another appointment .	2	2
+She has already arrived .	1	2
+Her eyes looked like emeralds .	2	2
+Her dress was emerald green .	2	2
+I wish I could go to bed instead of doing all this homework .	2	2
+He gave the boys some money to buy their mother some flowers .	2	2
+She got what she wanted .	1	2
+Did you forget yours ?	1	2
+He won an award for best actor .	1	2
+It was a great role that made him famous .	2	2
+Wow , what a beautiful fabric .	2	2
+Blouses are more feminine than shirts .	2	2
+Everyone clapped their hands after the performance .	2	2
+Have you started classes yet ?	2	2
+If you were me , what would you choose ?	2	2
+The dogs started to fight .	1	2
+There was a red car parked there .	1	2
+There were two tigers at the zoo .	1	2
+I have just started my new job .	1	2
+Have you started your new job yet ?	2	2
+That was the spot where the tree was .	1	2
+My parents died many years ago .	2	2
+My mother - in- law died three years ago .	2	2
+Her grandfather loved his steak rare .	2	2
+He liked his beef medium rare .	1	2
+She joined the U.S. Sailing Team .	1	2
+I 've never been outside of Japan .	1	2
+I have lived in Japan as well as in Canada .	2	2
+She had beautiful , long hair .	1	2
+Eating more vegetables will help you to feel better .	2	2
+Both of them finished their homework .	1	2
+Emily finished her homework before she got too tired .	2	2
+The animals began to run .	1	2
+I wish we were all together again for one last dinner .	2	2
+I wish we could go again .	1	2
+Let me get you your coat .	1	2
+They could n't find anyone .	2	2
+He decided to buy flowers for his wife while he was out .	2	2
+None of them drink .	1	2
+You may go to the concert if you pay for it .	1	2
+I asked him to leave .	1	2
+If I lived here , I 'd be so happy !	2	2
+I 'd be so happy if she lived here .	2	2
+They usually go to sleep early .	1	2
+He painted his room blue .	1	2
+It was painted blue .	1	2
+How long ago did it happen ?	1	2
+It happened a long time ago .	1	2
+She always wore boots with heels .	2	2
+She often shared her boots with her sister .	2	2
+It took the boat a year to travel across the whole world .	2	2
+I would have done it differently if I had known .	1	2
+Did you tell her where to meet us ?	2	2
+Did your wife come with you ?	1	2
+The train stopped before I arrived at my station .	2	2
+The train stopped suddenly .	1	2
+He 's my big brother .	1	2
+That 's the house where we hope to live .	2	2
+I would love to live in a house like this one .	1	2
+She 's made a lot of friends .	1	2
+She made many friends before leaving the country .	2	2
+The band started to play .	1	2
+Her heart was broken .	1	2
+Have you just finished ?	1	2
+Has it already been finished ?	1	2
+We learned about clouds today .	2	2
+It was a wonderful place to view the sunset .	2	2
+We sat watching the sunset .	1	2
+His bird died suddenly .	1	2
+There are many kinds of fruit in the world .	2	2
+Is this the spot where the restaurant is ?	2	2
+You 've made a promise .	1	2
+I wish I could have done it .	2	2
+It was time for dinner .	1	2
+You look like your sister .	1	2
+The temperature is really mild this morning .	2	2
+Yesterday was one of the warmest days so far .	2	2
+Children are not allowed in bars .	2	2
+My sister might leave early today .	2	2
+Most sharks are not dangerous .	2	2
+I hope to become a teacher .	1	2
+Have you changed your socks ?	1	2
+Did you have a chance to speak to your boss ?	1	2
+May I speak with your boss ?	1	2
+There are twenty children in one class .	1	2
+There were twenty people in the room .	1	2
+What if she went with us ?	1	2
+What if we went together ?	1	2
+Have you seen my book ?	1	2
+Do you want to read this book ?	1	2
+The second semester begins in September .	2	2
+The new US school year starts in September .	1	2
+All children need a good education .	1	2
+She dropped the napkin on the floor .	2	2
+Her arm was broken .	1	2
+Her leg was broken in the crash .	2	2
+Is that your car ?	1	2
+That 's the house where they went to play video games last week .	2	2
+We stood looking at the sky .	1	2
+Put away the winter pajamas .	2	2
+Pick up your pajamas .	1	2
+She always had an apple for snack .	2	2
+She always put apples in her yogurt .	2	2
+She asked me to stay .	1	2
+She would like you to come with us .	2	2
+She knows a place where we can go .	1	2
+Halloween is in October .	1	2
+I wish I could find that book .	2	2
+Could you lend me that book ?	2	1
+Have either of you guys finished the homework ?	2	2
+She is the woman whose research has been published .	2	2
+The sun began to rise .	1	2
+Pass me that football .	1	2
+Pass me that ball , would you ?	2	2
+The children have already gone to sleep .	2	2
+College is expensive to go to .	2	2
+The students were bored .	1	2
+That is the house where she works as a maid .	2	2
+That 's the house where guests stay .	2	2
+It will rain tonight so you should take an umbrella .	2	2
+I wish I could go back in time .	1	2
+Some students did n't come to class .	1	2
+That was the day when she knew her life had changed .	2	2
+In order to get there on time , he left work early .	2	2
+He left early in order to get home .	1	2
+There was a car parked next to the house .	2	2
+I wish I could be your friend .	1	2
+I wish I had a friend .	2	2
+Sometimes the baby would not stop crying .	2	2
+This school has many hard -working teachers .	2	2
+Have you got your homework ?	1	2
+Have you been doing your homework ?	1	2
+Do you have weekend plans ?	1	2
+Have you already done it ?	1	2
+Have you done it yet ?	1	2
+Vegetables are very healthy for you .	1	2
+Green vegetables are always good for you .	1	2
+If it had been yours , you 'd cry .	2	2
+He is a man whom I trust .	1	2
+Nobody had enough money .	2	2
+She is a woman whom many people respect .	2	2
+She is a woman whom many people like .	1	2
+What would you do if you were me ?	2	2
+Do you have kids ? How many ?	1	2
+How many children do you have ?	1	2
+The room started to shake .	1	2
