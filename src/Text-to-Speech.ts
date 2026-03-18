@@ -3,6 +3,7 @@ import path from "path";
 // @ts-ignore
 import gTTS from "gtts";
 import crypto from "crypto";
+// @ts-ignore
 import pLimit from "p-limit";
 
 
@@ -67,7 +68,7 @@ export class TextToSpeechService {
         const match = line.match(/(.+?)\s+(\d+)$/);
 
         if (!match) {
-          console.warn("⚠️ Sai format:", line);
+          console.warn("Sai format:", line);
           return null;
         }
 
@@ -100,7 +101,7 @@ export class TextToSpeechService {
           await this.generateAudio(text, filePath);
 
           count++;
-          console.log(`✅ [${count}/${data.length}] ${fileName}`);
+          console.log(`[${count}/${data.length}] ${fileName}`);
 
           return {
             file: fileName,
@@ -108,7 +109,7 @@ export class TextToSpeechService {
             level,
           };
         } catch (err) {
-          console.error("❌ Error:", err);
+          console.error("Error:", err);
           return null;
         }
       })

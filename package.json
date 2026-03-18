@@ -7,9 +7,10 @@
   "scripts": {
     "crawl": "ts-node src/crawl-data.ts",
     "pre-process": "ts-node src/pre-process.ts",
+    "tts-difficulty": "ts-node src/tts-difficulty.ts",
     "statistic": "ts-node src/statistic/run-statistic.ts",
     "etl": "ts-node src/main.ts",
-    "dev": "npm run pre-process && npm run etl",
+    "dev": "npm run tts-difficulty && npm run pre-process && npm run etl",
     "export-sample": "ts-node src/sample-questions/export-sample.ts",
     "build-vocab-dictionary": "ts-node src/build_vocab_dictionary.ts",
     "merge-data": "ts-node src/utils/merge_data.ts"
@@ -25,6 +26,7 @@
     "csv-parser": "^3.2.0",
     "dotenv": "^17.2.3",
     "fast-csv": "^5.0.5",
+    "firebase-admin": "^13.7.0",
     "gtts": "^0.2.1",
     "mongoose": "^9.1.6",
     "mysql2": "^3.16.3",
