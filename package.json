@@ -17,7 +17,8 @@
     "dev": "npm run pre-process && npm run etl",
     "export-sample": "ts-node src/sample-questions/export-sample.ts",
     "build-vocab-dictionary": "ts-node src/build_vocab_dictionary.ts",
-    "merge-data": "ts-node src/utils/merge_data.ts"
+    "merge-data": "ts-node src/utils/merge_data.ts",
+    "merge-data-add": "ts-node src/utils/merge-data-add.ts"
   },
   "keywords": [],
   "author": "",
@@ -28,10 +29,12 @@
     "chart.js": "^4.5.1",
     "chartjs-node-canvas": "^5.0.0",
     "cheerio": "^1.2.0",
+    "cloudinary": "^2.9.0",
     "csv-parser": "^3.2.0",
-    "dotenv": "^17.2.3",
+    "dotenv": "^17.3.1",
     "fast-csv": "^5.0.5",
     "mongoose": "^9.1.6",
+    "multer": "^2.1.1",
     "mysql2": "^3.16.3",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.3",
