@@ -1,177 +1,167 @@
-TREE 4: Food
+TREE 4
 ====================================
 
 NODE VOCAB
 
-Q1: What is the meaning of: expensive
-A. đắt
-B. thời tiết
-C. bão
-D. đáng yêu
-Answer: A
-
-Q2: What is the meaning of: download
-A. tải xuống
-B. Tháng 9
-C. âm nhạc
-D. thư giãn
-Answer: A
-
-Q3: What is the meaning of: solution
-A. tình trạng
-B. giải pháp
-C. Số lượng
-D. hát
-Answer: B
-
-Q4: What is the meaning of: ancient
-A. hòn đảo
-B. cổ đại
-C. buồn cười
-D. sa mạc
-Answer: B
-
-Q5: What is the meaning of: television
-A. Tháng bảy
-B. tivi
-C. công việc
-D. sự ô nhiễm
-Answer: B
-
-Q6: What is the meaning of: road
-A. con gái
-B. cơ hội
-C. động vật
-D. đường
+Q1: What is the meaning of: happen
+A. mười lăm
+B. luyện tập
+C. bất cứ nơi nào
+D. xảy ra
 Answer: D
 
-Q7: What is the meaning of: meal
-A. bữa ăn
-B. hành khách
-C. khá
-D. khóc
-Answer: A
+Q2: What is the meaning of: gun
+A. hố
+B. áo sơ mi
+C. súng
+D. bánh mỳ
+Answer: C
 
-Q8: What is the meaning of: war
-A. chiến tranh
-B. hệ thống
-C. trở nên
-D. xuống
-Answer: A
+Q3: What is the meaning of: not
+A. phim ảnh
+B. một vài chi tiết
+C. không
+D. số không
+Answer: C
 
-Q9: What is the meaning of: eat
-A. ăn
-B. thiếu niên
-C. của cô ấy
-D. nghĩ
-Answer: A
+Q4: What is the meaning of: response
+A. tuyệt vời
+B. điện
+C. trợ lý
+D. phản ứng
+Answer: D
 
-Q10: What is the meaning of: then
+Q5: What is the meaning of: guitar
+A. hoàn thành
+B. đàn guitar
+C. ki-lô-mét
+D. túi
+Answer: B
+
+Q6: What is the meaning of: carefully
+A. bữa trưa
+B. mùa hè
+C. cẩn thận
+D. sandwich
+Answer: C
+
+Q7: What is the meaning of: after
 A. sau đó
-B. Cuối cùng
-C. cà vạt
-D. thuốc
+B. một nửa n
+C. CHÀO
+D. vòi sen
 Answer: A
+
+Q8: What is the meaning of: incredible
+A. đáng kinh ngạc
+B. tránh xa
+C. dữ liệu
+D. xa
+Answer: A
+
+Q9: What is the meaning of: fruit
+A. hoa quả
+B. tập trung
+C. thiếu niên
+D. ngốc nghếch
+Answer: A
+
+Q10: What is the meaning of: zero
+A. họa sĩ
+B. số không
+C. Ồ
+D. ý kiến
+Answer: B
 
 
 
 NODE LISTENING
 
-Q1: Do you eat ___ every day ?
-Answer: rice
+Q1: The ___ stopped suddenly .
+Answer: train
 
-Q2: Tom does n't drink red wine .
-Answer: doesn't
+Q2: There are different ___ about his early life .
+Answer: views
 
-Q3: Tom thinks that Mary ___ like a fish .
-Answer: drinks
+Q3: The Seto Ohashi ___ was built in the 1980 s .
+Answer: bridge
 
-Q4: This is a ___ .
-Answer: secret
+Q4: He always had a toothpick in his ___ .
+Answer: mouth
 
-Q5: I do n't like your taste in color .
-Answer: don't
+Q5: Trass died on 14 ___ 2017 , aged 88 .
+Answer: february
 
-Q6: Tom wanted to ___ Japanese with a native Japanese speaker .
-Answer: study
+Q6: The driver did n't know where to ___ .
+Answer: turn
 
-Q7: ___ can we eat ?
-Answer: when
+Q7: I have been teaching here for ___ years .
+Answer: many
 
-Q8: Is this your ___ ?
-Answer: bicycle
+Q8: Arrow was born on August 23 , 1921 in ___ York City , New York .
+Answer: new
 
-Q9: This sweater is ___ .
-Answer: warm
+Q9: She got ___ she wanted .
+Answer: what
 
-Q10: Is this ___ bike ?
-Answer: your
+Q10: Every day he ___ his wife not to worry but I know she does .
+Answer: tells
 
 
 
 NODE SPEAKING
 
-1. Tom's company imports coffee from Brazil.
-2. I'm not eating this.
-3. Would you like milk and sugar?
-4. Please watch this movie.
-5. Tom didn't eat anything yesterday.
-6. Is anyone going to eat that?
-7. Tom doesn't like eating fish.
-8. I'm eating an apple.
-9. The cherry blossoms are at their best.
-10. Wine is poetry put into a bottle.
+1. He always boiled his broccoli .
+2. I have n't changed anything .
+3. Title V includes various other extra rules .
+4. The sea is mostly ice-covered .
+5. Cricket is the most popular sport in Bangladesh .
+6. Did you tell her where to meet us ?
+7. He died in Paris .
+8. We were planning to go together , but she got sick .
+9. She said she had something to tell you but she did n't say what it was .
+10. With county codes , official until 1974 .
 
 
 NODE MATCHING
 
-1. tourism -> du lịch
-2. talk -> nói chuyện
-3. choose -> chọn
-4. photograph -> ảnh chụp
-5. chef -> đầu bếp
-6. start -> bắt đầu
-7. hard -> cứng
-8. like -> giống
-9. sailing -> đi thuyền
-10. classical -> cổ điển
+1. DVD -> DVD
+2. pleased -> vừa lòng
+3. ninety -> chín mươi
+4. wide -> rộng
+5. write -> viết
+6. never -> không bao giờ
+7. natural -> tự nhiên
+8. healthy -> khỏe mạnh
+9. manner -> thái độ
+10. museum -> bảo tàng
 
 
 NODE REVIEW
 
-Q1: What is the meaning of: television
-A. sự ô nhiễm
-B. tivi
-C. Tháng bảy
-D. công việc
-Answer: B
+Q1: He always had a toothpick in his ___ .
+Answer: mouth
 
-Q2: What is the meaning of: war
-A. hệ thống
-B. trở nên
-C. chiến tranh
-D. xuống
-Answer: C
+2. He always boiled his broccoli .
+Q3: What is the meaning of: happen
+A. xảy ra
+B. bất cứ nơi nào
+C. luyện tập
+D. mười lăm
+Answer: A
 
-3. Please watch this movie.
-4. classical -> cổ điển
-5. Is anyone going to eat that?
-Q6: Tom does n't drink red wine .
-Answer: doesn't
+Q4: Every day he ___ his wife not to worry but I know she does .
+Answer: tells
 
-Q7: What is the meaning of: expensive
-A. đáng yêu
-B. bão
-C. thời tiết
-D. đắt
-Answer: D
+5. The sea is mostly ice-covered .
+Q6: Arrow was born on August 23 , 1921 in ___ York City , New York .
+Answer: new
 
-Q8: Is this your ___ ?
-Answer: bicycle
+Q7: The Seto Ohashi ___ was built in the 1980 s .
+Answer: bridge
 
-9. start -> bắt đầu
-Q10: Is this ___ bike ?
-Answer: your
-
+8. never -> không bao giờ
+9. manner -> thái độ
+10. museum -> bảo tàng
 
 

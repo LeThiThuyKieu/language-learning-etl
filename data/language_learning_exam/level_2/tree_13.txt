@@ -1,175 +1,185 @@
-TREE 13: Transportation
+TREE 13
 ====================================
 
 NODE VOCAB
 
-Q1: What is the meaning of: golden
-A. đính hôn
-B. ôn lại
-C. vàng
-D. chức vụ
-Answer: C
-
-Q2: What is the meaning of: withdraw
-A. xác định vị trí
-B. kỹ lưỡng
-C. rút
-D. theo đuổi
-Answer: C
-
-Q3: What is the meaning of: equip
-A. liên bang
-B. hành lang
-C. tuyệt vọng
-D. trang bị
-Answer: D
-
-Q4: What is the meaning of: ballet
-A. sự giới thiệu
-B. sự liên tiếp
-C. ba lê
-D. chuyển khoản
-Answer: C
-
-Q5: What is the meaning of: moving
-A. xây dựng
-B. di chuyển
-C. có khả năng
-D. vận hành
+Q1: What is the meaning of: rapidly
+A. ống
+B. liên tục
+C. mù
+D. vi khuẩn
 Answer: B
 
-Q6: What is the meaning of: alarm
-A. nhân tạo
-B. giải phóng
-C. chữ ký
-D. báo thức
+Q2: What is the meaning of: dealer
+A. sắc sảo
+B. đàm phán
+C. điểm đến
+D. đại lý
 Answer: D
 
-Q7: What is the meaning of: impatient
-A. thiếu kiên nhẫn
-B. đáng giá
-C. chủ thể
-D. thành lập
+Q3: What is the meaning of: dump
+A. bãi rác
+B. phân biệt
+C. lều
+D. linh hồn
 Answer: A
 
-Q8: What is the meaning of: dealer
-A. đàm phán
-B. đại lý
-C. sắc sảo
-D. điểm đến
+Q4: What is the meaning of: hurry
+A. sự vội vàng
+B. sự yếu đuối
+C. chắc chắn
+D. chính xác
+Answer: A
+
+Q5: What is the meaning of: adequate
+A. săn bắn
+B. ca phẫu thuật
+C. cuộc điều tra
+D. đủ
+Answer: D
+
+Q6: What is the meaning of: update
+A. cho dù
+B. miễn nhiệm
+C. tưởng tượng
+D. cập nhật
+Answer: D
+
+Q7: What is the meaning of: evil
+A. độc ác
+B. thì thầm
+C. tranh luận
+D. rõ ràng
+Answer: A
+
+Q8: What is the meaning of: preparation
+A. sữa
+B. sự chuẩn bị
+C. máy thu
+D. B
 Answer: B
 
-Q9: What is the meaning of: unity
-A. đoàn kết
-B. sự trung thực
-C. thời gian
-D. tai nạn
-Answer: A
-
-Q10: What is the meaning of: anticipate
-A. dây điện
-B. trí thông minh
-C. khủng bố
-D. dự đoán
+Q9: What is the meaning of: tsunami
+A. giống hệt nhau
+B. xấu xí
+C. tính năng
+D. sóng thần
 Answer: D
+
+Q10: What is the meaning of: gesture
+A. thời trang
+B. ngắn gọn
+C. cử chỉ
+D. quá
+Answer: C
 
 
 
 NODE LISTENING
 
-Q1: Close the door after you when you leave the ___ .
-Answer: room
+Q1: Although the alligator often moves slowly , it can run very fast for short ___ , especially in very short lunges .
+Answer: times
 
-Q2: ___ was the last time you rode a bicycle ?
-Answer: when
+Q2: After the gold ___ , the forest slowly began to regrow .
+Answer: rush
 
-Q3: Tell me the reason you were absent from school ___ .
-Answer: yesterday
+Q3: Some research suggests an ___ between personality and job satisfaction .
+Answer: association
 
-Q4: Tom does n't have a cat . However , Tom does have a dog , does n't he ?
-Answer: doesn't
+Q4: Various forms of competition can be referred to by the term ___ .
+Answer: championship
 
-Q5: If you have nothing to do , why not ___ a book ?
-Answer: read
+Q5: A birdbath is an attraction for many different ___ of birds to visit gardens , especially during the summer and drought periods .
+Answer: species
 
-Q6: Yesterday , ___ Tom was backing up his car , he ran over Mary 's bicycle .
-Answer: when
+Q6: The main rooftop mast supports two FM ___ antennas , and a top - mounted television antenna previously used by WBPX .
+Answer: master
 
-Q7: I do n't ___ for certain when he will arrive .
-Answer: know
+Q7: Szeged and ___ area has been inhabited since ancient time .
+Answer: surrounding
 
-Q8: When the bell rang , the ___ ended the class .
-Answer: teacher
+Q8: It is most often ___ in pairs or small noisy flocks of up to 10 individuals , but sometimes up to 30 .
+Answer: found
 
-Q9: You should arrive at school ___ eight .
-Answer: before
+Q9: A concert tour is a series of concerts by an artist or group of artists in different cities or ___ .
+Answer: locations
 
-Q10: Tom missed the last train and spent the ___ at an Internet cafe .
-Answer: night
+Q10: The case remained unsolved and cold for several years , partly due to the ___ of tips pouring in to the police who investigated the crime .
+Answer: volume
 
 
 
 NODE SPEAKING
 
-1. The more I know him, the more I like him.
-2. I don't know for certain when he will arrive.
-3. Since he was very drunk, he couldn't drive his car home.
-4. If we miss the train, we'll go by bus.
-5. Tom doesn't have a cat. However, Tom does have a dog, doesn't he?
-6. Are you coming, Tom?
-7. When was the last time you rode a bicycle?
-8. Yesterday, when Tom was backing up his car, he ran over Mary's bicycle.
-9. When are you busy?
-10. When will Tom arrive?
+1. The film was released on 19 March 2004 in Spain and 10 September 2004 in Mexico .
+2. Cooling refers to the process of becoming cold , or lowering in temperature .
+3. The greater roadrunner nests on a platform of sticks low in a cactus or a bush and lays three to six eggs , which hatch in 20 days .
+4. The rules currently used for the sport are based on the old rules .
+5. The trophy is in the form of a grandfather clocks .
+6. After boxing , Rose became a successful businessman .
+7. Roads entering the City are narrowed and have small chicanes to force drivers to slow down and be recorded by CCTV cameras .
+8. There are two major highways in the county .
+9. The glaciers crush minerals in the rock as they pass over them .
+10. There are four kinds of exams : These are by far the most commonly taken exams .
 
 
 NODE MATCHING
 
-1. armed -> vũ trang
-2. moving -> di chuyển
-3. operate -> vận hành
-4. urgent -> cấp bách
-5. circuit -> mạch điện
-6. golden -> vàng
-7. reasonable -> hợp lý
-8. union -> công đoàn
-9. 1 n -> 1 n
-10. input -> đầu vào
+1. likewise -> tương tự
+2. hence -> kể từ đây
+3. strictly -> nghiêm ngặt
+4. cable -> cáp
+5. retire -> về hưu
+6. particularly -> cụ thể
+7. element -> yếu tố
+8. resolution -> nghị quyết
+9. disadvantage -> điều bất lợi
+10. calm -> điềm tĩnh
 
 
 NODE REVIEW
 
-1. Since he was very drunk, he couldn't drive his car home.
-Q2: What is the meaning of: golden
-A. vàng
-B. ôn lại
-C. chức vụ
-D. đính hôn
+Q1: What is the meaning of: rapidly
+A. vi khuẩn
+B. ống
+C. mù
+D. liên tục
+Answer: D
+
+Q2: It is most often ___ in pairs or small noisy flocks of up to 10 individuals , but sometimes up to 30 .
+Answer: found
+
+3. After boxing , Rose became a successful businessman .
+Q4: Szeged and ___ area has been inhabited since ancient time .
+Answer: surrounding
+
+Q5: What is the meaning of: tsunami
+A. tính năng
+B. xấu xí
+C. giống hệt nhau
+D. sóng thần
+Answer: D
+
+Q6: The main rooftop mast supports two FM ___ antennas , and a top - mounted television antenna previously used by WBPX .
+Answer: master
+
+Q7: What is the meaning of: preparation
+A. sự chuẩn bị
+B. B
+C. sữa
+D. máy thu
 Answer: A
 
-3. If we miss the train, we'll go by bus.
-Q4: Yesterday , ___ Tom was backing up his car , he ran over Mary 's bicycle .
-Answer: when
+Q8: What is the meaning of: evil
+A. độc ác
+B. tranh luận
+C. rõ ràng
+D. thì thầm
+Answer: A
 
-5. When will Tom arrive?
-Q6: When the bell rang , the ___ ended the class .
-Answer: teacher
-
-Q7: What is the meaning of: withdraw
-A. theo đuổi
-B. rút
-C. xác định vị trí
-D. kỹ lưỡng
-Answer: B
-
-8. armed -> vũ trang
-9. circuit -> mạch điện
-Q10: What is the meaning of: unity
-A. sự trung thực
-B. đoàn kết
-C. thời gian
-D. tai nạn
-Answer: B
+9. The rules currently used for the sport are based on the old rules .
+Q10: Some research suggests an ___ between personality and job satisfaction .
+Answer: association
 
 
 

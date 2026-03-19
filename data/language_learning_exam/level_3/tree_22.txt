@@ -1,137 +1,173 @@
-TREE 22: Media
+TREE 22
 ====================================
 
 NODE VOCAB
 
-Q1: What is the meaning of: dense
-A. dày đặc
-B. luật sư
-C. khổng lồ
-D. thờ ơ
+Q1: What is the meaning of: walkout
+A. tuyến đường
+B. đình công
+C. điềm báo xấu
+D. âm trầm
+Answer: B
+
+Q2: What is the meaning of: inequality
+A. bất bình đẳng
+B. vị trí còn trống
+C. quốc tịch
+D. phù hợp
 Answer: A
 
-Q2: What is the meaning of: biography
-A. gây cháy
-B. sự hợp tác
-C. làm suy yếu
-D. tiểu sử
+Q3: What is the meaning of: baleful
+A. để xác nhận
+B. thực phẩm bổ sung
+C. hiệu quả
+D. không may
 Answer: D
 
-Q3: What is the meaning of: discord
-A. sự ngẫu hứng
-B. miễn cưỡng
-C. liều lĩnh
-D. discord
-Answer: D
+Q4: What is the meaning of: tenure
+A. nhiệm kỳ
+B. lớn
+C. chẩn đoán
+D. để đẩy nhanh
+Answer: A
 
-Q4: What is the meaning of: shoddy
-A. phai
-B. sự nhàm chán
-C. kém chất lượng
-D. thiền định
+Q5: What is the meaning of: patrol
+A. lòng trung thành
+B. để giải thoát
+C. tuần tra
+D. phù hợp
 Answer: C
 
-Q5: What is the meaning of: assassination
-A. ám sát
-B. tài sản
-C. người tiên phong
-D. thấm qua
+Q6: What is the meaning of: handling
+A. bay lên
+B. xử lý
+C. cây xô thơm
+D. sự suy đồi
+Answer: B
+
+Q7: What is the meaning of: morose
+A. ủ rũ
+B. quầy tính tiền
+C. vinh quang
+D. coi
 Answer: A
 
-Q6: What is the meaning of: identification
-A. nhận dạng
-B. ngọn cờ
-C. sự xâm nhập
-D. thánh
+Q8: What is the meaning of: spine
+A. xương sống
+B. chủ nghĩa bi quan
+C. vô tình
+D. điểm giao nhau
 Answer: A
 
-Q7: What is the meaning of: pageant
-A. cuộc thi sắc đẹp
-B. danh giá
-C. liên tục
-D. bố cục
-Answer: A
-
-Q8: What is the meaning of: query
-A. sự nhạo báng
-B. cựu chiến binh
-C. hiệu quả
-D. truy vấn
+Q9: What is the meaning of: decorous
+A. nguyên mẫu
+B. thực thể
+C. con nai
+D. đoan trang
 Answer: D
 
-Q9: What is the meaning of: liturgy
-A. vinh quang
-B. phụng vụ
-C. giả thuyết
-D. tha bổng
-Answer: B
-
-Q10: What is the meaning of: statistical
-A. mô-men xoắn
-B. thống kê
-C. sự trả thù
-D. để tăng cường
-Answer: B
+Q10: What is the meaning of: secular
+A. thế tục
+B. tỷ lệ mắc bệnh
+C. tro
+D. chuyến đi
+Answer: A
 
 
 
 NODE LISTENING
 
+Q1: Some of a subsidiary ___ were : Under this doctrine , Indian rulers under British protection surrendered the control of their foreign affairs to the British .
+Answer: alliance
+
+Q2: Fossil bryozoans first appear in the early Ordovician and had a ___ adaptive radiation .
+Answer: huge
+
+Q3: Most members have a complex lifecycle , involving both asexual and sexual ___ .
+Answer: reproduction
+
+Q4: ___ terpenoids are often used for their scent .
+Answer: plant
+
+Q5: Corticosteroids , ___ as dexamethasone and budesonide , have been shown to improve outcomes in children with all severities of croup .
+Answer: such
+
+Q6: Coagulation is highly conserved throughout ___ .
+Answer: biology
+
+Q7: A proto - oncogene is a ___ gene that can become an oncogene due to mutations or increased expression .
+Answer: normal
+
+Q8: Debian packages are standard Unix ar ___ that include two gzipped or bzipped tar archives : one that holds the control information and another that contains the data .
+Answer: archives
+
+Q9: The flattened bodies of stingrays allow them to effectively ___ themselves in their environments .
+Answer: conceal
+
+Q10: C - type asteroids are very ___ with albedos usually in the 0.03 to 0.10 range .
+Answer: dark
+
 
 
 NODE SPEAKING
 
+1. The origin of homochirality in the first place is much discussed .
+2. The authority of appellate courts to review the decisions of lower courts varies widely from one jurisdiction to another .
+3. Males and females look very similar except during the breeding season when the most conspicuous difference is a swollen gland around the male 's vent .
+4. Like the white - tailed hummingbird , it is sometimes considered a subspecies of the more widespread stripe-tailed hummingbird .
+5. Both cetaceans and artiodactyl are now classified under the super-order Cetartiodactyla , which includes both whales and hippopotamuses .
+6. Zinc sulfate can be used to supplement zinc in the brewing process .
+7. There is marked sexual dimorphism in this species .
+8. The saltwater crocodile is a large reptile growing to about 5 m in length .
+9. In order to enable the promotion of all Form 3 students to Form 4 in the school , the school altered the class structure to a symmetrical one .
+10. Haematoxylin and eosin staining is frequently used in histology to examine thin tissue sections .
 
 
 NODE MATCHING
 
-1. indictment -> cáo trạng
-2. smattering -> rải rác
-3. confer -> trao
-4. assassination -> ám sát
-5. disclose -> tiết lộ
-6. prognosis -> tiên lượng
-7. punctilious -> tỉ mỉ
-8. transparent -> trong suốt
-9. hostage -> con tin
-10. wisp -> làn khói
+1. chicanery -> sự lừa đảo
+2. motive -> động cơ
+3. toss -> quăng
+4. civic -> dân sự
+5. tremor -> sự rung chuyển
+6. undergraduate -> sinh viên đại học
+7. jingoism -> chủ nghĩa dân tộc cực đoan
+8. scrupulous -> tỉ mỉ
+9. malfeasance -> hành vi sai trái
+10. meagre -> ít ỏi
 
 
 NODE REVIEW
 
-1. confer -> trao
-Q2: What is the meaning of: statistical
-A. thống kê
-B. mô-men xoắn
-C. sự trả thù
-D. để tăng cường
-Answer: A
-
-3. disclose -> tiết lộ
-4. prognosis -> tiên lượng
-5. indictment -> cáo trạng
-Q6: What is the meaning of: assassination
-A. thấm qua
-B. ám sát
-C. tài sản
-D. người tiên phong
-Answer: B
-
-Q7: What is the meaning of: pageant
-A. bố cục
-B. liên tục
-C. cuộc thi sắc đẹp
-D. danh giá
+Q1: What is the meaning of: spine
+A. chủ nghĩa bi quan
+B. vô tình
+C. xương sống
+D. điểm giao nhau
 Answer: C
 
-8. punctilious -> tỉ mỉ
-Q9: What is the meaning of: dense
-A. dày đặc
-B. khổng lồ
-C. thờ ơ
-D. luật sư
-Answer: A
+2. motive -> động cơ
+3. scrupulous -> tỉ mỉ
+Q4: Some of a subsidiary ___ were : Under this doctrine , Indian rulers under British protection surrendered the control of their foreign affairs to the British .
+Answer: alliance
 
-10. transparent -> trong suốt
+Q5: What is the meaning of: baleful
+A. để xác nhận
+B. hiệu quả
+C. không may
+D. thực phẩm bổ sung
+Answer: C
+
+Q6: Debian packages are standard Unix ar ___ that include two gzipped or bzipped tar archives : one that holds the control information and another that contains the data .
+Answer: archives
+
+Q7: Coagulation is highly conserved throughout ___ .
+Answer: biology
+
+8. Like the white - tailed hummingbird , it is sometimes considered a subspecies of the more widespread stripe-tailed hummingbird .
+9. civic -> dân sự
+Q10: Corticosteroids , ___ as dexamethasone and budesonide , have been shown to improve outcomes in children with all severities of croup .
+Answer: such
+
 
 

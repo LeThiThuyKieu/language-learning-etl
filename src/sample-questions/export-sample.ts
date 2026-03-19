@@ -9,7 +9,7 @@ function shuffle(arr: any[]) {
 function formatTree(tree: any) {
   let content = "";
 
-  content += `TREE ${tree.id}: ${tree.title}\n`;
+  content += `TREE ${tree.id}\n`;
   content += "====================================\n\n";
 
   for (const node of tree.nodes) {

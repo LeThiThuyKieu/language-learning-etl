@@ -1,160 +1,189 @@
-TREE 15: Culture
+TREE 15
 ====================================
 
 NODE VOCAB
 
-Q1: What is the meaning of: excitement
-A. sự phấn khích
-B. bình đẳng
-C. cân bằng
-D. nhà thờ Hồi giáo
-Answer: A
-
-Q2: What is the meaning of: creation
-A. chuyên chở
-B. khán giả
-C. liên hệ
-D. sự sáng tạo
-Answer: D
-
-Q3: What is the meaning of: dominant
-A. lãnh thổ
-B. điều chỉnh
-C. như vậy
-D. trội
-Answer: D
-
-Q4: What is the meaning of: colourful
-A. Khả năng lãnh đạo
-B. trước đây
-C. kích hoạt
-D. đầy màu sắc
-Answer: D
-
-Q5: What is the meaning of: globalization
-A. toàn cầu hóa
-B. đồng cảm
-C. biết rõ
-D. quét
-Answer: A
-
-Q6: What is the meaning of: overall
-A. xấu hổ
-B. khăng khăng
-C. ấm
-D. tổng thể
-Answer: D
-
-Q7: What is the meaning of: examine
-A. nghiên cứu
-B. động lực
-C. bất hợp pháp
-D. về
-Answer: A
-
-Q8: What is the meaning of: annually
-A. hàng năm
-B. phù hợp
-C. đần độn
-D. vùng
-Answer: A
-
-Q9: What is the meaning of: conduct
-A. trung thành
-B. say rượu
-C. chủ thể
-D. chỉ đạo
-Answer: D
-
-Q10: What is the meaning of: seriously
-A. nhãn
-B. nghiêm túc
-C. giận dữ
-D. phản ánh
+Q1: What is the meaning of: chairman
+A. ngoại trừ
+B. chủ tịch
+C. bộ lạc
+D. phòng thí nghiệm
 Answer: B
+
+Q2: What is the meaning of: script
+A. cửa hàng
+B. tiêu thụ
+C. mãi mãi
+D. kịch bản
+Answer: D
+
+Q3: What is the meaning of: fare
+A. sự thất bại
+B. sơ đồ
+C. về
+D. giá vé
+Answer: D
+
+Q4: What is the meaning of: commander
+A. chỉ huy
+B. kết quả
+C. mặc dù
+D. chuẩn mực
+Answer: A
+
+Q5: What is the meaning of: suffer
+A. hối tiếc
+B. chịu đựng
+C. sự trung thực
+D. sâu bọ
+Answer: B
+
+Q6: What is the meaning of: detect
+A. không thích
+B. di truyền
+C. âm lượng
+D. phát hiện
+Answer: D
+
+Q7: What is the meaning of: ashamed
+A. thiếu
+B. phù hợp
+C. xấu hổ
+D. đường
+Answer: C
+
+Q8: What is the meaning of: robbery
+A. cướp
+B. liên bang
+C. thời trang
+D. cuối cùng
+Answer: A
+
+Q9: What is the meaning of: port
+A. phía trước
+B. cảng
+C. thị giác
+D. sai lầm
+Answer: B
+
+Q10: What is the meaning of: shine
+A. tế bào
+B. trận đánh
+C. duy trì
+D. chiếu sáng
+Answer: D
 
 
 
 NODE LISTENING
 
-Q1: Many kinds of flowers ___ out in the middle of April .
-Answer: come
+Q1: Oll , who was married , fell into ___ depressions after he divorced .
+Answer: severe
 
-Q2: I had trouble deciding which ___ of dog food to feed my dog .
-Answer: brand
+Q2: The great ___ of large breakers one sees on an ocean beach result from distant winds .
+Answer: majority
 
-Q3: There are many ___ .
-Answer: factors
+Q3: The most common type of aspirator is the ___ aspirator .
+Answer: water
 
-Q4: It is said that Friday the 13th is an ___ day .
-Answer: unlucky
+Q4: On August 10 , a ___ of memorials began peacefully , but some people became outspoken after an evening candlelight vigil .
+Answer: day
 
-Q5: ___ are you from , Tom ?
-Answer: where
+Q5: Traditionally , the home of the Emperor was considered the ___ .
+Answer: capital
 
-Q6: The children were so excited after the party that they ___ sleep .
-Answer: couldn't
+Q6: In 2007 the club began to ___ floorball .
+Answer: play
 
-Q7: Tom has a lot of religious books , but he has never read ___ .
-Answer: them
+Q7: The bush ___ is found primarily in the coastal regions of south and eastern Australia .
+Answer: rat
+
+Q8: In the late 1800 s , the yoke and ___ became the political symbol of the Spanish socialist party .
+Answer: arrows
+
+Q9: A fishing port is a port or harbor for ___ and distributing fish .
+Answer: landing
+
+Q10: These birds ___ on insects , including those stirred up by cattle .
+Answer: feed
 
 
 
 NODE SPEAKING
 
-1. Where are you from?
-2. There are many factors.
-3. What are they after?
-4. The children were so excited after the party that they couldn't sleep.
-5. Tom has a lot of religious books, but he has never read them.
-6. Which came first, the chicken or the egg?
+1. Although many turtles spend much of their lives underwater , all turtles and tortoises breathe air , and must surface at regular intervals to refill their lungs .
+2. The train may sometimes experience a rollback after it is launched .
+3. Children between the ages of 6 and 16 must have full-time education .
+4. In 1892 he went to Paris , where he taught singing , and he coached many American and French artists for the operatic stage .
+5. A fully grown adult is about 1.8 m length and weighs 90 -.
+6. It seems likely that the standardization of the script will be greatly influenced by the need to typeset it on computers .
+7. The movie was well - liked by critics and audiences .
+8. Although businesses usually maintain some kind of fax capability , the technology has faced increasing competition from Internet - based alternatives .
+9. The decision whether a person is a refugee or not is most often left to certain government agencies with the host country .
+10. The song received extensive critical recognition .
 
 
 NODE MATCHING
 
-1. declare -> tuyên bố
-2. monument -> đài kỷ niệm
-3. artistic -> nghệ thuật
-4. incredibly -> vô cùng
-5. medium -> trung bình
-6. openly -> công khai
-7. bullet -> viên đạn
-8. classify -> phân loại
-9. thoroughly -> hoàn toàn
-10. contrast -> sự tương phản
+1. contemporary -> đồng thời
+2. speculate -> suy đoán
+3. aside -> ngoài ra
+4. racing -> đua xe
+5. probability -> xác suất
+6. slogan -> khẩu hiệu
+7. mysterious -> bí ẩn
+8. conflict -> xung đột
+9. photography -> nhiếp ảnh
+10. flash -> đèn flash
 
 
 NODE REVIEW
 
-1. thoroughly -> hoàn toàn
-Q2: What is the meaning of: annually
-A. hàng năm
-B. phù hợp
-C. đần độn
-D. vùng
-Answer: A
-
-3. incredibly -> vô cùng
-4. declare -> tuyên bố
-Q5: What is the meaning of: examine
-A. nghiên cứu
-B. về
-C. bất hợp pháp
-D. động lực
-Answer: A
-
-6. What are they after?
-Q7: What is the meaning of: conduct
-A. trung thành
-B. chỉ đạo
-C. say rượu
-D. chủ thể
+1. slogan -> khẩu hiệu
+Q2: What is the meaning of: robbery
+A. cuối cùng
+B. cướp
+C. liên bang
+D. thời trang
 Answer: B
 
-8. contrast -> sự tương phản
-Q9: Tom has a lot of religious books , but he has never read ___ .
-Answer: them
+Q3: What is the meaning of: suffer
+A. sâu bọ
+B. chịu đựng
+C. sự trung thực
+D. hối tiếc
+Answer: B
 
-10. Which came first, the chicken or the egg?
+Q4: Oll , who was married , fell into ___ depressions after he divorced .
+Answer: severe
+
+Q5: What is the meaning of: fare
+A. về
+B. giá vé
+C. sự thất bại
+D. sơ đồ
+Answer: B
+
+Q6: A fishing port is a port or harbor for ___ and distributing fish .
+Answer: landing
+
+Q7: What is the meaning of: detect
+A. không thích
+B. phát hiện
+C. di truyền
+D. âm lượng
+Answer: B
+
+8. photography -> nhiếp ảnh
+Q9: What is the meaning of: shine
+A. chiếu sáng
+B. duy trì
+C. trận đánh
+D. tế bào
+Answer: A
+
+Q10: The most common type of aspirator is the ___ aspirator .
+Answer: water
+
 
 

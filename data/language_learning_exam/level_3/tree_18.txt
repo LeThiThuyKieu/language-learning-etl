@@ -1,144 +1,165 @@
-TREE 18: Psychology
+TREE 18
 ====================================
 
 NODE VOCAB
 
-Q1: What is the meaning of: stereotype
-A. định kiến
-B. tự do
-C. sự nghiêm ngặt
-D. bộ
+Q1: What is the meaning of: dilemma
+A. vĩnh viễn
+B. mặc định
+C. sự xem xét
+D. tình huống khó xử
+Answer: D
+
+Q2: What is the meaning of: petulant
+A. lật đổ
+B. toàn tri
+C. nhượng quyền
+D. cáu kỉnh
+Answer: D
+
+Q3: What is the meaning of: misnomer
+A. tên gọi sai
+B. tổng thống
+C. không đau
+D. để trả đũa
 Answer: A
 
-Q2: What is the meaning of: tranquillity
-A. sự lan rộng
-B. duy trì
-C. sự yên tĩnh
-D. thuật ngữ
+Q4: What is the meaning of: sojourn
+A. kê đơn
+B. u mê
+C. chuyến đi
+D. tẻ nhạt
 Answer: C
 
-Q3: What is the meaning of: intuition
-A. tiết lộ
-B. trực giác
-C. tia laser
-D. sơ suất
-Answer: B
+Q5: What is the meaning of: presumption
+A. nước hoa
+B. siêng năng
+C. giả định
+D. tập hợp
+Answer: C
 
-Q4: What is the meaning of: ken
-A. tay sai
-B. nghiêm trang
-C. hoàn hảo
-D. ken
+Q6: What is the meaning of: fervour
+A. dao động
+B. bất khả sai lầm
+C. âm sắc
+D. nhiệt huyết
 Answer: D
 
-Q5: What is the meaning of: elated
-A. neo
-B. vui mừng
-C. hồi sinh
-D. cấu thành
-Answer: B
-
-Q6: What is the meaning of: volition
-A. phản bội
-B. rõ ràng
-C. bất cứ điều gì
-D. ý chí
+Q7: What is the meaning of: temperance
+A. bậc thang
+B. người ủng hộ
+C. kinh cầu nguyện
+D. sự tiết chế
 Answer: D
 
-Q7: What is the meaning of: insult
-A. đội tàu
-B. thời kỳ Phục Hưng
-C. người thay thế
-D. sự sỉ nhục
-Answer: D
-
-Q8: What is the meaning of: apprehensive
-A. lo lắng
-B. sự ô nhục
-C. dễ bị tổn thương
-D. trở ngại
+Q8: What is the meaning of: senility
+A. sự già yếu
+B. Tuân thủ
+C. thời tiết xấu
+D. quang học
 Answer: A
 
-Q9: What is the meaning of: pessimism
-A. sự củng cố
-B. cờ hiệu
-C. chiến thắng
-D. chủ nghĩa bi quan
-Answer: D
+Q9: What is the meaning of: stopgap
+A. được cho là
+B. giải pháp tạm thời
+C. chỗ
+D. sắc thái
+Answer: B
 
-Q10: What is the meaning of: malady
-A. bệnh tật
-B. luật
-C. lo lắng
-D. bị nhiễu loạn
-Answer: A
+Q10: What is the meaning of: intelligentsia
+A. ổn định
+B. giả tạo
+C. giới trí thức
+D. thủ công
+Answer: C
 
 
 
 NODE LISTENING
 
+Q1: The symptoms of diphtheria usually begin two to seven ___ after infection .
+Answer: days
+
+Q2: Most feathered dinosaurs ___ so far have been coelurosaurs .
+Answer: discovered
+
+Q3: To ensure that the movements of the ___ in the film were believable , the animators took a crash course in fish biology and oceanography .
+Answer: fish
+
+Q4: Since 2002 , subtropical storms have been given names from the same naming sequence as ___ storms .
+Answer: tropical
+
+Q5: When they are ready to ___ , the adults are released from the host , and sperm from the males penetrates the bodies of the females to achieve fertilization .
+Answer: reproduce
+
+Q6: An algorithm for finding the smallest superpermutation for 6 or more ___ is as of yet unsolved .
+Answer: symbols
+
+Q7: However , mitochondrial DNA only reflects the history of ___ in a population .
+Answer: females
+
+Q8: Neutrophils are the most abundant white blood ___ , constituting 60 - 70 % of the circulating leukocytes , and including two functionally unequal subpopulations : neutrophil - killers and neutrophil - cagers .
+Answer: cell
+
+Q9: The designers analyzed IDEA to measure its strength against differential cryptanalysis and concluded that it is immune under certain ___ .
+Answer: assumptions
+
+Q10: Dated to 3.6 million ___ ag , o they were the oldest known evidence of hominin bipedalism .
+Answer: years
+
 
 
 NODE SPEAKING
 
-1. This is a sentence, that has the syllable count, of a haiku.
+1. The posterior pituitary is actually an extension of the hypothalamus .
+2. The distinctive horns and the muscular neck may have been used in fighting conspecifics .
+3. Gout is partly genetic , contributing to about 60 % of variability in uric acid level .
+4. Fundamental to the discipline are the sciences of physics and mathematics as these help to obtain both a qualitative and quantitative description of how such systems will work .
+5. Hydrography 's origin lies in the making of chart like drawings and notations made by individual mariners .
+6. A person has chronic Hepatitis C if he has been infected with the Hepatitis C virus for more than six months .
+7. The human vagina is an elastic , muscular canal that extends from the vulva to the cervix .
+8. Hypereutrophic lakes are very nutrient- rich lakes characterized by frequent and severe nuisance algal blooms and low transparency .
+9. The 1880 census determined the resident population of the United States to be 50,189,209 , an increase of 30.2 percent over the 38,555,983 persons enumerated during the 1870 Census .
+10. Modern psychiatric hospitals evolved from , and eventually replaced the older lunatic asylums .
 
 
 NODE MATCHING
 
-1. unease -> sự bất an
-2. euphoria -> sự hưng phấn
-3. nebulous -> âm u
-4. harsh -> thô ráp
-5. disaffection -> sự bất mãn
-6. rumination -> sự suy ngẫm
-7. stanza -> khổ thơ
-8. vigilance -> sự cảnh giác
-9. simile -> so sánh
-10. affectation -> sự giả tạo
+1. complacency -> sự tự mãn
+2. uprising -> cuộc nổi dậy
+3. taboo -> điều cấm kỵ
+4. to entail -> bao gồm
+5. temperance -> sự tiết chế
+6. investigator -> điều tra viên
+7. indictment -> cáo trạng
+8. wistfulness -> nỗi nhớ nhung
+9. nepotism -> sự thiên vị
+10. grid -> lưới
 
 
 NODE REVIEW
 
-Q1: What is the meaning of: insult
-A. người thay thế
-B. sự sỉ nhục
-C. đội tàu
-D. thời kỳ Phục Hưng
-Answer: B
+Q1: The designers analyzed IDEA to measure its strength against differential cryptanalysis and concluded that it is immune under certain ___ .
+Answer: assumptions
 
-Q2: What is the meaning of: stereotype
-A. định kiến
-B. tự do
-C. sự nghiêm ngặt
-D. bộ
-Answer: A
-
-3. affectation -> sự giả tạo
-4. vigilance -> sự cảnh giác
-5. nebulous -> âm u
-Q6: What is the meaning of: volition
-A. rõ ràng
-B. phản bội
-C. bất cứ điều gì
-D. ý chí
+Q2: What is the meaning of: misnomer
+A. để trả đũa
+B. không đau
+C. tổng thống
+D. tên gọi sai
 Answer: D
 
-7. stanza -> khổ thơ
-Q8: What is the meaning of: tranquillity
-A. duy trì
-B. sự lan rộng
-C. sự yên tĩnh
-D. thuật ngữ
-Answer: C
+3. The posterior pituitary is actually an extension of the hypothalamus .
+Q4: The symptoms of diphtheria usually begin two to seven ___ after infection .
+Answer: days
 
-Q9: What is the meaning of: elated
-A. cấu thành
-B. vui mừng
-C. neo
-D. hồi sinh
-Answer: B
+5. The human vagina is an elastic , muscular canal that extends from the vulva to the cervix .
+6. Hydrography 's origin lies in the making of chart like drawings and notations made by individual mariners .
+7. temperance -> sự tiết chế
+Q8: However , mitochondrial DNA only reflects the history of ___ in a population .
+Answer: females
 
-10. unease -> sự bất an
+9. A person has chronic Hepatitis C if he has been infected with the Hepatitis C virus for more than six months .
+10. wistfulness -> nỗi nhớ nhung
 
 

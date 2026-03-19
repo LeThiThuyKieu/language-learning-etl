@@ -1,149 +1,167 @@
-TREE 20: Economy
+TREE 20
 ====================================
 
 NODE VOCAB
 
-Q1: What is the meaning of: commodity
-A. lãng phí
-B. tương ứng
-C. đầu dò
-D. hàng hóa
-Answer: D
-
-Q2: What is the meaning of: ludicrous
-A. lố bịch
-B. sự khinh miệt
-C. loại bỏ
-D. hoán vị
-Answer: A
-
-Q3: What is the meaning of: token
-A. quá tự phụ
-B. mã thông báo
-C. choáng váng
-D. hội chứng
-Answer: B
-
-Q4: What is the meaning of: heighten
-A. tăng cường
-B. phục vụ
-C. vô số
-D. đau đớn
-Answer: A
-
-Q5: What is the meaning of: mirage
-A. nhà tiên tri
-B. để báo hiệu
-C. thoáng qua
-D. ảo ảnh
-Answer: D
-
-Q6: What is the meaning of: exaggerate
-A. nói quá
-B. ý chí
-C. sức chống cự
-D. thị trường
-Answer: A
-
-Q7: What is the meaning of: intake
-A. giải quyết
-B. lượng tiêu thụ
-C. vật gia truyền
-D. thai kỳ
-Answer: B
-
-Q8: What is the meaning of: ratio
-A. lời mở đầu
-B. thư rác
-C. hai
-D. tỷ lệ
-Answer: D
-
-Q9: What is the meaning of: thicket
-A. thời trung cổ
-B. bụi rậm
-C. đại biểu
-D. sự việc
-Answer: B
-
-Q10: What is the meaning of: yield
-A. dấu vết
-B. đức hạnh
-C. năng suất
-D. hấp dẫn
+Q1: What is the meaning of: spam
+A. không đáng ghen tị
+B. rời rạc
+C. thư rác
+D. độ chính xác
 Answer: C
+
+Q2: What is the meaning of: platitude
+A. kẻ nịnh hót
+B. lời sáo rỗng
+C. sự cách ly
+D. thận trọng
+Answer: B
+
+Q3: What is the meaning of: to foment
+A. sự chán nản
+B. phép lạ
+C. thu nhập
+D. kích động
+Answer: D
+
+Q4: What is the meaning of: presidential
+A. vô hại
+B. tổng thống
+C. sự cuồng tín
+D. thân thiện
+Answer: B
+
+Q5: What is the meaning of: iniquitous
+A. mơ hồ
+B. bất công
+C. dấu vết
+D. khẳng định
+Answer: B
+
+Q6: What is the meaning of: surrogate
+A. để đọc
+B. ra
+C. có hại
+D. người thay thế
+Answer: D
+
+Q7: What is the meaning of: querulous
+A. hay than van
+B. thân thiện
+C. thần đồng
+D. trang trọng
+Answer: A
+
+Q8: What is the meaning of: activist
+A. nhiệt huyết
+B. chiều rộng
+C. dễ bảo
+D. nhà hoạt động
+Answer: D
+
+Q9: What is the meaning of: aspiration
+A. khát vọng
+B. trưởng thành
+C. tục ngữ
+D. người cùng tên
+Answer: A
+
+Q10: What is the meaning of: mentor
+A. sự vỡ mộng
+B. người hướng dẫn
+C. hay than van
+D. đạo đức giả
+Answer: B
 
 
 
 NODE LISTENING
 
+Q1: The type A viruses are the most ___ human pathogens among the three influenza types and causes the most severe disease .
+Answer: virulent
+
+Q2: Absinthe has often been portrayed as a dangerously addictive psychoactive ___ and hallucinogen .
+Answer: drug
+
+Q3: These concerns have intensified due to the ___ of China , the predominant supplier .
+Answer: actions
+
+Q4: On Earth , most basalt magmas have formed by melting of the ___ .
+Answer: mantle
+
+Q5: The fallout of the weakening ___ game market affected game developers , publishers and distributors .
+Answer: rhythm
+
+Q6: In ___ times , regnal years were counted from the year a new monarch took the throne .
+Answer: ancient
+
+Q7: ___ is simply a quantitative measure of what the second law of thermodynamics describes : the spreading of energy until it is evenly spread .
+Answer: entropy
+
+Q8: ___ omnibus editions collect roughly 24 issues in a slipcase with several extras .
+Answer: limited
+
+Q9: Unaipon was a recognized ___ on ballistics .
+Answer: authority
+
+Q10: A rare side effect of propofol is propofol infusion ___ .
+Answer: syndrome
+
 
 
 NODE SPEAKING
 
+1. In organisms that use chromosomal crossover to exchange DNA and recombine genes , errors in alignment during meiosis can also cause mutations .
+2. The ability to fly or glide has been suggested for at least two dromaeosaur genera .
+3. Insect galls on plants give some herbivorous insects their own microhabitat .
+4. Chasms and gorges form a network that dissects the rocky platforms on the plateau .
+5. The executive branch is headed by the president and is formally independent of both the legislature and the judiciary .
+6. Physicists are working on a number of ways to write down a theory of quantum gravity .
+7. The heat index is referenced to any combination of air temperature and humidity where the partial pressure of water vapor is equal to a baseline value of 1.6 kPa .
+8. Twenty - eight merchant ships laden with more than 34000 ST of cargo were sunk or destroyed ; three ships carrying a further 7500 ST were later salvaged .
+9. Any medication may cause anaphylaxis .
+10. Making use of dyes he was able to find a structure which he named chromatin .
 
 
 NODE MATCHING
 
-1. residue -> dư lượng
-2. accumulation -> sự tích lũy
-3. yield -> năng suất
-4. to languish -> để héo mòn
-5. acre -> mẫu Anh
-6. stabilize -> ổn định
-7. tariff -> biểu phí
-8. boon -> lợi ích
-9. singularity -> điểm kỳ dị
-10. premise -> tiền đề
+1. sword -> gươm
+2. juggernaut -> Giaganat
+3. visionary -> người có tầm nhìn
+4. domain -> lãnh địa
+5. palatable -> ngon miệng
+6. aegis -> tấm chắn
+7. epigram -> câu châm ngôn
+8. iniquitous -> bất công
+9. uproarious -> ồn ào
+10. minion -> thương yêu
 
 
 NODE REVIEW
 
-1. accumulation -> sự tích lũy
-Q2: What is the meaning of: commodity
-A. lãng phí
-B. hàng hóa
-C. tương ứng
-D. đầu dò
-Answer: B
+1. palatable -> ngon miệng
+2. Chasms and gorges form a network that dissects the rocky platforms on the plateau .
+3. domain -> lãnh địa
+Q4: The type A viruses are the most ___ human pathogens among the three influenza types and causes the most severe disease .
+Answer: virulent
 
-Q3: What is the meaning of: thicket
-A. bụi rậm
-B. sự việc
-C. đại biểu
-D. thời trung cổ
+Q5: The fallout of the weakening ___ game market affected game developers , publishers and distributors .
+Answer: rhythm
+
+6. Making use of dyes he was able to find a structure which he named chromatin .
+7. aegis -> tấm chắn
+Q8: ___ omnibus editions collect roughly 24 issues in a slipcase with several extras .
+Answer: limited
+
+Q9: A rare side effect of propofol is propofol infusion ___ .
+Answer: syndrome
+
+Q10: What is the meaning of: platitude
+A. lời sáo rỗng
+B. thận trọng
+C. sự cách ly
+D. kẻ nịnh hót
 Answer: A
-
-4. residue -> dư lượng
-Q5: What is the meaning of: ludicrous
-A. lố bịch
-B. sự khinh miệt
-C. loại bỏ
-D. hoán vị
-Answer: A
-
-Q6: What is the meaning of: yield
-A. năng suất
-B. đức hạnh
-C. hấp dẫn
-D. dấu vết
-Answer: A
-
-7. yield -> năng suất
-Q8: What is the meaning of: ratio
-A. tỷ lệ
-B. hai
-C. thư rác
-D. lời mở đầu
-Answer: A
-
-9. stabilize -> ổn định
-Q10: What is the meaning of: intake
-A. thai kỳ
-B. vật gia truyền
-C. giải quyết
-D. lượng tiêu thụ
-Answer: D
 
 
 
