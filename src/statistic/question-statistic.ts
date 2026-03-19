@@ -66,6 +66,120 @@ export class QuestionStatistics {
     }
   }
 
+  async countByNodeType() {
+    const db = await this.createConnection();
+    try {
+      const [rows]: any = await db.query(`
+        SELECT sn.node_type, COUNT(*) AS total
+        FROM questions q
+        JOIN skill_node sn ON q.node_id = sn.id
+        GROUP BY sn.node_type
+        ORDER BY total DESC
+      `);
+      return rows;
+    } finally {
+      await db.end();
+    }
+  }
+
+  async countTypeByLevel() {
+    const db = await this.createConnection();
+    try {
+      const [rows]: any = await db.query(`
+        SELECT level_id, question_type, COUNT(*) AS total
+        FROM questions
+        GROUP BY level_id, question_type
+        ORDER BY level_id, question_type
+      `);
+      return rows;
+    } finally {
+      await db.end();
+    }
+  }
+
+  async countNodeTypeByLevel() {
+    const db = await this.createConnection();
+    try {
+      const [rows]: any = await db.query(`
+        SELECT q.level_id, sn.node_type, COUNT(*) AS total
+        FROM questions q
+        JOIN skill_node sn ON q.node_id = sn.id
+        GROUP BY q.level_id, sn.node_type
+        ORDER BY q.level_id, sn.node_type
+      `);
+      return rows;
+    } finally {
+      await db.end();
+    }
+  }
+
+  async countSkillByLevel() {
+    const db = await this.createConnection();
+    try {
+      const [rows]: any = await db.query(`
+        SELECT
+          st.level_id,
+          sn.node_type AS skill,
+          COUNT(q.id) AS total
+        FROM skill_node sn
+        JOIN skill_tree st ON sn.skill_tree_id = st.id
+        LEFT JOIN questions q ON q.node_id = sn.id
+        GROUP BY st.level_id, sn.node_type
+        ORDER BY st.level_id, sn.node_type
+      `);
+      return rows;
+    } finally {
+      await db.end();
+    }
+  }
+
+  async countNodeByLevelWithSkill() {
+    const db = await this.createConnection();
+    try {
+      const [rows]: any = await db.query(`
+        SELECT
+          st.level_id,
+          sn.id AS node_id,
+          sn.title AS node_title,
+          sn.node_type AS skill,
+          sn.order_index,
+          COUNT(q.id) AS total
+        FROM skill_node sn
+        JOIN skill_tree st ON sn.skill_tree_id = st.id
+        LEFT JOIN questions q ON q.node_id = sn.id
+        GROUP BY
+          st.level_id,
+          sn.id,
+          sn.title,
+          sn.node_type,
+          sn.order_index
+        ORDER BY st.level_id, sn.order_index, sn.id
+      `);
+      return rows;
+    } finally {
+      await db.end();
+    }
+  }
+
+  async countSkillQuestionType() {
+    const db = await this.createConnection();
+    try {
+      const [rows]: any = await db.query(`
+        SELECT
+          sn.node_type AS skill,
+          q.question_type,
+          COUNT(*) AS total
+        FROM questions q
+        JOIN skill_node sn ON q.node_id = sn.id
+        GROUP BY sn.node_type, q.question_type
+        ORDER BY sn.node_type, q.question_type
+      `);
+      return rows;
+    } finally {
+      await db.end();
+    }
+  }
+
   async countByNode(limit: number = 20) {
     const db = await this.createConnection();
     try {
@@ -92,14 +206,42 @@ export class QuestionStatistics {
 				SELECT
 					q.level_id,
 					st.id AS tree_id,
-					st.title AS tree_title,
 					COUNT(*) AS total
 				FROM questions q
 				JOIN skill_node sn ON q.node_id = sn.id
 				JOIN skill_tree st ON sn.skill_tree_id = st.id
-				GROUP BY q.level_id, st.id, st.title
+        GROUP BY q.level_id, st.id
 				ORDER BY q.level_id, total DESC
 			`);
+      return rows;
+    } finally {
+      await db.end();
+    }
+  }
+
+  async countSkillInTree() {
+    const db = await this.createConnection();
+    try {
+      const [rows]: any = await db.query(`
+        SELECT
+          q.level_id,
+          st.id AS tree_id,
+          sn.id AS node_id,
+          sn.title AS skill_title,
+          sn.node_type,
+          MIN(sn.order_index) AS node_order,
+          COUNT(*) AS total
+        FROM questions q
+        JOIN skill_node sn ON q.node_id = sn.id
+        JOIN skill_tree st ON sn.skill_tree_id = st.id
+        GROUP BY
+          q.level_id,
+          st.id,
+          sn.id,
+          sn.title,
+          sn.node_type
+        ORDER BY q.level_id, st.id, node_order
+      `);
       return rows;
     } finally {
       await db.end();
