@@ -1,163 +1,183 @@
-TREE 1: Greetings
+TREE 1
 ====================================
 
 NODE VOCAB
 
-Q1: What is the meaning of: profile
-A. dự án
-B. bắt đầu
-C. sớm
-D. hồ sơ
-Answer: D
-
-Q2: What is the meaning of: January
-A. bay
-B. Tháng Một
-C. nhà báo
-D. xuất sắc
+Q1: What is the meaning of: cigarette
+A. Có thể
+B. thuốc lá
+C. to lớn
+D. đối diện
 Answer: B
 
-Q3: What is the meaning of: very
-A. Dẫu sao thì
-B. cao
-C. thẳng
-D. rất
-Answer: D
-
-Q4: What is the meaning of: hear
-A. xã hội
-B. từ chối
-C. thưa ngài
-D. nghe
-Answer: D
-
-Q5: What is the meaning of: year
-A. năm
-B. trung bình
-C. bí mật
-D. nhạt nhẽo
+Q2: What is the meaning of: banana
+A. chuối
+B. ăn
+C. chết
+D. sau đó
 Answer: A
 
-Q6: What is the meaning of: another
-A. loài
-B. bé nhỏ
-C. quảng cáo
-D. khác
-Answer: D
+Q3: What is the meaning of: headache
+A. nhỏ bé
+B. mua sắm
+C. đau đầu
+D. cuối cùng
+Answer: C
 
-Q7: What is the meaning of: sorry
-A. hoàn thành
-B. Xin lỗi
-C. chân
-D. hằng ngày
+Q4: What is the meaning of: disappear
+A. biến mất
+B. ôn tập
+C. thứ ba
+D. người mẫu
+Answer: A
+
+Q5: What is the meaning of: adult
+A. phim ảnh
+B. người lớn
+C. ngày lễ
+D. kỹ năng
 Answer: B
 
-Q8: What is the meaning of: learn
-A. cô
-B. con ếch
-C. học hỏi
-D. Xin chào
-Answer: C
-
-Q9: What is the meaning of: international
-A. hướng dẫn
-B. một số
-C. xem
-D. quốc tế
+Q6: What is the meaning of: support
+A. hầu hết
+B. năm
+C. chỉ
+D. ủng hộ
 Answer: D
 
-Q10: What is the meaning of: FALSE
-A. thậm chí
-B. quán cà phê
-C. SAI
-D. BẰNG
+Q7: What is the meaning of: jump
+A. gần đây
+B. nhảy
+C. thắt lưng
+D. nhỏ bé
+Answer: B
+
+Q8: What is the meaning of: use
+A. địa điểm
+B. học
+C. sử dụng
+D. nhà nghiên cứu
 Answer: C
+
+Q9: What is the meaning of: spend
+A. tiêu
+B. cổng
+C. tháp
+D. khóc
+Answer: A
+
+Q10: What is the meaning of: please
+A. Xin vui lòng
+B. đối diện
+C. ngôn ngữ
+D. Nước
+Answer: A
 
 
 
 NODE LISTENING
 
-Q1: We ___ get caught .
-Answer: could
+Q1: He told us what he had ___ .
+Answer: seen
 
-Q2: Why do n't you ___ a look at this data ?
-Answer: take
+Q2: She went looking for her ___ .
+Answer: dog
 
-Q3: How ___ Tom get in ?
-Answer: will
+Q3: He died on 3 May 2015 , aged 84 , after a ___ illness .
+Answer: long
 
-Q4: He seems to be ___ .
-Answer: rich
+Q4: He caused a ___ .
+Answer: problem
 
-Q5: We 'll be ___ college next year .
-Answer: starting
+Q5: Do you ___ you were changed by what you saw ?
+Answer: think
 
-Q6: I 'm delighted to ___ you .
-Answer: meet
+Q6: This system is found in other ___ as well .
+Answer: fish
 
-Q7: Tom ___ be back .
-Answer: will
+Q7: Obama is a person whose ___ is respected .
+Answer: power
 
-Q8: I do n't like you when ___ angry .
-Answer: you're
+Q8: The ___ circle was set up between 2900 and 2600 BC .
+Answer: stone
 
-Q9: Tom ___ to catch the rabbit .
-Answer: tried
+Q9: The alarm will ___ in a second .
+Answer: ring
 
-Q10: Do you want to be ___ Tom ?
-Answer: near
+Q10: ___ cities have metros .
+Answer: many
 
 
 
 NODE SPEAKING
 
-1. You're scared to death, aren't you?
-2. Everybody's waiting for you.
-3. Let me try something else.
-4. Sit down with me.
-5. Tom is busy now.
-6. You won't need it.
-7. Check back next week.
-8. I can't let you leave.
-9. Does someone here know how to do this?
-10. What kind of music do you usually listen to?
+1. The game started to be developed in early 2012 .
+2. We were very close to going to France , but the flight was canceled .
+3. This movie was released in September of 2002 .
+4. That 's the house where they went to play video games last week .
+5. In May 2015 , Brazil officially reported its first 16 cases of the illness .
+6. Megan started playing soccer during the summer break .
+7. The pass is open only from May to November .
+8. He never talks about his ex-wife .
+9. Few people liked her .
+10. My aunt had three daughters .
 
 
 NODE MATCHING
 
-1. sweet -> ngọt
-2. pig -> con lợn
-3. look -> Nhìn
-4. dance -> nhảy
-5. send -> gửi
-6. real -> thực tế
-7. position -> chức vụ
-8. care -> chăm sóc
-9. big -> to lớn
-10. describe -> mô tả
+1. usual -> thường
+2. reader -> người đọc
+3. the -> cái
+4. activity -> hoạt động
+5. look -> Nhìn
+6. be v -> là v
+7. hard -> cứng
+8. June -> Tháng sáu
+9. secondly -> thứ hai
+10. start -> bắt đầu
 
 
 NODE REVIEW
 
-Q1: What is the meaning of: profile
-A. dự án
-B. bắt đầu
-C. sớm
-D. hồ sơ
+1. hard -> cứng
+Q2: What is the meaning of: disappear
+A. người mẫu
+B. thứ ba
+C. biến mất
+D. ôn tập
+Answer: C
+
+Q3: This system is found in other ___ as well .
+Answer: fish
+
+Q4: What is the meaning of: banana
+A. sau đó
+B. chết
+C. ăn
+D. chuối
 Answer: D
 
-Q2: Do you want to be ___ Tom ?
-Answer: near
+5. secondly -> thứ hai
+Q6: What is the meaning of: cigarette
+A. Có thể
+B. to lớn
+C. đối diện
+D. thuốc lá
+Answer: D
 
-3. What kind of music do you usually listen to?
-4. send -> gửi
-5. Check back next week.
-6. look -> Nhìn
-Q7: We 'll be ___ college next year .
-Answer: starting
+Q7: Do you ___ you were changed by what you saw ?
+Answer: think
 
-8. position -> chức vụ
-9. Tom is busy now.
-10. pig -> con lợn
+Q8: What is the meaning of: adult
+A. phim ảnh
+B. ngày lễ
+C. kỹ năng
+D. người lớn
+Answer: D
+
+9. In May 2015 , Brazil officially reported its first 16 cases of the illness .
+Q10: He told us what he had ___ .
+Answer: seen
+
 
 

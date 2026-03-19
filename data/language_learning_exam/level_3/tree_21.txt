@@ -1,144 +1,189 @@
-TREE 21: Law
+TREE 21
 ====================================
 
 NODE VOCAB
 
-Q1: What is the meaning of: condemn
-A. xấu đi
-B. mảnh vụn trôi nổi
-C. tàn phá
-D. lên án
+Q1: What is the meaning of: watchword
+A. khẩu hiệu
+B. sử dụng
+C. dự phòng
+D. hôn ước
+Answer: A
+
+Q2: What is the meaning of: transcendence
+A. đặc biệt
+B. siêu việt
+C. liều lĩnh
+D. phát sinh
+Answer: B
+
+Q3: What is the meaning of: utmost
+A. tối đa
+B. quyết định
+C. tư pháp
+D. lưu vực
+Answer: A
+
+Q4: What is the meaning of: parental
+A. sự hỗn loạn
+B. quấy rối
+C. cỡ nòng
+D. cha mẹ
 Answer: D
 
-Q2: What is the meaning of: to ostracise
-A. độ nhạy cảm
-B. người khắc kỷ
-C. biểu tượng
-D. tẩy chay
+Q5: What is the meaning of: exigent
+A. ngắn gọn
+B. vô ích
+C. phân tầng
+D. khẩn cấp
 Answer: D
 
-Q3: What is the meaning of: adversary
-A. sự tàn phá
-B. ghê tởm
-C. kẻ thù
-D. quở trách
+Q6: What is the meaning of: wipe
+A. sửa đổi
+B. mạnh mẽ
+C. lau đi
+D. sự phản xạ
 Answer: C
 
-Q4: What is the meaning of: dumb
-A. câm
-B. đầm lầy
-C. tổng thống
-D. phòng thủ
-Answer: A
-
-Q5: What is the meaning of: residence
-A. nơi cư trú
-B. quỳ lạy
-C. vô lý
-D. di sản
-Answer: A
-
-Q6: What is the meaning of: repugnant
-A. thai kỳ
-B. ghê tởm
-C. mắng mỏ
-D. chất ăn mòn
-Answer: B
-
-Q7: What is the meaning of: spouse
-A. sự thiếu thận trọng
-B. bình minh
-C. sinh thái
-D. vợ chồng
+Q7: What is the meaning of: glory
+A. cứng đầu
+B. thoáng qua
+C. giam giữ
+D. vinh quang
 Answer: D
 
-Q8: What is the meaning of: parsimony
-A. câu đố
-B. tiết kiệm
-C. nói nhiều
-D. bất cứ điều gì
+Q8: What is the meaning of: entourage
+A. nhân vật phản diện
+B. đoàn tùy tùng
+C. để đẩy nhanh
+D. sửa đổi
 Answer: B
 
-Q9: What is the meaning of: voracious
-A. tham ăn
-B. máy chủ proxy
-C. tị nạn
-D. nhà ở
-Answer: A
+Q9: What is the meaning of: foolhardiness
+A. phát sinh
+B. đồng hương
+C. ổn định
+D. sự liều lĩnh
+Answer: D
 
-Q10: What is the meaning of: vernacular
-A. ngôn ngữ bản địa
-B. kẻ khai man
-C. một số lượng rất lớn
-D. lá phiếu
-Answer: A
+Q10: What is the meaning of: residue
+A. dễ bảo
+B. đáng tin cậy
+C. dư lượng
+D. tinh thần thời đại
+Answer: C
 
 
 
 NODE LISTENING
 
+Q1: Cottontail rabbits show a greater ___ to myxomatosis than European rabbits .
+Answer: resistance
+
+Q2: Coagulation begins almost instantly after an injury to the blood ___ has damaged the endothelium lining the blood vessel .
+Answer: vessel
+
+Q3: TLR signaling ultimately leads to the induction or suppression of genes that orchestrate the ___ response .
+Answer: inflammatory
+
+Q4: Although certainly quadrupedal , the posture of horned dinosaurs has long been the ___ of some debate .
+Answer: subject
+
+Q5: Eros was one of the first asteroids visited by a spacecraft , the first one orbited , and the first one ___ - landed on .
+Answer: soft
+
+Q6: As most porn is ___ to men , most bisexual porn is marketed to heterosexual or bisexual men .
+Answer: marketed
+
+Q7: Restriction enzymes probably evolved from a common ancestor and became widespread by horizontal gene ___ .
+Answer: transfer
+
+Q8: Basophils contain large cytoplasmic granules which ___ the cell nucleus under the microscope when stained .
+Answer: obscure
+
+Q9: Construction began in AD 142 at the order of Roman Emperor Antoninus Pius , and took about ___ years to complete .
+Answer: twelve
+
+Q10: The molecular structure of mauveine proved difficult to ___ , finally being identified in 1994 .
+Answer: determine
+
 
 
 NODE SPEAKING
 
-1. If you don't want to go to that party, you don't have to.
+1. Cadmium sulfate is used to electroplate cadmium on electronic circuits .
+2. Instant messaging allows instantaneous communication between a number of parties simultaneously , by transmitting information quickly and efficiently , featuring immediate receipt of acknowledgment or reply .
+3. The song gained popularity in September 2016 , when a remix was uploaded onto the YouTube channel SiIvaGunner , where many memes and parody videos have been uploaded since .
+4. Alginate , agar and carrageenan are gelatinous seaweed products collectively known as hydrocolloids or phycocolloids .
+5. Phytohormones are found across the plant kingdom , and even in algae , where they have similar functions to those seen in higher plants .
+6. When the embryonic prosencephalon fails to divide the brain into two lobes , it results in a condition known as holoprosencephaly .
+7. While most of the energy released during gravitational collapse is emitted very quickly , an outside observer does not actually see the end of this process .
+8. Male convicts got paid for being servants or farm workers to free settlers , or in work groups on public works .
+9. Later ornithopods became larger , but never reached the huge size of the long-necked , long-tailed sauropods which they largely replaced .
+10. Gliese 581 c was thought to be habitable when it was discovered , and it was thought to be in the habitable zone .
 
 
 NODE MATCHING
 
-1. tenacity -> sự kiên trì
-2. solicitor -> luật sư
-3. pathos -> sự thương cảm
-4. churlish -> thô lỗ
-5. erudite -> uyên bác
-6. confession -> lời thú tội
-7. adverse -> bất lợi
-8. attorney -> luật sư
-9. to allude -> ám chỉ
-10. restitution -> bồi thường
+1. rudiment -> nguyên tắc cơ bản
+2. vestige -> dấu tích
+3. to construe -> để giải thích
+4. glory -> vinh quang
+5. permanence -> sự vĩnh cửu
+6. macrocosm -> vũ trụ vĩ mô
+7. to decimate -> để tàn phá
+8. ideology -> hệ tư tưởng
+9. torpid -> tê mê
+10. militant -> chiến binh
 
 
 NODE REVIEW
 
-Q1: What is the meaning of: residence
-A. di sản
-B. vô lý
-C. nơi cư trú
-D. quỳ lạy
-Answer: C
+Q1: What is the meaning of: transcendence
+A. phát sinh
+B. siêu việt
+C. đặc biệt
+D. liều lĩnh
+Answer: B
 
-2. restitution -> bồi thường
-3. erudite -> uyên bác
-4. attorney -> luật sư
-5. churlish -> thô lỗ
-Q6: What is the meaning of: parsimony
-A. bất cứ điều gì
-B. nói nhiều
-C. câu đố
-D. tiết kiệm
+Q2: What is the meaning of: exigent
+A. khẩn cấp
+B. phân tầng
+C. vô ích
+D. ngắn gọn
+Answer: A
+
+Q3: Although certainly quadrupedal , the posture of horned dinosaurs has long been the ___ of some debate .
+Answer: subject
+
+4. to decimate -> để tàn phá
+Q5: Basophils contain large cytoplasmic granules which ___ the cell nucleus under the microscope when stained .
+Answer: obscure
+
+Q6: What is the meaning of: glory
+A. vinh quang
+B. giam giữ
+C. thoáng qua
+D. cứng đầu
+Answer: A
+
+Q7: What is the meaning of: utmost
+A. lưu vực
+B. tư pháp
+C. quyết định
+D. tối đa
 Answer: D
 
-Q7: What is the meaning of: spouse
-A. sự thiếu thận trọng
-B. bình minh
-C. sinh thái
-D. vợ chồng
-Answer: D
+8. militant -> chiến binh
+Q9: What is the meaning of: watchword
+A. khẩu hiệu
+B. sử dụng
+C. dự phòng
+D. hôn ước
+Answer: A
 
-8. If you don't want to go to that party, you don't have to.
-Q9: What is the meaning of: to ostracise
-A. người khắc kỷ
-B. biểu tượng
-C. độ nhạy cảm
-D. tẩy chay
-Answer: D
-
-Q10: What is the meaning of: dumb
-A. phòng thủ
-B. đầm lầy
-C. câm
-D. tổng thống
-Answer: C
+Q10: Construction began in AD 142 at the order of Roman Emperor Antoninus Pius , and took about ___ years to complete .
+Answer: twelve
 
 
 

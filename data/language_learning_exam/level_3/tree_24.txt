@@ -1,137 +1,161 @@
-TREE 24: Innovation
+TREE 24
 ====================================
 
 NODE VOCAB
 
-Q1: What is the meaning of: aspire
-A. khát vọng
-B. cầu xin
-C. sự phân biệt chủng tộc
-D. thịt
-Answer: A
-
-Q2: What is the meaning of: eclectic
-A. bánh ngọt nhỏ
-B. sự thờ ơ
-C. nặng nề
-D. đa dạng
+Q1: What is the meaning of: to covet
+A. để làm rõ
+B. làm suy yếu
+C. sự giả tạo
+D. thèm muốn
 Answer: D
 
-Q3: What is the meaning of: whirlpool
-A. ám ảnh
-B. Tốt
-C. xoáy nước
-D. mềm dẻo
+Q2: What is the meaning of: impassive
+A. trơ trơ
+B. lòng thương xót
+C. lũ lụt
+D. sự gián đoạn
+Answer: A
+
+Q3: What is the meaning of: sage
+A. để tránh né
+B. sự ngoan cố
+C. cây xô thơm
+D. để chứng minh
 Answer: C
 
-Q4: What is the meaning of: utility
-A. cuộn sóng
-B. tính thiết thực
-C. quyết tâm
-D. thanh tra
-Answer: B
-
-Q5: What is the meaning of: attribute
-A. cướp biển
-B. thuộc tính
-C. cản trở
-D. tỷ lệ
-Answer: B
-
-Q6: What is the meaning of: prolific
-A. công tố viên
-B. ngay đơ
-C. năng suất cao
-D. lề đường
+Q4: What is the meaning of: tether
+A. người thích xem hình ảnh liên quan đến tình dục
+B. sự dũng cảm
+C. dây buộc
+D. độc lập
 Answer: C
 
-Q7: What is the meaning of: anomaly
-A. dị thường
-B. danh pháp
-C. nhún vai
-D. vật dằn
+Q5: What is the meaning of: spouse
+A. vợ chồng
+B. sự thiếu thận trọng
+C. bình minh
+D. sinh thái
 Answer: A
 
-Q8: What is the meaning of: imminent
-A. sắp xảy ra
-B. vắt kiệt
-C. hoán vị
-D. đại sứ quán
+Q6: What is the meaning of: accusation
+A. thuyết giảng
+B. cáo buộc
+C. liên lạc viên
+D. để đáp lại
+Answer: B
+
+Q7: What is the meaning of: segment
+A. tâm lý
+B. nghiêng
+C. phân đoạn
+D. khó tính
+Answer: C
+
+Q8: What is the meaning of: decree
+A. sắc lệnh
+B. phép chiếu
+C. cảm hứng
+D. bất cứ điều gì
 Answer: A
 
-Q9: What is the meaning of: tempt
-A. cám dỗ
-B. quan trọng
-C. giẫm đạp
-D. sứ giả
-Answer: A
+Q9: What is the meaning of: proceeds
+A. chiến trường
+B. người tuyên truyền
+C. tiền thu nhập
+D. phương pháp luận
+Answer: C
 
-Q10: What is the meaning of: blend
-A. trộn
-B. chủ nghĩa xét lại
-C. tẩy chay
-D. người theo chủ nghĩa thượng đẳng
+Q10: What is the meaning of: oxymoron
+A. nghịch lý
+B. văn bản
+C. doanh thu
+D. mong muốn
 Answer: A
 
 
 
 NODE LISTENING
 
+Q1: Zinc oxide is a white ___ .
+Answer: solid
+
+Q2: The head and thorax are white and the abdomen is yellow - orange with a row of black ___ .
+Answer: spots
+
+Q3: A classic example is the thermal ring - opening ___ of 3,4 - dimethylcyclobutene .
+Answer: reaction
+
+Q4: A ___ of other visiting diesel and steam locomotives have also seen service on the line .
+Answer: number
+
+Q5: Epidemiological practice and the results of epidemiological analysis make a significant contribution to emerging population - ___ health management frameworks .
+Answer: based
+
+Q6: These frogs lack adhesive toe discs found in the ___ frogs .
+Answer: tree
+
+Q7: A few species that live in waters where the supply of food particles is very poor ___ on crustaceans and other small animals .
+Answer: prey
+
+Q8: This ___ contributed greatly to understanding how each cerebral hemisphere works .
+Answer: research
+
+Q9: Although they are the most diverse of the caecilian families , the caeciliids do have a number of features in common that distinguish them from ___ caecilians .
+Answer: other
+
+Q10: Medications can ___ African trypanosomiasis .
+Answer: treat
+
 
 
 NODE SPEAKING
 
+1. Characteristic features are a very long filiform tail , reduced eyes , and a low number of pectoral - fin radials .
+2. Eunomia appears to be a stretched but fairly round body , with what appear to be four sides of differing curvature and noticeably different average compositions .
+3. A didgeridoo is a type of musical instrument that , according to western musicological classification , falls into the category of aerophone .
+4. A flounder 's food is mainly fish spawn , crustaceans , polychaetes and small fish .
+5. The shell colouration also keeps the animal cryptic in the water .
+6. Horse - drawn for-hire hackney carriage services began operating in both Paris and London in the early 17th century .
+7. The bumblebee bat roosts in the caves of limestone hills , along rivers , within dry evergreen or deciduous forests .
+8. Hummingbird beaks are flexible and their shapes vary dramatically as an adaptation for specialized feeding .
+9. Many traditional wood joinery techniques use the distinctive material properties of wood , often without resorting to mechanical fasteners or adhesives .
+10. Cyclothymia is also an old name for bipolar disorder .
 
 
 NODE MATCHING
 
-1. utility -> tính thiết thực
-2. width -> chiều rộng
-3. precursor -> tiền thân
-4. remnant -> tàn tích
-5. to dispense -> phân phát
-6. to beseech (v) -> van xin (v)
-7. tangible -> hữu hình
-8. hybrid -> lai
-9. nexus -> liên kết
-10. trinket -> đồ trang sức
+1. rumination -> sự suy ngẫm
+2. cooperative -> hợp tác xã
+3. reverential -> kính trọng
+4. kudos -> thanh danh
+5. arena -> đấu trường
+6. to excoriate -> chỉ trích gay gắt
+7. to vituperate -> chửi rủa
+8. shrug -> nhún vai
+9. slap -> tát
+10. misanthrope -> người ghét loài người
 
 
 NODE REVIEW
 
-Q1: What is the meaning of: aspire
-A. thịt
-B. khát vọng
-C. sự phân biệt chủng tộc
-D. cầu xin
+1. The bumblebee bat roosts in the caves of limestone hills , along rivers , within dry evergreen or deciduous forests .
+2. Cyclothymia is also an old name for bipolar disorder .
+3. rumination -> sự suy ngẫm
+Q4: This ___ contributed greatly to understanding how each cerebral hemisphere works .
+Answer: research
+
+5. Eunomia appears to be a stretched but fairly round body , with what appear to be four sides of differing curvature and noticeably different average compositions .
+6. arena -> đấu trường
+7. slap -> tát
+8. Hummingbird beaks are flexible and their shapes vary dramatically as an adaptation for specialized feeding .
+9. misanthrope -> người ghét loài người
+Q10: What is the meaning of: oxymoron
+A. văn bản
+B. nghịch lý
+C. doanh thu
+D. mong muốn
 Answer: B
 
-2. tangible -> hữu hình
-3. remnant -> tàn tích
-Q4: What is the meaning of: blend
-A. người theo chủ nghĩa thượng đẳng
-B. trộn
-C. chủ nghĩa xét lại
-D. tẩy chay
-Answer: B
-
-5. width -> chiều rộng
-Q6: What is the meaning of: eclectic
-A. đa dạng
-B. nặng nề
-C. sự thờ ơ
-D. bánh ngọt nhỏ
-Answer: A
-
-Q7: What is the meaning of: prolific
-A. công tố viên
-B. ngay đơ
-C. lề đường
-D. năng suất cao
-Answer: D
-
-8. hybrid -> lai
-9. to beseech (v) -> van xin (v)
-10. to dispense -> phân phát
 
 

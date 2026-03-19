@@ -1,175 +1,181 @@
-TREE 7: Shopping
+TREE 7
 ====================================
 
 NODE VOCAB
 
-Q1: What is the meaning of: costume
-A. Nhưng
-B. rộng
-C. danh tính
-D. trang phục
+Q1: What is the meaning of: isolated
+A. lông thú
+B. viên thuốc
+C. tử tế
+D. cô lập
 Answer: D
 
-Q2: What is the meaning of: nerve
-A. dây thần kinh
-B. thang
-C. giai điệu
-D. thuận lợi
-Answer: A
-
-Q3: What is the meaning of: collection
-A. thuận lợi
-B. bộ sưu tập
-C. nhà vô địch
-D. sản xuất
+Q2: What is the meaning of: edition
+A. tệ hơn
+B. phiên bản
+C. sự đồng cảm
+D. nội dung
 Answer: B
 
-Q4: What is the meaning of: brand
-A. tình nguyện viên
-B. thương hiệu
-C. tái nhợt
-D. nộp
-Answer: B
+Q3: What is the meaning of: that
+A. hộp sọ
+B. suy đoán
+C. thu hút
+D. cái đó
+Answer: D
 
-Q5: What is the meaning of: goods
-A. hàng hóa
-B. giống loài
-C. chuyên chở
-D. xấu hổ
-Answer: A
+Q4: What is the meaning of: outstanding
+A. cá nhân
+B. đủ điều kiện
+C. tranh cãi
+D. nổi bật
+Answer: D
 
-Q6: What is the meaning of: trap
-A. bao gồm
-B. B
-C. cạm bẫy
-D. tối thiểu
+Q5: What is the meaning of: monthly
+A. trội
+B. trượt
+C. khối
+D. hàng tháng
+Answer: D
+
+Q6: What is the meaning of: depressing
+A. hóa thạch
+B. có hại
+C. thật đáng buồn
+D. chế tạo
 Answer: C
 
-Q7: What is the meaning of: valuable
-A. yêu cầu
-B. có giá trị lớn
-C. Nước
-D. ga-ra
-Answer: B
+Q7: What is the meaning of: initially
+A. ban đầu
+B. nhịp độ
+C. khiêm tốn
+D. hồi phục
+Answer: A
 
-Q8: What is the meaning of: outfit
-A. thông báo
-B. hứa hẹn
-C. đoàn kết
-D. trang phục
-Answer: D
+Q8: What is the meaning of: remain
+A. duy trì
+B. kết hợp
+C. lòng can đảm
+D. hàng rào
+Answer: A
 
-Q9: What is the meaning of: purchase
-A. cứng
-B. mười hai
-C. người tham gia
-D. mua
-Answer: D
+Q9: What is the meaning of: integrate
+A. tích hợp
+B. hoàng gia
+C. thu hút
+D. thất vọng
+Answer: A
 
-Q10: What is the meaning of: discount
-A. bức tượng
-B. giảm giá
-C. thuê
-D. thu nhập
-Answer: B
+Q10: What is the meaning of: encounter
+A. bồi thẩm đoàn
+B. không ngờ tới
+C. bắt gặp
+D. không thể tránh khỏi
+Answer: C
 
 
 
 NODE LISTENING
 
-Q1: There were no customers , so we closed the shop ___ .
-Answer: early
+Q1: At about 10 : 3 0 AM the flight paths of the two aircraft intersected over the canyon , and they collided at a closing ___ of about 25 degrees .
+Answer: angle
 
-Q2: One thousand dollars ___ cover all the expenses for the party .
-Answer: will
+Q2: The 2016 census ___ that 51.3 % of residents spoke English , and 21.3 % spoke French , as their main language .
+Answer: found
 
-Q3: If ___ guitar were n't so expensive , I could buy it .
-Answer: that
+Q3: The sea contains a number of reefs , uninhabited islands and ___ hydrocarbon reserves .
+Answer: significant
 
-Q4: When does the post ___ open ?
-Answer: office
+Q4: The median income for a household in the ___ was $ 64,294 .
+Answer: county
 
-Q5: Tom found someone 's business card in his pocket , but couldn't remember where he got it .
-Answer: someone's
+Q5: Wind chill numbers are always lower than the air temperature for values where the formula is ___ .
+Answer: valid
 
-Q6: In the summer , I ___ short - sleeve shirts .
-Answer: wear
+Q6: The terracotta army figures were made in ___ .
+Answer: workshops
 
-Q7: Tom wondered how many ___ it took Mary to get ready for the party .
-Answer: hours
+Q7: Hi - Five has released three studio albums and one mini - ___ .
+Answer: album
 
-Q8: Tom bought an ___ ring for Mary with money he inherited from his grandfather .
-Answer: engagement
+Q8: Trees from the same region will ___ to develop the same patterns of ring widths for a given period .
+Answer: tend
 
-Q9: What surprised me most was that she did n't like candy .
-Answer: didn't
+Q9: The trip was fast , but the rate of people dying was the highest in the history of ___ to Australia .
+Answer: transportation
 
-Q10: I think I 've heard that somewhere before .
-Answer: i've
+Q10: The idiom is not ___ English .
+Answer: uniquely
 
 
 
 NODE SPEAKING
 
-1. Tom found someone's business card in his pocket, but couldn't remember where he got it.
-2. Who would wear that?
-3. If that guitar weren't so expensive, I could buy it.
-4. If you make your own clothes, it will save you money.
-5. I was planning on going to the beach today, but then it started to rain.
-6. Where did you get that?
-7. When I got out of prison, Tom helped me get back on my feet.
-8. You were always playing tricks on me when we were in junior high school.
-9. I think I've heard that somewhere before.
-10. In the summer, I wear short-sleeve shirts.
+1. Chopsticks are used in many countries .
+2. Games can be played on indoor or outdoor fields of varying sizes .
+3. The park holds 104 species of plants .
+4. Astronomy is one of the oldest sciences .
+5. Pollination in this genus is accomplished in an unusual manner , as the pollen is grouped into pollen sacs .
+6. At straight rail 's inception there was no restriction on the manner of scoring .
+7. Ostriches normally spend the winter months in pairs or alone .
+8. In the United States , the issue of mitigating factors is most important in death penalty cases .
+9. The shopping mall is located on both the northern and the southern side of the E4 motorway .
+10. Farmer was diagnosed with esophageal cancer in the spring of 1970 .
 
 
 NODE MATCHING
 
-1. pose -> tư thế
-2. balloon -> bóng bay
-3. expense -> chi phí
-4. dare -> dám
-5. goods -> hàng hóa
-6. display -> trưng bày
-7. brand -> thương hiệu
-8. rare -> hiếm
-9. grocery -> cửa hàng tạp hóa
-10. basement -> tầng hầm
+1. psychological -> tâm lý
+2. sex -> tình dục
+3. dislike -> không thích
+4. rare -> hiếm
+5. shock -> sốc
+6. judgement -> phán xét
+7. advanced -> trình độ cao
+8. shortage -> thiếu
+9. delay -> trì hoãn
+10. realistic -> thực tế
 
 
 NODE REVIEW
 
-Q1: What is the meaning of: brand
-A. tình nguyện viên
-B. thương hiệu
-C. nộp
-D. tái nhợt
-Answer: B
+1. Chopsticks are used in many countries .
+Q2: The terracotta army figures were made in ___ .
+Answer: workshops
 
-Q2: What is the meaning of: collection
-A. nhà vô địch
-B. sản xuất
-C. thuận lợi
-D. bộ sưu tập
-Answer: D
+Q3: What is the meaning of: that
+A. cái đó
+B. thu hút
+C. suy đoán
+D. hộp sọ
+Answer: A
 
-Q3: I think I 've heard that somewhere before .
-Answer: i've
+Q4: Hi - Five has released three studio albums and one mini - ___ .
+Answer: album
 
-4. Tom found someone's business card in his pocket, but couldn't remember where he got it.
-5. In the summer, I wear short-sleeve shirts.
-6. goods -> hàng hóa
-Q7: What is the meaning of: goods
-A. xấu hổ
-B. giống loài
-C. hàng hóa
-D. chuyên chở
+5. Games can be played on indoor or outdoor fields of varying sizes .
+Q6: What is the meaning of: isolated
+A. tử tế
+B. lông thú
+C. cô lập
+D. viên thuốc
 Answer: C
 
-8. If that guitar weren't so expensive, I could buy it.
-Q9: Tom wondered how many ___ it took Mary to get ready for the party .
-Answer: hours
+Q7: What is the meaning of: remain
+A. duy trì
+B. hàng rào
+C. lòng can đảm
+D. kết hợp
+Answer: A
 
-10. If you make your own clothes, it will save you money.
+8. The park holds 104 species of plants .
+9. The shopping mall is located on both the northern and the southern side of the E4 motorway .
+Q10: What is the meaning of: monthly
+A. trượt
+B. trội
+C. hàng tháng
+D. khối
+Answer: C
+
 
 

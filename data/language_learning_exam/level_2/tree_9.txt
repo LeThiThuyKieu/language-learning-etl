@@ -1,179 +1,181 @@
-TREE 9: Education
+TREE 9
 ====================================
 
 NODE VOCAB
 
-Q1: What is the meaning of: elect
-A. rõ ràng
-B. bầu cử
-C. xác định
-D. từ
-Answer: B
-
-Q2: What is the meaning of: slide
-A. làm sợ hãi
-B. sẵn sàng
-C. khôn ngoan
-D. cầu trượt
-Answer: D
-
-Q3: What is the meaning of: defence
-A. phòng thủ
-B. hình phạt
-C. màn hình
-D. sở hữu
+Q1: What is the meaning of: giant
+A. người khổng lồ
+B. biến đổi
+C. sự trùng hợp
+D. nếp gấp
 Answer: A
 
-Q4: What is the meaning of: priority
-A. hướng dẫn
-B. loại trừ
-C. chiếu sáng
-D. sự ưu tiên
-Answer: D
-
-Q5: What is the meaning of: retire
-A. hy vọng
-B. đã sửa
-C. về hưu
-D. thừa nhận
+Q2: What is the meaning of: zone
+A. phán xét
+B. khôn ngoan
+C. vùng
+D. chắc chắn
 Answer: C
 
-Q6: What is the meaning of: approval
-A. sự chấp thuận
-B. viện
-C. thổi
-D. nứt
-Answer: A
-
-Q7: What is the meaning of: examination
-A. chi tiết
-B. lặp lại
-C. giai điệu
-D. bài kiểm tra
+Q3: What is the meaning of: planning
+A. hơn nữa
+B. thiết yếu
+C. Cổ phần
+D. lập kế hoạch
 Answer: D
 
-Q8: What is the meaning of: scholar
-A. món nợ
-B. học giả
-C. sự đánh giá
-D. chèo
+Q4: What is the meaning of: difficulty
+A. tiếp theo
+B. tuyệt vọng
+C. khó khăn
+D. trụ sở
+Answer: C
+
+Q5: What is the meaning of: associate
+A. vị trí
+B. mở rộng
+C. bơi
+D. kết hợp
+Answer: D
+
+Q6: What is the meaning of: resolve
+A. lạc quan
+B. không công bằng
+C. một cách đầy đủ
+D. giải quyết
+Answer: D
+
+Q7: What is the meaning of: estimate
+A. ước lượng
+B. phi hành đoàn
+C. không cần thiết
+D. trao đổi
+Answer: A
+
+Q8: What is the meaning of: translation
+A. đơn giản
+B. bản dịch
+C. chặt
+D. tham vọng
 Answer: B
 
-Q9: What is the meaning of: talent
-A. bác sĩ phẫu thuật
-B. tài năng
-C. tốc độ
-D. công ty
-Answer: B
+Q9: What is the meaning of: needle
+A. biến đổi
+B. NÓ
+C. thu nhập
+D. cây kim
+Answer: D
 
-Q10: What is the meaning of: derive
-A. suy ra
-B. nhiên liệu
-C. toàn bộ
-D. bản nháp
+Q10: What is the meaning of: theme
+A. chủ đề
+B. tuyển dụng
+C. móng tay
+D. nhà tù
 Answer: A
 
 
 
 NODE LISTENING
 
-Q1: Learning is one thing , and common ___ another .
-Answer: sense
+Q1: Other theorems have a known ___ that cannot easily be written down .
+Answer: proof
 
-Q2: People learn ___ experience .
-Answer: from
+Q2: In October 2015 , the ___ were abolished .
+Answer: districts
 
-Q3: I programed my first computer game ___ I was twelve years old .
-Answer: when
+Q3: The process of ___ reproduction has three major parts .
+Answer: cell
 
-Q4: Tom gave Mary ___ advice on how to pass multiple - choice tests .
-Answer: some
+Q4: In the 14th century , the word described the roughness of woven ___ before it was cut .
+Answer: cloth
 
-Q5: This work is simple enough that ___ a child can do it .
-Answer: even
+Q5: He also persuaded his ___ to buy new equipment because he wanted a modern , efficient police force .
+Answer: authority
 
-Q6: I ___ you to teach Tom how to do that .
-Answer: want
+Q6: Tropical disturbances that reach tropical storm intensity are named from a pre - ___ list .
+Answer: determined
 
-Q7: She was chosen from among ___ students .
-Answer: many
+Q7: Even though astronomers tried to ___ it again , it has not been reliably seen since .
+Answer: find
 
-Q8: How many ___ have you studied French ?
-Answer: years
+Q8: Turbine selection is based mostly on the available water head , and less so on the available ___ rate .
+Answer: flow
 
-Q9: Tom began to worry about how he was ___ to pay for his son 's education .
-Answer: going
+Q9: The meaning and intent are sometimes mirrored in different ___ .
+Answer: terms
 
-Q10: If you leave ___ textbooks at school during the break , they 'll get confiscated .
-Answer: your
+Q10: An elbow smash is where a wrestler makes a punching motion , tucks their hand towards their chest so the elbow and forearm make ___ .
+Answer: contact
 
 
 
 NODE SPEAKING
 
-1. Because of the typhoon, the school was closed.
-2. I programed my first computer game when I was twelve years old.
-3. If I were younger, I would go abroad to study.
-4. When you have a question, ask the teacher.
-5. Tom began to worry about how he was going to pay for his son's education.
-6. When the bell rang, the teacher ended the class.
-7. You have to study French whether you like it or not.
-8. My teacher told me that I should have spent more time preparing my speech.
-9. If you leave your textbooks at school during the break, they'll get confiscated.
-10. Learning is one thing, and common sense another.
+1. The vibrant colors of the coat of arms are to point to a bright future for the islands .
+2. The burgh has a population of approximately 1,300 with about 25 per cent of pensionable age .
+3. During the Iron Age humans started using iron for making tools and weapons .
+4. These birds feed on nectar from flowers using a long tongue .
+5. In the United States , campaigns have made people believe that wildfires are always bad for nature .
+6. A number of plateaus make up a large part of the plain .
+7. Chicken or veal parmigiana has become very popular in Australia as a pub dish , often served with chips and salad .
+8. The British used parts of North America as a penal colony .
+9. These are large birds , with colorful male plumage , but are nevertheless difficult to see in the dense vegetation they inhabit .
+10. About 400 hotels and restaurants were ordered to close for violating local environmental laws , while 3 casinos have been permanently shut down .
 
 
 NODE MATCHING
 
-1. living -> cuộc sống
-2. assignment -> phân công
-3. senior -> người lớn tuổi
-4. discipline -> kỷ luật
-5. hesitate -> do dự
-6. percentage -> phần trăm
-7. thesis -> luận văn
-8. whom -> ai
-9. demand -> yêu cầu
-10. elementary -> tiểu học
+1. unfold -> mở ra
+2. partnership -> quan hệ đối tác
+3. summary -> bản tóm tắt
+4. steadily -> đều đặn
+5. exit -> ra
+6. chief -> trưởng
+7. monitor -> màn hình
+8. documentary -> phim tài liệu
+9. distinguish -> phân biệt
+10. transfer -> chuyển khoản
 
 
 NODE REVIEW
 
-Q1: What is the meaning of: derive
-A. suy ra
-B. bản nháp
-C. toàn bộ
-D. nhiên liệu
-Answer: A
+1. About 400 hotels and restaurants were ordered to close for violating local environmental laws , while 3 casinos have been permanently shut down .
+2. During the Iron Age humans started using iron for making tools and weapons .
+Q3: He also persuaded his ___ to buy new equipment because he wanted a modern , efficient police force .
+Answer: authority
 
-Q2: What is the meaning of: approval
-A. thổi
-B. sự chấp thuận
-C. viện
-D. nứt
+4. The vibrant colors of the coat of arms are to point to a bright future for the islands .
+5. A number of plateaus make up a large part of the plain .
+Q6: What is the meaning of: resolve
+A. lạc quan
+B. không công bằng
+C. một cách đầy đủ
+D. giải quyết
+Answer: D
+
+Q7: In October 2015 , the ___ were abolished .
+Answer: districts
+
+Q8: What is the meaning of: translation
+A. tham vọng
+B. bản dịch
+C. chặt
+D. đơn giản
 Answer: B
 
-3. Tom began to worry about how he was going to pay for his son's education.
-Q4: If you leave ___ textbooks at school during the break , they 'll get confiscated .
-Answer: your
+Q9: What is the meaning of: estimate
+A. không cần thiết
+B. trao đổi
+C. phi hành đoàn
+D. ước lượng
+Answer: D
 
-5. assignment -> phân công
-Q6: This work is simple enough that ___ a child can do it .
-Answer: even
-
-7. percentage -> phần trăm
-Q8: She was chosen from among ___ students .
-Answer: many
-
-Q9: I ___ you to teach Tom how to do that .
-Answer: want
-
-Q10: What is the meaning of: defence
-A. sở hữu
-B. phòng thủ
-C. màn hình
-D. hình phạt
-Answer: B
+Q10: What is the meaning of: planning
+A. hơn nữa
+B. thiết yếu
+C. lập kế hoạch
+D. Cổ phần
+Answer: C
 
 
 

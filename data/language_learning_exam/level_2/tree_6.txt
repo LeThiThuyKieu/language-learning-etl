@@ -1,182 +1,170 @@
-TREE 6: Travel
+TREE 6
 ====================================
 
 NODE VOCAB
 
-Q1: What is the meaning of: passionate
-A. thay đổi
-B. bảng câu hỏi
-C. bị thương
-D. say đắm
+Q1: What is the meaning of: isolate
+A. tín dụng
+B. sự sáng tạo
+C. bạn
+D. phân lập
 Answer: D
 
-Q2: What is the meaning of: species
-A. giống loài
-B. khó chịu
-C. phân bổ
-D. sân bóng đá
+Q2: What is the meaning of: contest
+A. sẵn sàng
+B. điều bất lợi
+C. đàm phán
+D. cuộc thi
+Answer: D
+
+Q3: What is the meaning of: range
+A. rộng lớn
+B. tình bạn
+C. phạm vi
+D. trên
+Answer: C
+
+Q4: What is the meaning of: fascinating
+A. chất
+B. chính trị
+C. trong khi đó
+D. lôi cuốn
+Answer: D
+
+Q5: What is the meaning of: manufacture
+A. sản xuất
+B. nguyên tắc
+C. sự nhiệt tình
+D. vững chắc
 Answer: A
 
-Q3: What is the meaning of: frightening
-A. lực lượng lao động
-B. không thể chấp nhận được
-C. ba lê
-D. đáng sợ
+Q6: What is the meaning of: parade
+A. yêu cầu
+B. tài chính
+C. thương hiệu
+D. cuộc diễu hành
 Answer: D
 
-Q4: What is the meaning of: permanently
-A. nhận xét
-B. thực sự
-C. vượt qua
-D. vĩnh viễn
-Answer: D
-
-Q5: What is the meaning of: agreement
-A. hiệp định
-B. tấn công
-C. đông lạnh
-D. ngoài trời
+Q7: What is the meaning of: switch
+A. công tắc
+B. nhấn
+C. hung dữ
+D. khắc nghiệt
 Answer: A
 
-Q6: What is the meaning of: obtain
-A. đề xuất
-B. sự thu hút
-C. bản tóm tắt
-D. đạt được
-Answer: D
-
-Q7: What is the meaning of: mission
-A. Sứ mệnh
-B. vững chắc
-C. đoạn clip
-D. trong khi
+Q8: What is the meaning of: tube
+A. ống
+B. mở rộng
+C. cánh
+D. trung tâm mua sắm
 Answer: A
 
-Q8: What is the meaning of: lack
-A. làm tổn thương
-B. lụt
-C. lúa mì
-D. thiếu
+Q9: What is the meaning of: wrap
+A. ổn định
+B. có liên quan
+C. chịu trách nhiệm
+D. bọc
 Answer: D
 
-Q9: What is the meaning of: destination
-A. hướng dẫn
-B. vùng ngoại ô
-C. phong cảnh
-D. điểm đến
+Q10: What is the meaning of: excessive
+A. gọn gàng
+B. áp lực
+C. đáng kể
+D. quá mức
 Answer: D
-
-Q10: What is the meaning of: depart
-A. giả thuyết
-B. khởi hành
-C. tiêu chuẩn
-D. cướp
-Answer: B
 
 
 
 NODE LISTENING
 
-Q1: You can do ___ you want to do , of course .
-Answer: whatever
+Q1: Orders of magnitude are generally used to make very approximate ___ .
+Answer: comparisons
 
-Q2: There were demonstrations against the ___ by Japanese university students in the 1960 ' s .
-Answer: government
+Q2: The ___ has ruled that the $ 2.7 billion in school funding was inadequate and distributed unfairly .
+Answer: court
 
-Q3: It has been ten years since I ___ Japan .
-Answer: left
+Q3: Stubing died on 3 July 2017 at her home in Rome from ___ myeloma at the age of 76 .
+Answer: multiple
 
-Q4: I have n't decided yet whether I will attend the ___ .
-Answer: party
+Q4: A few ___ live in waters where there is very little food available .
+Answer: species
 
-Q5: If we do n't leave ___ , we wo n't get there while it 's still light .
-Answer: soon
+Q5: Cold seeps ___ over fissures on the seafloor caused by tectonic activity .
+Answer: occur
 
-Q6: I do n't ___ when he returned from France .
-Answer: know
+Q6: The throwback uniforms would have an ___ on future seasons in the NHL , as several teams adopted throwbacks as alternate jerseys .
+Answer: impact
 
-Q7: Tom just told me that he does n't plan to stay in Boston .
-Answer: doesn't
+Q7: The film was very well received by ___ and audiences .
+Answer: critics
 
-Q8: If I were younger , I would go abroad to ___ .
-Answer: study
+Q8: Most automobiles today use drive shafts to ___ power from the engine to the wheels .
+Answer: deliver
 
-Q9: If you go to the movies , take your sister ___ you .
-Answer: with
+Q9: Breeding in this family begins at the ___ of the rainy season .
+Answer: start
 
-Q10: I 'm pretty ___ that Tom has never been to Boston .
-Answer: sure
+Q10: Absinthe has a ___ green color but may also be colorless .
+Answer: natural
 
 
 
 NODE SPEAKING
 
-1. Tom believes that there is a time and a place for everything.
-2. You're not really going, are you?
-3. We regret that you have to leave.
-4. Stay where you are, please.
-5. We'd be happy if you could come with us.
-6. I'm pretty sure that Tom has never been to Boston.
-7. It has been ten years since I left Japan.
-8. I think you should find out when Tom plans to leave.
-9. When will they arrive?
-10. You never told me that you didn't know how to speak French.
+1. In appearance it is light yellow and opaque , smooth and creamy .
+2. Businesses usually have some kind of fax system , but the technology has faced increasing competition from Internet - based methods .
+3. Canada is a federation composed of ten provinces and three territories .
+4. Teams are given up to four clues and must try to figure out the connection between them within 40 seconds .
+5. French explorers and fur traders were the first Europeans in the subregion .
+6. As a result , the two worlds collide and it seems they are doomed by circumstance .
+7. Dredge nets have a coarse mesh in order to let organisms smaller than the target species through .
+8. It affects up to 80 percent of all patients who have had diabetes for 10 years or more .
+9. Gas chambers have been used for capital punishment in the United States to execute death row inmates .
+10. Water wheels have been used for hundreds of years for industrial power .
 
 
 NODE MATCHING
 
-1. spice -> gia vị
-2. shortly -> không lâu sau
-3. empire -> đế chế
-4. melt -> tan chảy
-5. widespread -> phổ biến
-6. found -> thành lập
-7. dozen -> mười hai
-8. magnificent -> tuyệt vời
-9. approximately -> khoảng
-10. pleasant -> dễ thương
+1. northern -> phía bắc
+2. rugby -> bóng bầu dục
+3. basket -> rổ
+4. emergency -> khẩn cấp
+5. defend -> phòng vệ
+6. explode -> nổ
+7. chest -> ngực
+8. alter -> thay đổi
+9. discount -> giảm giá
+10. gentle -> dịu dàng
 
 
 NODE REVIEW
 
-1. empire -> đế chế
-Q2: Tom just told me that he does n't plan to stay in Boston .
-Answer: doesn't
+Q1: The throwback uniforms would have an ___ on future seasons in the NHL , as several teams adopted throwbacks as alternate jerseys .
+Answer: impact
 
-Q3: What is the meaning of: agreement
-A. đông lạnh
-B. hiệp định
-C. ngoài trời
-D. tấn công
+Q2: What is the meaning of: isolate
+A. bạn
+B. phân lập
+C. sự sáng tạo
+D. tín dụng
 Answer: B
 
-Q4: If you go to the movies , take your sister ___ you .
-Answer: with
+Q3: Breeding in this family begins at the ___ of the rainy season .
+Answer: start
 
-Q5: What is the meaning of: passionate
-A. bị thương
-B. thay đổi
-C. bảng câu hỏi
-D. say đắm
-Answer: D
+4. It affects up to 80 percent of all patients who have had diabetes for 10 years or more .
+5. As a result , the two worlds collide and it seems they are doomed by circumstance .
+6. alter -> thay đổi
+7. gentle -> dịu dàng
+Q8: Stubing died on 3 July 2017 at her home in Rome from ___ myeloma at the age of 76 .
+Answer: multiple
 
-Q6: What is the meaning of: species
-A. khó chịu
-B. sân bóng đá
-C. phân bổ
-D. giống loài
-Answer: D
-
-7. Stay where you are, please.
-8. melt -> tan chảy
-Q9: There were demonstrations against the ___ by Japanese university students in the 1960 ' s .
-Answer: government
-
-Q10: What is the meaning of: obtain
-A. bản tóm tắt
-B. đạt được
-C. sự thu hút
-D. đề xuất
+9. rugby -> bóng bầu dục
+Q10: What is the meaning of: fascinating
+A. chất
+B. lôi cuốn
+C. chính trị
+D. trong khi đó
 Answer: B
 
 

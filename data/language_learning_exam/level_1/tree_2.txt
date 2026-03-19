@@ -1,171 +1,181 @@
-TREE 2: Family
+TREE 2
 ====================================
 
 NODE VOCAB
 
-Q1: What is the meaning of: blow
-A. thổi
-B. vâng
-C. nghĩa
-D. hát
-Answer: A
+Q1: What is the meaning of: beat
+A. quảng cáo
+B. tiết tấu
+C. mười ba
+D. sa mạc
+Answer: B
 
-Q2: What is the meaning of: maybe
-A. phòng
-B. bởi vì
-C. Có lẽ
-D. ở giữa
+Q2: What is the meaning of: businessman
+A. dạy bảo
+B. cá
+C. doanh nhân
+D. giờ
 Answer: C
 
-Q3: What is the meaning of: boyfriend
-A. bạn trai
-B. Thân mến
-C. cô
-D. bao gồm
-Answer: A
-
-Q4: What is the meaning of: up
-A. hướng lên
-B. sai lầm
-C. quà
-D. được rồi
-Answer: A
-
-Q5: What is the meaning of: with
-A. trống
-B. bắt đầu
-C. bé nhỏ
-D. với
+Q3: What is the meaning of: window
+A. đường
+B. sớm
+C. nặng
+D. cửa sổ
 Answer: D
 
-Q6: What is the meaning of: bowl
-A. lý do
-B. thường xuyên
-C. cái bát
-D. nhạc kịch
+Q4: What is the meaning of: dad
+A. con ếch
+B. lạ lùng
+C. địa điểm
+D. bố
+Answer: D
+
+Q5: What is the meaning of: driver
+A. có thể
+B. Chắc chắn
+C. được rồi
+D. tài xế
+Answer: D
+
+Q6: What is the meaning of: negative
+A. tiêu cực
+B. kem
+C. người lớn
+D. thuê
+Answer: A
+
+Q7: What is the meaning of: weight
+A. gửi
+B. tức giận
+C. lợi thế
+D. cân nặng
+Answer: D
+
+Q8: What is the meaning of: board
+A. phía nam
+B. mập
+C. nghệ sĩ
+D. Cái bảng
+Answer: D
+
+Q9: What is the meaning of: example
+A. quần jean
+B. quốc tế
+C. ví dụ
+D. mét
 Answer: C
 
-Q7: What is the meaning of: face
-A. khuôn mặt
-B. ồn ào
-C. tính từ phải
-D. người nổi tiếng
-Answer: A
-
-Q8: What is the meaning of: old
-A. tiêu
-B. người
-C. tắt
-D. cũ
-Answer: D
-
-Q9: What is the meaning of: move
-A. di chuyển
-B. thuốc lá
-C. cái bụng
-D. tiếng nói
-Answer: A
-
-Q10: What is the meaning of: son
-A. sớm
-B. cỏ
-C. xuất sắc
-D. con trai
-Answer: D
+Q10: What is the meaning of: model
+A. to lớn
+B. mười lăm
+C. người mẫu
+D. đôi
+Answer: C
 
 
 
 NODE LISTENING
 
-Q1: Tell Tom where we 've gone .
-Answer: we've
+Q1: Have you ever gone to sleep on a ___ ?
+Answer: train
 
-Q2: I 'll go back to Boston .
-Answer: i'll
+Q2: The airport was closed for about five ___ after the crash .
+Answer: hours
 
-Q3: I do n't know much about your family .
-Answer: don't
+Q3: I buy my ___ from a local baker .
+Answer: bread
 
-Q4: We have ___ to do .
-Answer: things
+Q4: Our kids have ___ deciding what to wear to school .
+Answer: trouble
 
-Q5: Tom does n't ever want to get married .
-Answer: doesn't
+Q5: Freestyle snowboarding is now an Olympic ___ .
+Answer: sport
 
-Q6: I ran into Mary at a party last ___ .
-Answer: week
+Q6: Please return my ___ as soon as possible .
+Answer: book
 
-Q7: We 've got our own ___ .
-Answer: problems
+Q7: Historically , Latin or Romance has been the official ___ .
+Answer: language
 
-Q8: Tom ___ up that habit from his father .
-Answer: picked
+Q8: He has already left for his ___ .
+Answer: class
 
-Q9: We did n't ___ it .
-Answer: create
+Q9: Jane had a nice ___ collection .
+Answer: jacket
 
-Q10: My ___ were born in Boston .
-Answer: children
+Q10: Is it ___ 5 p . m . ?
+Answer: already
 
 
 
 NODE SPEAKING
 
-1. Tom doesn't want to work with me.
-2. Tom proposed to Mary.
-3. Won't you have some cake?
-4. I know the owner.
-5. You need this more than I do.
-6. She looks like her mother.
-7. Tom is being fired.
-8. We agreed we'd give it a shot.
-9. Can I have another one?
-10. We must work together.
+1. We went to look for food .
+2. Pussy Riot released seven songs and five videos .
+3. The airport was closed for about five hours after the crash .
+4. She often wore her pajamas until noon .
+5. Let me get you your coat .
+6. Have you changed your hairstyle ?
+7. He died on 12 July 2019 , four days before his 85th birthday .
+8. She made many friends before leaving the country .
+9. Historically , Latin or Romance has been the official language .
+10. It was then that I saw her .
 
 
 NODE MATCHING
 
-1. dad -> bố
-2. teenage -> thiếu niên
-3. bird -> chim
-4. cup -> tách
-5. organization -> tổ chức
-6. cow -> con bò
-7. up -> hướng lên
-8. husband -> chồng
-9. fan -> cái quạt
-10. neck -> cổ
+1. pound -> pao
+2. firstly -> Trước hết
+3. dark -> tối tăm
+4. disaster -> thảm họa
+5. restaurant -> nhà hàng
+6. far -> xa
+7. wrong -> sai
+8. routine -> lịch trình
+9. hat -> mũ
+10. follow -> theo
 
 
 NODE REVIEW
 
-1. Can I have another one?
-Q2: Tom does n't ever want to get married .
-Answer: doesn't
+1. Historically , Latin or Romance has been the official language .
+Q2: What is the meaning of: window
+A. đường
+B. sớm
+C. cửa sổ
+D. nặng
+Answer: C
 
-3. Tom proposed to Mary.
-Q4: I do n't know much about your family .
-Answer: don't
+Q3: Our kids have ___ deciding what to wear to school .
+Answer: trouble
 
-Q5: What is the meaning of: maybe
-A. bởi vì
-B. phòng
-C. ở giữa
-D. Có lẽ
+4. far -> xa
+Q5: What is the meaning of: businessman
+A. cá
+B. dạy bảo
+C. giờ
+D. doanh nhân
 Answer: D
 
-6. dad -> bố
-7. cup -> tách
-Q8: What is the meaning of: blow
-A. nghĩa
-B. vâng
-C. hát
-D. thổi
+Q6: What is the meaning of: dad
+A. địa điểm
+B. lạ lùng
+C. bố
+D. con ếch
+Answer: C
+
+Q7: Historically , Latin or Romance has been the official ___ .
+Answer: language
+
+8. The airport was closed for about five hours after the crash .
+Q9: What is the meaning of: beat
+A. sa mạc
+B. mười ba
+C. quảng cáo
+D. tiết tấu
 Answer: D
 
-9. Won't you have some cake?
-Q10: We have ___ to do .
-Answer: things
-
+10. routine -> lịch trình
 
 
