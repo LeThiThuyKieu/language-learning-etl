@@ -7,11 +7,12 @@ import csv from "csv-parser";
 import path from "path";
 import { fileURLToPath } from "url";
 
-import { mapNodeId } from "./ai/node-mapper.ts";
+// Import hàm mới từ node-mapper.ts
+import { getNodeId, getLevelNodeMap } from "./node-mapper.ts";
 import {
   getTreesByLevel,
   distributeByTree
-} from "./ai/tree-distributor.ts";
+} from "./tree-distributor.ts";
 
 dotenv.config({ quiet: true });
 
@@ -141,6 +142,7 @@ async function runETL() {
           treeId: number,
           levelId: number,
           questions: any[],
+          nodeMap: Record<string, number> // Thêm tham số nodeMap để lấy ID chính xác
         ) {
           if (!questions || questions.length === 0) return;
           for (const item of questions) {
@@ -180,8 +182,9 @@ async function runETL() {
 
               // question type để map node_id
               const qType = String(item.question_type || "VOCAB").toUpperCase();
-              // map node_id dựa trên treeId và question type
-              const nodeId = mapNodeId(treeId, qType);
+              
+              // CẬP NHẬT: map node_id dựa trên treeId và question type (Ưu tiên lấy từ Map database)
+              const nodeId = getNodeId(treeId, qType, nodeMap);
 
               // Insert vào MySQL
               await mysqlConn.execute(
@@ -207,21 +210,27 @@ async function runETL() {
         }
 
         // easy
+        console.log("Processing Level 1 (Easy)...");
+        const nodeMapL1 = await getLevelNodeMap(mysqlConn, 1); // Lấy bản đồ Node của Level 1
         for (const treeId of easyTrees) {
           const questions = easyMap[treeId];
-          await processQuestions(treeId, 1, questions);
+          await processQuestions(treeId, 1, questions, nodeMapL1);
         }
 
         // medium
+        console.log("Processing Level 2 (Medium)...");
+        const nodeMapL2 = await getLevelNodeMap(mysqlConn, 2); // Lấy bản đồ Node của Level 2
         for (const treeId of mediumTrees) {
           const questions = mediumMap[treeId];
-          await processQuestions(treeId, 2, questions);
+          await processQuestions(treeId, 2, questions, nodeMapL2);
         }
 
         // hard
+        console.log("Processing Level 3 (Hard)...");
+        const nodeMapL3 = await getLevelNodeMap(mysqlConn, 3); // Lấy bản đồ Node của Level 3
         for (const treeId of hardTrees) {
           const questions = hardMap[treeId];
-          await processQuestions(treeId, 3, questions);
+          await processQuestions(treeId, 3, questions, nodeMapL3);
         }
 
         console.log("Dữ liệu đã được xử lý xong và lưu vào MongoDB & MySQL!");

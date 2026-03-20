@@ -1,137 +1,165 @@
-TREE 25: Global Issues
+TREE 25
 ====================================
 
 NODE VOCAB
 
-Q1: What is the meaning of: boundary
-A. sự vô ích
-B. chóng mặt
-C. ranh giới
-D. thông đồng
+Q1: What is the meaning of: snooty
+A. quang phổ
+B. khuynh hướng
+C. kiêu căng
+D. người đoạt giải
 Answer: C
 
-Q2: What is the meaning of: naivety
-A. sự ngây thơ
-B. mạ kẽm
-C. sự đảm bảo
-D. thô lỗ
+Q2: What is the meaning of: ploy
+A. mưu mẹo
+B. người tố giác
+C. sự trả thù
+D. trung cấp
 Answer: A
 
-Q3: What is the meaning of: transgression
-A. kích thích
-B. khẩn cấp
-C. cổ xưa
-D. sự vi phạm
+Q3: What is the meaning of: terrain
+A. bục vinh danh
+B. thỉnh thoảng
+C. thành thật mà nói
+D. địa hình
 Answer: D
 
-Q4: What is the meaning of: to supplant
-A. sự thiếu thốn
-B. hỗ trợ
-C. bổ sung
-D. để thay thế
+Q4: What is the meaning of: spy
+A. gián điệp
+B. sự suy đồi
+C. sự phóng túng
+D. đại sứ quán
+Answer: A
+
+Q5: What is the meaning of: undercurrent
+A. dâm dục
+B. thực thi
+C. thư mục
+D. dòng chảy ngầm
 Answer: D
 
-Q5: What is the meaning of: unprecedented
-A. chưa từng có
-B. say mê
-C. tịch thu
-D. sự bối rối
+Q6: What is the meaning of: opulent
+A. xa hoa
+B. xâm phạm
+C. người cầu kỳ
+D. gián đoạn
 Answer: A
 
-Q6: What is the meaning of: denial
-A. phân bổ
-B. người yêu dấu
-C. thiếu sót
-D. sự phủ nhận
+Q7: What is the meaning of: halo
+A. sự đau khổ
+B. phong cách
+C. quầng sáng
+D. thời trung cổ
+Answer: C
+
+Q8: What is the meaning of: bravado
+A. người tiên phong
+B. sự dũng cảm
+C. sự giải thoát
+D. di cư
+Answer: B
+
+Q9: What is the meaning of: transient
+A. phô trương
+B. đáng lo ngại
+C. thoáng qua
+D. phần cuối
+Answer: C
+
+Q10: What is the meaning of: whip
+A. uyên bác
+B. tối hậu thư
+C. tấm chắn
+D. roi da
 Answer: D
-
-Q7: What is the meaning of: tempestuous
-A. mạnh mẽ
-B. mỉa mai
-C. để làm no
-D. bão tố
-Answer: D
-
-Q8: What is the meaning of: renegade
-A. kẻ phản bội
-B. sợi
-C. giáo phái
-D. tiếp tuyến
-Answer: A
-
-Q9: What is the meaning of: complement
-A. bổ sung
-B. phân bổ
-C. trùng khớp
-D. sự phục tùng
-Answer: A
-
-Q10: What is the meaning of: shackle
-A. còng
-B. thành tựu
-C. yêu cầu
-D. sự hoan nghênh
-Answer: A
 
 
 
 NODE LISTENING
 
+Q1: By the 7th millennium BCE , exceedingly large and organized ___ were found in the region , relying on deep wells for sources of water .
+Answer: settlements
+
+Q2: However , during the 20th century the ___ deteriorated due to pollution .
+Answer: river
+
+Q3: Nine - banded armadillos are ___ insectivores .
+Answer: mostly
+
+Q4: The five subspecies of the short - beaked echidna are each found in ___ geographical locations .
+Answer: different
+
+Q5: The nipples of nursing ___ naturally make a lubricant to prevent drying , cracking , or infections .
+Answer: mothers
+
+Q6: This ___ used to be classified as sea cucumbers in the echinoderms .
+Answer: class
+
+Q7: The posterior pituitary is actually an ___ of the hypothalamus .
+Answer: extension
+
+Q8: Germanicus ' campaign had been taken to avenge the Teutoburg slaughter and also partially in reaction to indications of mutinous ___ amongst his troops .
+Answer: intent
+
+Q9: Blood ___ from the heart to arteries , which branch and narrow into smaller arteries , and then branch more into capillaries .
+Answer: moves
+
+Q10: The mercury inside the tube is ___ and makes these bulbs hazardous waste .
+Answer: toxic
+
 
 
 NODE SPEAKING
 
+1. In pre-modern society , the ordeal typically ranked along with the oath and witness accounts as the central means by which to reach a judicial verdict .
+2. Blood flows from the heart through arteries , which branch and narrow into arterioles , and then branch further into capillaries where nutrients and wastes are exchanged .
+3. Pollinators are often visually attracted by the shape and colors of the labellum .
+4. Siboglinid tube worms , which may grow to over 2 m tall in the largest species , often form an important part of the community around a hydrothermal vent .
+5. Some types of chemotherapy are gonadotoxic and may cause infertility .
+6. Corticosteroids , such as dexamethasone and budesonide , have been shown to improve outcomes in children with all severities of croup .
+7. Drug trafficking and illicit drug use is a significant problem in Russia .
+8. The parathyroid glands are two pairs of glands usually positioned behind the left and right lobes of the thyroid .
+9. Astronomers now have evidence there is a supermassive black hole at the center of the galaxy .
+10. As an elliptical galaxy , Messier 49 has the physical form of a radio galaxy , but it only has the radio emission of a normal galaxy .
 
 
 NODE MATCHING
 
-1. conjecture -> phỏng đoán
-2. colossus -> người khổng lồ
-3. hatred -> sự thù hận
-4. alacrity -> sự nhanh nhẹn
-5. omission -> bỏ sót
-6. fallibility -> khả năng sai lầm
-7. weaken -> làm suy yếu
-8. coincide -> trùng khớp
-9. puerile -> trẻ con
-10. quarantine -> cách ly
+1. inception -> sự khởi đầu
+2. reminiscent -> gợi nhớ
+3. to forestall -> để ngăn chặn
+4. preposterous -> vô lý
+5. meditation -> thiền định
+6. evoke -> gợi lên
+7. charm -> sự quyến rũ
+8. vivacious -> sống động
+9. magnanimous -> hào phóng
+10. parody -> nhại lại
 
 
 NODE REVIEW
 
-1. fallibility -> khả năng sai lầm
-2. omission -> bỏ sót
-Q3: What is the meaning of: tempestuous
-A. mạnh mẽ
-B. bão tố
-C. mỉa mai
-D. để làm no
-Answer: B
-
-4. coincide -> trùng khớp
-Q5: What is the meaning of: naivety
-A. mạ kẽm
-B. sự đảm bảo
-C. sự ngây thơ
-D. thô lỗ
+1. Corticosteroids , such as dexamethasone and budesonide , have been shown to improve outcomes in children with all severities of croup .
+2. preposterous -> vô lý
+Q3: What is the meaning of: terrain
+A. thỉnh thoảng
+B. thành thật mà nói
+C. địa hình
+D. bục vinh danh
 Answer: C
 
-Q6: What is the meaning of: renegade
-A. kẻ phản bội
-B. giáo phái
-C. sợi
-D. tiếp tuyến
+4. inception -> sự khởi đầu
+5. evoke -> gợi lên
+6. Astronomers now have evidence there is a supermassive black hole at the center of the galaxy .
+Q7: What is the meaning of: undercurrent
+A. dòng chảy ngầm
+B. dâm dục
+C. thư mục
+D. thực thi
 Answer: A
 
-7. alacrity -> sự nhanh nhẹn
-8. puerile -> trẻ con
-9. colossus -> người khổng lồ
-Q10: What is the meaning of: boundary
-A. ranh giới
-B. thông đồng
-C. chóng mặt
-D. sự vô ích
-Answer: A
-
+8. Drug trafficking and illicit drug use is a significant problem in Russia .
+9. Pollinators are often visually attracted by the shape and colors of the labellum .
+10. charm -> sự quyến rũ
 
 

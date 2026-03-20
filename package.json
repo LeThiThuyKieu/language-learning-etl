@@ -14,7 +14,8 @@
     "export-sample": "ts-node src/sample-questions/export-sample.ts",
     "build-vocab-dictionary": "ts-node src/build_vocab_dictionary.ts",
     "merge-data": "ts-node src/utils/merge_data.ts",
-    "merge-data-add": "ts-node src/utils/merge-data-add.ts"
+    "merge-data-add": "ts-node src/utils/merge-data-add.ts",
+    "report-statistic": "ts-node src/statistic/report-statistic.ts"
   },
   "keywords": [],
   "author": "",

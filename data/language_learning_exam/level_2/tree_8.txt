@@ -1,175 +1,155 @@
-TREE 8: Work
+TREE 8
 ====================================
 
 NODE VOCAB
 
-Q1: What is the meaning of: administration
-A. sự quản lý
-B. có thể
-C. một nhóm
-D. rõ ràng
+Q1: What is the meaning of: shy
+A. xấu hổ
+B. kết quả
+C. lắp đặt
+D. khó khăn
 Answer: A
 
-Q2: What is the meaning of: appointment
-A. cái chăn
-B. giới tính
-C. sự liên tiếp
-D. cuộc hẹn
+Q2: What is the meaning of: claim
+A. mới nhất
+B. quân đội
+C. tâm thần
+D. khẳng định
 Answer: D
 
-Q3: What is the meaning of: publishing
-A. xuất bản
-B. nhân vật
-C. một lần
-D. tích hợp
+Q3: What is the meaning of: dust
+A. bụi
+B. trái phiếu
+C. tiêu biểu
+D. thuộc về chính trị
 Answer: A
 
-Q4: What is the meaning of: contribution
-A. ngọn lửa
-B. trước đây
-C. chịu đựng
-D. sự đóng góp
+Q4: What is the meaning of: relevant
+A. chấp nhận được
+B. quét
+C. bệnh ung thư
+D. liên quan
 Answer: D
 
-Q5: What is the meaning of: tend
-A. khuôn viên đại học
-B. bom
-C. phép cộng
-D. có khuynh hướng
+Q5: What is the meaning of: programming
+A. nghèo
+B. phác thảo
+C. sự cam kết
+D. lập trình
 Answer: D
 
-Q6: What is the meaning of: margin
-A. sẽ
-B. sau đó
-C. điều khoản
-D. lề
+Q6: What is the meaning of: wonder
+A. vị trí
+B. thắc mắc
+C. bông
+D. không thể
+Answer: B
+
+Q7: What is the meaning of: battery
+A. lây lan
+B. đồng nghiệp
+C. chất liệu
+D. ắc quy
 Answer: D
 
-Q7: What is the meaning of: coverage
-A. phạm vi bảo hiểm
-B. trận đánh
-C. ngay lập tức
-D. người phát ngôn
-Answer: A
+Q8: What is the meaning of: intended
+A. chứa
+B. dự định
+C. khăng khăng
+D. thời gian rảnh rỗi
+Answer: B
 
-Q8: What is the meaning of: panic
-A. hoảng loạn
-B. vô ích
-C. nghiên cứu
-D. ngoại lệ
-Answer: A
+Q9: What is the meaning of: suburb
+A. chỉ huy
+B. tan chảy
+C. vùng ngoại ô
+D. cuối cùng
+Answer: C
 
-Q9: What is the meaning of: authority
-A. thẩm quyền
-B. nhũ hoa
-C. linh hồn
-D. lặn
-Answer: A
-
-Q10: What is the meaning of: effort
-A. cố gắng
-B. tính năng
-C. dính
-D. mối quan hệ
-Answer: A
+Q10: What is the meaning of: treasure
+A. phí
+B. kho báu
+C. bộ đồ
+D. đá
+Answer: B
 
 
 
 NODE LISTENING
 
-Q1: Tom wondered how long it would ___ to finish the job .
-Answer: take
+Q1: 52 ___ aftershocks , ranging in size from 4.4 to 6.0 , were recorded within 7 2 hours of the main tremor .
+Answer: big
 
-Q2: Tom wo n't likely be able to ___ with the situation .
-Answer: cope
+Q2: A striking feature of metabolism is the ___ of the basic metabolic pathways among vastly different species .
+Answer: similarity
 
-Q3: I ___ that exceptions not be made .
-Answer: insist
+Q3: As of 2010 , the municipality had a ___ population of 11,457 , down from 11,727 as of 2005 .
+Answer: total
 
-Q4: She is trying to save as ___ money as she can .
-Answer: much
+Q4: The size of Irish elk antlers is ___ .
+Answer: distinctive
 
-Q5: Have you ever noticed that Tom 's right ear is much larger ___ his left ear ?
-Answer: than
+Q5: The median income for a ___ in the city was $ 28,542 , and the median income for a family was $ 27,500 .
+Answer: household
 
-Q6: You're the one who decided to do ___ job , right ?
-Answer: this
+Q6: The best - known version is the ___ food version , which uses fried chicken .
+Answer: soul
 
-Q7: Do you plan to ___ working until 10 : 00 ?
-Answer: continue
+Q7: American carrier ___ had difficulty locating the target , despite the positions they had been given .
+Answer: aircraft
 
-Q8: My office is on the fourth floor of ___ gray six - story building .
-Answer: that
+Q8: Oxygen is the most common element by ___ on Earth .
+Answer: mass
 
-Q9: He made a ___ analysis of the problem .
-Answer: thorough
+Q9: Butter cakes are often made by beating the butter and ___ until fluffy .
+Answer: sugar
 
-Q10: This is the ___ which was designed by a famous architect .
-Answer: house
+Q10: The party quickly declined after the 1856 ___ .
+Answer: election
 
 
 
 NODE SPEAKING
 
-1. Everyone who worked on that project became a millionaire.
-2. Close the door after you when you leave the room.
-3. My office is on the fourth floor of that gray six-story building.
-4. I lived in a three-room apartment when I lived in Boston.
-5. That must be so.
-6. Are you sure you want to part with that?
-7. I want more than that.
-8. I will accept the work, provided that you help me.
-9. This work is simple enough that even a child can do it.
-10. When does the post office open?
+1. The colonial intellectual and political leaders in the 1760s and 1770s closely read history to compare governments and their effectiveness of rule .
+2. Most eels prefer to live in the shallowest parts of the ocean .
+3. The best -known method of prey capture is by means of sticky webs .
+4. The building of both bridges was difficult , with both the first and second bridges needing multiple redesigns from multiple architects .
+5. The following table is a list of MPs elected on 5 May 2005 , ordered by constituency .
+6. Spanish athletes have won a total of 132 medals .
+7. The silky sifaka has a variable social structure , and lives in groups of two to nine individuals .
+8. By the 1990s , the Federal government had reversed its views on wolves .
+9. This species probably lived near a freshwater lake , probably hunting for other small creatures that lived in the same habitat .
+10. When the need for a town crier disappeared , the position passed into local folklore .
 
 
 NODE MATCHING
 
-1. raw -> nguyên liệu thô
-2. measurement -> đo lường
-3. prospect -> triển vọng
-4. spokeswoman -> người phát ngôn
-5. trade -> buôn bán
-6. industrial -> công nghiệp
-7. producer -> nhà sản xuất
-8. lord -> chúa tể
-9. commitment -> sự cam kết
-10. expand -> mở rộng
+1. risk -> rủi ro
+2. frame -> khung
+3. summarize -> tóm tắt
+4. relieved -> nhẹ nhõm
+5. variation -> sự biến đổi
+6. upwards -> hướng lên trên
+7. magic -> ảo thuật
+8. precisely -> chính xác
+9. excitement -> sự phấn khích
+10. shy -> xấu hổ
 
 
 NODE REVIEW
 
-Q1: What is the meaning of: contribution
-A. sự đóng góp
-B. chịu đựng
-C. trước đây
-D. ngọn lửa
-Answer: A
+1. The colonial intellectual and political leaders in the 1760s and 1770s closely read history to compare governments and their effectiveness of rule .
+Q2: As of 2010 , the municipality had a ___ population of 11,457 , down from 11,727 as of 2005 .
+Answer: total
 
-Q2: What is the meaning of: coverage
-A. trận đánh
-B. phạm vi bảo hiểm
-C. người phát ngôn
-D. ngay lập tức
-Answer: B
-
-3. measurement -> đo lường
-4. spokeswoman -> người phát ngôn
-5. expand -> mở rộng
-6. commitment -> sự cam kết
-Q7: What is the meaning of: administration
-A. sự quản lý
-B. rõ ràng
-C. có thể
-D. một nhóm
-Answer: A
-
-Q8: This is the ___ which was designed by a famous architect .
-Answer: house
-
-9. Everyone who worked on that project became a millionaire.
-Q10: My office is on the fourth floor of ___ gray six - story building .
-Answer: that
-
+3. The building of both bridges was difficult , with both the first and second bridges needing multiple redesigns from multiple architects .
+4. precisely -> chính xác
+5. risk -> rủi ro
+6. upwards -> hướng lên trên
+7. variation -> sự biến đổi
+8. summarize -> tóm tắt
+9. This species probably lived near a freshwater lake , probably hunting for other small creatures that lived in the same habitat .
+10. Most eels prefer to live in the shallowest parts of the ocean .
 
 

@@ -1,173 +1,171 @@
-TREE 11: Technology
+TREE 11
 ====================================
 
 NODE VOCAB
 
-Q1: What is the meaning of: revision
-A. tư vấn
-B. trong khi
-C. học giả
-D. ôn tập
-Answer: D
-
-Q2: What is the meaning of: range
-A. trên
-B. rộng lớn
-C. tình bạn
-D. phạm vi
-Answer: D
-
-Q3: What is the meaning of: brick
-A. gạch
-B. ném bom
-C. thậm chí
-D. vũ trang
-Answer: A
-
-Q4: What is the meaning of: software
-A. lập trình
-B. có đạo đức
-C. phần mềm
-D. quảng cáo
+Q1: What is the meaning of: delighted
+A. tội phạm
+B. xác nhận
+C. vui mừng
+D. Nhưng
 Answer: C
 
-Q5: What is the meaning of: aim
-A. mục tiêu
-B. sự tiện lợi
-C. hơi
-D. giải thoát
-Answer: A
-
-Q6: What is the meaning of: confusing
-A. gây nhầm lẫn
-B. mô
-C. kỷ luật
-D. phạt
-Answer: A
-
-Q7: What is the meaning of: wrist
-A. hợp lý
-B. bán lẻ
-C. cổ tay
-D. khủng bố
+Q2: What is the meaning of: garage
+A. cảng
+B. tôn kính
+C. ga-ra
+D. ngọn lửa
 Answer: C
 
-Q8: What is the meaning of: audio
-A. tỷ lệ
-B. âm thanh
-C. thuốc
-D. đóng góp
+Q3: What is the meaning of: therefore
+A. công đoàn
+B. trọng tải
+C. Vì vậy
+D. người già
+Answer: C
+
+Q4: What is the meaning of: sample
+A. vật mẫu
+B. phù hợp
+C. khủng bố
+D. trước đây
+Answer: A
+
+Q5: What is the meaning of: value
+A. sự chi trả
+B. Vì vậy
+C. tập trung
+D. giá trị
+Answer: D
+
+Q6: What is the meaning of: enemy
+A. kẻ thù
+B. giả mạo
+C. bất cứ khi nào
+D. chiều dài
+Answer: A
+
+Q7: What is the meaning of: labour
+A. một phần
+B. bắt mắt
+C. nhân công
+D. chuyện kể
+Answer: C
+
+Q8: What is the meaning of: ceiling
+A. cảm xúc
+B. cổng vào
+C. trần nhà
+D. xung quanh
+Answer: C
+
+Q9: What is the meaning of: convince
+A. thuyết phục
+B. cánh tay
+C. thất vọng
+D. chỉ huy
+Answer: A
+
+Q10: What is the meaning of: statue
+A. có liên quan
+B. bức tượng
+C. có giá trị lớn
+D. lãng mạn
 Answer: B
-
-Q9: What is the meaning of: scan
-A. ngôi nhà tranh
-B. sắt
-C. quét
-D. nông thôn
-Answer: C
-
-Q10: What is the meaning of: litre
-A. cứng
-B. kinh dị
-C. nghe
-D. lít
-Answer: D
 
 
 
 NODE LISTENING
 
-Q1: I never ___ that I wanted that .
-Answer: said
+Q1: The median income for a ___ in 2000 was $ 16,563 per year .
+Answer: household
 
-Q2: When I ___ back on my life , I realize how much time I wasted .
-Answer: look
+Q2: The cake ___ of a dense chocolate cake with a thin layer of apricot jam on top , coated in dark chocolate icing on the top and sides .
+Answer: consists
 
-Q3: Why would you want to do something like ___ ?
-Answer: that
+Q3: Interbrand competition was kept at a minimum , with superstars from all ___ competing together only at pay - per - view events .
+Answer: brands
 
-Q4: You should n't say that kind of ___ when children are around .
-Answer: thing
+Q4: Up to 20,000 ___ a day visit the city in July and August .
+Answer: people
 
-Q5: It 's very unlikely ___ Tom 's children inherited anything from him .
-Answer: that
+Q5: ___ of the track started in March 1909 .
+Answer: construction
 
-Q6: Tom is the only ___ who can show you how to do that .
-Answer: person
+Q6: During the third hour after the ___ , an autopsy was performed due to overwhelming media interest .
+Answer: shooting
 
-Q7: I 'd like to spend less ___ at work and more time at home .
-Answer: time
+Q7: The tradition of homecoming has its ___ in alumni football games held at colleges and universities since the 19th century .
+Answer: origin
 
-Q8: I did n't use to like ___ , but now I like it a lot .
-Answer: wine
+Q8: The authors ___ that oil dependence is a problem we need no longer have .
+Answer: suggest
 
-Q9: You wo n't need that .
-Answer: won't
+Q9: The chassis are ___ of chrome moly tubing .
+Answer: made
 
-Q10: I 've never seen anything like that ___ .
-Answer: before
+Q10: Some skyscrapers feature rooftop heliports or helistops to serve the transport needs of ___ or clients .
+Answer: executives
 
 
 
 NODE SPEAKING
 
-1. We have to change that.
-2. When is it convenient for you?
-3. I can't give any more of an answer than that.
-4. Many people have made the same mistake.
-5. The optimist looks into a mirror and becomes more optimistic, the pessimist more pessimistic.
-6. I didn't know about that until quite recently.
-7. That comes in handy.
-8. If God did not exist, it would be necessary to invent him.
-9. Do you really believe that?
-10. When I got home, I noticed that I had lost my wallet.
+1. A wrestler simply hits the opponent with a chair .
+2. In the years between convict settlement and the start of the modern tourist industry the area most people worked in the timber industry and fishing .
+3. Although the U.S. Forest Service fought wildfires long before World War II , the war brought a new importance and urgency to the effort .
+4. In the United States , the term lien generally refers to a wide range of legal interests .
+5. The satellite was found at 0.25 arcsec from Orcus with magnitude difference of 2.7 .
+6. The precise origin of absinthe is unclear .
+7. He and his wife Mary have three children and , as of July 2016 , six grandchildren .
+8. The planes , with many damaged aircraft , landed on their carriers between 12 : 50 and 14 : 30 .
+9. A large number of settlers arrived in the 1850s and 1860s , many of whom were ancestors of today 's residents .
+10. Alternating current generating systems were known from the discovery of the magnetic induction of electric current .
 
 
 NODE MATCHING
 
-1. depression -> trầm cảm
-2. reveal -> tiết lộ
-3. notebook -> sổ tay
-4. closely -> gần
-5. realistic -> thực tế
-6. quote -> trích dẫn
-7. gradually -> dần dần
-8. addiction -> nghiện
-9. challenge -> thử thách
-10. port -> cảng
+1. supporter -> người ủng hộ
+2. bond -> trái phiếu
+3. responsible -> chịu trách nhiệm
+4. disturb -> quấy rầy
+5. sharp -> sắc
+6. retain -> giữ lại
+7. indoors -> trong nhà
+8. quit -> từ bỏ
+9. privacy -> sự riêng tư
+10. deadline -> thời hạn
 
 
 NODE REVIEW
 
-Q1: What is the meaning of: revision
-A. ôn tập
-B. học giả
-C. trong khi
-D. tư vấn
+1. In the United States , the term lien generally refers to a wide range of legal interests .
+2. quit -> từ bỏ
+3. Although the U.S. Forest Service fought wildfires long before World War II , the war brought a new importance and urgency to the effort .
+Q4: What is the meaning of: ceiling
+A. trần nhà
+B. xung quanh
+C. cảm xúc
+D. cổng vào
 Answer: A
 
-2. If God did not exist, it would be necessary to invent him.
-Q3: What is the meaning of: aim
-A. mục tiêu
-B. hơi
-C. giải thoát
-D. sự tiện lợi
-Answer: A
+Q5: The chassis are ___ of chrome moly tubing .
+Answer: made
 
-4. When is it convenient for you?
-Q5: What is the meaning of: software
-A. lập trình
-B. có đạo đức
-C. quảng cáo
-D. phần mềm
-Answer: D
+6. A large number of settlers arrived in the 1850s and 1860s , many of whom were ancestors of today 's residents .
+Q7: The median income for a ___ in 2000 was $ 16,563 per year .
+Answer: household
 
-6. gradually -> dần dần
-Q7: I 'd like to spend less ___ at work and more time at home .
-Answer: time
+Q8: ___ of the track started in March 1909 .
+Answer: construction
 
-8. I can't give any more of an answer than that.
-9. That comes in handy.
-10. realistic -> thực tế
+Q9: What is the meaning of: garage
+A. cảng
+B. ga-ra
+C. tôn kính
+D. ngọn lửa
+Answer: B
+
+10. In the years between convict settlement and the start of the modern tourist industry the area most people worked in the timber industry and fishing .
 
 

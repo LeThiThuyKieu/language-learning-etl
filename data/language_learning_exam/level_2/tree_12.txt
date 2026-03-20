@@ -1,171 +1,187 @@
-TREE 12: Environment
+TREE 12
 ====================================
 
 NODE VOCAB
 
-Q1: What is the meaning of: emission
-A. khí thải
-B. tài chính
-C. từ chối
-D. nhà phê bình
+Q1: What is the meaning of: heel
+A. quan sát
+B. thường xuyên
+C. cú đánh
+D. gót chân
+Answer: D
+
+Q2: What is the meaning of: additionally
+A. có kinh nghiệm
+B. mặt sau
+C. bên trong
+D. thêm vào đó
+Answer: D
+
+Q3: What is the meaning of: election
+A. bầu cử
+B. ôn tập
+C. ca phẫu thuật
+D. mãi mãi
 Answer: A
 
-Q2: What is the meaning of: atmosphere
-A. tiến triển
-B. đánh giá
-C. trích dẫn
-D. bầu không khí
+Q4: What is the meaning of: perspective
+A. thiếu
+B. thiếu niên
+C. ghế
+D. luật xa gần
 Answer: D
 
-Q3: What is the meaning of: evil
-A. tranh luận
-B. rõ ràng
-C. thì thầm
-D. độc ác
+Q5: What is the meaning of: dirt
+A. manh mối
+B. nhấp chuột
+C. nhiếp ảnh
+D. đất
 Answer: D
 
-Q4: What is the meaning of: appeal
-A. nội bộ
-B. nhân tạo
-C. bắt mắt
-D. mực
+Q6: What is the meaning of: occasionally
+A. không
+B. nhạc kịch
+C. thỉnh thoảng
+D. sản xuất
 Answer: C
 
-Q5: What is the meaning of: ethical
-A. đạo đức
-B. phê bình
-C. tệ hơn
-D. hàng năm
-Answer: A
-
-Q6: What is the meaning of: exhibit
-A. triển lãm
-B. cảm thấy
-C. cơ quan
-D. rời khỏi
-Answer: A
-
-Q7: What is the meaning of: component
-A. thành phần
-B. quỹ
-C. kinh ngạc
-D. vượt qua
-Answer: A
-
-Q8: What is the meaning of: fundamental
-A. gen
-B. thẩm quyền
-C. cơ bản
-D. bảo vệ
-Answer: C
-
-Q9: What is the meaning of: harbour
-A. xác nhận
-B. lòng thương xót
-C. rủi ro
-D. cảng
+Q7: What is the meaning of: balance
+A. mục tiêu
+B. thời gian
+C. yếu tố
+D. THĂNG BẰNG
 Answer: D
 
-Q10: What is the meaning of: survival
-A. nhũ hoa
-B. sự lộn xộn
-C. tiến bộ
-D. sống sót
+Q8: What is the meaning of: disagreement
+A. nhà phân tích
+B. bất đồng
+C. chân thành
+D. ảo ảnh
+Answer: B
+
+Q9: What is the meaning of: motion
+A. xích
+B. liên quan
+C. cử động
+D. cạm bẫy
+Answer: C
+
+Q10: What is the meaning of: surely
+A. sàn
+B. vô ích
+C. thấp hơn
+D. chắc chắn
 Answer: D
 
 
 
 NODE LISTENING
 
-Q1: It 's quite apparent that you do n't want to do this for me .
-Answer: it's
+Q1: The agenda for the summit included some issues which remained unresolved from ___ summits .
+Answer: previous
 
-Q2: I knew I should n't have put off doing my homework until the last ___ .
-Answer: minute
+Q2: A major railway survey in April 1961 was used in the ___ of a government report on the future of the network .
+Answer: writing
 
-Q3: In order to do ___ , you have to take risks .
-Answer: that
+Q3: The first huts and ___ were constructed by hand or with simple tools .
+Answer: shelters
 
-Q4: I agree ___ you on that point .
-Answer: with
+Q4: In 1984 , when Tjapaltjarri was about 25 , he finally came into ___ people from outside his family .
+Answer: contact
 
-Q5: The most important thing is the ___ to think for yourself .
-Answer: ability
+Q5: Computer architecture is the combination of microarchitecture and instruction ___ architecture .
+Answer: set
 
-Q6: Let 's consider the worst ___ could happen .
-Answer: that
+Q6: Designers need to take into ___ that color - blindness is highly sensitive to differences in material .
+Answer: account
 
-Q7: If I had a choice , I probably would n't be doing ___ .
-Answer: this
+Q7: Death masks were increasingly used by scientists from the late 18th century onwards to record ___ in human physiognomy .
+Answer: variations
 
-Q8: There are none so blind as ___ who will not see .
-Answer: those
+Q8: The city was an important ___ and refueling place for early long distance airplane flights between Europe and Australia in the early twentieth century .
+Answer: landing
 
-Q9: If ___ does n't take care of the environment , the environment may eliminate mankind .
-Answer: mankind
+Q9: These six ___ were closed by October 1942 .
+Answer: camps
 
-Q10: I think you need to spend a little more ___ on your homework .
-Answer: time
+Q10: His lectures were legendary and frequently used to last for three or four ___ .
+Answer: hours
 
 
 
 NODE SPEAKING
 
-1. I lost that argument.
-2. Nobody swims in this pool after 8:00 p.m.
-3. I shouldn't have said that.
-4. I knew I shouldn't have put off doing my homework until the last minute.
-5. If you wash it, your car will shine in the sun.
-6. Tom made it clear that I shouldn't do that.
-7. I agree with you on that point.
-8. Was that your idea?
-9. You don't agree, do you?
-10. If it rains tomorrow, they will not go.
+1. The group played together for 55 years , until 1938 .
+2. Water turbines were developed in the 19th century and were widely used for industrial power prior to electrical grids .
+3. The following credits are sourced from liner notes .
+4. Tanzania is divided into 26 Regions .
+5. For most people , the process of smelling gives little information concerning the ingredients of a substance .
+6. Masonry is commonly used for the walls of buildings , retaining walls and monuments .
+7. Japan has had more than one system for designating years .
+8. Bird eggs are a common food and one of the most versatile ingredients used in cooking .
+9. The opposite of multiplication is division .
+10. Color blindness is very sensitive to changes in material .
 
 
 NODE MATCHING
 
-1. tsunami -> sóng thần
-2. embrace -> ôm
-3. balanced -> cân bằng
-4. chemical -> hóa chất
-5. reaction -> sự phản ứng lại
-6. reflect -> phản ánh
-7. install -> cài đặt
-8. punishment -> hình phạt
-9. peaceful -> hoà bình
-10. punish -> trừng phạt
+1. dirt -> đất
+2. representative -> tiêu biểu
+3. lighting -> ánh sáng
+4. emerge -> xuất hiện
+5. jury -> bồi thẩm đoàn
+6. disagreement -> bất đồng
+7. whisper -> thì thầm
+8. surely -> chắc chắn
+9. minor -> người vị thành niên
+10. rope -> dây thừng
 
 
 NODE REVIEW
 
-Q1: What is the meaning of: emission
-A. nhà phê bình
-B. từ chối
-C. tài chính
-D. khí thải
+Q1: What is the meaning of: disagreement
+A. bất đồng
+B. ảo ảnh
+C. nhà phân tích
+D. chân thành
+Answer: A
+
+2. representative -> tiêu biểu
+Q3: In 1984 , when Tjapaltjarri was about 25 , he finally came into ___ people from outside his family .
+Answer: contact
+
+Q4: What is the meaning of: perspective
+A. ghế
+B. luật xa gần
+C. thiếu niên
+D. thiếu
+Answer: B
+
+Q5: What is the meaning of: occasionally
+A. không
+B. sản xuất
+C. nhạc kịch
+D. thỉnh thoảng
 Answer: D
 
-Q2: In order to do ___ , you have to take risks .
-Answer: that
-
-Q3: If ___ does n't take care of the environment , the environment may eliminate mankind .
-Answer: mankind
-
-Q4: Let 's consider the worst ___ could happen .
-Answer: that
-
-Q5: What is the meaning of: harbour
-A. rủi ro
-B. xác nhận
-C. lòng thương xót
-D. cảng
+6. emerge -> xuất hiện
+7. surely -> chắc chắn
+Q8: What is the meaning of: surely
+A. thấp hơn
+B. sàn
+C. vô ích
+D. chắc chắn
 Answer: D
 
-6. reaction -> sự phản ứng lại
-7. Was that your idea?
-8. reflect -> phản ánh
-9. I agree with you on that point.
-10. Nobody swims in this pool after 8:00 p.m.
+Q9: Computer architecture is the combination of microarchitecture and instruction ___ architecture .
+Answer: set
+
+Q10: What is the meaning of: heel
+A. quan sát
+B. thường xuyên
+C. cú đánh
+D. gót chân
+Answer: D
+
 
 

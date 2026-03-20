@@ -1,171 +1,155 @@
-TREE 5: Daily Activities
+TREE 5
 ====================================
 
 NODE VOCAB
 
-Q1: What is the meaning of: extremely
-A. hữu ích
-B. khá
-C. cùng tính từ
-D. vô cùng
+Q1: What is the meaning of: website
+A. môi trường
+B. nhà thờ
+C. câu lạc bộ
+D. trang web
 Answer: D
 
-Q2: What is the meaning of: lazy
-A. máy tính xách tay
-B. lười
-C. cao
-D. người mẫu
+Q2: What is the meaning of: prefer
+A. Không có gì
+B. thích hơn
+C. trông chờ
+D. thay đổi
 Answer: B
 
-Q3: What is the meaning of: quietly
-A. vẽ
-B. trà
-C. lặng lẽ
-D. đun sôi
+Q3: What is the meaning of: football
+A. tính năng
+B. trượt tuyết
+C. căn hộ
+D. bóng đá
+Answer: D
+
+Q4: What is the meaning of: sail
+A. quốc tế
+B. hóa đơn
+C. chèo
+D. hứa
 Answer: C
 
-Q4: What is the meaning of: suggestion
-A. gợi ý
-B. không
-C. quảng trường
-D. tiếng cười
-Answer: A
-
-Q5: What is the meaning of: take
-A. phong cách
-B. lấy
-C. đầu bếp
-D. khác
-Answer: B
-
-Q6: What is the meaning of: moon
-A. mười bốn
-B. mặt trăng
-C. kim loại
-D. Làm sao
-Answer: B
-
-Q7: What is the meaning of: test
-A. muối
-B. tầng dưới
-C. cuối cùng
-D. Bài kiểm tra
+Q5: What is the meaning of: bean
+A. giữa
+B. Chính xác
+C. nền tảng
+D. đậu
 Answer: D
 
-Q8: What is the meaning of: plan
-A. xuất sắc
-B. kế hoạch
-C. không chính thức
-D. ba mươi
-Answer: B
+Q6: What is the meaning of: disagree
+A. không đồng ý
+B. tuyên bố
+C. cảm thấy
+D. hoàn thành
+Answer: A
 
-Q9: What is the meaning of: simple
-A. sa mạc
-B. Hôm qua
-C. con ếch
-D. đơn giản
+Q7: What is the meaning of: knee
+A. tầng dưới
+B. đáng sợ
+C. đầu gối
+D. DVD
+Answer: C
+
+Q8: What is the meaning of: exercise
+A. Ai
+B. dừng lại
+C. bài tập
+D. từ
+Answer: C
+
+Q9: What is the meaning of: essay
+A. rác
+B. lái xe
+C. hoạt động
+D. tiểu luận
 Answer: D
 
-Q10: What is the meaning of: think
-A. nghĩ
-B. quần dài
-C. Chắc chắn
-D. mô tả
-Answer: A
+Q10: What is the meaning of: suit
+A. một nửa
+B. động cơ
+C. bộ đồ
+D. Xin vui lòng
+Answer: C
 
 
 
 NODE LISTENING
 
-Q1: She ___ tennis in the morning .
-Answer: plays
+Q1: If we had known , we ' d have ___ .
+Answer: come
 
-Q2: She is working ___ and day .
-Answer: night
+Q2: They often liked doing ___ together .
+Answer: things
 
-Q3: I do n't want to ___ today .
-Answer: work
+Q3: Shall I teach you to ___ ?
+Answer: dance
 
-Q4: What 's Tom 's wife like ?
-Answer: tom's
+Q4: Not much is known about his ___ .
+Answer: life
 
-Q5: You must work ___ .
-Answer: together
+Q5: Her son became a ___ .
+Answer: dentist
 
-Q6: Tom ___ know how to speak French .
-Answer: might
+Q6: He gave the boys some money to buy their mother some ___ .
+Answer: flowers
 
-Q7: Do n't ___ too long .
-Answer: wait
+Q7: I do not always listen to ___ .
+Answer: music
 
-Q8: Can we do it ___ time ?
-Answer: another
+Q8: It was the day when she broke her ___ .
+Answer: arm
 
-Q9: Talk to ___ boss .
-Answer: your
+Q9: It is ___ to talk to her peacefully .
+Answer: difficult
 
-Q10: What do you ___ to do ?
-Answer: like
+Q10: The ___ is made of plastic .
+Answer: ball
 
 
 
 NODE SPEAKING
 
-1. Make yourself at home.
-2. I was barely able to work.
-3. Turn off the alarm.
-4. Do you think you'll be back by 2:30?
-5. Turn it off, please.
-6. I don't always get up early.
-7. I know you're lying.
-8. They work at night.
-9. Do you know how to use a computer?
-10. What did you do at night?
+1. That was the spot where the tree was .
+2. Football is the most popular sport in Costa Rica .
+3. The speech lasted 40 minutes and 14 seconds .
+4. There is a guest house on the hill behind the main house .
+5. They feed on insects and fruit .
+6. The teacher asked him to close the windows .
+7. The song has been covered by number of artists .
+8. Blue crabs are famous in this area .
+9. The song was released in November 2013 .
+10. I wish I could have finished it .
 
 
 NODE MATCHING
 
-1. abroad -> ở nước ngoài
-2. season -> mùa
-3. suggest -> gợi ý
-4. every -> mọi
-5. draw -> vẽ tranh
-6. age -> tuổi
-7. routine -> lịch trình
-8. sing -> hát
-9. Sunday -> Chủ nhật
-10. blog -> blog
+1. double -> gấp đôi
+2. together -> cùng nhau
+3. flying -> bay
+4. differently -> khác nhau
+5. meeting -> cuộc họp
+6. drink -> uống
+7. bathroom -> phòng tắm
+8. accept -> chấp nhận
+9. note -> ghi chú
+10. worst -> tồi tệ nhất
 
 
 NODE REVIEW
 
-1. draw -> vẽ tranh
-Q2: What is the meaning of: extremely
-A. cùng tính từ
-B. khá
-C. hữu ích
-D. vô cùng
-Answer: D
+1. double -> gấp đôi
+2. The teacher asked him to close the windows .
+3. worst -> tồi tệ nhất
+4. flying -> bay
+Q5: Her son became a ___ .
+Answer: dentist
 
-Q3: What 's Tom 's wife like ?
-Answer: tom's
-
-4. blog -> blog
-5. I was barely able to work.
-Q6: What is the meaning of: lazy
-A. cao
-B. máy tính xách tay
-C. lười
-D. người mẫu
-Answer: C
-
-Q7: Talk to ___ boss .
-Answer: your
-
-Q8: She ___ tennis in the morning .
-Answer: plays
-
-9. suggest -> gợi ý
-10. Make yourself at home.
+6. The song was released in November 2013 .
+7. The speech lasted 40 minutes and 14 seconds .
+8. together -> cùng nhau
+9. accept -> chấp nhận
+10. differently -> khác nhau
 
 

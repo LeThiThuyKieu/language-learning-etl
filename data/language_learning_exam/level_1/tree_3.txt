@@ -1,177 +1,171 @@
-TREE 3: Numbers
+TREE 3
 ====================================
 
 NODE VOCAB
 
-Q1: What is the meaning of: six
-A. thiết bị
-B. thời gian
-C. sáu
-D. khóa học
-Answer: C
-
-Q2: What is the meaning of: her
-A. cô ấy
-B. nước ngoài
-C. dòng sông
-D. internet
-Answer: A
-
-Q3: What is the meaning of: it
-A. hứa
-B. sự ngạc nhiên
-C. Nó
-D. sẽ
-Answer: C
-
-Q4: What is the meaning of: involve
-A. bếp nấu ăn
-B. cái tủ
-C. hứa
-D. liên quan
+Q1: What is the meaning of: easily
+A. khóa học
+B. mang
+C. nha sĩ
+D. một cách dễ dàng
 Answer: D
 
-Q5: What is the meaning of: final
-A. cuối cùng
-B. mua
-C. điện thoại thông minh
-D. giây1
-Answer: A
+Q2: What is the meaning of: thank
+A. lấy
+B. phòng bếp
+C. mũ
+D. cám ơn
+Answer: D
 
-Q6: What is the meaning of: include
-A. khỏe
-B. khách tham quan
-C. tốt nhất
+Q3: What is the meaning of: right adj
+A. hấp dẫn
+B. chèo
+C. tính từ phải
+D. hoang dã
+Answer: C
+
+Q4: What is the meaning of: contain
+A. mối quan hệ
+B. Cuối cùng
+C. lãnh đạo
 D. bao gồm
 Answer: D
 
-Q7: What is the meaning of: hero
-A. anh hùng
-B. xe đạp
-C. Thực ra
-D. xem
-Answer: A
-
-Q8: What is the meaning of: trouble
-A. mở
-B. lợi ích
-C. công viên
-D. rắc rối
+Q5: What is the meaning of: during
+A. trống
+B. chủ thể
+C. bắt đầu
+D. trong lúc
 Answer: D
 
-Q9: What is the meaning of: progress
-A. nông dân
-B. tiến triển
-C. gần như
-D. mũ
-Answer: B
+Q6: What is the meaning of: himself
+A. chính mình
+B. tàu thủy
+C. đáng sợ
+D. Thứ Tư
+Answer: A
 
-Q10: What is the meaning of: arrangement
-A. bắt đầu
-B. sắp xếp
-C. màu sắc
-D. đồ chơi
-Answer: B
+Q7: What is the meaning of: achieve
+A. đạt được
+B. lịch trình
+C. tính từ phải
+D. mười một
+Answer: A
+
+Q8: What is the meaning of: village
+A. làng bản
+B. ném
+C. nguy hiểm
+D. quảng trường
+Answer: A
+
+Q9: What is the meaning of: column
+A. nặng
+B. mệt
+C. Bình thường
+D. cột
+Answer: D
+
+Q10: What is the meaning of: great
+A. Nước
+B. tái chế
+C. báo cáo
+D. Tuyệt
+Answer: D
 
 
 
 NODE LISTENING
 
-Q1: Tom bought ___ a camera .
-Answer: mary
+Q1: Mother was happy to finally get a new ___ after Daisy died .
+Answer: dog
 
-Q2: Get me a ticket , ___ .
-Answer: please
+Q2: She was elected President in ___ 2007 .
+Answer: october
 
-Q3: Tom did n't ___ to wait .
-Answer: want
+Q3: They had seven ___ 40 songs between 1973 and 1976 .
+Answer: top
 
-Q4: Tom did it for you .
-Answer: Tom
+Q4: The ___ production version .
+Answer: first
 
-Q5: There 's an outside chance of winning .
-Answer: there's
+Q5: She ___ jam on her toast .
+Answer: put
 
-Q6: I do n't know ___ you 've heard .
-Answer: what
+Q6: The four little ones left the United States on 21 ___ 1869 .
+Answer: june
 
-Q7: Tom forgot to take his umbrella ___ him .
-Answer: with
+Q7: Dufresne died on 14 June 2014 in New York ___ at the age of 78 , from cancer .
+Answer: city
 
-Q8: Which book is ___ ?
-Answer: yours
+Q8: He ' s got a ___ temper .
+Answer: bad
 
-Q9: He wiped his hands on a ___ .
-Answer: handkerchief
+Q9: Combs can be used for ___ purposes .
+Answer: many
 
-Q10: Tom got ___ Mary 's car .
-Answer: into
+Q10: She had to ___ over .
+Answer: start
 
 
 
 NODE SPEAKING
 
-1. Tom asked Mary to help him with his homework.
-2. Tom is only pretending he's not interested.
-3. Tom pulled off Mary's wig.
-4. Tom washed his face and hands.
-5. Tom made thirty thousand dollars last month.
-6. Can you estimate its value?
-7. Tom should have done things differently.
-8. It looks a little heavy.
-9. You've got my vote.
-10. Do you have any French magazines?
+1. The final was held on 24 May 2008 .
+2. In the late 19th century , Westerners knew little about Japan .
+3. The port of the mosque measures 27 meters high .
+4. He has edited and written many books and articles .
+5. I wish I could find that book .
+6. I wish we could tell them .
+7. What a boring teacher !
+8. The game has now spread around the cricket world .
+9. I wish I could tell them good-bye .
+10. Her eyes were closed .
 
 
 NODE MATCHING
 
-1. prize -> phần thưởng
-2. fail -> thất bại
-3. there -> ở đó
-4. her -> cô ấy
-5. ski -> trượt tuyết
-6. eight -> tám
-7. price -> giá
-8. secondly -> thứ hai
-9. camp -> trại
-10. programme -> chương trình
+1. wine -> rượu
+2. contain -> bao gồm
+3. thank -> cám ơn
+4. dance -> nhảy
+5. thing -> điều
+6. government -> chính phủ
+7. season -> mùa
+8. ice -> đá
+9. column -> cột
+10. normally -> thông thường
 
 
 NODE REVIEW
 
-Q1: What is the meaning of: her
-A. cô ấy
-B. nước ngoài
-C. dòng sông
-D. internet
+Q1: Combs can be used for ___ purposes .
+Answer: many
+
+Q2: What is the meaning of: great
+A. Nước
+B. Tuyệt
+C. tái chế
+D. báo cáo
+Answer: B
+
+Q3: What is the meaning of: column
+A. cột
+B. mệt
+C. Bình thường
+D. nặng
 Answer: A
 
-2. Tom should have done things differently.
-3. eight -> tám
-4. prize -> phần thưởng
-Q5: What is the meaning of: six
-A. sáu
-B. thời gian
-C. khóa học
-D. thiết bị
-Answer: A
+4. In the late 19th century , Westerners knew little about Japan .
+5. thank -> cám ơn
+6. government -> chính phủ
+Q7: She was elected President in ___ 2007 .
+Answer: october
 
-Q6: What is the meaning of: final
-A. điện thoại thông minh
-B. mua
-C. giây1
-D. cuối cùng
-Answer: D
+8. The game has now spread around the cricket world .
+Q9: Dufresne died on 14 June 2014 in New York ___ at the age of 78 , from cancer .
+Answer: city
 
-7. Tom made thirty thousand dollars last month.
-8. her -> cô ấy
-Q9: What is the meaning of: it
-A. Nó
-B. sẽ
-C. sự ngạc nhiên
-D. hứa
-Answer: A
-
-10. there -> ở đó
+10. contain -> bao gồm
 
 

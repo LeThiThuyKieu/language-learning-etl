@@ -1,155 +1,173 @@
-TREE 23: Philosophy
+TREE 23
 ====================================
 
 NODE VOCAB
 
-Q1: What is the meaning of: prudence
-A. sự thận trọng
-B. số lượng lớn
-C. đồ dùng
-D. chủ nghĩa khổ dâm
+Q1: What is the meaning of: injustice
+A. bất công
+B. tuôn ra
+C. kéo dài
+D. thẳng đứng
 Answer: A
 
-Q2: What is the meaning of: freshman
-A. vô cùng
-B. thuốc lá
-C. sinh viên năm nhất
-D. u sầu
+Q2: What is the meaning of: propagandist
+A. bay hơi
+B. chiến thuật
+C. từ chối
+D. người tuyên truyền
+Answer: D
+
+Q3: What is the meaning of: fastidious
+A. cầu kỳ
+B. chất nổ
+C. vít
+D. huy động
+Answer: A
+
+Q4: What is the meaning of: resistance
+A. quái thú
+B. tủ
+C. sự tự nguyện
+D. sức chống cự
+Answer: D
+
+Q5: What is the meaning of: wildfire
+A. bí mật
+B. sự phân biệt
+C. hẹp
+D. cháy rừng
+Answer: D
+
+Q6: What is the meaning of: reluctance
+A. mua sắm
+B. nộp
+C. sự miễn cưỡng
+D. sự biến động
 Answer: C
 
-Q3: What is the meaning of: to upbraid
-A. quở trách
-B. để giảm bớt
-C. giáo trình
-D. tỷ lệ cược
-Answer: A
-
-Q4: What is the meaning of: ovation
-A. tự động
-B. sự ngoan cố
-C. chúc mừng
-D. sự hoan hô
-Answer: D
-
-Q5: What is the meaning of: satire
-A. lo lắng
-B. châm biếm
-C. ám chỉ
-D. bề mặt
+Q7: What is the meaning of: gambit
+A. lật đổ
+B. nước cờ
+C. cuộc tranh cãi
+D. có quyền
 Answer: B
 
-Q6: What is the meaning of: preponderance
-A. sự chiếm ưu thế
-B. tai họa
-C. siêng năng
-D. chạm khắc
+Q8: What is the meaning of: archive
+A. lưu trữ
+B. bản thảo
+C. cuộc nổi loạn
+D. lỗi
 Answer: A
 
-Q7: What is the meaning of: martyrdom
-A. phương sai
-B. sự tử đạo
-C. quyền quyết định
-D. bộ nhớ đệm
-Answer: B
+Q9: What is the meaning of: casino
+A. để củng cố
+B. tin đồn
+C. sòng bạc
+D. vi phạm
+Answer: C
 
-Q8: What is the meaning of: postpone
-A. một cách quyết liệt
-B. tuyệt vời
-C. khả năng di chuyển
-D. hoãn
-Answer: D
-
-Q9: What is the meaning of: feminist
-A. khôn ngoan
-B. quy định
-C. chủ nghĩa bi quan
-D. nữ quyền
-Answer: D
-
-Q10: What is the meaning of: dip
-A. châm biếm
-B. nhúng
-C. để cạn kiệt
-D. khác biệt
+Q10: What is the meaning of: taint
+A. giảm bớt
+B. sự ô nhiễm
+C. nồng
+D. sự phân định
 Answer: B
 
 
 
 NODE LISTENING
 
+Q1: Another example is in the proposed biosynthesis of aranotin , an oxepine ___ in nature , and its related compounds .
+Answer: found
+
+Q2: Most of the oomycetes produce two distinct ___ of spores .
+Answer: types
+
+Q3: According to 2011 census , Vikramasingapuram had a population of 47,241 with a sex - ___ of 1,058 females for every 1,000 males , much above the national average of 929 .
+Answer: ratio
+
+Q4: Most ___ databases store information on stable molecules .
+Answer: chemical
+
+Q5: Praxidike belongs to the Ananke group , believed to be the ___ of a break - up of a captured asteroid .
+Answer: remnants
+
+Q6: A urinary ___ infection in the lower urinary tract is known as a bladder infection .
+Answer: tract
+
+Q7: The goatse . cx ___ name was reportedly sold at an auction on April 30 , 2007 to an unknown bidder .
+Answer: domain
+
+Q8: Some water turbines are designed for Pumped ___ hydroelectricity .
+Answer: storage
+
+Q9: Sebaceous glands are involved in skin ___ such as acne and keratosis pilaris .
+Answer: problems
+
+Q10: Color blindness is typically an inherited genetic ___ .
+Answer: disorder
+
 
 
 NODE SPEAKING
 
+1. Other authors have attempted to use evolutionary game theory in order to explain the emergence of human attitudes about morality and corresponding animal behaviors .
+2. Haematoxylin and eosin staining is often used in histology for thin sections of tissue .
+3. TLR signaling leads to the induction or suppression of genes that orchestrate the inflammatory response .
+4. Polydnaviruses are a unique group of insect viruses that have a mutualistic relationship with parasitic wasps .
+5. A proto-oncogene is a normal gene that could become an oncogene due to mutations or increased expression .
+6. Garnica started in athletics after his vision severely deteriorated , and is a T12 long distance track and field events .
+7. Hydrazoic acid is very explosive .
+8. It hunts by flying low and slowly over an area of open ground , hovering over spots that conceal potential prey .
+9. Embryo transfer can be performed after various durations of embryo culture , conferring different stages in embryogenesis .
+10. Unaipon was a recognized authority on ballistics .
 
 
 NODE MATCHING
 
-1. anachronistic -> lỗi thời
-2. to chide -> quở trách
-3. guile -> sự xảo quyệt
-4. stealth -> tàng hình
-5. realm -> vương quốc
-6. platitude -> lời sáo rỗng
-7. prudence -> sự thận trọng
-8. hospice -> chăm sóc giảm nhẹ
-9. unanimity -> sự nhất trí
-10. thoughtful -> chu đáo
+1. exquisite -> tinh tế
+2. exchequer -> kho bạc
+3. prudence -> sự thận trọng
+4. archive -> lưu trữ
+5. spotlight -> điểm sáng
+6. litigious -> hay kiện tụng
+7. casino -> sòng bạc
+8. diligently -> siêng năng
+9. complication -> biến chứng
+10. theoretical -> lý thuyết
 
 
 NODE REVIEW
 
-Q1: What is the meaning of: preponderance
-A. chạm khắc
-B. siêng năng
-C. sự chiếm ưu thế
-D. tai họa
+Q1: What is the meaning of: taint
+A. sự phân định
+B. nồng
+C. sự ô nhiễm
+D. giảm bớt
 Answer: C
 
-Q2: What is the meaning of: martyrdom
-A. sự tử đạo
-B. phương sai
-C. bộ nhớ đệm
-D. quyền quyết định
-Answer: A
+Q2: The goatse . cx ___ name was reportedly sold at an auction on April 30 , 2007 to an unknown bidder .
+Answer: domain
 
-Q3: What is the meaning of: dip
-A. để cạn kiệt
-B. nhúng
-C. châm biếm
-D. khác biệt
+3. Unaipon was a recognized authority on ballistics .
+Q4: What is the meaning of: fastidious
+A. vít
+B. cầu kỳ
+C. chất nổ
+D. huy động
 Answer: B
 
-4. hospice -> chăm sóc giảm nhẹ
-Q5: What is the meaning of: satire
-A. lo lắng
-B. ám chỉ
-C. bề mặt
-D. châm biếm
-Answer: D
+5. Garnica started in athletics after his vision severely deteriorated , and is a T12 long distance track and field events .
+6. Other authors have attempted to use evolutionary game theory in order to explain the emergence of human attitudes about morality and corresponding animal behaviors .
+Q7: Sebaceous glands are involved in skin ___ such as acne and keratosis pilaris .
+Answer: problems
 
-Q6: What is the meaning of: ovation
-A. sự hoan hô
-B. sự ngoan cố
-C. tự động
-D. chúc mừng
-Answer: A
+Q8: Most of the oomycetes produce two distinct ___ of spores .
+Answer: types
 
-7. guile -> sự xảo quyệt
-Q8: What is the meaning of: feminist
-A. quy định
-B. khôn ngoan
-C. chủ nghĩa bi quan
-D. nữ quyền
-Answer: D
+Q9: Praxidike belongs to the Ananke group , believed to be the ___ of a break - up of a captured asteroid .
+Answer: remnants
 
-9. unanimity -> sự nhất trí
-Q10: What is the meaning of: postpone
-A. tuyệt vời
-B. một cách quyết liệt
-C. khả năng di chuyển
-D. hoãn
-Answer: D
-
+10. archive -> lưu trữ
 
 

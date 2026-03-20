@@ -1,131 +1,175 @@
-TREE 16: Business
+TREE 16
 ====================================
 
 NODE VOCAB
 
-Q1: What is the meaning of: legacy
-A. gợi lên
-B. đền thờ
-C. tỉ mỉ
-D. di sản
-Answer: D
-
-Q2: What is the meaning of: boast
-A. biểu phí
-B. khoe khoan
-C. kinh cầu nguyện
-D. sự suy giảm
-Answer: B
-
-Q3: What is the meaning of: drain
-A. lời tiên tri
-B. người có tầm nhìn
-C. làm khô hạn
-D. tuần tra
-Answer: C
-
-Q4: What is the meaning of: segment
-A. tâm lý
-B. phân đoạn
-C. nghiêng
-D. khó tính
-Answer: B
-
-Q5: What is the meaning of: endorsement
-A. sự chứng thực
-B. đặc quyền
-C. sửa chữa
-D. nổi bật
+Q1: What is the meaning of: to decry
+A. lên án
+B. sự hối hận
+C. đẹp như tranh vẽ
+D. thú vị
 Answer: A
 
-Q6: What is the meaning of: voyeur
-A. đám đông hỗn loạn
-B. thanh danh
-C. hoang dã
-D. người thích xem hình ảnh liên quan đến tình dục
+Q2: What is the meaning of: magnate
+A. suy yếu
+B. thời tiết xấu
+C. cam kết
+D. ông trùm
 Answer: D
 
-Q7: What is the meaning of: rift
-A. vết nứt
-B. bẩn thỉu
-C. nghiêm trang
-D. để chế tạo
+Q3: What is the meaning of: constitutional
+A. hiến pháp
+B. khát vọng
+C. đặc biệt
+D. bất khả xâm phạm
 Answer: A
 
-Q8: What is the meaning of: to forestall
-A. phông nền
-B. để ngăn chặn
-C. chịu đựng
-D. tinh tế
-Answer: B
-
-Q9: What is the meaning of: resurrection
-A. sự phục sinh
-B. đa ngôn
-C. sự thích nghi
-D. tính linh hoạt
-Answer: A
-
-Q10: What is the meaning of: administer
-A. dốc đứng
-B. sự thù địch
-C. người bản địa
-D. quản lý
+Q4: What is the meaning of: fraught
+A. ám chỉ
+B. phần kết
+C. sự đồng lõa
+D. căng thẳng
 Answer: D
+
+Q5: What is the meaning of: limbo
+A. sự lấp lửng
+B. tính hợp lệ
+C. kích động
+D. khu vực biệt lập
+Answer: A
+
+Q6: What is the meaning of: to accost
+A. để tiếp cận
+B. kết án
+C. lòng trung thành
+D. tàn tích
+Answer: A
+
+Q7: What is the meaning of: placid
+A. điềm tĩnh
+B. tàu
+C. ác ý
+D. ruột
+Answer: A
+
+Q8: What is the meaning of: marketplace
+A. căng thẳng
+B. chủ trì
+C. đỉnh cao
+D. thị trường
+Answer: D
+
+Q9: What is the meaning of: bizarre
+A. tăng tốc
+B. tù nhân
+C. tiếp tuyến
+D. kỳ lạ
+Answer: D
+
+Q10: What is the meaning of: evolutionary
+A. tiến hóa
+B. loại trừ
+C. bài điếu văn
+D. nhóm
+Answer: A
 
 
 
 NODE LISTENING
 
+Q1: Thermocouples are widely used in science and ___ .
+Answer: industry
+
+Q2: Procaine was ___ synthesized in 1905 , shortly after amylocaine .
+Answer: first
+
+Q3: Hydrazoic acid is ___ and highly toxic .
+Answer: volatile
+
+Q4: An OEM damper ___ of an outer mass bonded / vulcanized to an inner hub .
+Answer: consists
+
+Q5: Small amounts of hydrogen sulfide can be found in ___ petroleum .
+Answer: crude
+
+Q6: Seaweeds are also harvested or cultivated for the extraction of alginate , agar and carrageenan , gelatinous ___ collectively known as hydrocolloids or phycocolloids .
+Answer: substances
+
+Q7: Hollandaise is one of the five ___ sauces in French haute cuisine .
+Answer: mother
+
+Q8: Web ___ and web proxy servers employ web caches to store previous responses from web servers , such as web pages and images .
+Answer: browsers
+
+Q9: In a ___ example the two bromine atoms in 3 - tert - butyl - trans - 1 , 2 - dibromohexane mutarotate by heating .
+Answer: straightforward
+
+Q10: By 2002 , 36 states had repealed their sodomy ___ or their courts had overturned them .
+Answer: laws
+
 
 
 NODE SPEAKING
 
+1. There are risks of infection by salmonella bacteria .
+2. Pumice is widely used to make lightweight concrete and insulative low-density cinder blocks .
+3. Women wear a feminine tartan kilt , a short white blouse with a sleeveless velvet jacket over it , matching tartan hose and ghilies shoes .
+4. Because of their abundance , seamounts are one of the most common marine ecosystems in the world .
+5. Gerardus't Hooft is well known for his theories about gauge theory , black holes , and quantum gravity .
+6. Bromine is toxic and corrosive to skin .
+7. Lactose intolerance is distinct from milk allergy , an immune response to cow 's milk proteins .
+8. Typically unitary authorities cover large towns or cities , which are large enough to be independent of county or regional administration .
+9. Hazzard died in New York City on 12 December 2016 from complications of dementia , aged 85 .
+10. Plants in wildfire - prone ecosystems often survive through adaptations to their local fire regime .
 
 
 NODE MATCHING
 
-1. to portend -> để báo trước
-2. breakdown -> sự cố
-3. to preempt -> để ngăn chặn
-4. to levy -> để đánh thuế
-5. enrich -> làm giàu
-6. to acquiesce -> đồng ý
-7. incisive -> sắc bén
-8. grief -> nỗi đau buồn
-9. junction -> điểm giao nhau
-10. slam -> đập mạnh
+1. fulsome -> đầy đặn
+2. sue -> kiện tụng
+3. generic -> chung
+4. apparition -> sự xuất hiện
+5. dispensation -> sự ban phát
+6. tobacco -> thuốc lá
+7. engagement -> hôn ước
+8. appetite -> sự thèm ăn
+9. iconoclast -> kẻ phá bỏ biểu tượng
+10. to demur -> phản đối
 
 
 NODE REVIEW
 
-Q1: What is the meaning of: to forestall
-A. tinh tế
-B. để ngăn chặn
-C. chịu đựng
-D. phông nền
-Answer: B
+Q1: What is the meaning of: bizarre
+A. tù nhân
+B. tăng tốc
+C. tiếp tuyến
+D. kỳ lạ
+Answer: D
 
-2. to levy -> để đánh thuế
-Q3: What is the meaning of: drain
-A. làm khô hạn
-B. tuần tra
-C. lời tiên tri
-D. người có tầm nhìn
+Q2: What is the meaning of: constitutional
+A. hiến pháp
+B. khát vọng
+C. đặc biệt
+D. bất khả xâm phạm
 Answer: A
 
-4. to acquiesce -> đồng ý
-5. junction -> điểm giao nhau
-6. grief -> nỗi đau buồn
-7. enrich -> làm giàu
-Q8: What is the meaning of: endorsement
-A. sự chứng thực
-B. nổi bật
-C. sửa chữa
-D. đặc quyền
-Answer: A
+3. Bromine is toxic and corrosive to skin .
+Q4: An OEM damper ___ of an outer mass bonded / vulcanized to an inner hub .
+Answer: consists
 
-9. to preempt -> để ngăn chặn
-10. incisive -> sắc bén
+5. apparition -> sự xuất hiện
+Q6: What is the meaning of: marketplace
+A. chủ trì
+B. đỉnh cao
+C. căng thẳng
+D. thị trường
+Answer: D
+
+Q7: Seaweeds are also harvested or cultivated for the extraction of alginate , agar and carrageenan , gelatinous ___ collectively known as hydrocolloids or phycocolloids .
+Answer: substances
+
+8. to demur -> phản đối
+9. Women wear a feminine tartan kilt , a short white blouse with a sleeveless velvet jacket over it , matching tartan hose and ghilies shoes .
+10. engagement -> hôn ước
 
 

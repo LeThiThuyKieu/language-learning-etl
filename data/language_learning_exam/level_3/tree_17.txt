@@ -1,149 +1,175 @@
-TREE 17: Science
+TREE 17
 ====================================
 
 NODE VOCAB
 
-Q1: What is the meaning of: curiosity
-A. trì hoãn
-B. ám chỉ
-C. sự tò mò
-D. sự dồi dào
-Answer: C
+Q1: What is the meaning of: manifestation
+A. biểu hiện
+B. khoản tiền bất ngờ
+C. tình huống khẩn cấp
+D. u mê
+Answer: A
 
-Q2: What is the meaning of: topography
-A. sinh thái
-B. địa hình
-C. mưu mẹo
-D. tiên đề
+Q2: What is the meaning of: mask
+A. sự tức giận
+B. mặt nạ
+C. triển vọng
+D. hình bóng
 Answer: B
 
-Q3: What is the meaning of: testimonial
-A. sự hình thức
-B. sự hội tụ
-C. tù nhân
-D. lời chứng thực
+Q3: What is the meaning of: crude
+A. điều chỉnh
+B. dầu thô
+C. lo lắng
+D. nằm im
+Answer: B
+
+Q4: What is the meaning of: confine
+A. sự phân biệt chủng tộc
+B. giới hạn
+C. sự phóng túng
+D. người nhận
+Answer: B
+
+Q5: What is the meaning of: immeasurably
+A. siêng năng
+B. vô cùng
+C. phe phái
+D. chủ sở hữu
+Answer: B
+
+Q6: What is the meaning of: solo
+A. sự thất vọng
+B. trần trụi
+C. liên tục
+D. độc lập
 Answer: D
 
-Q4: What is the meaning of: likelihood
-A. nghĩ
-B. sự lây lan
-C. người chậm chạp
-D. xác suất
-Answer: D
-
-Q5: What is the meaning of: sediment
-A. trầm tích
-B. khu vực bầu cử
-C. có thể nói
-D. diệt chủng
-Answer: A
-
-Q6: What is the meaning of: zodiac
-A. đe dọa
-B. phần mười
-C. vụ thảm sát
-D. cung hoàng đạo
-Answer: D
-
-Q7: What is the meaning of: watershed
-A. sự không đúng mực
-B. bổ sung
-C. lưu vực
-D. cách ly
+Q7: What is the meaning of: cattle
+A. sự trơ tráo
+B. ra lệnh
+C. gia súc
+D. sắc bén
 Answer: C
 
-Q8: What is the meaning of: gravity
-A. khẩn cấp
-B. vi phạm
-C. nhiệm kỳ
-D. trọng lực
+Q8: What is the meaning of: trance
+A. bất lợi
+B. kỳ quặc
+C. bản trình bày
+D. trạng thái thôi miên
 Answer: D
 
-Q9: What is the meaning of: abstention
-A. kiêng cữ
-B. vận tốc
-C. thần giao cách cảm
-D. để chia buồn
-Answer: A
+Q9: What is the meaning of: demon
+A. điều cấm kỵ
+B. cổ đông
+C. quỷ
+D. nguyên tắc
+Answer: C
 
-Q10: What is the meaning of: flux
-A. tuôn ra
-B. liền kề
-C. điểm kỳ dị
-D. sự trả thù
-Answer: A
+Q10: What is the meaning of: to perpetuate
+A. ca ngợi
+B. chuông kêu
+C. để duy trì
+D. điều cấm kỵ
+Answer: C
 
 
 
 NODE LISTENING
 
+Q1: Many fish ___ sex over the course of their lifespan , a phenomenon called sequential hermaphroditism .
+Answer: change
+
+Q2: In many cases , the splicing process can create a range of unique proteins by varying the exon ___ of the same mRNA .
+Answer: composition
+
+Q3: Iocaste belongs to the Ananke group , believed to be the ___ of a break - up of a captured heliocentric asteroid .
+Answer: remnants
+
+Q4: It has been suggested that many of the existing plant and most animal species have undergone an event of polyploidization in their ___ history .
+Answer: evolutionary
+
+Q5: Most dolmen constructions they were build using stone slabs of big ___ .
+Answer: dimensions
+
+Q6: Children of women with GDM have an increased risk for ___ and adult obesity and an increased risk of glucose intolerance and type 2 diabetes later in life .
+Answer: childhood
+
+Q7: Centrioles are typically made up of nine sets of ___ microtubule triplets , arranged in a cylinder .
+Answer: short
+
+Q8: Epidemiological practice and the results of epidemiological analysis make a significant ___ to health management
+Answer: contribution
+
+Q9: Sometimes it is ___ to tell the difference between anaphylaxis ; asthma ; fainting caused by not having enough oxygen ; and panic attacks .
+Answer: difficult
+
+Q10: Without treatment , an ___ attack of gout usually resolves in five to seven days ; however , 60 % of people have a second attack within one year .
+Answer: acute
+
 
 
 NODE SPEAKING
 
+1. The authors were able to experimentally work out a rate law at 261.2 K for the reaction of 1,2 - dimethylidenecyclohexane with sulfur dioxide to give the corresponding sulfolene .
+2. Psyche is massive enough that its perturbations on other asteroids can be measured , which enables a mass measurement .
+3. However , recent research has shown that at least some prokaryotes have microcompartments such as carboxysomes .
+4. Potassium iodate is sometimes used for iodination of table salt to prevent iodine deficiency .
+5. Silver carbonate can be prepared by combining aqueous solutions of sodium carbonate with a deficiency of silver nitrate .
+6. The rugged coastline has been the scene of a number of shipwrecks .
+7. Van Vollenhoven was diagnosed with a Melanoma , a common type of skin cancer , in May 2017 .
+8. Handedness seems to follow from the brain hemisphere division of labor .
+9. Bombards were replaced by weapons using smaller caliber iron shells with more powerful gunpowder .
+10. s of 2011 , there are about one hundred medications in development for hepatitis C.
 
 
 NODE MATCHING
 
-1. sediment -> trầm tích
-2. tentative -> dự kiến
-3. zodiac -> cung hoàng đạo
-4. scion -> cành ghép
-5. fluid -> dịch
-6. simulate -> mô phỏng
-7. evolutionary -> tiến hóa
-8. reconnaissance -> trinh sát
-9. curiosity -> sự tò mò
-10. to acquit -> tha bổng
+1. dispute -> tranh luận
+2. to dispense -> phân phát
+3. cadence -> nhịp điệu
+4. acumen -> sự nhạy bén
+5. lineage -> dòng dõi
+6. homeland -> quê hương
+7. unrivalled -> vô song
+8. to pontificate -> thuyết giảng
+9. realm -> vương quốc
+10. wistful -> u sầu
 
 
 NODE REVIEW
 
-1. to acquit -> tha bổng
-Q2: What is the meaning of: watershed
-A. lưu vực
-B. sự không đúng mực
-C. bổ sung
-D. cách ly
+1. Potassium iodate is sometimes used for iodination of table salt to prevent iodine deficiency .
+2. The rugged coastline has been the scene of a number of shipwrecks .
+3. Bombards were replaced by weapons using smaller caliber iron shells with more powerful gunpowder .
+Q4: What is the meaning of: confine
+A. sự phóng túng
+B. sự phân biệt chủng tộc
+C. giới hạn
+D. người nhận
+Answer: C
+
+Q5: What is the meaning of: crude
+A. dầu thô
+B. lo lắng
+C. nằm im
+D. điều chỉnh
 Answer: A
 
-Q3: What is the meaning of: topography
-A. sinh thái
-B. mưu mẹo
-C. tiên đề
-D. địa hình
+Q6: What is the meaning of: cattle
+A. ra lệnh
+B. sự trơ tráo
+C. sắc bén
+D. gia súc
 Answer: D
 
-Q4: What is the meaning of: gravity
-A. vi phạm
-B. trọng lực
-C. nhiệm kỳ
-D. khẩn cấp
-Answer: B
+7. Silver carbonate can be prepared by combining aqueous solutions of sodium carbonate with a deficiency of silver nitrate .
+8. Van Vollenhoven was diagnosed with a Melanoma , a common type of skin cancer , in May 2017 .
+Q9: In many cases , the splicing process can create a range of unique proteins by varying the exon ___ of the same mRNA .
+Answer: composition
 
-5. evolutionary -> tiến hóa
-6. tentative -> dự kiến
-Q7: What is the meaning of: sediment
-A. diệt chủng
-B. trầm tích
-C. có thể nói
-D. khu vực bầu cử
-Answer: B
-
-Q8: What is the meaning of: abstention
-A. thần giao cách cảm
-B. để chia buồn
-C. vận tốc
-D. kiêng cữ
-Answer: D
-
-9. sediment -> trầm tích
-Q10: What is the meaning of: curiosity
-A. ám chỉ
-B. trì hoãn
-C. sự tò mò
-D. sự dồi dào
-Answer: C
+Q10: It has been suggested that many of the existing plant and most animal species have undergone an event of polyploidization in their ___ history .
+Answer: evolutionary
 
 
 

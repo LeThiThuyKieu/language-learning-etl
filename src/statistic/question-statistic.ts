@@ -265,7 +265,7 @@ export class QuestionStatistics {
 
       // lấy tất cả tree của level
       const [trees]: any = await db.query(
-        `SELECT id, title FROM skill_tree 
+        `SELECT id FROM skill_tree 
 			 WHERE level_id = ? 
 			 ORDER BY order_index`,
         [levelId],

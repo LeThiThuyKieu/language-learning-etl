@@ -1,137 +1,173 @@
-TREE 19: Politics
+TREE 19
 ====================================
 
 NODE VOCAB
 
-Q1: What is the meaning of: repression
-A. sự tươi mát
-B. quang học
-C. đàn áp
-D. nộp
-Answer: C
-
-Q2: What is the meaning of: corruption
-A. bị cáo buộc
-B. bất cứ điều gì
-C. tham nhũng
-D. chứng hoang tưởng tự đại
-Answer: C
-
-Q3: What is the meaning of: populace
-A. dân số
-B. người khiêng quan tài
-C. làm gián đoạn
-D. kinh cầu nguyện
+Q1: What is the meaning of: neglect
+A. sao nhãng
+B. tạm dừng
+C. xây dựng
+D. tỷ lệ mắc bệnh
 Answer: A
 
-Q4: What is the meaning of: electoral
-A. vô số
-B. bầu cử
-C. mở rộng
-D. hỗn độn
-Answer: B
-
-Q5: What is the meaning of: citizenship
-A. quốc tịch
-B. run
-C. giáo điều
-D. bệnh xá
+Q2: What is the meaning of: thicket
+A. bụi rậm
+B. sự việc
+C. đại biểu
+D. thời trung cổ
 Answer: A
 
-Q6: What is the meaning of: sedentary
-A. thuật ngữ
-B. ít vận động
-C. sự kế tiếp
-D. rõ ràng
-Answer: B
-
-Q7: What is the meaning of: to galvanise
-A. mạ kẽm
-B. cú đấm
-C. để tôn vinh
-D. nỗ lực
+Q3: What is the meaning of: manor
+A. trang viên
+B. cắt bớt
+C. bão
+D. điểm tham chiếu
 Answer: A
 
-Q8: What is the meaning of: remainder
-A. phần còn lại
-B. đình chỉ
-C. sự phối hợp
-D. luận văn
-Answer: A
-
-Q9: What is the meaning of: pedant
-A. kẻ học giả
-B. quản trị viên
-C. thước đo
-D. cướp biển
-Answer: A
-
-Q10: What is the meaning of: grip
-A. đồng
-B. để tàn phá
-C. diễn thuyết
-D. va li
+Q4: What is the meaning of: chasm
+A. sự mua lại
+B. tối thiểu
+C. số lượng lớn
+D. hang sâu
 Answer: D
+
+Q5: What is the meaning of: disruption
+A. sự gián đoạn
+B. cái nhìn thoáng qua
+C. khu vực lân cận
+D. kịch tính
+Answer: A
+
+Q6: What is the meaning of: wretched
+A. người phàm
+B. tối đa
+C. cơn thịnh nộ
+D. khốn khổ
+Answer: D
+
+Q7: What is the meaning of: pad
+A. can thiệp
+B. tấm lót
+C. toán học
+D. tâm chấn
+Answer: B
+
+Q8: What is the meaning of: besotted
+A. chính trực
+B. ưu tú
+C. cận biên
+D. say đắm
+Answer: D
+
+Q9: What is the meaning of: to exacerbate
+A. làm trầm trọng thêm
+B. lạc quan
+C. thâm hụt
+D. sự độc ác
+Answer: A
+
+Q10: What is the meaning of: denounce
+A. lên án
+B. chủ nghĩa duy lý
+C. kẻ thù không đội trời chung
+D. dị thường
+Answer: A
 
 
 
 NODE LISTENING
 
+Q1: Because of the lack of ___ characteristics that supportthis group , it is very possible that the subfamily as it is currently recognized could grow bigger .
+Answer: physical
+
+Q2: With advances in medicinal chemistry , most of today ' s antibacterials chemically are ___ of various natural compounds .
+Answer: modifications
+
+Q3: Water turbines are divided into two ___ ; reaction turbines and impulse turbines .
+Answer: groups
+
+Q4: Obsidian can be found in ___ which have experienced rhyolitic eruptions .
+Answer: locations
+
+Q5: Cenote water is often very clear , as the water comes from ___ water infiltrating slowly through the ground .
+Answer: rain
+
+Q6: Particle - antiparticle pairs can annihilate each other if they are in ___ quantum states .
+Answer: appropriate
+
+Q7: Barium oxide is made by ___ barium carbonate .
+Answer: heating
+
+Q8: The ___ of homochirality in the first place is much discussed .
+Answer: origin
+
+Q9: TUTTs sometimes brings a large amount of vertical ___ shear over tropical disturbances in the deep tropics and cyclones and thus hinder their development .
+Answer: wind
+
+Q10: Sexual ___ is a process that can only be found in eukaryotes .
+Answer: reproduction
+
 
 
 NODE SPEAKING
 
+1. Now , laser engraving machines are being made and even today the mechanical cutting has proven its strength in economical terms and quality .
+2. The Cheer pheasant lacks the color and brilliance of most pheasants .
+3. Upon its grand opening , the armory 's size seemed inadequate for a work force .
+4. Flogging was used to punish convicts in the penal colonies of Australia .
+5. The electron transport chain consists of a spatially separated series of redox reactions in which electrons are transferred from a donor molecule to an acceptor molecule .
+6. There is some sexual dimorphism in this species .
+7. The chloroplasts of glaucophytes are known as' cyanelles ' .
+8. Cofactors can be divided into two types , either inorganic ions , or complex organic molecules called coenzymes .
+9. This form is infrequent except in elementary arithmetic .
+10. Tests tubes are often preferred above beakers when multiple small chemical or biological samples have to be handled and / or stored .
 
 
 NODE MATCHING
 
-1. autocracy -> chế độ chuyên chế
-2. tyranny -> chuyên chế
-3. councillor -> ủy viên hội đồng
-4. suffragette -> người phụ nữ đấu tranh cho quyền bầu cử
-5. referendum -> trưng cầu dân ý
-6. citizenship -> quốc tịch
-7. impeachment -> làm mất danh dự
-8. shrewdness -> sự khôn ngoan
-9. loophole -> kẽ hở
-10. benevolent -> nhân từ
+1. relevance -> sự liên quan
+2. antithesis -> phản đề
+3. inimical -> thù địch
+4. lethargy -> sự uể oải
+5. contemplate -> suy ngẫm
+6. upcoming -> sắp tới
+7. neglect -> sao nhãng
+8. endeavour -> nỗ lực
+9. memorial -> đài tưởng niệm
+10. sophistry -> ngụy biện
 
 
 NODE REVIEW
 
-1. tyranny -> chuyên chế
-Q2: What is the meaning of: citizenship
-A. bệnh xá
-B. giáo điều
-C. run
-D. quốc tịch
+Q1: What is the meaning of: disruption
+A. cái nhìn thoáng qua
+B. khu vực lân cận
+C. kịch tính
+D. sự gián đoạn
 Answer: D
 
-Q3: What is the meaning of: corruption
-A. bất cứ điều gì
-B. chứng hoang tưởng tự đại
-C. tham nhũng
-D. bị cáo buộc
+Q2: What is the meaning of: manor
+A. bão
+B. điểm tham chiếu
+C. trang viên
+D. cắt bớt
 Answer: C
 
-4. benevolent -> nhân từ
-5. impeachment -> làm mất danh dự
-Q6: What is the meaning of: grip
-A. diễn thuyết
-B. va li
-C. để tàn phá
-D. đồng
-Answer: B
+3. lethargy -> sự uể oải
+Q4: What is the meaning of: chasm
+A. số lượng lớn
+B. tối thiểu
+C. hang sâu
+D. sự mua lại
+Answer: C
 
-Q7: What is the meaning of: repression
-A. đàn áp
-B. nộp
-C. quang học
-D. sự tươi mát
-Answer: A
+5. contemplate -> suy ngẫm
+6. upcoming -> sắp tới
+7. Now , laser engraving machines are being made and even today the mechanical cutting has proven its strength in economical terms and quality .
+8. There is some sexual dimorphism in this species .
+9. Tests tubes are often preferred above beakers when multiple small chemical or biological samples have to be handled and / or stored .
+Q10: Obsidian can be found in ___ which have experienced rhyolitic eruptions .
+Answer: locations
 
-8. loophole -> kẽ hở
-9. referendum -> trưng cầu dân ý
-10. suffragette -> người phụ nữ đấu tranh cho quyền bầu cử
 
 

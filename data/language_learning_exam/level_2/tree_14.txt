@@ -1,163 +1,169 @@
-TREE 14: Communication
+TREE 14
 ====================================
 
 NODE VOCAB
 
-Q1: What is the meaning of: shoot
-A. bắn
-B. được giáo dục
-C. rõ ràng
-D. vật mẫu
-Answer: A
-
-Q2: What is the meaning of: justice
-A. có liên quan
-B. khủng khiếp
-C. nghiên cứu
-D. công lý
+Q1: What is the meaning of: housing
+A. mua
+B. tuyệt đối
+C. sâu sắc
+D. nhà ở
 Answer: D
 
-Q3: What is the meaning of: tone
-A. âm thanh
-B. đạt được
-C. trước
-D. học sinh
+Q2: What is the meaning of: phenomenon
+A. hiện tượng
+B. 2 quảng cáo
+C. tan chảy
+D. không may
 Answer: A
 
-Q4: What is the meaning of: previous
-A. trước
-B. sự thử nghiệm
-C. tàu thủy
-D. không
-Answer: A
+Q3: What is the meaning of: hunger
+A. chạm
+B. ngọn lửa
+C. đóng góp
+D. đói
+Answer: D
 
-Q5: What is the meaning of: blanket
-A. bao gồm
-B. sự chính xác
-C. cái chăn
-D. minh họa
+Q4: What is the meaning of: construction
+A. đô thị
+B. con gấu
+C. tổ hợp
+D. sự thi công
+Answer: D
+
+Q5: What is the meaning of: brief
+A. Nhưng
+B. phiên bản
+C. ngắn gọn
+D. trên toàn thế giới
 Answer: C
 
-Q6: What is the meaning of: rating
-A. xếp hạng
-B. đoạn clip
-C. không may
-D. nông nghiệp
+Q6: What is the meaning of: urgent
+A. đoạn clip
+B. cấp bách
+C. thích nghi
+D. bỏ rơi
+Answer: B
+
+Q7: What is the meaning of: artwork
+A. tác phẩm nghệ thuật
+B. quầy hàng
+C. hiếm
+D. liên tục
 Answer: A
 
-Q7: What is the meaning of: confirm
-A. hối tiếc
-B. báo thức
-C. xác nhận
-D. đoạn clip
-Answer: C
+Q8: What is the meaning of: silk
+A. lụa
+B. xưng
+C. khối cầu
+D. mô
+Answer: A
 
-Q8: What is the meaning of: gentleman
-A. tiến triển
-B. không ngờ tới
-C. vượt ra
-D. quý ông
-Answer: D
+Q9: What is the meaning of: curious
+A. tò mò
+B. dễ thương
+C. chấm
+D. Phần kết luận
+Answer: A
 
-Q9: What is the meaning of: shock
-A. ngôi đền
-B. nhiếp ảnh
-C. mù
-D. sốc
-Answer: D
-
-Q10: What is the meaning of: terrify
-A. kinh hãi
-B. trách nhiệm
-C. sâu
-D. sự quyết tâm
+Q10: What is the meaning of: flame
+A. ngọn lửa
+B. hình dạng
+C. tìm kiếm
+D. biên lai
 Answer: A
 
 
 
 NODE LISTENING
 
-Q1: You never told me ___ you did n't know how to speak French .
-Answer: that
+Q1: The race is unique in that its winner receives a ___ belt rather than a trophy .
+Answer: championship
 
-Q2: ___ was the last time I told you I loved you ?
-Answer: when
+Q2: Though often used interchangeably , in biology these ___ have different meanings .
+Answer: words
 
-Q3: Tom asked Mary to marry him , but she turned ___ his proposal .
-Answer: down
+Q3: Some items of clothing are designed to be worn as ___ , while others such as T - shirts can be used both as underwear and as outer clothing .
+Answer: underwear
 
-Q4: The dance had already started when I got ___ .
-Answer: there
+Q4: Double ___ also exist ; these have the symbol and raise a note by two semitones , or a whole step .
+Answer: sharps
 
-Q5: I ca n't ___ with you on that .
-Answer: disagree
+Q5: ___ have so far made two platinum albums , selling over two million copies around the world .
+Answer: editors
 
-Q6: Do you think you ___ do that ?
-Answer: could
+Q6: The climate of Ghana is ___ and there are two main seasons : the wet season and the dry season .
+Answer: tropical
 
-Q7: Tom does n't ___ how long the party is going to last .
-Answer: know
+Q7: The evolutionary history of scorpions goes back to the Silurian , 430 million ___ ago .
+Answer: years
 
-Q8: Tom told everyone that he thought Mary would make a good wife for ___ someday .
-Answer: someone
+Q8: There are over 120 species of ___ cuttlefish , in 5 genera .
+Answer: living
 
-Q9: This is a sentence , ___ has the syllable count , of a haiku .
-Answer: that
+Q9: Michener wrote that he did not know who his ___ were or exactly when and where he was born .
+Answer: parents
 
-Q10: I get the feeling that I 've heard that ___ before .
-Answer: somewhere
+Q10: The series remains ___ today .
+Answer: popular
 
 
 
 NODE SPEAKING
 
-1. She called him to say that she'd be late.
-2. Does Tom believe that?
-3. Tom can't see you tonight, but he can see you tomorrow morning.
-4. That was Tom's idea.
-5. Tom had no way of knowing that this would happen.
-6. Hey, did you hear that?
-7. Have you seen him before?
-8. You should write it down before you forget it.
-9. That's the last thing that I expected you to do.
-10. Tom said that he doesn't regret his decision.
+1. In contrast , the procedures of the Diet of Japan have moved away from the British parliamentary model .
+2. Cockatoos are recognizable by the showy crests and curved and strong bills .
+3. The region was known from ancient times for its exceptionally hot springs .
+4. The effectiveness of the measure was questioned , since the video was available not only on YouTube , but also on other sites as part of an Internet phenomenon .
+5. An entity whose income exceeds its expenditure can lend or invest the excess income to help that excess income produce more income in the future .
+6. It is possible to use rounded arithmetic to evaluate the exact value of a function with a discrete domain and range .
+7. Eventually , the caldera cooled , allowing rain and snow to accumulate and form a lake .
+8. Warlimpirrnga paints abstract images of sacred dreaming stories and songs .
+9. Scholars ' rocks can be any color , and contrasting colors are not uncommon .
+10. This technique has long been used to produce flexible metal wire by drawing the material through a series of dies of decreasing size .
 
 
 NODE MATCHING
 
-1. frame -> khung
-2. client -> khách hàng
-3. trust -> lòng tin
-4. defender -> hậu vệ
-5. stuff -> chất liệu
-6. desperate -> tuyệt vọng
-7. drunk -> say rượu
-8. blanket -> cái chăn
-9. tongue -> lưỡi
-10. envelope -> phong bì
+1. specialist -> chuyên gia
+2. impatient -> thiếu kiên nhẫn
+3. drag -> lôi kéo
+4. emphasis -> nhấn mạnh
+5. widely -> rộng rãi
+6. entire -> toàn bộ
+7. punish -> trừng phạt
+8. questionnaire -> bảng câu hỏi
+9. mechanic -> thợ cơ khí
+10. odd -> số lẻ
 
 
 NODE REVIEW
 
-Q1: This is a sentence , ___ has the syllable count , of a haiku .
-Answer: that
+1. Cockatoos are recognizable by the showy crests and curved and strong bills .
+Q2: Double ___ also exist ; these have the symbol and raise a note by two semitones , or a whole step .
+Answer: sharps
 
-2. Tom said that he doesn't regret his decision.
-3. frame -> khung
-4. desperate -> tuyệt vọng
-5. drunk -> say rượu
-6. defender -> hậu vệ
-Q7: What is the meaning of: rating
-A. xếp hạng
-B. không may
-C. đoạn clip
-D. nông nghiệp
+3. Eventually , the caldera cooled , allowing rain and snow to accumulate and form a lake .
+Q4: The series remains ___ today .
+Answer: popular
+
+5. punish -> trừng phạt
+Q6: What is the meaning of: flame
+A. tìm kiếm
+B. hình dạng
+C. biên lai
+D. ngọn lửa
+Answer: D
+
+7. emphasis -> nhấn mạnh
+Q8: What is the meaning of: silk
+A. lụa
+B. xưng
+C. khối cầu
+D. mô
 Answer: A
 
-8. That's the last thing that I expected you to do.
-9. Tom can't see you tonight, but he can see you tomorrow morning.
-Q10: Tom told everyone that he thought Mary would make a good wife for ___ someday .
-Answer: someone
-
+9. The effectiveness of the measure was questioned , since the video was available not only on YouTube , but also on other sites as part of an Internet phenomenon .
+10. specialist -> chuyên gia
 
 
