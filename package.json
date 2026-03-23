@@ -15,7 +15,12 @@
     "build-vocab-dictionary": "ts-node src/build_vocab_dictionary.ts",
     "merge-data": "ts-node src/utils/merge_data.ts",
     "merge-data-add": "ts-node src/utils/merge-data-add.ts",
-    "report-statistic": "ts-node src/statistic/report-statistic.ts"
+    "report-statistic": "ts-node src/statistic/report-statistic.ts",
+    "test-destination-vocab": "ts-node src/test-destination-vocab.ts",
+    "ocr-destination": "ts-node src/ocr-destination-pdf.ts",
+    "extract-choose": "ts-node src/vocab_matching/extract-choose-correct-answer.ts",
+    "extract-match": "ts-node src/vocab_matching/extract-match-to-make-sentences.ts",
+    "export-choose-csv": "ts-node src/vocab_matching/export-choose-correct-to-csv.ts"
   },
   "keywords": [],
   "author": "",
@@ -35,6 +40,9 @@
     "mongoose": "^9.1.6",
     "multer": "^2.1.1",
     "mysql2": "^3.16.3",
+    "pdf-parse": "^2.4.5",
+    "sharp": "^0.34.5",
+    "tesseract.js": "^7.0.0",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.3",
     "wink-pos-tagger": "^2.2.2"

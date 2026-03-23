@@ -234,30 +234,16 @@ async function run() {
   );
 
   // 5) Skill x Question type
-  const questionTypeKeys: string[] = [];
-  for (const row of skillQuestionTypeFiltered) {
-    const type = String(row.question_type);
-    if (!questionTypeKeys.includes(type)) {
-      questionTypeKeys.push(type);
-    }
-  }
-  questionTypeKeys.sort();
+  const skillQuestionTypeLabels = skillQuestionTypeFiltered.map(
+    (item: any) => `${String(item.skill)} - ${String(item.question_type)}`,
+  );
+  const skillQuestionTypeData = skillQuestionTypeFiltered.map((item: any) =>
+    Number(item.total),
+  );
 
-  const skillQuestionTypeDatasets = questionTypeKeys.map((questionType) => ({
-    label: questionType,
-    data: skillLabels.map((skill) => {
-      const row = skillQuestionTypeFiltered.find(
-        (item: any) =>
-          String(item.skill) === skill &&
-          String(item.question_type) === questionType,
-      );
-      return row ? Number(row.total) : 0;
-    }),
-  }));
-
-  await chart.generateStackedBarChart(
-    skillLabels,
-    skillQuestionTypeDatasets,
+  await chart.generatePieChart(
+    skillQuestionTypeLabels,
+    skillQuestionTypeData,
     "Phân bố skill x loại câu hỏi",
     "skill-x-question-type.png",
   );
