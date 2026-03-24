@@ -181,9 +181,9 @@ async function processFiles() {
       //1. Xử lý VOCABULARY
       if (file.toLowerCase().includes("vocab")) {
         processed = {
-          sentence: `What is the meaning of: ${row.word}`,
-          options: `${row.distractors}|${row.definition}`,
-          answer: row.definition,
+          sentence: `${row.sentence}`,
+          options: `${row.distractors}`,
+          answer: row.answer,
           difficulty: row.difficulty || "easy",
           question_type: "VOCAB",
         };
