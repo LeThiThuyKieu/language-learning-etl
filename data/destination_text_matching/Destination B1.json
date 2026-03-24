@@ -1,0 +1,3128 @@
+[
+  {
+    "page": 12,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "carry on",
+        "right": "continue"
+      },
+      {
+        "left": "eat out",
+        "right": "eat at a restaurant"
+      },
+      {
+        "left": "give up",
+        "right": "stop doing sth you do regularly"
+      },
+      {
+        "left": "join in",
+        "right": "participate, take part"
+      },
+      {
+        "left": "send off",
+        "right": "make a player leave a game (eg, football)"
+      },
+      {
+        "left": "take up",
+        "right": "start (a hobby, sport, etc)"
+      },
+      {
+        "left": "turn down",
+        "right": "lower the volume of"
+      },
+      {
+        "left": "turn up",
+        "right": "increase the volume of"
+      }
+    ]
+  },
+  {
+    "page": 17,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "I waited outside the tennis club for",
+        "right": "a long time, but George didn't appear."
+      },
+      {
+        "left": "When you rang, I was in",
+        "right": "the middle of cleaning my football boots."
+      },
+      {
+        "left": "We finally got to the stadium just in",
+        "right": "time to see the match start."
+      },
+      {
+        "left": "I just play football for",
+        "right": "fun, and I don't want to do it as a job."
+      },
+      {
+        "left": "I loved that film and when it comes out",
+        "right": "on DVD, I'll definitely get it."
+      },
+      {
+        "left": "It's great to appear on",
+        "right": "stage, with all the audience clapping."
+      }
+    ]
+  },
+  {
+    "page": 24,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "cross out",
+        "right": "draw a line through sth written"
+      },
+      {
+        "left": "look up",
+        "right": "try to find information in a book, etc"
+      },
+      {
+        "left": "point out",
+        "right": "tell sb important information"
+      },
+      {
+        "left": "read out",
+        "right": "say sth out loud which you are reading"
+      },
+      {
+        "left": "rip up",
+        "right": "tear into pieces"
+      },
+      {
+        "left": "rub out",
+        "right": "remove with a rubber"
+      },
+      {
+        "left": "turn over",
+        "right": "turn sth so the other side is towards you"
+      },
+      {
+        "left": "write down",
+        "right": "write information on a piece of paper"
+      }
+    ]
+  },
+  {
+    "page": 36,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "get in(to)",
+        "right": "enter a car"
+      },
+      {
+        "left": "get off",
+        "right": "leave a bus/train/etc"
+      },
+      {
+        "left": "get on(to)",
+        "right": "enter a bus/train/etc"
+      },
+      {
+        "left": "get out (of)",
+        "right": "leave a car/building/room/etc"
+      },
+      {
+        "left": "go away",
+        "right": "leave a place/sb"
+      },
+      {
+        "left": "go back (to)",
+        "right": "return (to)"
+      },
+      {
+        "left": "set off",
+        "right": "start a journey"
+      },
+      {
+        "left": "take off",
+        "right": "leave the ground"
+      }
+    ]
+  },
+  {
+    "page": 37,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "As the plane took",
+        "right": "off, I held my mum's hand tightly."
+      },
+      {
+        "left": "The door is open, so you can get",
+        "right": "in the car, if you like."
+      },
+      {
+        "left": "We were in a hurry and when we got",
+        "right": "on the bus, I realised I didn't have a ticket."
+      },
+      {
+        "left": "The man selling the tickets told us to go",
+        "right": "away and come back again later."
+      },
+      {
+        "left": "It was raining when we set",
+        "right": "off on our walk, but it soon stopped."
+      },
+      {
+        "left": "We loved the hotel so we went",
+        "right": "back there the following year."
+      },
+      {
+        "left": "Ray fell as he was getting",
+        "right": "off the bus and couldn't walk properly."
+      },
+      {
+        "left": "The taxi driver asked us to get",
+        "right": "out on the right because it was safer."
+      }
+    ]
+  },
+  {
+    "page": 48,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "bring up",
+        "right": "take care of a child until he or she becomes an adult"
+      },
+      {
+        "left": "fall out (with)",
+        "right": "have an argument with sb and stop being friends"
+      },
+      {
+        "left": "get on (with)",
+        "right": "have a good relationship (with)"
+      },
+      {
+        "left": "go out with",
+        "right": "be the boyfriend/girlfriend of"
+      },
+      {
+        "left": "grow up",
+        "right": "become older (for children)"
+      },
+      {
+        "left": "let down",
+        "right": "disappoint"
+      },
+      {
+        "left": "look after",
+        "right": "take care of"
+      },
+      {
+        "left": "split up",
+        "right": "end a relationship"
+      }
+    ]
+  },
+  {
+    "page": 60,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "add up",
+        "right": "find the total of"
+      },
+      {
+        "left": "come back (from)",
+        "right": "return (from)"
+      },
+      {
+        "left": "give away",
+        "right": "give sth free of charge"
+      },
+      {
+        "left": "hurry up",
+        "right": "do sth more quickly"
+      },
+      {
+        "left": "pay back",
+        "right": "return money (to sb)"
+      },
+      {
+        "left": "save up (for)",
+        "right": "save money (for a specific purpose)"
+      },
+      {
+        "left": "take back",
+        "right": "return sth to the place it came from"
+      },
+      {
+        "left": "take down",
+        "right": "remove (from a high place)"
+      }
+    ]
+  },
+  {
+    "page": 72,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "break down",
+        "right": "stop working (for a machine, etc)"
+      },
+      {
+        "left": "come across",
+        "right": "find sth by chance"
+      },
+      {
+        "left": "find out",
+        "right": "discover information, etc"
+      },
+      {
+        "left": "make up",
+        "right": "invent an explanation, excuse, etc"
+      },
+      {
+        "left": "pull off",
+        "right": "break by pulling"
+      },
+      {
+        "left": "throw away",
+        "right": "put sth in a rubbish bin"
+      },
+      {
+        "left": "turn off",
+        "right": "stop a machine working"
+      },
+      {
+        "left": "turn on",
+        "right": "start a machine working"
+      }
+    ]
+  },
+  {
+    "page": 75,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "What's the difference",
+        "right": "between H20 and H2S04?"
+      },
+      {
+        "left": "This box is full",
+        "right": "of old camping equipment."
+      },
+      {
+        "left": "This resulted",
+        "right": "in us having to call the fire brigade."
+      },
+      {
+        "left": "Connect this cable",
+        "right": "to that piece of equipment over there."
+      },
+      {
+        "left": "I've had an idea",
+        "right": "about how to do this experiment."
+      },
+      {
+        "left": "Could you fill this bottle",
+        "right": "with water?"
+      }
+    ]
+  },
+  {
+    "page": 80,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "There's a lot of washing-up; I think we should",
+        "right": "offer to do it."
+      },
+      {
+        "left": "It's getting quite late and we ought",
+        "right": "to think about getting a taxi."
+      },
+      {
+        "left": "I don't have much money, but you can",
+        "right": "borrow some if you need it."
+      },
+      {
+        "left": "It's amazing that Andrew could",
+        "right": "walk when he was just six months"
+      },
+      {
+        "left": "Passengers travelling in first class may",
+        "right": "wait for their flight in the VIP area."
+      }
+    ]
+  },
+  {
+    "page": 81,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "'Someone is at the door. It must be Mrs Johnson from next door.'",
+        "right": "I'm almost certain."
+      },
+      {
+        "left": "'Lena might not know where the cinema is.'",
+        "right": "Maybe/ Perhaps."
+      },
+      {
+        "left": "'Dad should know what the capital of New Zealand is.'",
+        "right": "It's probable."
+      },
+      {
+        "left": "'Greg can't be in the final! He's a terrible player!'",
+        "right": "I'm almost certain."
+      },
+      {
+        "left": "'The dog is wet. It must be raining outside.'",
+        "right": "I'm almost certain."
+      },
+      {
+        "left": "'We may go to the Canary Islands for Easter.'",
+        "right": "Maybe/ Perhaps."
+      },
+      {
+        "left": "'Ken must like that film. He's seen it six times!'",
+        "right": "I'm almost certain."
+      },
+      {
+        "left": "'Barry ought to be able to cook Chinese food. He lived there for two years.'",
+        "right": "It's probable."
+      }
+    ]
+  },
+  {
+    "page": 84,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "call back",
+        "right": "ring again on the phone"
+      },
+      {
+        "left": "come out",
+        "right": "be published"
+      },
+      {
+        "left": "cut off",
+        "right": "disconnect (phone, electricity, etc)"
+      },
+      {
+        "left": "fill in",
+        "right": "add information in the spaces on a form, etc"
+      },
+      {
+        "left": "hang up",
+        "right": "put the receiver down to end a phone call"
+      },
+      {
+        "left": "log off",
+        "right": "disconnect from the Internet/a website"
+      },
+      {
+        "left": "log on(to)",
+        "right": "connect to the Internet/a website"
+      },
+      {
+        "left": "print out",
+        "right": "make a paper copy of sth on a computer"
+      }
+    ]
+  },
+  {
+    "page": 92,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "I think I'm going to take",
+        "right": "up a musical instrument, maybe the violin."
+      },
+      {
+        "left": "As our plane took",
+        "right": "off, I held my dad's hand tightly."
+      },
+      {
+        "left": "Mr and Mrs Davies have split",
+        "right": "up after more than twenty years together."
+      },
+      {
+        "left": "I hope we manage to find",
+        "right": "out where the concert is going to happen."
+      },
+      {
+        "left": "I often had to look",
+        "right": "after my younger sister when she was small."
+      },
+      {
+        "left": "You should turn",
+        "right": "off the TV and find something else to do."
+      },
+      {
+        "left": "I've fallen",
+        "right": "out with Kelly because she hurt my feelings."
+      },
+      {
+        "left": "My grandmother brought",
+        "right": "up me and my brother because my parents worked."
+      }
+    ]
+  },
+  {
+    "page": 98,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "You live in a village,",
+        "right": "don't you?"
+      },
+      {
+        "left": "You're not fifteen years old,",
+        "right": "are you?"
+      },
+      {
+        "left": "Carol has a maths test tomorrow,",
+        "right": "doesn't she?"
+      },
+      {
+        "left": "They were having lunch at the time,",
+        "right": "weren't they?"
+      },
+      {
+        "left": "You've been to France,",
+        "right": "haven't you?"
+      },
+      {
+        "left": "I'm not the only one,",
+        "right": "am I?"
+      },
+      {
+        "left": "They all passed the test,",
+        "right": "didn't they?"
+      },
+      {
+        "left": "You haven't seen Linda anywhere,",
+        "right": "have you?"
+      },
+      {
+        "left": "She won't tell anyone else,",
+        "right": "will she?"
+      },
+      {
+        "left": "This is the right DVD,",
+        "right": "isn't it?"
+      }
+    ]
+  },
+  {
+    "page": 100,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "break in(to)",
+        "right": "enter illegally"
+      },
+      {
+        "left": "catch up (with)",
+        "right": "reach the same point/level as"
+      },
+      {
+        "left": "get away with",
+        "right": "escape punishment for"
+      },
+      {
+        "left": "get up",
+        "right": "leave your bed"
+      },
+      {
+        "left": "move in",
+        "right": "start living in a new house, etc"
+      },
+      {
+        "left": "put away",
+        "right": "return sth to where it belongs"
+      },
+      {
+        "left": "wake up",
+        "right": "stop being asleep"
+      },
+      {
+        "left": "wash up",
+        "right": "wash plates, cups, cutlery, etc"
+      },
+      {
+        "left": "beginning",
+        "right": "in the beginning"
+      }
+    ]
+  },
+  {
+    "page": 102,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "Someone has broken",
+        "right": "into my car and stolen the CD player."
+      },
+      {
+        "left": "I missed a few lessons but I'm catching",
+        "right": "up with the rest of the class quite quickly."
+      },
+      {
+        "left": "You'll never get",
+        "right": "away with this!"
+      },
+      {
+        "left": "I didn't want to get",
+        "right": "up when the alarm clock rang this morning."
+      },
+      {
+        "left": "Our new neighbours moved",
+        "right": "in next door today."
+      },
+      {
+        "left": "Do you want me to help you put",
+        "right": "all these clothes away?"
+      },
+      {
+        "left": "When I woke",
+        "right": "up, I realised I was late for school."
+      },
+      {
+        "left": "You're going to wash",
+        "right": "those plates up, aren't you?"
+      }
+    ]
+  },
+  {
+    "page": 104,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "Someone broke",
+        "right": "into our neighbour's house yesterday:"
+      },
+      {
+        "left": "I'll just put",
+        "right": "these things away and then I'll be ready."
+      },
+      {
+        "left": "Mum always wakes me",
+        "right": "up at half past seven."
+      },
+      {
+        "left": "If you wash these plates",
+        "right": "up, I'll start cooking dinner."
+      },
+      {
+        "left": "The flat is empty, so you can move",
+        "right": "in whenever you like."
+      },
+      {
+        "left": "If you don't get",
+        "right": "up soon, you'll be late for school."
+      }
+    ]
+  },
+  {
+    "page": 112,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "call off",
+        "right": "cancel"
+      },
+      {
+        "left": "give back",
+        "right": "return sth you have taken/borrowed"
+      },
+      {
+        "left": "go on",
+        "right": "happen"
+      },
+      {
+        "left": "put off",
+        "right": "delay to a later time"
+      },
+      {
+        "left": "set up",
+        "right": "start (a business, organisation, etc)"
+      },
+      {
+        "left": "stay up",
+        "right": "go to bed late"
+      },
+      {
+        "left": "take away",
+        "right": "remove"
+      },
+      {
+        "left": "take over",
+        "right": "take control of (a business, etc)"
+      }
+    ]
+  },
+  {
+    "page": 114,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "I'm afraid we're not looking for new workers at",
+        "right": "the moment, but you could try again next month."
+      },
+      {
+        "left": "They said on the news that bus drivers are on",
+        "right": "strike, so you might need to take a taxi to work."
+      },
+      {
+        "left": "In his new job, Paul is away travelling on",
+        "right": "business a lot of the time so he's never at home for long."
+      },
+      {
+        "left": "I was quite nervous the first time I was in",
+        "right": "charge of the whole department."
+      },
+      {
+        "left": "Anne works as a security guard and she's on",
+        "right": "duty for about eight hours every night."
+      },
+      {
+        "left": "My boss said that if I wasn't on",
+        "right": "time for work more often I would lose my job."
+      }
+    ]
+  },
+  {
+    "page": 116,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "Mr Robinson is responsible",
+        "right": "for interviewing people applying for jobs."
+      },
+      {
+        "left": "We need to inform everyone",
+        "right": "about the new time of the meeting."
+      },
+      {
+        "left": "Trisha seems to be fed up",
+        "right": "with her job and is thinking of finding a new one."
+      },
+      {
+        "left": "Your salary depends",
+        "right": "on how long you've been working here."
+      },
+      {
+        "left": "I would love to work",
+        "right": "as a racing driver, or maybe a car mechanic."
+      },
+      {
+        "left": "During the meeting, the manager referred",
+        "right": "to last year as 'a disaster'."
+      },
+      {
+        "left": "I'm a swimming instructor, which is a kind",
+        "right": "of teacher, I suppose."
+      },
+      {
+        "left": "It's important when you apply",
+        "right": "for a job to make a good impression."
+      }
+    ]
+  },
+  {
+    "page": 124,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "cut down (on)",
+        "right": "do less of sth(smoking, etc)"
+      },
+      {
+        "left": "fall down",
+        "right": "trip and fall"
+      },
+      {
+        "left": "get over",
+        "right": "recover from(an illness, etc)"
+      },
+      {
+        "left": "go off",
+        "right": "no longer be fresh"
+      },
+      {
+        "left": "lie down",
+        "right": "start lying(on a bed, etc)"
+      },
+      {
+        "left": "put on",
+        "right": "gain(weight)"
+      },
+      {
+        "left": "sit down",
+        "right": "(start to) sit"
+      },
+      {
+        "left": "stand up",
+        "right": "(start to) stand"
+      }
+    ]
+  },
+  {
+    "page": 136,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "cut off",
+        "right": "completely remove by cutting"
+      },
+      {
+        "left": "do up",
+        "right": "button/zip up a piece of clothing"
+      },
+      {
+        "left": "fill up",
+        "right": "make sth completely full"
+      },
+      {
+        "left": "have on",
+        "right": "wear (a piece of clothing)"
+      },
+      {
+        "left": "leave out",
+        "right": "not include"
+      },
+      {
+        "left": "put on",
+        "right": "start wearing (a piece of clothing)"
+      },
+      {
+        "left": "take off",
+        "right": "remove (a piece of clothing)"
+      },
+      {
+        "left": "try on",
+        "right": "put on (a piece of clothing) to see how it looks and if it fits"
+      }
+    ]
+  },
+  {
+    "page": 140,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "She described the picture she was painting",
+        "right": "as modern, but it looked quite old-fashioned to me."
+      },
+      {
+        "left": "My sister's an architect, so she's involved",
+        "right": "in designing buildings."
+      },
+      {
+        "left": "I like Picasso's paintings, but I'm not familiar",
+        "right": "with his sculptures."
+      },
+      {
+        "left": "I tried to explain how to use oil paints",
+        "right": "to Martin, but he didn't understand."
+      },
+      {
+        "left": "They had to remove one of the paintings",
+        "right": "from the exhibition because it was damaged."
+      },
+      {
+        "left": "Vincent Van Gogh has had an influence",
+        "right": "on many other painters."
+      },
+      {
+        "left": "Darren drew a picture",
+        "right": "of a horse and it was brilliant."
+      },
+      {
+        "left": "Adding flowers to my picture changed it",
+        "right": "from a winter scene into a spring scene."
+      }
+    ]
+  },
+  {
+    "page": 143,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "I've never driven",
+        "right": "a tractor."
+      },
+      {
+        "left": "We're going to have",
+        "right": "a party on Saturday"
+      },
+      {
+        "left": "Don't close",
+        "right": "the window!"
+      },
+      {
+        "left": "Have you invited",
+        "right": "lots of people?"
+      },
+      {
+        "left": "Of course you can borrow",
+        "right": "some money."
+      },
+      {
+        "left": "Clare has drawn",
+        "right": "a lovely picture."
+      }
+    ]
+  },
+  {
+    "page": 148,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "blow up",
+        "right": "explode"
+      },
+      {
+        "left": "build up",
+        "right": "increase"
+      },
+      {
+        "left": "clear up",
+        "right": "tidy"
+      },
+      {
+        "left": "go out",
+        "right": "stop burning"
+      },
+      {
+        "left": "keep out",
+        "right": "prevent from entering"
+      },
+      {
+        "left": "put down",
+        "right": "stop holding"
+      },
+      {
+        "left": "put out",
+        "right": "make something stop burning"
+      },
+      {
+        "left": "put up",
+        "right": "put something on a wall (eg, a picture)"
+      }
+    ]
+  },
+  {
+    "page": 150,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "They're going to blow",
+        "right": "up the old bridge with dynamite."
+      },
+      {
+        "left": "Let's clear",
+        "right": "up this rubbish and put it in the bin."
+      },
+      {
+        "left": "I'm going to put",
+        "right": "up a sign to tell people not to drop any litter."
+      },
+      {
+        "left": "There was a sign saying 'Keep",
+        "right": "Out' on the gate."
+      },
+      {
+        "left": "How long did it take to put",
+        "right": "out the forest fire?"
+      },
+      {
+        "left": "I'll just put this box",
+        "right": "down and then I'll help you with the tent."
+      },
+      {
+        "left": "The traffic has built",
+        "right": "up a lot round here over recent years."
+      },
+      {
+        "left": "The fire will go",
+        "right": "out unless we put some more wood on."
+      }
+    ]
+  },
+  {
+    "page": 160,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "calm down",
+        "right": "become/make calmer"
+      },
+      {
+        "left": "cheer up",
+        "right": "become/make happier"
+      },
+      {
+        "left": "come on",
+        "right": "be quicker"
+      },
+      {
+        "left": "go on",
+        "right": "continue happening or doing sth"
+      },
+      {
+        "left": "hang on",
+        "right": "wait"
+      },
+      {
+        "left": "run away (from)",
+        "right": "escape by running"
+      },
+      {
+        "left": "shut up",
+        "right": "stop talking, stop making a noise"
+      },
+      {
+        "left": "speak up",
+        "right": "talk more loudly so sb can hear you"
+      }
+    ]
+  },
+  {
+    "page": 161,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "Alice seems a bit depressed.",
+        "right": "Maybe she's had some bad news."
+      },
+      {
+        "left": "Mary is very polite.",
+        "right": "Yes, she always says thank you."
+      },
+      {
+        "left": "Diane seems like a calm person.",
+        "right": "Oh, yes. Nothing ever upsets her."
+      },
+      {
+        "left": "Gemma seems a bit bad-tempered today.",
+        "right": "Yes. She's definitely angry about something."
+      },
+      {
+        "left": "Megan is amusing.",
+        "right": "I know. She always makes me laugh."
+      },
+      {
+        "left": "Janice looks glad about something.",
+        "right": "I think it's because she's won some money."
+      },
+      {
+        "left": "Nina was hurt by what you said.",
+        "right": "Well, maybe I should apologise, then."
+      }
+    ]
+  },
+  {
+    "page": 172,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "pick up",
+        "right": "lift something from the floor, a table, etc"
+      },
+      {
+        "left": "put back",
+        "right": "return something to where it was"
+      },
+      {
+        "left": "sort out",
+        "right": "solve a problem"
+      },
+      {
+        "left": "watch out",
+        "right": "be careful"
+      },
+      {
+        "left": "work out",
+        "right": "find the solution to a problem, etc"
+      }
+    ]
+  },
+  {
+    "page": 175,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "Jim doesn't believe",
+        "right": "in ghosts."
+      },
+      {
+        "left": "I completely agree",
+        "right": "with you."
+      },
+      {
+        "left": "I've written",
+        "right": "to Tara."
+      },
+      {
+        "left": "My dad doesn't approve",
+        "right": "of people smoking."
+      },
+      {
+        "left": "I've got no idea what happened",
+        "right": "about that at all."
+      },
+      {
+        "left": "You can always rely",
+        "right": "on Craig."
+      }
+    ]
+  },
+  {
+    "page": 184,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "beat",
+        "right": "to defeat someone in a game, competition, election, or battle"
+      },
+      {
+        "left": "board game",
+        "right": "any game in which you move objects around on a special board"
+      },
+      {
+        "left": "captain",
+        "right": "the person who is in charge of a team or organisation"
+      },
+      {
+        "left": "challenge",
+        "right": "to invite someone to compete or fight"
+      },
+      {
+        "left": "challenge",
+        "right": "something that needs a lot of skill, energy, and determination to deal with or achieve"
+      },
+      {
+        "left": "champion",
+        "right": "someone who has won an important competition, especially in sport"
+      },
+      {
+        "left": "cheat",
+        "right": "to behave dishonestly, or to not obey rules"
+      },
+      {
+        "left": "classical music",
+        "right": "serious music that is played on instruments such as the piano and the violin"
+      },
+      {
+        "left": "club",
+        "right": "an organisation for people who take part in a particular activity, or the building that they use"
+      },
+      {
+        "left": "coach",
+        "right": "someone who trains a sports player or team"
+      },
+      {
+        "left": "competition",
+        "right": "an organised event in which people try to win prizes by being better than other people"
+      },
+      {
+        "left": "concert",
+        "right": "an event at which an orchestra, band, or musician plays or sings in front of an audience"
+      },
+      {
+        "left": "defeat",
+        "right": "to win against someone"
+      },
+      {
+        "left": "defeat",
+        "right": "failure to win a competition or to succeed in doing something"
+      },
+      {
+        "left": "entertaining",
+        "right": "enjoyable or interesting"
+      },
+      {
+        "left": "folk music",
+        "right": "traditional music from a particular country or region, or music played in a traditional style"
+      },
+      {
+        "left": "group",
+        "right": "a small set of musicians who play pop music"
+      },
+      {
+        "left": "gym",
+        "right": "a room or club with equipment for doing physical exercises"
+      },
+      {
+        "left": "have fun",
+        "right": "get enjoyment from an activity that is not important or serious"
+      },
+      {
+        "left": "interest",
+        "right": "to make someone want to know about or take part in something"
+      },
+      {
+        "left": "interest",
+        "right": "an activity that you enjoy doing when you are not working"
+      },
+      {
+        "left": "member",
+        "right": "someone who belongs to a group or an organisation: a trade union member"
+      },
+      {
+        "left": "opponent",
+        "right": "someone who is competing against you"
+      },
+      {
+        "left": "organise",
+        "right": "to prepare or arrange an activity or event"
+      },
+      {
+        "left": "member",
+        "right": "someone who belongs to a group or an organisation: a trade union member"
+      },
+      {
+        "left": "opponent",
+        "right": "someone who is competing against you"
+      },
+      {
+        "left": "organise",
+        "right": "to prepare or arrange an activity or event"
+      },
+      {
+        "left": "pleasure",
+        "right": "a feeling of happiness, enjoyment, or satisfaction"
+      },
+      {
+        "left": "referee",
+        "right": "someone whose job is to make sure that players in a game obey the rules"
+      }
+    ]
+  },
+  {
+    "page": 185,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "fail",
+        "right": "to be unsuccessful in something"
+      },
+      {
+        "left": "guess",
+        "right": "to say or decide what you think is true, without being certain about it"
+      },
+      {
+        "left": "guess",
+        "right": "an occasion when you say what you think is true without being certain"
+      },
+      {
+        "left": "hesitate",
+        "right": "to pause before doing something because you are nervous or not certain about it"
+      },
+      {
+        "left": "instruction",
+        "right": "a statement of something that must be done, or an explanation of how to do or use something"
+      },
+      {
+        "left": "make progress",
+        "right": "to develop or improve"
+      },
+      {
+        "left": "make sure",
+        "right": "to check something, so that you can be sure about it"
+      },
+      {
+        "left": "support",
+        "right": "help that you give to a particular idea, organisation, etc"
+      },
+      {
+        "left": "team",
+        "right": "a group of people who play a sport or game against another group"
+      },
+      {
+        "left": "train",
+        "right": "to practise a sport regularly before a match or competition"
+      },
+      {
+        "left": "video game",
+        "right": "a game in which players use electronic controls to move images on a television or computer screen"
+      },
+      {
+        "left": "achieve",
+        "right": "to succeed in doing or having something"
+      },
+      {
+        "left": "brain",
+        "right": "the organ inside your head that allows you to think and feel, and controls your body"
+      },
+      {
+        "left": "clever",
+        "right": "good at learning or understanding things"
+      },
+      {
+        "left": "concentrate",
+        "right": "to give all your attention to the thing that you are doing"
+      },
+      {
+        "left": "consider",
+        "right": "to think about something carefully before you make a decision"
+      },
+      {
+        "left": "course",
+        "right": "a series of lessons in an academic subject or a practical skill"
+      },
+      {
+        "left": "degree",
+        "right": "a course of study at university, or the qualification that you get after completing the course"
+      },
+      {
+        "left": "experience",
+        "right": "knowledge and skill that you get by doing a particular job or activity"
+      },
+      {
+        "left": "expert",
+        "right": "someone who has a particular skill or knows a lot about a particular subject"
+      },
+      {
+        "left": "risk",
+        "right": "the possibility that something unpleasant or dangerous might happen"
+      },
+      {
+        "left": "score",
+        "right": "to get a point in a game or sport"
+      }
+    ]
+  },
+  {
+    "page": 186,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "mark",
+        "right": "to judge the quality of a student's work and write a mark on it"
+      },
+      {
+        "left": "mark",
+        "right": "a score or grade that you are given for school work or for how you perform in a competition"
+      },
+      {
+        "left": "mental",
+        "right": "existing in the mind, or relating to the mind"
+      },
+      {
+        "left": "pass",
+        "right": "to be successful in an examination or test"
+      },
+      {
+        "left": "qualification",
+        "right": "something such as a degree or a diploma that you get when you successfully finish a course of study"
+      },
+      {
+        "left": "remind",
+        "right": "to help someone to remember something"
+      },
+      {
+        "left": "report",
+        "right": "a spoken or written description of a particular subject, situation, or event"
+      },
+      {
+        "left": "revise",
+        "right": "to study your notes and information again in order to prepare for an examination"
+      },
+      {
+        "left": "search",
+        "right": "to try to find something or someone by looking carefully"
+      },
+      {
+        "left": "search",
+        "right": "an attempt to find something"
+      },
+      {
+        "left": "skill",
+        "right": "the ability to do something well, usually as a result of experience and training"
+      },
+      {
+        "left": "smart",
+        "right": "intelligent"
+      },
+      {
+        "left": "subject",
+        "right": "something that you learn or teach at a school, for example English, mathematics, or biology"
+      },
+      {
+        "left": "take an exam",
+        "right": "to have an important test"
+      },
+      {
+        "left": "talented",
+        "right": "very good at something"
+      },
+      {
+        "left": "term",
+        "right": "one of the periods of time that the year is divided into for students"
+      },
+      {
+        "left": "wonder",
+        "right": "to think about something because you want to know more facts"
+      },
+      {
+        "left": "abroad",
+        "right": "in or to a foreign country"
+      },
+      {
+        "left": "accommodation",
+        "right": "a place for someone to stay, live, or work in"
+      },
+      {
+        "left": "book",
+        "right": "to arrange to have or use something at a particular time in the future"
+      },
+      {
+        "left": "break",
+        "right": "a period of time when you are not working and can rest or enjoy yourself"
+      },
+      {
+        "left": "cancel",
+        "right": "to say that something that has been arranged will not now happen"
+      },
+      {
+        "left": "catch",
+        "right": "to get on a train, bus, plane, or boat that is travelling somewhere"
+      },
+      {
+        "left": "coach",
+        "right": "a comfortable bus for long journeys"
+      },
+      {
+        "left": "convenient",
+        "right": "easy for you to do, or suitable for your needs"
+      },
+      {
+        "left": "crash",
+        "right": "if a vehicle crashes, or if someone crashes it, it hits something"
+      },
+      {
+        "left": "crash",
+        "right": "an accident that happens when a vehicle hits something"
+      },
+      {
+        "left": "crowded",
+        "right": "containing a lot of people or things"
+      },
+      {
+        "left": "cruise",
+        "right": "a journey on a ship for pleasure, often visiting a series of places"
+      }
+    ]
+  },
+  {
+    "page": 187,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "delay",
+        "right": "to do something later than is planned or expected"
+      },
+      {
+        "left": "delay",
+        "right": "a situation in which something happens later or more slowly than you expected"
+      },
+      {
+        "left": "destination",
+        "right": "the place where someone or something is going"
+      },
+      {
+        "left": "ferry",
+        "right": "a boat that makes short regular journeys between two or more places"
+      },
+      {
+        "left": "flight",
+        "right": "a journey in a plane"
+      },
+      {
+        "left": "foreign",
+        "right": "from another country, or in another country"
+      },
+      {
+        "left": "harbour",
+        "right": "an area of water next to the land where boats can stop"
+      },
+      {
+        "left": "journey",
+        "right": "an occasion when you travel from one place to another, especially over a long distance"
+      },
+      {
+        "left": "luggage",
+        "right": "bags and suitcases that you take on a journey"
+      },
+      {
+        "left": "nearby",
+        "right": "a nearby place is not far away"
+      },
+      {
+        "left": "nearby",
+        "right": "not far from where you are"
+      },
+      {
+        "left": "pack",
+        "right": "to put your things into a bag, case, or box so that you can take or send them somewhere"
+      },
+      {
+        "left": "passport",
+        "right": "an official document that contains your photograph and shows which country you are a citizen of"
+      },
+      {
+        "left": "platform",
+        "right": "an area next to a railway track where passengers get onto and off trains"
+      },
+      {
+        "left": "public transport",
+        "right": "the system that is used for travelling or for moving goods from one place to another"
+      },
+      {
+        "left": "reach",
+        "right": "to arrive somewhere"
+      },
+      {
+        "left": "resort",
+        "right": "a place where people go for a holiday"
+      },
+      {
+        "left": "souvenir",
+        "right": "something that you buy to remind you of a place that you visited on holiday or of a special event"
+      },
+      {
+        "left": "traffic",
+        "right": "the vehicles that are travelling in an area at a particular time"
+      },
+      {
+        "left": "trip",
+        "right": "an occasion when you go somewhere and come back again"
+      },
+      {
+        "left": "vehicle",
+        "right": "a machine that you travel in or on, especially one with an engine that travels on roads, for example a car, bus, etc"
+      },
+      {
+        "left": "apologise",
+        "right": "to tell someone that you are sorry for doing something wrong"
+      },
+      {
+        "left": "boyfriend",
+        "right": "a man or boy that you are having a romantic relationship with"
+      },
+      {
+        "left": "close",
+        "right": "connected by shared feelings such as love and respect"
+      },
+      {
+        "left": "confident",
+        "right": "certain about your abilities and not nervous or frightened"
+      },
+      {
+        "left": "cool",
+        "right": "a cool person is one that you like or admire, or is very fashionable"
+      },
+      {
+        "left": "couple",
+        "right": "two people who are married to each other, or who have a romantic relationship with each other"
+      }
+    ]
+  },
+  {
+    "page": 188,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "decorate",
+        "right": "to put new paint or paper on the walls of a room"
+      },
+      {
+        "left": "defend",
+        "right": "to say things to support someone or something"
+      },
+      {
+        "left": "divorced",
+        "right": "no longer married because your marriage has been legally ended"
+      },
+      {
+        "left": "flat",
+        "right": "a set of rooms for living in, usually on one floor of a large building"
+      },
+      {
+        "left": "generous",
+        "right": "giving people more of your time or money than is usual or expected"
+      },
+      {
+        "left": "girlfriend",
+        "right": "a girl or woman that you are having a romantic relationship with"
+      },
+      {
+        "left": "grateful",
+        "right": "the feeling that you want to thank someone because they have given you something or done something for you"
+      },
+      {
+        "left": "guest",
+        "right": "someone that you have invited to your home or your party"
+      },
+      {
+        "left": "independent",
+        "right": "not depending on other people"
+      },
+      {
+        "left": "introduce",
+        "right": "to tell someone another person's name when they meet for the first time"
+      },
+      {
+        "left": "loving",
+        "right": "feeling or showing love"
+      },
+      {
+        "left": "loyal",
+        "right": "someone who is loyal continues to support a person or organisation, or idea in difficult"
+      },
+      {
+        "left": "mood",
+        "right": "the way that someone is feeling, or the way that a group of people is feeling at a particular time"
+      },
+      {
+        "left": "neighbourhood",
+        "right": "a particular area of a town"
+      },
+      {
+        "left": "ordinary",
+        "right": "normal or average, and not unusual or special"
+      },
+      {
+        "left": "patient",
+        "right": "someone who is patient is able to wait for a long time or deal with a difficult situation without becoming angry or upset"
+      },
+      {
+        "left": "private",
+        "right": "a private person does not talk to other people about their personal life or feelings"
+      },
+      {
+        "left": "recognise",
+        "right": "to know someone or something because you have seen, heard, or met them before"
+      },
+      {
+        "left": "relation",
+        "right": "a member of your family"
+      },
+      {
+        "left": "rent",
+        "right": "to pay money regularly to use a house, room, office, etc that belongs to someone else"
+      },
+      {
+        "left": "rent",
+        "right": "an amount of money that you pay regularly for using a house, room, office, etc that belongs to someone else"
+      },
+      {
+        "left": "respect",
+        "right": "to treat someone in a way that shows that you think they are important and should be admired"
+      },
+      {
+        "left": "respect",
+        "right": "the attitude that someone is important and should be admired, and that you should treat them politely"
+      },
+      {
+        "left": "single",
+        "right": "not married, or not in a romantic relationship or divorced."
+      },
+      {
+        "left": "stranger",
+        "right": "someone who you do not know stranger."
+      },
+      {
+        "left": "trust",
+        "right": "to believe that someone or something is good, honest, or reliable"
+      }
+    ]
+  },
+  {
+    "page": 189,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "advertisement",
+        "right": "an announcement in a newspaper, on television, on the Internet, etc that is designed to persuade people to buy a product or service, go to an event, or apply for a job"
+      },
+      {
+        "left": "afford",
+        "right": "to have enough money to pay for something"
+      },
+      {
+        "left": "bargain",
+        "right": "something you buy that costs much less than normal"
+      },
+      {
+        "left": "brand",
+        "right": "a product or group of products that has its own name and is made by one particular company"
+      },
+      {
+        "left": "catalogue",
+        "right": "a book that contains pictures of things that you can buy"
+      },
+      {
+        "left": "change",
+        "right": "coins rather than notes"
+      },
+      {
+        "left": "coin",
+        "right": "a flat round piece of metal used as money"
+      },
+      {
+        "left": "cost",
+        "right": "if something costs an amount of money, you need that amount to pay for it or to do it"
+      },
+      {
+        "left": "cost",
+        "right": "the amount of money that you need in order to buy something or to do something"
+      },
+      {
+        "left": "customer",
+        "right": "a person or company that buys goods or services"
+      },
+      {
+        "left": "debt",
+        "right": "an amount of money that you owe"
+      },
+      {
+        "left": "demand",
+        "right": "to say strongly that you want something"
+      },
+      {
+        "left": "export",
+        "right": "to send a product to another country so that it can be sold there"
+      },
+      {
+        "left": "fee",
+        "right": "money that you pay to a professional person or institution for their work"
+      },
+      {
+        "left": "fortune",
+        "right": "a large amount of money"
+      },
+      {
+        "left": "import",
+        "right": "to buy a product from another country and bring it to your country"
+      },
+      {
+        "left": "invest",
+        "right": "to use your money with the aim of making a profit from it"
+      },
+      {
+        "left": "obtain",
+        "right": "to get something that you want or need"
+      },
+      {
+        "left": "owe",
+        "right": "to have to give someone a particular amount of money because you have bought something from them or have borrowed money from them"
+      },
+      {
+        "left": "own",
+        "right": "to legally have something, especially because you have bought it"
+      },
+      {
+        "left": "profit",
+        "right": "money that you get when you sell something for a price that is higher than the cost of making it or buying it"
+      },
+      {
+        "left": "property",
+        "right": "the things that you own"
+      },
+      {
+        "left": "purchase",
+        "right": "to buy something"
+      },
+      {
+        "left": "purchase",
+        "right": "something that you buy"
+      },
+      {
+        "left": "receipt",
+        "right": "a document that you get from someone showing that you have given them money or goods"
+      },
+      {
+        "left": "require",
+        "right": "to need someone or something"
+      },
+      {
+        "left": "sale",
+        "right": "an event or period of time during which a shop reduces the prices of some of its goods"
+      },
+      {
+        "left": "save",
+        "right": "to regularly put money in a bank, or to invest it so that you can use it later"
+      },
+      {
+        "left": "select",
+        "right": "to choose someone or something from a group"
+      }
+    ]
+  },
+  {
+    "page": 190,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "supply",
+        "right": "to provide someone or something with something that they need or want"
+      },
+      {
+        "left": "variety",
+        "right": "a number of different people or things"
+      },
+      {
+        "left": "waste",
+        "right": "to use more of something than is necessary, or to use it in a way that does not produce the best results"
+      },
+      {
+        "left": "artificial",
+        "right": "not natural or real, but made by people"
+      },
+      {
+        "left": "automatic",
+        "right": "an automatic machine can work by itself without being operated by people"
+      },
+      {
+        "left": "complicated",
+        "right": "difficult to do, deal with, or understand"
+      },
+      {
+        "left": "decrease",
+        "right": "to become less"
+      },
+      {
+        "left": "decrease",
+        "right": "the amount by which something is less"
+      },
+      {
+        "left": "digital",
+        "right": "storing information such as sound or pictures as numbers or electronic signals"
+      },
+      {
+        "left": "discover",
+        "right": "to find something that was hidden or that no one knew about before"
+      },
+      {
+        "left": "effect",
+        "right": "a change that is produced in one person or thing by another"
+      },
+      {
+        "left": "equipment",
+        "right": "the tools, machines, or other things that you need for a particular job or activity"
+      },
+      {
+        "left": "estimate",
+        "right": "to guess or calculate an amount or value by using available information"
+      },
+      {
+        "left": "exact",
+        "right": "done, made, or described with all the details correct"
+      },
+      {
+        "left": "experiment",
+        "right": "to perform scientific tests in order to find out what happens to someone or something in particular conditions"
+      },
+      {
+        "left": "experiment",
+        "right": "a scientific test to find out what happens to someone or something in particular conditions"
+      },
+      {
+        "left": "gadget",
+        "right": "a small tool or piece of equipment that does something that is useful or impressive"
+      },
+      {
+        "left": "hardware",
+        "right": "computer equipment"
+      },
+      {
+        "left": "invent",
+        "right": "to design or create something that did not exist before"
+      },
+      {
+        "left": "involve",
+        "right": "to include something as part of an activity, event, or situation"
+      },
+      {
+        "left": "laboratory",
+        "right": "a building or large room where people do scientific research"
+      },
+      {
+        "left": "lack",
+        "right": "to not have something, or to not have enough of something"
+      },
+      {
+        "left": "lack",
+        "right": "a situation in which you do not have something, or do not have enough of something"
+      },
+      {
+        "left": "laptop",
+        "right": "a small computer that you can carry with you"
+      },
+      {
+        "left": "maximum",
+        "right": "the largest in amount, size, or number that is allowed or possible"
+      },
+      {
+        "left": "minimum",
+        "right": "the smallest in amount, size, or number that is allowed or possible"
+      }
+    ]
+  },
+  {
+    "page": 191,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "operate",
+        "right": "if equipment operates, or if you operate it, you use or control it and it works in the way it should"
+      },
+      {
+        "left": "plastic",
+        "right": "a very common light, strong substance that is produced by a chemical process and used for making many different things"
+      },
+      {
+        "left": "plastic",
+        "right": "made of plastic"
+      },
+      {
+        "left": "program",
+        "right": "to make a computer or other piece of equipment do something automatically"
+      },
+      {
+        "left": "program",
+        "right": "a series of instructions that makes a computer do something"
+      },
+      {
+        "left": "research",
+        "right": "the detailed study of something in order to discover new facts"
+      },
+      {
+        "left": "run",
+        "right": "if you run a computer program, or if it runs, you start it or use it"
+      },
+      {
+        "left": "screen",
+        "right": "the flat surface on a computer, television, or piece of electronic equipment where words and pictures are shown"
+      },
+      {
+        "left": "software",
+        "right": "the programs used by computers for doing particular jobs"
+      },
+      {
+        "left": "sudden",
+        "right": "happening very quickly and without any sign that it is going to happen"
+      },
+      {
+        "left": "technology",
+        "right": "advanced scientific knowledge that is used for practical purposes"
+      },
+      {
+        "left": "unique",
+        "right": "not the same as anything or anyone else"
+      },
+      {
+        "left": "accent",
+        "right": "a way of pronouncing words that shows what country, region, or social class you come from"
+      }
+    ]
+  },
+  {
+    "page": 192,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "announcement",
+        "right": "a public statement that gives people information about something"
+      },
+      {
+        "left": "broadcast",
+        "right": "to send out messages or programmes to be received by radios or televisions"
+      },
+      {
+        "left": "broadcast",
+        "right": "a programme that is broadcast"
+      },
+      {
+        "left": "channel",
+        "right": "a television station and the programmes that it broadcasts"
+      },
+      {
+        "left": "clear",
+        "right": "easy to understand"
+      },
+      {
+        "left": "click",
+        "right": "to make a computer do something by pressing a button on the mouse"
+      },
+      {
+        "left": "contact",
+        "right": "to communicate with someone by phone, e-mail, letter, etc"
+      },
+      {
+        "left": "contact",
+        "right": "communication between people, countries, or organisations"
+      },
+      {
+        "left": "file",
+        "right": "a set of information that is stored on a computer and that is given a particular name"
+      },
+      {
+        "left": "formal",
+        "right": "suitable for serious situations or occasions"
+      },
+      {
+        "left": "image",
+        "right": "picture, especially one in a mirror or on a computer, television, or cinema screen"
+      },
+      {
+        "left": "informal",
+        "right": "suitable for relaxed friendly situations"
+      },
+      {
+        "left": "Internet",
+        "right": "a computer system that allows people in different parts of the world to exchange information"
+      },
+      {
+        "left": "interrupt",
+        "right": "to say or do something that stops someone when they are speaking or concentrating on something"
+      },
+      {
+        "left": "link",
+        "right": "if people, things, or events are linked, they are related to each other in some way"
+      },
+      {
+        "left": "link",
+        "right": "a connection between two or more people, places, facts, or events"
+      },
+      {
+        "left": "media",
+        "right": "radio, television, newspapers, the Internet and magazines, considered as a group"
+      },
+      {
+        "left": "mobile phone",
+        "right": "a small phone that you can carry around with you"
+      },
+      {
+        "left": "online",
+        "right": "connected to or available through the Internet"
+      },
+      {
+        "left": "online",
+        "right": "connected to the Internet"
+      },
+      {
+        "left": "pause",
+        "right": "to stop moving or doing something for a short time before starting again"
+      },
+      {
+        "left": "pause",
+        "right": "a short time when someone stops moving or doing something before starting again"
+      },
+      {
+        "left": "persuade",
+        "right": "to make someone agree to do something by giving them reasons why they should"
+      },
+      {
+        "left": "pronounce",
+        "right": "to say the sounds of words"
+      },
+      {
+        "left": "publish",
+        "right": "to produce many copies of a book, magazine, or newspaper for people to buy"
+      },
+      {
+        "left": "report",
+        "right": "to provide information about something, especially to people in authority"
+      },
+      {
+        "left": "report",
+        "right": "a spoken or written description of a particular subject, situation, or event"
+      },
+      {
+        "left": "request",
+        "right": "to ask for something, or to ask someone to do something, in a polite or formal way"
+      },
+      {
+        "left": "request",
+        "right": "an act of asking for something in a polite or formal way"
+      },
+      {
+        "left": "ring",
+        "right": "to call someone on the telephone"
+      },
+      {
+        "left": "signal",
+        "right": "a movement or sound that is made by someone and has a special meaning for another person"
+      },
+      {
+        "left": "swear",
+        "right": "to use words that are deliberately offensive, for example because you are angry"
+      },
+      {
+        "left": "type",
+        "right": "a group of people or things with similar qualities that make them different from other groups"
+      },
+      {
+        "left": "viewer",
+        "right": "someone who watches television programmes"
+      },
+      {
+        "left": "website",
+        "right": "a place on the Internet where information is available about a particular subject, company, university, etc"
+      },
+      {
+        "left": "whisper",
+        "right": "to speak very quietly to someone, so that other people cannot hear you"
+      },
+      {
+        "left": "whisper",
+        "right": "a very quiet way of saying something to someone so that other people cannot hear you"
+      },
+      {
+        "left": "admit",
+        "right": "to say that you have done something wrong"
+      },
+      {
+        "left": "arrest",
+        "right": "if the police arrest someone, they take that person to a police station because they think that he or she has committed a crime"
+      },
+      {
+        "left": "charity",
+        "right": "an organisation that gives money and help to people who need it; money or food that is given to people who need it"
+      },
+      {
+        "left": "commit",
+        "right": "to do something that is illegal"
+      }
+    ]
+  },
+  {
+    "page": 193,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "community",
+        "right": "the people who live in an area"
+      },
+      {
+        "left": "court",
+        "right": "a place where trials take place and legal cases are decided"
+      },
+      {
+        "left": "criminal",
+        "right": "someone who has committed a crime"
+      },
+      {
+        "left": "criminal",
+        "right": "relating to illegal acts"
+      },
+      {
+        "left": "culture",
+        "right": "a society that has its own set of ideas, beliefs and ways of behaving"
+      },
+      {
+        "left": "familiar",
+        "right": "well known to you, or easily recognized by you"
+      },
+      {
+        "left": "government",
+        "right": "the people who control a country or area and make decisions about its laws and taxes"
+      },
+      {
+        "left": "habit",
+        "right": "something that you do often"
+      },
+      {
+        "left": "identity card",
+        "right": "an official document that shows who you are"
+      },
+      {
+        "left": "illegal",
+        "right": "not allowed by the law"
+      },
+      {
+        "left": "politics",
+        "right": "the ideas and activities that are involved in getting power in an area or governing it"
+      },
+      {
+        "left": "population",
+        "right": "the number of people who live in a particular area"
+      },
+      {
+        "left": "prison",
+        "right": "an institution where people are kept as a punishment for committing a crime"
+      },
+      {
+        "left": "protest",
+        "right": "to show publicly that you oppose something"
+      },
+      {
+        "left": "protest",
+        "right": "an occasion when people show strong public opposition to something"
+      },
+      {
+        "left": "resident",
+        "right": "someone who lives in a particular place"
+      },
+      {
+        "left": "responsible",
+        "right": "if you are responsible for something that has happened, you caused it, or you deserve to be blamed for it; in charge of someone or something"
+      },
+      {
+        "left": "rob",
+        "right": "to take money or property from someone illegally"
+      },
+      {
+        "left": "routine",
+        "right": "your usual way of doing things"
+      },
+      {
+        "left": "routine",
+        "right": "ordinary and not interesting or special"
+      },
+      {
+        "left": "schedule",
+        "right": "a plan of activities or events and when they will happen"
+      },
+      {
+        "left": "situation",
+        "right": "the set of conditions that exist at a particular time in a particular place"
+      },
+      {
+        "left": "social",
+        "right": "relating to society and to people's lives in general"
+      },
+      {
+        "left": "society",
+        "right": "people in general living together in organised communities, with laws and traditions controlling the way that they behave towards each other"
+      },
+      {
+        "left": "steal",
+        "right": "to take something that belongs to someone else without permission"
+      },
+      {
+        "left": "tradition",
+        "right": "a very old custom, belief, or story"
+      },
+      {
+        "left": "typical",
+        "right": "like most things of the same type"
+      },
+      {
+        "left": "vote",
+        "right": "to decide something, or to choose a representative or winner, by officially stating your choice, for example in an election"
+      },
+      {
+        "left": "vote",
+        "right": "an official choice you make between two or more issues, people, etc, for example in an election"
+      }
+    ]
+  },
+  {
+    "page": 194,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "youth club",
+        "right": "a place where young people can go to meet and take part in activities"
+      },
+      {
+        "left": "ambition",
+        "right": "something that you very much want to achieve"
+      },
+      {
+        "left": "application",
+        "right": "a formal request to do something or have something, for example a job"
+      },
+      {
+        "left": "bank account",
+        "right": "an arrangement with a bank that allows you to keep your money there"
+      },
+      {
+        "left": "boss",
+        "right": "the person who is in charge of you at work"
+      },
+      {
+        "left": "career",
+        "right": "a job or profession that you work at for some time"
+      },
+      {
+        "left": "colleague",
+        "right": "someone who works in the same organisation or department as you"
+      },
+      {
+        "left": "company",
+        "right": "an organisation that sells services or goods"
+      },
+      {
+        "left": "contract",
+        "right": "a written legal agreement between two people or organisations"
+      },
+      {
+        "left": "department",
+        "right": "a section in a government, organisation, or business that deals with a particular type of work"
+      },
+      {
+        "left": "deserve",
+        "right": "if you deserve something, it is right that you get it, because of the way that you are or the way that you have behaved"
+      },
+      {
+        "left": "earn",
+        "right": "to receive money for work that you do"
+      },
+      {
+        "left": "fame",
+        "right": "the state of being famous"
+      },
+      {
+        "left": "goal",
+        "right": "the action of putting a ball into a goal in a game such as football"
+      },
+      {
+        "left": "impress",
+        "right": "if someone or something impresses you, you admire them"
+      },
+      {
+        "left": "income",
+        "right": "money that someone gets from working or from investing money"
+      },
+      {
+        "left": "industry",
+        "right": "all the businesses involved in producing a particular type of goods or services"
+      },
+      {
+        "left": "interview",
+        "right": "to ask someone, especially someone famous, questions about themselves, their work, or their ideas"
+      },
+      {
+        "left": "interview",
+        "right": "a meeting in which someone asks another person, especially a famous person, questions about themselves, their work, or their ideas"
+      },
+      {
+        "left": "leader",
+        "right": "someone who is in charge of a group, organisation, or country"
+      },
+      {
+        "left": "manager",
+        "right": "someone whose job is to organise and control the work of a business, a department, or the people who work there"
+      },
+      {
+        "left": "pension",
+        "right": "an amount of money that someone receives regularly when they no longer work because of their age or because they are ill"
+      },
+      {
+        "left": "poverty",
+        "right": "a situation in which someone does not have enough money to pay for their basic needs"
+      },
+      {
+        "left": "pressure",
+        "right": "attempts to persuade or force someone to do something"
+      },
+      {
+        "left": "previous",
+        "right": "a previous event, period, or thing happened or existed before the one that you are talking about"
+      },
+      {
+        "left": "profession",
+        "right": "a job that you need special skills and qualifications to do"
+      }
+    ]
+  },
+  {
+    "page": 195,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "retire",
+        "right": "to stop working permanently, especially when you are old"
+      },
+      {
+        "left": "salary",
+        "right": "a fixed amount of money that you earn each month or year from your job"
+      },
+      {
+        "left": "staff",
+        "right": "the people who work for a particular company, organisation, or institution"
+      },
+      {
+        "left": "strike",
+        "right": "a period of time during which people refuse to work, as a protest"
+      },
+      {
+        "left": "tax",
+        "right": "to make someone pay money to the government"
+      },
+      {
+        "left": "tax",
+        "right": "an amount of money that you have to pay to the government"
+      },
+      {
+        "left": "wealthy",
+        "right": "rich"
+      },
+      {
+        "left": "affect",
+        "right": "to change or influence something, often in a negative way"
+      },
+      {
+        "left": "balance",
+        "right": "to create or preserve a good or correct balance between different features or aspects"
+      },
+      {
+        "left": "balance",
+        "right": "a situation in which different aspects or features are treated equally or exist in the correct relationship to each other"
+      },
+      {
+        "left": "benefit",
+        "right": "to get an advantage, or to give someone an advantage"
+      },
+      {
+        "left": "benefit",
+        "right": "an advantage that you get from a situation"
+      },
+      {
+        "left": "breathe",
+        "right": "to take air into your lungs through your nose or mouth and let it out again"
+      },
+      {
+        "left": "chew",
+        "right": "to use your teeth to bite food in your mouth into small pieces"
+      },
+      {
+        "left": "chop",
+        "right": "to cut something such as food or wood into pieces"
+      },
+      {
+        "left": "contain",
+        "right": "to have something inside"
+      },
+      {
+        "left": "cough",
+        "right": "to force air up through your throat with a sudden noise, especially when you have a cold or when you want to get someone's attention"
+      },
+      {
+        "left": "cough",
+        "right": "the action of coughing, or the sound that you make when you cough; an illness in which you cough a lot and your throat hurts"
+      },
+      {
+        "left": "cure",
+        "right": "to stop someone from being affected by an illness"
+      },
+      {
+        "left": "cure",
+        "right": "a medicine or treatment that makes someone who is ill become healthy"
+      },
+      {
+        "left": "exercise",
+        "right": "to do a physical activity in order to stay healthy and to make your body stronger"
+      },
+      {
+        "left": "exercise",
+        "right": "physical activity that you do in order to stay healthy and make your body stronger"
+      },
+      {
+        "left": "flu",
+        "right": "a very common infectious disease that lasts for a short time and makes you feel weak and tired"
+      },
+      {
+        "left": "have an operation",
+        "right": "the process of cutting into someone's body for medical reasons"
+      },
+      {
+        "left": "healthy",
+        "right": "physically strong and not ill"
+      },
+      {
+        "left": "ignore",
+        "right": "to not consider something, or to not let it influence you"
+      },
+      {
+        "left": "infection",
+        "right": "a disease that is caused by bacteria or by a virus"
+      }
+    ]
+  },
+  {
+    "page": 196,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "ingredient",
+        "right": "one of the foods or liquids that you use in making a particular meal"
+      },
+      {
+        "left": "injury",
+        "right": "physical harm"
+      },
+      {
+        "left": "limit",
+        "right": "to prevent a number, amount, or effect from increasing past a particular point"
+      },
+      {
+        "left": "limit",
+        "right": "the greatest amount of something that is possible or allowed"
+      },
+      {
+        "left": "meal",
+        "right": "an occasion when you eat, such as breakfast or lunch, or the food that you eat at that time"
+      },
+      {
+        "left": "pill",
+        "right": "a small piece of solid medicine that you swallow with water"
+      },
+      {
+        "left": "recover",
+        "right": "to become fit and healthy again after an illness or injury"
+      },
+      {
+        "left": "salty",
+        "right": "containing salt, or tasting like salt"
+      },
+      {
+        "left": "slice",
+        "right": "to cut something into flat pieces"
+      },
+      {
+        "left": "slice",
+        "right": "a flat piece of food that has been cut from something larger"
+      },
+      {
+        "left": "sour",
+        "right": "with a taste like a lemon"
+      },
+      {
+        "left": "spicy",
+        "right": "with a strong hot flavour"
+      },
+      {
+        "left": "stir",
+        "right": "to move food or a liquid around using a spoon or other object"
+      },
+      {
+        "left": "suffer",
+        "right": "to feel pain in your body or your mind; to have a particular illness or physical problem"
+      },
+      {
+        "left": "taste",
+        "right": "to have a particular flavour; to eat or drink something and experience its flavour"
+      },
+      {
+        "left": "taste",
+        "right": "the flavour that something creates in your mouth when you eat or drink it"
+      },
+      {
+        "left": "treatment",
+        "right": "the process of providing medical care, or a particular type of medical care"
+      },
+      {
+        "left": "vitamin",
+        "right": "a natural substance in food that is necessary to keep your body healthy"
+      },
+      {
+        "left": "ancient",
+        "right": "very old"
+      },
+      {
+        "left": "checked",
+        "right": "printed or woven in a pattern of squares"
+      },
+      {
+        "left": "cotton",
+        "right": "cloth made from the white fibres of a plant called a cotton plant"
+      },
+      {
+        "left": "create",
+        "right": "to make something new exist or happen"
+      },
+      {
+        "left": "design",
+        "right": "to decide how something will be made, how it will work, or what it will look like, and often to make drawings of it"
+      },
+      {
+        "left": "design",
+        "right": "the way that something is made so that it works and looks a certain way, or a drawing that shows what it will look like"
+      },
+      {
+        "left": "fix",
+        "right": "to repair something"
+      },
+      {
+        "left": "fold",
+        "right": "to bend a piece of paper or cloth and press one part of it over another part"
+      },
+      {
+        "left": "gallery",
+        "right": "a public building where you can look at paintings and other works of art"
+      },
+      {
+        "left": "improvement",
+        "right": "the state of being better than before, or the process of making something better than it was before"
+      },
+      {
+        "left": "loose",
+        "right": "loose clothes are large and do not fit your body tightly"
+      },
+      {
+        "left": "maintain",
+        "right": "to make regular repairs to something, so that it stays in good condition"
+      }
+    ]
+  },
+  {
+    "page": 197,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "match",
+        "right": "if one thing matches another, or they match, they form an attractive combination"
+      },
+      {
+        "left": "material",
+        "right": "cloth"
+      },
+      {
+        "left": "notice",
+        "right": "to become conscious of someone or something by seeing, hearing, or feeling them"
+      },
+      {
+        "left": "notice",
+        "right": "a written sign or announcement that gives information or that warns people about something"
+      },
+      {
+        "left": "pattern",
+        "right": "a set of lines, shapes, or colours that are repeated regularly"
+      },
+      {
+        "left": "pile",
+        "right": "a number of things that are put on top of each other in an untidy way"
+      },
+      {
+        "left": "practical",
+        "right": "involving, or relating to, real situations rather than theories or ideas alone"
+      },
+      {
+        "left": "rough",
+        "right": "with a surface that is not smooth"
+      },
+      {
+        "left": "shape",
+        "right": "the form of something"
+      },
+      {
+        "left": "silk",
+        "right": "a thin smooth cloth made from the fibres produced by insects called silkworms"
+      },
+      {
+        "left": "sleeve",
+        "right": "the part of a piece of clothing that covers your arm"
+      },
+      {
+        "left": "smooth",
+        "right": "completely even with no rough areas"
+      },
+      {
+        "left": "stretch",
+        "right": "if you stretch something, or if it stretches, it becomes longer or wider when you pull it"
+      },
+      {
+        "left": "striped",
+        "right": "with a pattern of coloured lines"
+      },
+      {
+        "left": "style",
+        "right": "the way that something is made or done that is typical of a particular group, time, or place"
+      },
+      {
+        "left": "suit",
+        "right": "if a style or something you wear suits you, it makes you look good"
+      },
+      {
+        "left": "suit",
+        "right": "a set of clothes made from the same cloth"
+      },
+      {
+        "left": "tear",
+        "right": "a hole in something where it has been torn"
+      },
+      {
+        "left": "tight",
+        "right": "fitting closely around your body or part of your body"
+      },
+      {
+        "left": "tool",
+        "right": "a piece of equipment that you hold to do a particular type of work"
+      },
+      {
+        "left": "amazing",
+        "right": "very good, surprising, or impressive"
+      },
+      {
+        "left": "climate",
+        "right": "the climate of a country or region is the type of weather it has"
+      },
+      {
+        "left": "countryside",
+        "right": "area away from towns and cities, with farms, fields and trees"
+      },
+      {
+        "left": "environment",
+        "right": "the natural world, including the land, water, air, plants and animals"
+      },
+      {
+        "left": "extinct",
+        "right": "if something such as a type of animal or plant is extinct, it no longer exists"
+      },
+      {
+        "left": "forecast",
+        "right": "to make a statement about what is likely to happen, often relating to the weather"
+      },
+      {
+        "left": "forecast",
+        "right": "a statement about what is likely to happen, often relating to the weather"
+      },
+      {
+        "left": "freezing",
+        "right": "very cold; the temperature at which water freezes and becomes ice"
+      }
+    ]
+  },
+  {
+    "page": 198,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "global",
+        "right": "including or affecting the whole world"
+      },
+      {
+        "left": "heatwave",
+        "right": "a continuous period of very hot weather"
+      },
+      {
+        "left": "insect",
+        "right": "a small animal that has six legs and often has wings"
+      },
+      {
+        "left": "lightning",
+        "right": "the bright flashes of light that you see in the sky during a storm"
+      },
+      {
+        "left": "litter",
+        "right": "to drop litter"
+      },
+      {
+        "left": "litter",
+        "right": "things that people have dropped on the ground in a public place, making it untidy"
+      },
+      {
+        "left": "local",
+        "right": "in or related to a particular area, especially the place where you live"
+      },
+      {
+        "left": "locate",
+        "right": "to find out the exact place where someone or something is; be located: to exist in a particular place"
+      },
+      {
+        "left": "mammal",
+        "right": "an animal that is born from its mother's body, not from an egg, and drinks its mother's milk as a baby"
+      },
+      {
+        "left": "mild",
+        "right": "mild weather is warm and pleasant"
+      },
+      {
+        "left": "name",
+        "right": "to know and say what the name of someone or something is; to give someone or something a name"
+      },
+      {
+        "left": "name",
+        "right": "a word or set of words used for referring to a person or thing"
+      },
+      {
+        "left": "origin",
+        "right": "the place or moment at which something begins to exist"
+      },
+      {
+        "left": "planet",
+        "right": "a very large round object that moves around the Sun or around another star"
+      },
+      {
+        "left": "preserve",
+        "right": "to take care of something in order to prevent it from being harmed or destroyed"
+      },
+      {
+        "left": "recycle",
+        "right": "to treat waste materials so that they can be used again"
+      },
+      {
+        "left": "reptile",
+        "right": "a type of animal such as a snake or lizard that lays eggs, and whose body is covered in scales"
+      },
+      {
+        "left": "rescue",
+        "right": "to save someone from a dangerous or unpleasant situation"
+      },
+      {
+        "left": "rescue",
+        "right": "an act of saving someone or something from danger or from an unpleasant situation"
+      },
+      {
+        "left": "satellite",
+        "right": "an object that is sent into space to travel round the Earth in order to receive and send information; a natural object such as a moon that moves around a planet"
+      },
+      {
+        "left": "shower",
+        "right": "a short period when it rains"
+      },
+      {
+        "left": "solar system",
+        "right": "the sun and the group of planets that move around it"
+      },
+      {
+        "left": "species",
+        "right": "a plant or animal group whose members all have similar general features and are able to produce young plants or animals together"
+      },
+      {
+        "left": "thunder",
+        "right": "the loud noise that you sometimes hear in the sky during a storm"
+      },
+      {
+        "left": "wild",
+        "right": "a wild animal or plant lives or grows on its own in natural conditions and is not raised by humans"
+      },
+      {
+        "left": "wildlife",
+        "right": "animals, birds and plants that live in natural conditions"
+      }
+    ]
+  },
+  {
+    "page": 199,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "amusing",
+        "right": "funny or entertaining"
+      },
+      {
+        "left": "annoy",
+        "right": "to make someone feel slightly angry or impatient"
+      },
+      {
+        "left": "attitude",
+        "right": "opinions or feelings that you show by your behaviour"
+      },
+      {
+        "left": "bad-tempered",
+        "right": "made annoyed or angry very easily"
+      },
+      {
+        "left": "behave",
+        "right": "to do things in a particular way"
+      },
+      {
+        "left": "bully",
+        "right": "to frighten or hurt someone who is smaller or weaker than you"
+      },
+      {
+        "left": "bully",
+        "right": "someone who uses their strength or status to threaten or frighten people"
+      },
+      {
+        "left": "calm",
+        "right": "not affected by strong emotions"
+      },
+      {
+        "left": "celebrate",
+        "right": "to do something enjoyable in order to show that an occasion or event is special"
+      },
+      {
+        "left": "character",
+        "right": "the qualities that make up someone's personality"
+      },
+      {
+        "left": "depressed",
+        "right": "very unhappy and without any feelings of hope or enthusiasm"
+      },
+      {
+        "left": "embarrassing",
+        "right": "making you feel nervous, ashamed, or stupid"
+      },
+      {
+        "left": "emotion",
+        "right": "a feeling that you experience, for example love, fear, or anger"
+      },
+      {
+        "left": "enthusiastic",
+        "right": "very interested in something, or excited by it"
+      },
+      {
+        "left": "feeling",
+        "right": "an emotional state, for example anger or happiness"
+      },
+      {
+        "left": "glad",
+        "right": "happy and pleased about something"
+      },
+      {
+        "left": "hurt",
+        "right": "to feel pain somewhere in your body"
+      },
+      {
+        "left": "hurt",
+        "right": "injured, or feeling physical pain"
+      },
+      {
+        "left": "naughty",
+        "right": "a naughty child behaves badly"
+      },
+      {
+        "left": "noisy",
+        "right": "making a lot of noise, or full of noise"
+      },
+      {
+        "left": "polite",
+        "right": "behaving towards other people in a pleasant way that follows all the usual rules of society"
+      },
+      {
+        "left": "react",
+        "right": "to behave in a particular way because of things that are happening around you or things that other people are doing to you"
+      },
+      {
+        "left": "regret",
+        "right": "to feel sorry or sad about something that has happened, or about something that you have done"
+      },
+      {
+        "left": "regret",
+        "right": "a feeling of sadness about something that has happened or something that you have done"
+      },
+      {
+        "left": "ridiculous",
+        "right": "silly or unreasonable and deserving to be laughed at"
+      },
+      {
+        "left": "romantic",
+        "right": "involving love, or making you have feelings of love"
+      },
+      {
+        "left": "rude",
+        "right": "not polite"
+      },
+      {
+        "left": "sense of humour",
+        "right": "the ability to laugh at things and recognize when they are funny"
+      },
+      {
+        "left": "shy",
+        "right": "nervous and embarrassed in the company of other people, especially people who you do not know"
+      }
+    ]
+  },
+  {
+    "page": 200,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "stress",
+        "right": "a worried or nervous feeling that makes you unable to relax, or a situation that makes you feel like this"
+      },
+      {
+        "left": "tell a joke",
+        "right": "say a short story with a funny ending to make people laugh"
+      },
+      {
+        "left": "upset",
+        "right": "to make someone feel sad, worried, or angry"
+      },
+      {
+        "left": "upset",
+        "right": "sad, worried, or angry about something"
+      },
+      {
+        "left": "accident",
+        "right": "something that happens without being planned"
+      },
+      {
+        "left": "assume",
+        "right": "to believe that something is true, even though you cannot be certain"
+      },
+      {
+        "left": "cause",
+        "right": "to make something happen, usually something bad"
+      },
+      {
+        "left": "cause",
+        "right": "an event, thing, or person that makes something happen"
+      },
+      {
+        "left": "claim",
+        "right": "to say that something is true, even though there is no definite proof"
+      },
+      {
+        "left": "complain",
+        "right": "to say that you are not happy about something"
+      },
+      {
+        "left": "convince",
+        "right": "to make someone believe that something is true; to persuade someone to do something"
+      },
+      {
+        "left": "criticise",
+        "right": "to say what you think is wrong or bad about something or someone"
+      },
+      {
+        "left": "deny",
+        "right": "to say that something is not true"
+      },
+      {
+        "left": "discussion",
+        "right": "a conversation about something important"
+      },
+      {
+        "left": "doubt",
+        "right": "to think that something is probably not true, probably does not exist, or probably will not happen"
+      },
+      {
+        "left": "doubt",
+        "right": "a feeling of not being certain about something"
+      },
+      {
+        "left": "encourage",
+        "right": "to give someone confidence or hope"
+      },
+      {
+        "left": "get rid of",
+        "right": "to throw away, give away, or sell something that you no longer want or need"
+      },
+      {
+        "left": "gossip",
+        "right": "to talk about other people or about things that are not important"
+      },
+      {
+        "left": "gossip",
+        "right": "talk or a conversation about things that are not important or about people's private lives"
+      },
+      {
+        "left": "ideal",
+        "right": "perfect"
+      },
+      {
+        "left": "insult",
+        "right": "to say or do something that is offensive"
+      },
+      {
+        "left": "insult",
+        "right": "an offensive remark"
+      },
+      {
+        "left": "investigate",
+        "right": "to try to find out all the facts about something in order to learn the truth about it"
+      },
+      {
+        "left": "negative",
+        "right": "harmful or bad"
+      },
+      {
+        "left": "positive",
+        "right": "a positive experience, situation, result, etc is a good one"
+      },
+      {
+        "left": "praise",
+        "right": "to express strong approval or admiration for someone or something"
+      },
+      {
+        "left": "praise",
+        "right": "an expression of strong approval or admiration"
+      },
+      {
+        "left": "pretend",
+        "right": "to behave in a particular way because you want someone to believe that something is true when it is not"
+      },
+      {
+        "left": "purpose",
+        "right": "an aim or use"
+      },
+      {
+        "left": "refuse",
+        "right": "to say that you will not do or accept something, or will not let someone do something"
+      }
+    ]
+  },
+  {
+    "page": 201,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "result",
+        "right": "to cause or produce something"
+      },
+      {
+        "left": "result",
+        "right": "something that is caused directly by something else"
+      },
+      {
+        "left": "rumour",
+        "right": "something that people are saying that may or may not be true"
+      },
+      {
+        "left": "sensible",
+        "right": "reasonable and practical"
+      },
+      {
+        "left": "serious",
+        "right": "bad or dangerous enough to make you worried"
+      },
+      {
+        "left": "spare",
+        "right": "kept in addition to other similar things, so that you can use it if you need it"
+      },
+      {
+        "left": "theory",
+        "right": "an idea that you believe is true, although you have no proof"
+      },
+      {
+        "left": "thought",
+        "right": "a word, idea, or image that comes into your mind"
+      },
+      {
+        "left": "warn",
+        "right": "to tell someone about a possible problem or danger, so that they can avoid it or deal with it"
+      }
+    ]
+  },
+  {
+    "page": 221,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "There's a big difference",
+        "right": "between an ordinary radio and a digital radio."
+      },
+      {
+        "left": "Use my credit card to pay",
+        "right": "for the tickets and give me the cash later."
+      },
+      {
+        "left": "Jim spent all his money",
+        "right": "on playing video games."
+      },
+      {
+        "left": "I lent my new computer game",
+        "right": "to Daniel and I don't think I'll get it back for a while!"
+      },
+      {
+        "left": "I saw an advertisement",
+        "right": "for a watch that also plays TV programmes."
+      },
+      {
+        "left": "There's something wrong",
+        "right": "with the DVD player we bought last week."
+      },
+      {
+        "left": "You have to connect the computer",
+        "right": "to the power or it won't work."
+      }
+    ]
+  }
+]
