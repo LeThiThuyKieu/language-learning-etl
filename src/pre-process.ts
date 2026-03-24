@@ -234,9 +234,9 @@ async function processFiles() {
       // 4. Xử lý MATCHING (Cặp Anh - Việt)
       else if (file.toLowerCase().includes("matching")) {
         processed = {
-          sentence: row.word_en, // Vế trái: Tiếng Anh
+          sentence: row.sentence_left, // Vế trái: Tiếng Anh
           options: "MATCHING_PAIR", // Flag nhận diện
-          answer: row.word_vi, // Vế phải: Tiếng Việt
+          answer: row.sentence_right, // Vế phải: Tiếng Việt
           difficulty: row.difficulty || "easy",
           question_type: "MATCHING",
         };
