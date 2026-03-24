@@ -1,0 +1,3614 @@
+[
+  {
+    "question": "You should take ............................ a sport and then you would get more exercise.",
+    "options": {
+      "A": "off",
+      "B": "up",
+      "C": "down"
+    },
+    "answer": "up"
+  },
+  {
+    "question": "I'm trying to work! Could you please turn your music ............................?",
+    "options": {
+      "A": "down",
+      "B": "in",
+      "C": "out"
+    },
+    "answer": "down"
+  },
+  {
+    "question": "Just ask and I'm sure the other children will let you join ............................ .",
+    "options": {
+      "A": "out",
+      "B": "up",
+      "C": "in"
+    },
+    "answer": "in"
+  },
+  {
+    "question": "The referee sent David ............................ for arguing with him.",
+    "options": {
+      "A": "off",
+      "B": "down",
+      "C": "up"
+    },
+    "answer": "off"
+  },
+  {
+    "question": "This is my favourite song! Turn it ............................!",
+    "options": {
+      "A": "off",
+      "B": "out",
+      "C": "up"
+    },
+    "answer": "up"
+  },
+  {
+    "question": "A mobile phone rang, but the musician just carried ............................ playing.",
+    "options": {
+      "A": "on",
+      "B": "up",
+      "C": "in"
+    },
+    "answer": "on"
+  },
+  {
+    "question": "We can't afford to eat ............................ very often.",
+    "options": {
+      "A": "off",
+      "B": "up",
+      "C": "out"
+    },
+    "answer": "out"
+  },
+  {
+    "question": "I've decided to become a vegetarian and give ............................ meat.",
+    "options": {
+      "A": "up",
+      "B": "off",
+      "C": "out"
+    },
+    "answer": "up"
+  },
+  {
+    "question": "When you rang, I ............................ my bike.",
+    "options": {
+      "A": "cleaned",
+      "B": "was cleaning",
+      "C": "used to clean",
+      "D": "clean"
+    },
+    "answer": "was cleaning"
+  },
+  {
+    "question": "At my last basketball club, we ............................ every Saturday for three hours.",
+    "options": {
+      "A": "were training",
+      "B": "training",
+      "C": "train",
+      "D": "used to train"
+    },
+    "answer": "used to train"
+  },
+  {
+    "question": "I really ............................ the meal we had at your house last Tuesday.",
+    "options": {
+      "A": "was liking",
+      "B": "liked",
+      "C": "like",
+      "D": "am liking"
+    },
+    "answer": "liked"
+  },
+  {
+    "question": "We ............................ to the beach every day when we were on holiday.",
+    "options": {
+      "A": "went",
+      "B": "were going",
+      "C": "go",
+      "D": "used to going"
+    },
+    "answer": "went"
+  },
+  {
+    "question": "I broke my leg when Tony and I ............................ for the school sports day.",
+    "options": {
+      "A": "practised",
+      "B": "used to practise",
+      "C": "were practising",
+      "D": "are practising"
+    },
+    "answer": "were practising"
+  },
+  {
+    "question": "Leon never ............................ about it, but he was once a world champion skier.",
+    "options": {
+      "A": "talks",
+      "B": "is talking",
+      "C": "was talking",
+      "D": "talk"
+    },
+    "answer": "talks"
+  },
+  {
+    "question": "I ............................ like golf, but now I really like it.",
+    "options": {
+      "A": "don't use to",
+      "B": "don't used to",
+      "C": "didn't used to",
+      "D": "didn't use to"
+    },
+    "answer": "didn't use to"
+  },
+  {
+    "question": "Denise ............................ at the stadium until she finds a better job.",
+    "options": {
+      "A": "works",
+      "B": "is working",
+      "C": "used to work",
+      "D": "was working"
+    },
+    "answer": "is working"
+  },
+  {
+    "question": "You should take ............................ a sport and then you would get more exercise.",
+    "options": {
+      "A": "off",
+      "B": "up",
+      "C": "down"
+    },
+    "answer": "up"
+  },
+  {
+    "question": "I'm trying to work! Could you please turn your music ............................?",
+    "options": {
+      "A": "down",
+      "B": "in",
+      "C": "out"
+    },
+    "answer": "down"
+  },
+  {
+    "question": "Just ask and I'm sure the other children will let you join ............................ .",
+    "options": {
+      "A": "out",
+      "B": "up",
+      "C": "in"
+    },
+    "answer": "in"
+  },
+  {
+    "question": "The referee sent David ............................ for arguing with him.",
+    "options": {
+      "A": "off",
+      "B": "down",
+      "C": "up"
+    },
+    "answer": "off"
+  },
+  {
+    "question": "This is my favourite song! Turn it ............................!",
+    "options": {
+      "A": "off",
+      "B": "out",
+      "C": "up"
+    },
+    "answer": "up"
+  },
+  {
+    "question": "A mobile phone rang, but the musician just carried ............................ playing.",
+    "options": {
+      "A": "on",
+      "B": "up",
+      "C": "in"
+    },
+    "answer": "on"
+  },
+  {
+    "question": "We can't afford to eat ............................ very often.",
+    "options": {
+      "A": "off",
+      "B": "up",
+      "C": "out"
+    },
+    "answer": "out"
+  },
+  {
+    "question": "I've decided to become a vegetarian and give ............................ meat.",
+    "options": {
+      "A": "up",
+      "B": "off",
+      "C": "out"
+    },
+    "answer": "up"
+  },
+  {
+    "question": "When you rang, I ............................ my bike.",
+    "options": {
+      "A": "cleaned",
+      "B": "was cleaning",
+      "C": "used to clean",
+      "D": "clean"
+    },
+    "answer": "was cleaning"
+  },
+  {
+    "question": "At my last basketball club, we ............................ every Saturday for three hours.",
+    "options": {
+      "A": "were training",
+      "B": "training",
+      "C": "train",
+      "D": "used to train"
+    },
+    "answer": "used to train"
+  },
+  {
+    "question": "I really ............................ the meal we had at your house last Tuesday.",
+    "options": {
+      "A": "was liking",
+      "B": "liked",
+      "C": "like",
+      "D": "am liking"
+    },
+    "answer": "liked"
+  },
+  {
+    "question": "We ............................ to the beach every day when we were on holiday.",
+    "options": {
+      "A": "went",
+      "B": "were going",
+      "C": "go",
+      "D": "used to going"
+    },
+    "answer": "went"
+  },
+  {
+    "question": "I broke my leg when Tony and I ............................ for the school sports day.",
+    "options": {
+      "A": "practised",
+      "B": "used to practise",
+      "C": "were practising",
+      "D": "are practising"
+    },
+    "answer": "were practising"
+  },
+  {
+    "question": "Leon never ............................ about it, but he was once a world champion skier.",
+    "options": {
+      "A": "talks",
+      "B": "is talking",
+      "C": "was talking",
+      "D": "talk"
+    },
+    "answer": "talks"
+  },
+  {
+    "question": "I ............................ like golf, but now I really like it.",
+    "options": {
+      "A": "don't use to",
+      "B": "don't used to",
+      "C": "didn't used to",
+      "D": "didn't use to"
+    },
+    "answer": "didn't use to"
+  },
+  {
+    "question": "Denise ............................ at the stadium until she finds a better job.",
+    "options": {
+      "A": "works",
+      "B": "is working",
+      "C": "used to work",
+      "D": "was working"
+    },
+    "answer": "is working"
+  },
+  {
+    "question": "............................ never played this game before.",
+    "options": {
+      "A": "I've",
+      "B": "I"
+    },
+    "answer": "I've"
+  },
+  {
+    "question": "Adam ............................ his room last night.",
+    "options": {
+      "A": "has tidied",
+      "B": "tidied"
+    },
+    "answer": "tidied"
+  },
+  {
+    "question": "............................ here since 2005?",
+    "options": {
+      "A": "Have you lived",
+      "B": "Did you live"
+    },
+    "answer": "Have you lived"
+  },
+  {
+    "question": "Carol and I ............................ to the cinema three nights ago.",
+    "options": {
+      "A": "have been",
+      "B": "went"
+    },
+    "answer": "went"
+  },
+  {
+    "question": "It's the first time ............................ our flat, isn't it?",
+    "options": {
+      "A": "you've visited",
+      "B": "you visited"
+    },
+    "answer": "you've visited"
+  },
+  {
+    "question": "They ............................ the baby a name yet.",
+    "options": {
+      "A": "haven't given",
+      "B": "didn't give"
+    },
+    "answer": "haven't given"
+  },
+  {
+    "question": "............................ to New York when you went to the States last summer?",
+    "options": {
+      "A": "Have you been",
+      "B": "Did you go"
+    },
+    "answer": "Did you go"
+  },
+  {
+    "question": "............................ an e-mail before?",
+    "options": {
+      "A": "Have you ever sent",
+      "B": "Did you ever send"
+    },
+    "answer": "Have you ever sent"
+  },
+  {
+    "question": "We'd had dinner when Wendy arrived.",
+    "options": {
+      "A": "Wendy arrived and then we had dinner.",
+      "B": "We had dinner and then Wendy arrived."
+    },
+    "answer": "We had dinner and then Wendy arrived."
+  },
+  {
+    "question": "I read the book after I'd seen the film.",
+    "options": {
+      "A": "I saw the film and then I read the book.",
+      "B": "I read the book and then I saw the film."
+    },
+    "answer": "I saw the film and then I read the book."
+  },
+  {
+    "question": "By the time Dad came home, I'd gone to bed.",
+    "options": {
+      "A": "I went to bed before Dad came home.",
+      "B": "I went to bed after Dad came home."
+    },
+    "answer": "I went to bed before Dad came home."
+  },
+  {
+    "question": "She didn't go to bed until her mum had come home.",
+    "options": {
+      "A": "She went to bed and then her mum came home.",
+      "B": "Her mum came home and then she went to bed."
+    },
+    "answer": "Her mum came home and then she went to bed."
+  },
+  {
+    "question": "Mr Banks hadn't arrived at the office by the time I got there.",
+    "options": {
+      "A": "I arrived before Mr Banks.",
+      "B": "Mr Banks arrived before me."
+    },
+    "answer": "I arrived before Mr Banks."
+  },
+  {
+    "question": "They'd bought the plane tickets before they heard about the cheaper flight.",
+    "options": {
+      "A": "They bought the plane tickets and later they heard about the cheaper flight.",
+      "B": "They heard about the cheaper flight and then they bought the plane tickets."
+    },
+    "answer": "They bought the plane tickets and later they heard about the cheaper flight."
+  },
+  {
+    "question": "The girls had tidied the house when the visitors arrived.",
+    "options": {
+      "A": "The visitors arrived and later the girls tidied the house.",
+      "B": "The girls tidied the house and then the visitors arrived."
+    },
+    "answer": "The girls tidied the house and then the visitors arrived."
+  },
+  {
+    "question": "I'd only ............................ the washing-up for a few minutes when Clare came home, so she offered to finish it.",
+    "options": {
+      "A": "done",
+      "B": "been doing"
+    },
+    "answer": "been doing"
+  },
+  {
+    "question": "Had you already ............................ James his birthday present when we gave him ours?",
+    "options": {
+      "A": "given",
+      "B": "been giving"
+    },
+    "answer": "given"
+  },
+  {
+    "question": "Gail hadn't ............................ me that she would help me, so I wasn't angry when she didn't.",
+    "options": {
+      "A": "told",
+      "B": "been telling"
+    },
+    "answer": "told"
+  },
+  {
+    "question": "Mum had ............................ her cup of tea for several minutes before she realised it had salt in it!",
+    "options": {
+      "A": "drunk",
+      "B": "been drinking"
+    },
+    "answer": "been drinking"
+  },
+  {
+    "question": "We'd ............................ ready all day when they called to say the party had been cancelled.",
+    "options": {
+      "A": "got",
+      "B": "been getting"
+    },
+    "answer": "been getting"
+  },
+  {
+    "question": "It was a fantastic experience because I'd never ............................ in a plane before.",
+    "options": {
+      "A": "flown",
+      "B": "been flying"
+    },
+    "answer": "flown"
+  },
+  {
+"question": "It's the first time ............................ all the answers right in a test!",
+"options": {
+"A": "I've got",
+"B": "I'd got",
+"C": "I've been getting",
+"D": "I'd been getting"
+},
+"answer": "I've got"
+},
+{
+"question": "The exam ............................ when Jimmy finally found the right room.",
+"options": {
+"A": "has already started",
+"B": "already started",
+"C": "had already started",
+"D": "already starts"
+},
+"answer": "had already started"
+},
+{
+"question": "............................ that crossword for over an hour and you still haven't finished it!",
+"options": {
+"A": "You've done",
+"B": "You'd done",
+"C": "You've been doing",
+"D": "You'd been doing"
+},
+"answer": "You've been doing"
+},
+{
+"question": "When they let us go in, we ............................ outside the exam room for over half an hour.",
+"options": {
+"A": "have stood",
+"B": "had been standing",
+"C": "have been standing",
+"D": "are standing"
+},
+"answer": "had been standing"
+},
+{
+"question": "Clare hasn't finished her homework ............................ .",
+"options": {
+"A": "already",
+"B": "yet",
+"C": "just",
+"D": "ever"
+},
+"answer": "yet"
+},
+{
+"question": "Have you ............................ been on a school trip?",
+"options": {
+"A": "yet",
+"B": "for",
+"C": "before",
+"D": "ever"
+},
+"answer": "ever"
+},
+{
+"question": "Lizzie has been having dance classes ............................ she was four years old.",
+"options": {
+"A": "for",
+"B": "from",
+"C": "since",
+"D": "when"
+},
+"answer": "since"
+},
+{
+"question": "Had you been learning French ............................ several years before you took your first exam?",
+"options": {
+"A": "for",
+"B": "from",
+"C": "since",
+"D": "when"
+},
+"answer": "for"
+},
+{
+"question": "‘Have you made plans for the summer?’ ‘Yes. ............................ to Spain.’",
+"options": {
+"A": "We'll go",
+"B": "We're going",
+"C": "We go"
+},
+"answer": "We're going"
+},
+{
+"question": "‘We're moving house tomorrow.’ ‘Really? ............................ you with the furniture.’",
+"options": {
+"A": "I help",
+"B": "I'm helping",
+"C": "I'll help"
+},
+"answer": "I'll help"
+},
+{
+"question": "‘Do you need this paintbrush?’ ‘Ah, yes. ............................ it to me, please?’",
+"options": {
+"A": "Do you pass",
+"B": "Will you pass",
+"C": "Are you passing"
+},
+"answer": "Will you pass"
+},
+{
+"question": "‘What do you want to be when you grow up, Stevie?’ ‘............................ a scientist. That's what I want to do, anyway.’",
+"options": {
+"A": "I be",
+"B": "I'm going to be",
+"C": "I'm being"
+},
+"answer": "I'm going to be"
+},
+{
+"question": "‘John is a better player than Martin, isn't he?’ ‘Oh, yes. ............................ the match tomorrow, I expect.’",
+"options": {
+"A": "He'll win",
+"B": "He wins",
+"C": "He's winning"
+},
+"answer": "He'll win"
+},
+{
+"question": "‘The weather has been terrible, hasn't it?’ ‘Yes, I think ............................ again later.’",
+"options": {
+"A": "it's going to rain",
+"B": "it's raining",
+"C": "it rains"
+},
+"answer": "it's going to rain"
+},
+{
+"question": "I ............................ around the world one day.",
+"options": {
+"A": "travel",
+"B": "am going to travel",
+"C": "am travelling",
+"D": "travelled"
+},
+"answer": "am going to travel"
+},
+{
+"question": "Do you think Curtis ............................ the car race tomorrow?",
+"options": {
+"A": "will win",
+"B": "wins",
+"C": "is winning",
+"D": "won"
+},
+"answer": "will win"
+},
+{
+"question": "What's the weather like ............................ Russia at the moment?",
+"options": {
+"A": "on",
+"B": "at",
+"C": "in",
+"D": "to"
+},
+"answer": "in"
+},
+{
+"question": "I can't come to your party because I ............................ my cousin that week.",
+"options": {
+"A": "visit",
+"B": "will visit",
+"C": "visited",
+"D": "am visiting"
+},
+"answer": "am visiting"
+},
+{
+"question": "I think there's a picture of the hotel ............................ the first page.",
+"options": {
+"A": "on",
+"B": "at",
+"C": "in",
+"D": "to"
+},
+"answer": "on"
+},
+{
+"question": "We usually go away somewhere on holiday ............................ New Year.",
+"options": {
+"A": "on",
+"B": "at",
+"C": "in",
+"D": "to"
+},
+"answer": "at"
+},
+{
+"question": "Watch out, or you ............................ off the boat!",
+"options": {
+"A": "fall",
+"B": "are going to fall",
+"C": "are falling",
+"D": "fell"
+},
+"answer": "are going to fall"
+},
+{
+"question": "It's my birthday ............................ Friday, so we're spending the weekend in London.",
+"options": {
+"A": "on",
+"B": "at",
+"C": "in",
+"D": "to"
+},
+"answer": "on"
+},
+{
+"question": "I got ............................ the car, turned the key and realised I didn't have any petrol!",
+"options": {
+"A": "into",
+"B": "off",
+"C": "onto",
+"D": "on"
+},
+"answer": "into"
+},
+{
+"question": "I hope our plane leaves on ............................ .",
+"options": {
+"A": "timetable",
+"B": "plan",
+"C": "schedule",
+"D": "hour"
+},
+"answer": "schedule"
+},
+{
+"question": "My mum ............................ the bus to work every morning, but Dad drives.",
+"options": {
+"A": "catches",
+"B": "does",
+"C": "runs",
+"D": "goes"
+},
+"answer": "catches"
+},
+{
+"question": "We had a long way to go so we ............................ off very early.",
+"options": {
+"A": "made",
+"B": "set",
+"C": "put",
+"D": "had"
+},
+"answer": "set"
+},
+{
+"question": "I prepared ............................ my trip very carefully, and I still forgot my toothbrush!",
+"options": {
+"A": "with",
+"B": "on",
+"C": "about",
+"D": "for"
+},
+"answer": "for"
+},
+{
+"question": "Public ............................ in this city is quite good, and it's not expensive.",
+"options": {
+"A": "travel",
+"B": "journey",
+"C": "vehicle",
+"D": "transport"
+},
+"answer": "transport"
+},
+{
+"question": "Mum ............................ away on business quite often.",
+"options": {
+"A": "sets",
+"B": "takes",
+"C": "does",
+"D": "goes"
+},
+"answer": "goes"
+},
+{
+"question": "It's easier to travel abroad when you can speak ............................ language like English.",
+"options": {
+"A": "a strange",
+"B": "a foreign",
+"C": "an unknown",
+"D": "an outside"
+},
+"answer": "a foreign"
+},
+{
+"question": "Be careful with that vase because it's made of ............................ !",
+"options": {
+"A": "glass",
+"B": "a glass"
+},
+"answer": "glass"
+},
+{
+"question": "I started coughing because I had ............................ at the back of my throat.",
+"options": {
+"A": "hair",
+"B": "a hair"
+},
+"answer": "a hair"
+},
+{
+"question": "Don't put your hot cup on my new table! It's ............................ and I don't want you to burn it.",
+"options": {
+"A": "wood",
+"B": "a wood"
+},
+"answer": "wood"
+},
+{
+"question": "We should all recycle ............................ so that it can be used again.",
+"options": {
+"A": "paper",
+"B": "a paper"
+},
+"answer": "paper"
+},
+{
+"question": "My dad gets ............................ every day on his way to work.",
+"options": {
+"A": "paper",
+"B": "a paper"
+},
+"answer": "a paper"
+},
+{
+"question": "Of course you can have some milk. Get ............................ out of the cupboard.",
+"options": {
+"A": "glass",
+"B": "a glass"
+},
+"answer": "a glass"
+},
+{
+"question": "I heard there's ............................ new sports shop in town. Let's see what they have.",
+"options": {
+"A": "a",
+"B": "the",
+"C": "an",
+"D": "one"
+},
+"answer": "a"
+},
+{
+"question": "I don't have ............................ money, so I'll have to wait to get a new coat.",
+"options": {
+"A": "a piece of",
+"B": "a few",
+"C": "much",
+"D": "many"
+},
+"answer": "much"
+},
+{
+"question": "It's going to be very expensive to send a person to ............................ .",
+"options": {
+"A": "a Mars",
+"B": "one Mars",
+"C": "the Mars",
+"D": "Mars"
+},
+"answer": "Mars"
+},
+{
+"question": "I don't know much about computers, so I asked the assistant for ............................ advice.",
+"options": {
+"A": "a lot",
+"B": "many",
+"C": "a few",
+"D": "a little"
+},
+"answer": "a little"
+},
+{
+"question": "In my experience, ............................ are very friendly.",
+"options": {
+"A": "Chinese",
+"B": "a Chinese",
+"C": "the Chinese",
+"D": "this Chinese"
+},
+"answer": "the Chinese"
+},
+{
+"question": "Dad has to go to ............................ early tomorrow to meet an important customer.",
+"options": {
+"A": "work",
+"B": "the work",
+"C": "a work",
+"D": "that work"
+},
+"answer": "work"
+},
+{
+"question": "Which is more important – money or ............................ ?",
+"options": {
+"A": "environment",
+"B": "the environment",
+"C": "an environment",
+"D": "one environment"
+},
+"answer": "the environment"
+},
+{
+"question": "Apparently, it's the largest computer store in ............................ .",
+"options": {
+"A": "an Europe",
+"B": "a Europe",
+"C": "the Europe",
+"D": "Europe"
+},
+"answer": "Europe"
+},
+{
+"question": "Let me just add ............................ what I'm buying to see if I've got enough money.",
+"options": {
+"A": "on",
+"B": "up",
+"C": "over",
+"D": "in"
+},
+"answer": "up"
+},
+{
+"question": "Bob ............................ a lot of money in his brother's business and made a profit.",
+"options": {
+"A": "spent",
+"B": "invested",
+"C": "saved",
+"D": "owed"
+},
+"answer": "invested"
+},
+{
+"question": "I'm saving all my pocket money ............................ to buy a new PlayStation.",
+"options": {
+"A": "out",
+"B": "down",
+"C": "up",
+"D": "away"
+},
+"answer": "up"
+},
+{
+"question": "The old man took the book ............................ from the shelf and looked at the price.",
+"options": {
+"A": "up",
+"B": "down",
+"C": "out",
+"D": "back"
+},
+"answer": "down"
+},
+{
+"question": "I couldn't sell my old magazines, so I gave them ............................ .",
+"options": {
+"A": "over",
+"B": "off",
+"C": "up",
+"D": "away"
+},
+"answer": "away"
+},
+{
+"question": "I gave the waiter a €50 note and waited for my ............................ .",
+"options": {
+"A": "change",
+"B": "supply",
+"C": "cash",
+"D": "cost"
+},
+"answer": "change"
+},
+{
+"question": "Home Lovers have got lots of ............................ in their sale this year.",
+"options": {
+"A": "debts",
+"B": "fortunes",
+"C": "bargains",
+"D": "fees"
+},
+"answer": "bargains"
+},
+{
+"question": "I usually spend any money I have ............................ sweets and video games.",
+"options": {
+"A": "on",
+"B": "in",
+"C": "at",
+"D": "for"
+},
+"answer": "on"
+},
+{
+"question": "I ............................ across this book about the moon in the library. It's really interesting!",
+"options": {
+"A": "went",
+"B": "found",
+"C": "came",
+"D": "looked"
+},
+"answer": "came"
+},
+{
+"question": "Jenny pulled ............................ the handle so we can't open the cupboard now.",
+"options": {
+"A": "off",
+"B": "away",
+"C": "in",
+"D": "over"
+},
+"answer": "off"
+},
+{
+"question": "I'd like to find ............................ more about being a computer programmer.",
+"options": {
+"A": "across",
+"B": "up",
+"C": "off",
+"D": "out"
+},
+"answer": "out"
+},
+{
+"question": "Our car has broken ............................ again.",
+"options": {
+"A": "off",
+"B": "down",
+"C": "out",
+"D": "in"
+},
+"answer": "down"
+},
+{
+"question": "Dean was late for physics so he ............................ up a story about being attacked by a cat!",
+"options": {
+"A": "took",
+"B": "wrote",
+"C": "created",
+"D": "made"
+},
+"answer": "made"
+},
+{
+"question": "............................ the TV off. This show is boring.",
+"options": {
+"A": "Put",
+"B": "Set",
+"C": "Turn",
+"D": "Make"
+},
+"answer": "Turn"
+},
+{
+"question": "I'm going to throw these old shoes ............................ . I never wear them anymore.",
+"options": {
+"A": "off",
+"B": "away",
+"C": "down",
+"D": "back"
+},
+"answer": "away"
+},
+{
+"question": "I turned ............................ the tap but no water came out.",
+"options": {
+"A": "over",
+"B": "up",
+"C": "round",
+"D": "on"
+},
+"answer": "on"
+},
+{
+"question": "We have to pay the electricity bill before Friday.",
+"options": {
+"A": "We can pay it if we want to.",
+"B": "We must pay it.",
+"C": "We've already paid it."
+},
+"answer": "We must pay it."
+},
+{
+"question": "You don't need to buy me a birthday present.",
+"options": {
+"A": "You must buy me a birthday present.",
+"B": "It's not necessary to buy me a birthday present.",
+"C": "You mustn't buy me a birthday present."
+},
+"answer": "It's not necessary to buy me a birthday present."
+},
+{
+"question": "I have to do some work on my project this evening.",
+"options": {
+"A": "I haven't got time to do the work.",
+"B": "I've already done the work.",
+"C": "I need to do the work."
+},
+"answer": "I need to do the work."
+},
+{
+"question": "Lenny didn't have to see the head teacher after all.",
+"options": {
+"A": "It wasn't necessary for Lenny to see the head teacher.",
+"B": "Lenny went to see the head teacher.",
+"C": "Lenny is waiting to see the head teacher."
+},
+"answer": "It wasn't necessary for Lenny to see the head teacher."
+},
+{
+"question": "Students mustn't run in school buildings.",
+"options": {
+"A": "They can run if they want to.",
+"B": "Students don't like running.",
+"C": "Running isn't allowed."
+},
+"answer": "Running isn't allowed."
+},
+{
+"question": "All passengers must fasten their seatbelts.",
+"options": {
+"A": "They have to fasten their seatbelts now.",
+"B": "They don't have to fasten their seatbelts.",
+"C": "They can fasten their seatbelts."
+},
+"answer": "They have to fasten their seatbelts now."
+},
+{
+"question": "Mr Reed had to go to the police station to answer some questions.",
+"options": {
+"A": "Mr Reed was able to go to the police station.",
+"B": "Mr Reed forgot to go to the police station.",
+"C": "Mr Reed was obliged to go to the police station."
+},
+"answer": "Mr Reed was obliged to go to the police station."
+},
+{
+"question": "It's kind of you to offer to help, but you really don't need to.",
+"options": {
+"A": "I don't want you to help me.",
+"B": "Your help isn't necessary.",
+"C": "You won't be able to help me."
+},
+"answer": "Your help isn't necessary."
+},
+{
+"question": "I couldn't ............................ the programme so I turned the TV up.",
+"options": {
+"A": "hear",
+"B": "heard",
+"C": "hearing",
+"D": "to hear"
+},
+"answer": "hear"
+},
+{
+"question": "My brother ............................ write when he was just three years old.",
+"options": {
+"A": "can",
+"B": "could",
+"C": "might",
+"D": "should"
+},
+"answer": "could"
+},
+{
+"question": "............................ I use your computer to check my e-mail?",
+"options": {
+"A": "Will",
+"B": "Ought",
+"C": "May",
+"D": "Would"
+},
+"answer": "May"
+},
+{
+"question": "My teacher thinks I ............................ to pay more attention in class.",
+"options": {
+"A": "might",
+"B": "may",
+"C": "ought",
+"D": "would"
+},
+"answer": "ought"
+},
+{
+"question": "All compositions ............................ be handed in to me by Friday at the latest.",
+"options": {
+"A": "must",
+"B": "need",
+"C": "have",
+"D": "ought"
+},
+"answer": "must"
+},
+{
+"question": "That ............................ be my mobile – mine is silver and that one is black.",
+"options": {
+"A": "mustn't",
+"B": "shouldn't",
+"C": "wouldn't",
+"D": "can't"
+},
+"answer": "can't"
+},
+{
+"question": "I sent the letter yesterday, so it ............................ get there tomorrow.",
+"options": {
+"A": "can",
+"B": "need",
+"C": "should",
+"D": "ought"
+},
+"answer": "should"
+},
+{
+"question": "Did you ............................ to pay to send the package back?",
+"options": {
+"A": "must",
+"B": "should",
+"C": "ought",
+"D": "have"
+},
+"answer": "have"
+},
+{
+"question": "Did you write to Irina ............................ her visit this summer?",
+"options": {
+"A": "for",
+"B": "of",
+"C": "on",
+"D": "about"
+},
+"answer": "about"
+},
+{
+"question": "You have to ............................ on the word 'Next' to see the next web page.",
+"options": {
+"A": "press",
+"B": "click",
+"C": "push",
+"D": "hit"
+},
+"answer": "click"
+},
+{
+"question": "I read about the accident ............................ the Internet.",
+"options": {
+"A": "on",
+"B": "in",
+"C": "to",
+"D": "at"
+},
+"answer": "on"
+},
+{
+"question": "Please don't ............................ me when I'm speaking.",
+"options": {
+"A": "break",
+"B": "prevent",
+"C": "pause",
+"D": "interrupt"
+},
+"answer": "interrupt"
+},
+{
+"question": "When you have written your letter, save the ............................ in 'My Documents'.",
+"options": {
+"A": "paper",
+"B": "notebook",
+"C": "file",
+"D": "line"
+},
+"answer": "file"
+},
+{
+"question": "I finally managed to ............................ Simon to lend me his laptop.",
+"options": {
+"A": "persuade",
+"B": "make",
+"C": "say",
+"D": "allow"
+},
+"answer": "persuade"
+},
+{
+"question": "Even when he's very angry, my dad never ............................ or uses bad language.",
+"options": {
+"A": "swears",
+"B": "tells",
+"C": "whispers",
+"D": "broadcasts"
+},
+"answer": "swears"
+},
+{
+"question": "I didn't read the message carefully. I just glanced ............................ it.",
+"options": {
+"A": "with",
+"B": "to",
+"C": "on",
+"D": "at"
+},
+"answer": "at"
+},
+{
+"question": "When you get to your ............................ , you have to show your ticket to leave the station.",
+"options": {
+"A": "destination",
+"B": "harbour",
+"C": "souvenir",
+"D": "passport"
+},
+"answer": "destination"
+},
+{
+"question": "Brazil ............................ coffee all over the world.",
+"options": {
+"A": "invests",
+"B": "demands",
+"C": "exports",
+"D": "affords"
+},
+"answer": "exports"
+},
+{
+"question": "How do you ............................ 'csar'?",
+"options": {
+"A": "interrupt",
+"B": "swear",
+"C": "guess",
+"D": "pronounce"
+},
+"answer": "pronounce"
+},
+{
+"question": "Dogs make very ............................ pets. They'll always stay by your side.",
+"options": {
+"A": "mental",
+"B": "private",
+"C": "loyal",
+"D": "digital"
+},
+"answer": "loyal"
+},
+{
+"question": "Let's go for a swim as soon as we ............................ the hotel!",
+"options": {
+"A": "arrive",
+"B": "get",
+"C": "reach",
+"D": "meet"
+},
+"answer": "reach"
+},
+{
+"question": "You have to ............................ or you won't understand the explanation.",
+"options": {
+"A": "concentrate",
+"B": "contact",
+"C": "consider",
+"D": "involve"
+},
+"answer": "concentrate"
+},
+{
+"question": "There's a train coming. Don't stand at the edge of the ............................ .",
+"options": {
+"A": "property",
+"B": "link",
+"C": "platform",
+"D": "resort"
+},
+"answer": "platform"
+},
+{
+"question": "I ............................ a lot of money on my credit cards and I don't know if I can pay it back.",
+"options": {
+"A": "own",
+"B": "obtain",
+"C": "cost",
+"D": "owe"
+},
+"answer": "owe"
+},
+{
+"question": "'What ............................ when you saw the man?' the police officer asked.",
+"options": {
+"A": "have you done",
+"B": "were you doing",
+"C": "are you doing",
+"D": "do you do"
+},
+"answer": "were you doing"
+},
+{
+"question": "Thomas Edison, ............................ was American, invented many things, including the light bulb.",
+"options": {
+"A": "which",
+"B": "who",
+"C": "that",
+"D": "what"
+},
+"answer": "who"
+},
+{
+"question": "I hope we're staying ............................ a good hotel this time!",
+"options": {
+"A": "at",
+"B": "to",
+"C": "with",
+"D": "on"
+},
+"answer": "at"
+},
+{
+"question": "I know London quite well because I ............................ there.",
+"options": {
+"A": "used live",
+"B": "used to living",
+"C": "was used to live",
+"D": "used to live"
+},
+"answer": "used to live"
+},
+{
+"question": "My bike ............................ ! Call the police!",
+"options": {
+"A": "was being stolen",
+"B": "has been stolen",
+"C": "stole",
+"D": "was stealing"
+},
+"answer": "has been stolen"
+},
+{
+"question": "I'm tired because I ............................ since eight this morning.",
+"options": {
+"A": "have been working",
+"B": "work",
+"C": "am working",
+"D": "had worked"
+},
+"answer": "have been working"
+},
+{
+"question": "Do you think I could have ............................ water, please?",
+"options": {
+"A": "a few",
+"B": "much",
+"C": "few",
+"D": "a little"
+},
+"answer": "a little"
+},
+{
+"question": "Is that Paul? He must ............................ from Australia.",
+"options": {
+"A": "return",
+"B": "had returned",
+"C": "have returned",
+"D": "returning"
+},
+"answer": "have returned"
+},
+{
+"question": "Ronny ............................ have gone to Switzerland, but I'm not totally sure.",
+"options": {
+"A": "must",
+"B": "could",
+"C": "can't",
+"D": "should"
+},
+"answer": "could"
+},
+{
+"question": "You ............................ have lied to me! Why didn't you tell me the truth?",
+"options": {
+"A": "mustn't",
+"B": "might not",
+"C": "shouldn't",
+"D": "couldn't"
+},
+"answer": "shouldn't"
+},
+{
+"question": "Helen ............................ to have seen a doctor weeks ago. Why didn't she?",
+"options": {
+"A": "ought",
+"B": "should",
+"C": "must",
+"D": "can't"
+},
+"answer": "ought"
+},
+{
+"question": "They ............................ have seen the play last night as they went to a football match instead.",
+"options": {
+"A": "could",
+"B": "must",
+"C": "might",
+"D": "can't"
+},
+"answer": "can't"
+},
+{
+"question": "Carl ............................ have been here by now. Maybe he got stuck in traffic.",
+"options": {
+"A": "might",
+"B": "must",
+"C": "should",
+"D": "can't"
+},
+"answer": "should"
+},
+{
+"question": "You ............................ have been really excited when you heard you'd won the competition!",
+"options": {
+"A": "must",
+"B": "should",
+"C": "might",
+"D": "could"
+},
+"answer": "must"
+},
+{
+"question": "Excuse me. Could you tell me how much ............................ , please?",
+"options": {
+"A": "are these jeans",
+"B": "these jeans are"
+},
+"answer": "these jeans are"
+},
+{
+"question": "Can you let me know what time ............................ ?",
+"options": {
+"A": "does the train arrive",
+"B": "the train arrives"
+},
+"answer": "the train arrives"
+},
+{
+"question": "Do you know if ............................ at seven o'clock?",
+"options": {
+"A": "the show starts",
+"B": "does the show start"
+},
+"answer": "the show starts"
+},
+{
+"question": "I wonder if you could tell me what ............................ .",
+"options": {
+"A": "is the difference",
+"B": "the difference is"
+},
+"answer": "the difference is"
+},
+{
+"question": "I wonder if you know who ............................ ask.",
+"options": {
+"A": "I should",
+"B": "should I"
+},
+"answer": "I should"
+},
+{
+"question": "You should ............................ me you were going to be late!",
+"options": {
+"A": "tell",
+"B": "have told",
+"C": "to tell",
+"D": "to have told"
+},
+"answer": "have told"
+},
+{
+"question": "The football match ............................ have finished by now. It started over four hours ago!",
+"options": {
+"A": "must",
+"B": "ought",
+"C": "can't",
+"D": "wouldn't"
+},
+"answer": "must"
+},
+{
+"question": "I wonder if you know where ............................ ",
+"options": {
+"A": "is the post office?",
+"B": "is the post office.",
+"C": "the post office is?",
+"D": "the post office is."
+},
+"answer": "the post office is."
+},
+{
+"question": "You don't eat meat, ............................ you?",
+"options": {
+"A": "are",
+"B": "eat",
+"C": "have",
+"D": "do"
+},
+"answer": "do"
+},
+{
+"question": "Let's see what's on at the cinema, ............................ ?",
+"options": {
+"A": "do we",
+"B": "shall us",
+"C": "shall we",
+"D": "let us"
+},
+"answer": "shall we"
+},
+{
+"question": "She ............................ have bought the tickets today, but I can't be sure.",
+"options": {
+"A": "must",
+"B": "might",
+"C": "can't",
+"D": "shouldn't"
+},
+"answer": "might"
+},
+{
+"question": "Could you tell us ............................ ",
+"options": {
+"A": "when you were born?",
+"B": "when you were born.",
+"C": "when were you born?",
+"D": "when were you born."
+},
+"answer": "when you were born?"
+},
+{
+"question": "I'm sleeping in Jim's room tonight, ............................ I?",
+"options": {
+"A": "am not",
+"B": "don't",
+"C": "aren't",
+"D": "isn't"
+},
+"answer": "aren't"
+},
+{
+"question": "Bob joined the ............................ about six years ago.",
+"options": {
+"A": "ambition",
+"B": "fame",
+"C": "pension",
+"D": "company"
+},
+"answer": "company"
+},
+{
+"question": "We lost £10 million last year because of the workers' ............................ over money.",
+"options": {
+"A": "strike",
+"B": "department",
+"C": "colleague",
+"D": "tax"
+},
+"answer": "strike"
+},
+{
+"question": "I'm sure it's good to be well known, but ............................ isn't everything.",
+"options": {
+"A": "boss",
+"B": "interview",
+"C": "fame",
+"D": "poverty"
+},
+"answer": "fame"
+},
+{
+"question": "Don't sign the ............................ until you've read every word of it!",
+"options": {
+"A": "industry",
+"B": "contract",
+"C": "staff",
+"D": "profession"
+},
+"answer": "contract"
+},
+{
+"question": "My grandfather stopped working two years ago and now he gets a ............................ .",
+"options": {
+"A": "pressure",
+"B": "leader",
+"C": "pension",
+"D": "department"
+},
+"answer": "pension"
+},
+{
+"question": "Charles worked in the same job for almost the whole of his ............................ .",
+"options": {
+"A": "colleague",
+"B": "manager",
+"C": "industry",
+"D": "career"
+},
+"answer": "career"
+},
+{
+"question": "You should be able to save a little money with a/an ............................ of €30,000 per year.",
+"options": {
+"A": "application",
+"B": "income",
+"C": "leader",
+"D": "goal"
+},
+"answer": "income"
+},
+{
+"question": "Can I introduce you to Isaac, a ............................ of mine from work?",
+"options": {
+"A": "profession",
+"B": "department",
+"C": "colleague",
+"D": "salary"
+},
+"answer": "colleague"
+},
+{
+"question": "This job is much ............................ than the last one!",
+"options": {
+"A": "hard",
+"B": "hardest",
+"C": "harder",
+"D": "more hard"
+},
+"answer": "harder"
+},
+{
+"question": "Charlotte earns ............................ much money that she can't spend it all!",
+"options": {
+"A": "such",
+"B": "enough",
+"C": "too",
+"D": "so"
+},
+"answer": "so"
+},
+{
+"question": "We have to work much longer each day ............................ in my old job.",
+"options": {
+"A": "from",
+"B": "that",
+"C": "with",
+"D": "than"
+},
+"answer": "than"
+},
+{
+"question": "I called as soon as I saw the job advert, but it was ............................ late.",
+"options": {
+"A": "enough",
+"B": "such",
+"C": "too",
+"D": "so"
+},
+"answer": "too"
+},
+{
+"question": "What's the ............................ job you've ever had?",
+"options": {
+"A": "most good",
+"B": "best",
+"C": "better",
+"D": "good"
+},
+"answer": "best"
+},
+{
+"question": "The office is ............................ a long way that I have to catch two buses.",
+"options": {
+"A": "too",
+"B": "such",
+"C": "enough",
+"D": "so"
+},
+"answer": "such"
+},
+{
+"question": "Ray works as an artist and doesn't earn ............................ to pay his bills each month.",
+"options": {
+"A": "too",
+"B": "enough",
+"C": "so",
+"D": "such"
+},
+"answer": "enough"
+},
+{
+"question": "Our company is moving into a ............................ building next week.",
+"options": {
+"A": "larger",
+"B": "largest",
+"C": "more large",
+"D": "most large"
+},
+"answer": "larger"
+},
+{
+"question": "Anita works really hard and ............................ to be paid more.",
+"options": {
+"A": "worth",
+"B": "values",
+"C": "deserves",
+"D": "requires"
+},
+"answer": "deserves"
+},
+{
+"question": "It takes me about half an hour to get ready ............................ work each morning.",
+"options": {
+"A": "for",
+"B": "on",
+"C": "about",
+"D": "with"
+},
+"answer": "for"
+},
+{
+"question": "I'm going to stay at university and try to ............................ off getting a job for a few years!",
+"options": {
+"A": "stay",
+"B": "put",
+"C": "move",
+"D": "set"
+},
+"answer": "put"
+},
+{
+"question": "May I introduce you to my ............................ ?",
+"options": {
+"A": "worker",
+"B": "staff",
+"C": "relation",
+"D": "colleague"
+},
+"answer": "colleague"
+},
+{
+"question": "My main ............................ is to become a lawyer.",
+"options": {
+"A": "purpose",
+"B": "emotion",
+"C": "ambition",
+"D": "want"
+},
+"answer": "ambition"
+},
+{
+"question": "During the job ............................ they asked me lots of really difficult questions.",
+"options": {
+"A": "chat",
+"B": "talk",
+"C": "conversation",
+"D": "interview"
+},
+"answer": "interview"
+},
+{
+"question": "World Industries is planning to ............................ over our business.",
+"options": {
+"A": "get",
+"B": "take",
+"C": "move",
+"D": "set"
+},
+"answer": "take"
+},
+{
+"question": "Our teachers are ............................ strike, so we don't have to go to school today!",
+"options": {
+"A": "for",
+"B": "in",
+"C": "out",
+"D": "on"
+},
+"answer": "on"
+},
+{
+"question": "“I'm a big fan of U2,” Derek said. Derek said he ............................ a big fan of U2.",
+"options": {
+"A": "was",
+"B": "has been",
+"C": "had been"
+},
+"answer": "was"
+},
+{
+"question": "“We're watching TV,” said the twins. The twins said they ............................ TV.",
+"options": {
+"A": "watched",
+"B": "were watching",
+"C": "had watched"
+},
+"answer": "were watching"
+},
+{
+"question": "“You've been annoying me all day!” my mum said. My mum said I ............................ her all day.",
+"options": {
+"A": "annoyed",
+"B": "was annoying",
+"C": "had been annoying"
+},
+"answer": "had been annoying"
+},
+{
+"question": "“The dog ate my homework!” said Ivan. Ivan said the dog ............................ his homework.",
+"options": {
+"A": "was eating",
+"B": "had eaten",
+"C": "has eaten"
+},
+"answer": "had eaten"
+},
+{
+"question": "“At one o'clock, I was having lunch,” said Molly. Molly said she ............................ lunch at one o'clock.",
+"options": {
+"A": "had been having",
+"B": "has had",
+"C": "is having"
+},
+"answer": "had been having"
+},
+{
+"question": "“You'll get wet without an umbrella,” Dad said. Dad said I ............................ wet without an umbrella.",
+"options": {
+"A": "will be getting",
+"B": "got",
+"C": "would get"
+},
+"answer": "would get"
+},
+{
+"question": "“He can juggle five balls!” said Angie. Angie said he ............................ five balls.",
+"options": {
+"A": "juggled",
+"B": "would juggle",
+"C": "could juggle"
+},
+"answer": "could juggle"
+},
+{
+"question": "“You must give me your essays,” Mrs Vine said. Mrs Vine said we ............................ give her our essays.",
+"options": {
+"A": "were having to",
+"B": "had to",
+"C": "would have to"
+},
+"answer": "had to"
+},
+{
+"question": "I wish I ............................ an MP3 player.",
+"options": {
+"A": "have",
+"B": "had",
+"C": "would have"
+},
+"answer": "had"
+},
+{
+"question": "We all wish Tim ............................ with the housework.",
+"options": {
+"A": "helps",
+"B": "will help",
+"C": "would help"
+},
+"answer": "would help"
+},
+{
+"question": "I wish I ............................ to buy a lottery ticket last night.",
+"options": {
+"A": "remember",
+"B": "remembered",
+"C": "had remembered"
+},
+"answer": "had remembered"
+},
+{
+"question": "I wish you ............................ live so far away.",
+"options": {
+"A": "don't",
+"B": "didn't",
+"C": "won't"
+},
+"answer": "didn't"
+},
+{
+"question": "I wish they ............................ keep changing the time of this programme.",
+"options": {
+"A": "couldn't",
+"B": "wouldn't",
+"C": "don't"
+},
+"answer": "wouldn't"
+},
+{
+"question": "Do you wish you ............................ to help Michael in the shop last weekend?",
+"options": {
+"A": "hadn't offered",
+"B": "didn't offer",
+"C": "haven't offered"
+},
+"answer": "hadn't offered"
+},
+{
+"question": "I want ............................ me what's wrong, but she won't.",
+"options": {
+"A": "Lisa to tell",
+"B": "to tell Lisa",
+"C": "Lisa telling",
+"D": "Lisa to telling"
+},
+"answer": "Lisa to tell"
+},
+{
+"question": "Matt hates people who tell lies and ............................ do I.",
+"options": {
+"A": "nor",
+"B": "so",
+"C": "neither",
+"D": "both"
+},
+"answer": "so"
+},
+{
+"question": "I feel like ............................ out tonight. What about you?",
+"options": {
+"A": "to go",
+"B": "going",
+"C": "we go",
+"D": "to going"
+},
+"answer": "going"
+},
+{
+"question": "Jane and I listened to Guy's explanation, but ............................ of us believed him.",
+"options": {
+"A": "both",
+"B": "either",
+"C": "none",
+"D": "neither"
+},
+"answer": "neither"
+},
+{
+"question": "Do you remember ............................ excited the first time you went on a train?",
+"options": {
+"A": "to feel",
+"B": "you feel",
+"C": "to feeling",
+"D": "feeling"
+},
+"answer": "feeling"
+},
+{
+"question": "You need to either ask Neil to apologise ............................ forget it.",
+"options": {
+"A": "or",
+"B": "both",
+"C": "either",
+"D": "nor"
+},
+"answer": "or"
+},
+{
+"question": "Be quiet and let me ............................ you how I feel!",
+"options": {
+"A": "telling",
+"B": "to tell",
+"C": "tell",
+"D": "to telling"
+},
+"answer": "tell"
+},
+{
+"question": "I'm really looking forward ............................ you next week.",
+"options": {
+"A": "to see",
+"B": "to seeing",
+"C": "seeing",
+"D": "see"
+},
+"answer": "to seeing"
+},
+{
+"question": "I was quite nervous ............................ starting at a new school, but it was okay.",
+"options": {
+"A": "on",
+"B": "about",
+"C": "with",
+"D": "in"
+},
+"answer": "about"
+},
+{
+"question": "The newspapers congratulated the writer ............................ producing a very funny show.",
+"options": {
+"A": "with",
+"B": "for",
+"C": "on",
+"D": "of"
+},
+"answer": "on"
+},
+{
+"question": "Oscar and Pauline met ............................ secret to discuss the surprise party.",
+"options": {
+"A": "in",
+"B": "with",
+"C": "at",
+"D": "on"
+},
+"answer": "in"
+},
+{
+"question": "Are you scared ............................ snakes?",
+"options": {
+"A": "with",
+"B": "on",
+"C": "for",
+"D": "of"
+},
+"answer": "of"
+},
+{
+"question": "Isaac ............................ us a really funny joke, but I can't remember it!",
+"options": {
+"A": "said",
+"B": "told",
+"C": "spoke",
+"D": "mentioned"
+},
+"answer": "told"
+},
+{
+"question": "You should be ashamed ............................ yourself!",
+"options": {
+"A": "with",
+"B": "on",
+"C": "of",
+"D": "in"
+},
+"answer": "of"
+},
+{
+"question": "It's important to have a sense of ............................ or it's easy to get depressed.",
+"options": {
+"A": "laughter",
+"B": "amusement",
+"C": "comedy",
+"D": "humour"
+},
+"answer": "humour"
+},
+{
+"question": "Marina was ............................ tears after the lesson, so I asked her what was wrong.",
+"options": {
+"A": "to",
+"B": "on",
+"C": "at",
+"D": "in"
+},
+"answer": "in"
+},
+  {
+    "question": "He tried to deny ............................ the money, but no one believed him.",
+    "options": {
+      "A": "take",
+      "B": "to take",
+      "C": "taking"
+    },
+    "answer": "taking"
+  },
+  {
+    "question": "I hope ............................ a pilot when I grow up.",
+    "options": {
+      "A": "become",
+      "B": "to become",
+      "C": "becoming"
+    },
+    "answer": "to become"
+  },
+  {
+    "question": "Mr Foster has decided ............................, so we're going to have a party.",
+    "options": {
+      "A": "retire",
+      "B": "to retire",
+      "C": "retiring"
+    },
+    "answer": "to retire"
+  },
+  {
+    "question": "Do you remember ............................ to Germany when you were two years old?",
+    "options": {
+      "A": "go",
+      "B": "to go",
+      "C": "going"
+    },
+    "answer": "going"
+  },
+  {
+    "question": "You can make the dog ............................ to you by shouting 'come'.",
+    "options": {
+      "A": "come",
+      "B": "to come",
+      "C": "coming"
+    },
+    "answer": "come"
+  },
+  {
+    "question": "There's no answer at the office. Let's try ............................ Roger's mobile.",
+    "options": {
+      "A": "call",
+      "B": "to call",
+      "C": "calling"
+    },
+    "answer": "calling"
+  },
+  {
+    "question": "............................ it was expensive, the CD wasn't very good quality.",
+    "options": {
+      "A": "Although",
+      "B": "In spite of",
+      "C": "However"
+    },
+    "answer": "Although"
+  },
+  {
+    "question": "............................ being expensive, the CD wasn't very good quality.",
+    "options": {
+      "A": "Although",
+      "B": "In spite of",
+      "C": "However"
+    },
+    "answer": "In spite of"
+  },
+  {
+    "question": "............................ the cost, the CD wasn't very good quality.",
+    "options": {
+      "A": "Although",
+      "B": "In spite of",
+      "C": "However"
+    },
+    "answer": "In spite of"
+  },
+  {
+    "question": "The CD was expensive. ............................, it wasn't very good quality.",
+    "options": {
+      "A": "Although",
+      "B": "In spite of",
+      "C": "However"
+    },
+    "answer": "However"
+  },
+  {
+    "question": "The CD was expensive. It wasn't very good quality, ............................",
+    "options": {
+      "A": "although",
+      "B": "despite",
+      "C": "however"
+    },
+    "answer": "however"
+  },
+  {
+    "question": "The CD wasn't very good quality, ............................ being expensive.",
+    "options": {
+      "A": "although",
+      "B": "despite",
+      "C": "however"
+    },
+    "answer": "despite"
+  },
+  {
+    "question": "The CD wasn't very good quality, ............................ it was expensive.",
+    "options": {
+      "A": "although",
+      "B": "in spite of",
+      "C": "however"
+    },
+    "answer": "although"
+  },
+  {
+    "question": "The CD wasn't very good quality, ............................ the cost.",
+    "options": {
+      "A": "although",
+      "B": "despite",
+      "C": "however"
+    },
+    "answer": "despite"
+  },
+  {
+    "question": "What's the best way to deal ............................ a disobedient child?",
+    "options": {
+      "A": "for",
+      "B": "with",
+      "C": "about"
+    },
+    "answer": "with"
+  },
+  {
+    "question": "I'd definitely advise ............................ getting a snake for a pet.",
+    "options": {
+      "A": "against",
+      "B": "from",
+      "C": "without"
+    },
+    "answer": "against"
+  },
+  {
+    "question": "I don't know what the solution ............................ this problem is.",
+    "options": {
+      "A": "about",
+      "B": "for",
+      "C": "to"
+    },
+    "answer": "to"
+  },
+  {
+    "question": "Our teacher insists ............................ us waiting in silence outside the class before the lesson.",
+    "options": {
+      "A": "for",
+      "B": "on",
+      "C": "about"
+    },
+    "answer": "on"
+  },
+  {
+    "question": "The advantage ............................ having brothers and sisters is that you get more birthday presents!",
+    "options": {
+      "A": "of",
+      "B": "from",
+      "C": "for"
+    },
+    "answer": "of"
+  },
+  {
+    "question": "You can't hide the truth ............................ me!",
+    "options": {
+      "A": "across",
+      "B": "against",
+      "C": "from"
+    },
+    "answer": "from"
+  },
+  {
+    "question": "I'm not old enough to ............................ in this election.",
+    "options": {
+      "A": "commit",
+      "B": "protest",
+      "C": "vote",
+      "D": "admit"
+    },
+    "answer": "vote"
+  },
+  {
+    "question": "Is it really your ............................ to be a professional footballer?",
+    "options": {
+      "A": "application",
+      "B": "profession",
+      "C": "ambition",
+      "D": "contract"
+    },
+    "answer": "ambition"
+  },
+  {
+    "question": "What we eat ............................ how much energy we have during the day.",
+    "options": {
+      "A": "balances",
+      "B": "contains",
+      "C": "benefits",
+      "D": "affects"
+    },
+    "answer": "affects"
+  },
+  {
+    "question": "These jeans are too ............................ . I think I need a bigger pair.",
+    "options": {
+      "A": "tight",
+      "B": "loose",
+      "C": "rough",
+      "D": "smooth"
+    },
+    "answer": "tight"
+  },
+  {
+    "question": "Britain's ............................ is fairly mild - it's never very hot or very cold.",
+    "options": {
+      "A": "forecast",
+      "B": "climate",
+      "C": "environment",
+      "D": "heatwave"
+    },
+    "answer": "climate"
+  },
+  {
+    "question": "I fell over in front of everyone at lunch. It was so ............................ !",
+    "options": {
+      "A": "embarrassing",
+      "B": "naughty",
+      "C": "romantic",
+      "D": "depressed"
+    },
+    "answer": "embarrassing"
+  },
+  {
+    "question": "I asked Jim to help me with the project, but he ............................ .",
+    "options": {
+      "A": "doubted",
+      "B": "denied",
+      "C": "refused",
+      "D": "warned"
+    },
+    "answer": "refused"
+  },
+  {
+    "question": "Jeanne, ............................ us that joke about the guy who knocks on the door.",
+    "options": {
+      "A": "say",
+      "B": "speak",
+      "C": "make",
+      "D": "tell"
+    },
+    "answer": "tell"
+  },
+  {
+    "question": "I'm going to have a part in the play, ............................ I?",
+    "options": {
+      "A": "am not",
+      "B": "don't",
+      "C": "haven't",
+      "D": "aren't"
+    },
+    "answer": "aren't"
+  },
+  {
+    "question": "Sophie ............................ have been ill today because she didn't come to school.",
+    "options": {
+      "A": "can't",
+      "B": "should",
+      "C": "must",
+      "D": "would"
+    },
+    "answer": "must"
+  },
+  {
+    "question": "I'm ............................ to go on holiday on my own! I'm nineteen!",
+    "options": {
+      "A": "so old",
+      "B": "such an old",
+      "C": "too old",
+      "D": "old enough"
+    },
+    "answer": "old enough"
+  },
+  {
+    "question": "My MP3 player is better ............................ yours!",
+    "options": {
+      "A": "from",
+      "B": "to",
+      "C": "than",
+      "D": "that"
+    },
+    "answer": "than"
+  },
+  {
+    "question": "If you ............................ helped me, I would never have finished on time.",
+    "options": {
+      "A": "hadn't",
+      "B": "haven't",
+      "C": "don't",
+      "D": "wouldn't"
+    },
+    "answer": "hadn't"
+  },
+  {
+    "question": "Carol asked me if you ............................ the film.",
+    "options": {
+      "A": "already see",
+      "B": "had already seen",
+      "C": "already saw",
+      "D": "has already seen"
+    },
+    "answer": "had already seen"
+  },
+  {
+    "question": "I wish you ............................ be quiet for five minutes!",
+    "options": {
+      "A": "must",
+      "B": "would",
+      "C": "can",
+      "D": "should"
+    },
+    "answer": "would"
+  },
+  {
+    "question": "We were made ............................ up all the mess we'd made.",
+    "options": {
+      "A": "clear",
+      "B": "to clear",
+      "C": "clearing",
+      "D": "cleared"
+    },
+    "answer": "to clear"
+  },
+  {
+    "question": "I like basketball, but I ............................ volleyball.",
+    "options": {
+      "A": "prefer",
+      "B": "have preferred",
+      "C": "am preferring",
+      "D": "had preferred"
+    },
+    "answer": "prefer"
+  },
+  {
+    "question": "We won the match because we ............................ hard the week before.",
+    "options": {
+      "A": "have practised",
+      "B": "practise",
+      "C": "had been practising",
+      "D": "have been practising"
+    },
+    "answer": "had been practising"
+  },
+  {
+    "question": "Shirley ............................ to speak Russian before she met Ivan.",
+    "options": {
+      "A": "use not",
+      "B": "hasn't used",
+      "C": "wasn't used",
+      "D": "didn't use"
+    },
+    "answer": "didn't use"
+  },
+  {
+    "question": "I don't think Adam ............................ what the coach told us.",
+    "options": {
+      "A": "was understanding",
+      "B": "has been understanding",
+      "C": "understood",
+      "D": "had been understanding"
+    },
+    "answer": "understood"
+  },
+  {
+    "question": "Before the exam, I ............................ everything – except the questions they asked!",
+    "options": {
+      "A": "had studied",
+      "B": "study",
+      "C": "have studied",
+      "D": "was studying"
+    },
+    "answer": "had studied"
+  },
+  {
+    "question": "You look worried. ............................ about what happened last night?",
+    "options": {
+      "A": "Do you think",
+      "B": "Are you thinking",
+      "C": "You think",
+      "D": "You are thinking"
+    },
+    "answer": "Are you thinking"
+  },
+  {
+    "question": "When you rang, I ............................ my geography homework.",
+    "options": {
+      "A": "did",
+      "B": "was doing",
+      "C": "have done",
+      "D": "have been doing"
+    },
+    "answer": "was doing"
+  },
+  {
+    "question": "Ivor ............................ cricket for long, but he's already quite good at it.",
+    "options": {
+      "A": "isn't playing",
+      "B": "hasn't been playing",
+      "C": "doesn't play",
+      "D": "didn't play"
+    },
+    "answer": "hasn't been playing"
+  },
+  {
+    "question": "My younger sister is really ............................ , and I'm sure she'll go to university when she's older.",
+    "options": {
+      "A": "mental",
+      "B": "expert",
+      "C": "clever",
+      "D": "entertaining"
+    },
+    "answer": "clever"
+  },
+  {
+    "question": "You should ............................ sure you've answered all the questions on the exam paper.",
+    "options": {
+      "A": "do",
+      "B": "have",
+      "C": "take",
+      "D": "make"
+    },
+    "answer": "make"
+  },
+  {
+    "question": "Have you ............................ studying astronomy at university?",
+    "options": {
+      "A": "considered",
+      "B": "guessed",
+      "C": "thought",
+      "D": "wondered"
+    },
+    "answer": "considered"
+  },
+  {
+    "question": "Collecting stamps gives me a lot of ............................ and helps me to relax.",
+    "options": {
+      "A": "qualification",
+      "B": "instruction",
+      "C": "rhythm",
+      "D": "pleasure"
+    },
+    "answer": "pleasure"
+  },
+  {
+    "question": "Have you always been keen ............................ motorbikes?",
+    "options": {
+      "A": "for",
+      "B": "on",
+      "C": "with",
+      "D": "in"
+    },
+    "answer": "on"
+  },
+  {
+    "question": "............................ conclusion, I would say that having a pet has many advantages.",
+    "options": {
+      "A": "For",
+      "B": "On",
+      "C": "In",
+      "D": "By"
+    },
+    "answer": "In"
+  },
+  {
+    "question": "I ............................ a lot of fun at your party. When are you having another one?",
+    "options": {
+      "A": "took",
+      "B": "got",
+      "C": "made",
+      "D": "had"
+    },
+    "answer": "had"
+  },
+  {
+    "question": "When he was at university, my dad did a ............................ in maths.",
+    "options": {
+      "A": "study",
+      "B": "subject",
+      "C": "degree",
+      "D": "mark"
+    },
+    "answer": "degree"
+  },
+  {
+    "question": "I've only got a ............................ money left, so we'll have to be careful what we buy.",
+    "options": {
+      "A": "few",
+      "B": "little",
+      "C": "much",
+      "D": "many"
+    },
+    "answer": "little"
+  },
+  {
+    "question": "The money ............................ you lent me was really useful. Thanks!",
+    "options": {
+      "A": "that",
+      "B": "where",
+      "C": "who",
+      "D": "whose"
+    },
+    "answer": "that"
+  },
+  {
+    "question": "Do you have ............................ advice for someone who wants to become an inventor?",
+    "options": {
+      "A": "any",
+      "B": "an",
+      "C": "few",
+      "D": "piece"
+    },
+    "answer": "any"
+  },
+  {
+    "question": "Is this radio ............................ ?",
+    "options": {
+      "A": "you",
+      "B": "you're",
+      "C": "your",
+      "D": "yours"
+    },
+    "answer": "yours"
+  },
+  {
+    "question": "There's ............................ of paper in the drawer.",
+    "options": {
+      "A": "A lot",
+      "B": "lots",
+      "C": "a lots",
+      "D": "some lot"
+    },
+    "answer": "lots"
+  },
+  {
+    "question": "I invented a new electric toothbrush all by ............................ !",
+    "options": {
+      "A": "itself",
+      "B": "themselves",
+      "C": "himself",
+      "D": "myself"
+    },
+    "answer": "myself"
+  },
+  {
+    "question": "That's the girl ............................ grandfather helped to develop the Internet.",
+    "options": {
+      "A": "which",
+      "B": "that",
+      "C": "whose",
+      "D": "who"
+    },
+    "answer": "whose"
+  },
+  {
+    "question": "Crossword puzzles, ............................ became popular in the 1930s, were invented in 1913.",
+    "options": {
+      "A": "that",
+      "B": "whose",
+      "C": "who",
+      "D": "which"
+    },
+    "answer": "which"
+  },
+  {
+    "question": "Did you know that the antibiotic penicillin was discovered ............................ chance?",
+    "options": {
+      "A": "from",
+      "B": "for",
+      "C": "with",
+      "D": "by"
+    },
+    "answer": "by"
+  },
+  {
+    "question": "My dad is worried because he ............................ a lot of money to the bank.",
+    "options": {
+      "A": "lacks",
+      "B": "costs",
+      "C": "owes",
+      "D": "purchases"
+    },
+    "answer": "owes"
+  },
+  {
+    "question": "I wanted to buy a drink, but the machine was out of ............................ .",
+    "options": {
+      "A": "work",
+      "B": "order",
+      "C": "position",
+      "D": "operation"
+    },
+    "answer": "order"
+  },
+  {
+    "question": "Try ............................ the program again on another computer and see what happens.",
+    "options": {
+      "A": "going",
+      "B": "making",
+      "C": "working",
+      "D": "running"
+    },
+    "answer": "running"
+  },
+  {
+    "question": "Did you see that the house next door is ............................ sale?",
+    "options": {
+      "A": "with",
+      "B": "for",
+      "C": "at",
+      "D": "in"
+    },
+    "answer": "for"
+  },
+  {
+    "question": "Spend a ............................ amount of just €20 and get a free digital clock!",
+    "options": {
+      "A": "least",
+      "B": "lowest",
+      "C": "minimum",
+      "D": "cheapest"
+    },
+    "answer": "minimum"
+  },
+  {
+    "question": "Do you think we'll all have flying cars ............................ the future?",
+    "options": {
+      "A": "on",
+      "B": "at",
+      "C": "to",
+      "D": "in"
+    },
+    "answer": "in"
+  },
+  {
+    "question": "The Phillipsons won a ............................ on the lottery!",
+    "options": {
+      "A": "fortune",
+      "B": "profit",
+      "C": "bargain",
+      "D": "fee"
+    },
+    "answer": "fortune"
+  },
+  {
+    "question": "Thankfully, the train arrived on ............................ .",
+    "options": {
+      "A": "platform",
+      "B": "board",
+      "C": "coach",
+      "D": "schedule"
+    },
+    "answer": "schedule"
+  },
+  {
+    "question": "Dogs are very ............................ pets.",
+    "options": {
+      "A": "loyal",
+      "B": "single",
+      "C": "foreign",
+      "D": "generous"
+    },
+    "answer": "loyal"
+  },
+  {
+    "question": "Have you ............................ the tickets yet?",
+    "options": {
+      "A": "broken",
+      "B": "booked",
+      "C": "caught",
+      "D": "rented"
+    },
+    "answer": "booked"
+  },
+  {
+    "question": "I must remember to ............................ my suitcase tonight.",
+    "options": {
+      "A": "pack",
+      "B": "take off",
+      "C": "cancel",
+      "D": "crash"
+    },
+    "answer": "pack"
+  },
+  {
+    "question": "I'm really ............................ for all your help.",
+    "options": {
+      "A": "loving",
+      "B": "confident",
+      "C": "patient",
+      "D": "grateful"
+    },
+    "answer": "grateful"
+  },
+  {
+    "question": "He'll carry our ............................ up to the hotel room.",
+    "options": {
+      "A": "passport",
+      "B": "traffic",
+      "C": "luggage",
+      "D": "destination"
+    },
+    "answer": "luggage"
+  },
+  {
+    "question": "Andy and I have ............................ out again, so we're not talking to each other.",
+    "options": {
+      "A": "fallen",
+      "B": "hit",
+      "C": "dropped",
+      "D": "picked"
+    },
+    "answer": "fallen"
+  },
+  {
+    "question": "Don't get ............................ the car yet – I'm still parking.",
+    "options": {
+      "A": "out",
+      "B": "off",
+      "C": "out of",
+      "D": "out from"
+    },
+    "answer": "out of"
+  },
+  {
+    "question": "Have you ever been stung ............................ a bee?",
+    "options": {
+      "A": "with",
+      "B": "from",
+      "C": "by",
+      "D": "at"
+    },
+    "answer": "by"
+  },
+  {
+    "question": "When I'm older, ............................ a famous writer!",
+    "options": {
+      "A": "I'm being",
+      "B": "I be",
+      "C": "I'm going to be",
+      "D": "I will to be"
+    },
+    "answer": "I'm going to be"
+  },
+  {
+    "question": "The passengers weren't ............................ that the ferry was delayed.",
+    "options": {
+      "A": "telling",
+      "B": "to tell",
+      "C": "told",
+      "D": "tell"
+    },
+    "answer": "told"
+  },
+  {
+    "question": "Your passport ............................ returned to you tomorrow morning.",
+    "options": {
+      "A": "has been",
+      "B": "will be",
+      "C": "is",
+      "D": "is being"
+    },
+    "answer": "will be"
+  },
+  {
+    "question": "Look at the photo ............................ page 24!",
+    "options": {
+      "A": "in",
+      "B": "on",
+      "C": "at",
+      "D": "to"
+    },
+    "answer": "on"
+  },
+  {
+    "question": "I'll see you ............................ half past eight.",
+    "options": {
+      "A": "in",
+      "B": "on",
+      "C": "at",
+      "D": "to"
+    },
+    "answer": "at"
+  },
+  {
+    "question": "How ............................ for?",
+    "options": {
+      "A": "the room was paid",
+      "B": "was paid the room",
+      "C": "was the room paid",
+      "D": "the room paid"
+    },
+    "answer": "was the room paid"
+  },
+  {
+    "question": "............................ all those bags with you tomorrow?",
+    "options": {
+      "A": "You take",
+      "B": "Are you taking",
+      "C": "Do you take",
+      "D": "You are taking"
+    },
+    "answer": "Are you taking"
+  },
+  {
+    "question": "Jacques speaks with a French ............................ .",
+    "options": {
+      "A": "announcement",
+      "B": "accent",
+      "C": "channel",
+      "D": "broadcast"
+    },
+    "answer": "accent"
+  },
+  {
+    "question": "How do you ............................ the word 'brought' in English?",
+    "options": {
+      "A": "whisper",
+      "B": "announce",
+      "C": "swear",
+      "D": "pronounce"
+    },
+    "answer": "pronounce"
+  },
+  {
+    "question": "Local residents are ............................ about the park being closed.",
+    "options": {
+      "A": "protesting",
+      "B": "committing",
+      "C": "arresting",
+      "D": "linking"
+    },
+    "answer": "protesting"
+  },
+  {
+    "question": "Don't blame Carl ............................ being late. It wasn't his fault.",
+    "options": {
+      "A": "on",
+      "B": "in",
+      "C": "for",
+      "D": "with"
+    },
+    "answer": "for"
+  },
+  {
+    "question": "We're collecting money for a local ............................ . Could you spare a couple of euros?",
+    "options": {
+      "A": "tradition",
+      "B": "culture",
+      "C": "situation",
+      "D": "charity"
+    },
+    "answer": "charity"
+  },
+  {
+    "question": "The bank in the high street was ............................ again yesterday.",
+    "options": {
+      "A": "stolen",
+      "B": "broken",
+      "C": "robbed",
+      "D": "taken"
+    },
+    "answer": "robbed"
+  },
+  {
+    "question": "I only glanced ............................ his face, so I can't really remember what he looks like.",
+    "options": {
+      "A": "to",
+      "B": "at",
+      "C": "on",
+      "D": "by"
+    },
+    "answer": "at"
+  },
+  {
+    "question": "If something is illegal, it's against the ............................ .",
+    "options": {
+      "A": "law",
+      "B": "society",
+      "C": "government",
+      "D": "rule"
+    },
+    "answer": "law"
+  },
+  {
+    "question": "Will lives quite near here, ............................ he?",
+    "options": {
+      "A": "don't",
+      "B": "lives not",
+      "C": "doesn't",
+      "D": "isn't"
+    },
+    "answer": "doesn't"
+  },
+  {
+    "question": "Do you think she should ............................ for this job?",
+    "options": {
+      "A": "to apply",
+      "B": "applies",
+      "C": "applying",
+      "D": "apply"
+    },
+    "answer": "apply"
+  },
+  {
+    "question": "You ............................ help me, but you can if you want to.",
+    "options": {
+      "A": "don't have to",
+      "B": "didn't need to",
+      "C": "mustn't",
+      "D": "haven't to"
+    },
+    "answer": "don't have to"
+  },
+  {
+    "question": "Excuse me, I wonder if you could tell me if ............................ .",
+    "options": {
+      "A": "is there a bank near here?",
+      "B": "there is a bank near here.",
+      "C": "is there a bank near here.",
+      "D": "there is a bank near here?"
+    },
+    "answer": "there is a bank near here."
+  },
+  {
+    "question": "You shouldn't have ............................ to James about what I told you. It was a secret!",
+    "options": {
+      "A": "speak",
+      "B": "spoke",
+      "C": "to speak",
+      "D": "spoken"
+    },
+    "answer": "spoken"
+  },
+  {
+    "question": "That ............................ the end of the lesson already! We've only just started, haven't we?",
+    "options": {
+      "A": "mustn't be",
+      "B": "can't be",
+      "C": "mustn't have been",
+      "D": "didn't have to be"
+    },
+    "answer": "can't be"
+  },
+  {
+    "question": "We ............................ go to the cinema tonight, but it depends on what they're showing.",
+    "options": {
+      "A": "will",
+      "B": "might",
+      "C": "should",
+      "D": "can"
+    },
+    "answer": "might"
+  },
+  {
+    "question": "I ............................ apologise when I broke my mum's favourite vase.",
+    "options": {
+      "A": "had to",
+      "B": "ought to",
+      "C": "must",
+      "D": "could"
+    },
+    "answer": "had to"
+  },
+  {
+    "question": "If you see a doctor, he or she ............................ you what's wrong with you.",
+    "options": {
+      "A": "would tell",
+      "B": "will tell",
+      "C": "has told",
+      "D": "is telling"
+    },
+    "answer": "will tell"
+  },
+  {
+    "question": "If you exercise more, you ............................ weight.",
+    "options": {
+      "A": "would lose",
+      "B": "have lost",
+      "C": "had lost",
+      "D": "will lose"
+    },
+    "answer": "will lose"
+  },
+  {
+    "question": "If you hadn't had a good interview, you ............................ the job.",
+    "options": {
+      "A": "won't have got",
+      "B": "wouldn't have got",
+      "C": "haven't got",
+      "D": "didn't get"
+    },
+    "answer": "wouldn't have got"
+  },
+  {
+    "question": "If you don't eat fruit and vegetables, your body ............................ the vitamins it needs.",
+    "options": {
+      "A": "doesn't get",
+      "B": "wouldn't get",
+      "C": "didn't get",
+      "D": "hadn't got"
+    },
+    "answer": "doesn't get"
+  },
+  {
+    "question": "You wouldn't have got ill if you ............................ to your doctor's advice.",
+    "options": {
+      "A": "were listening",
+      "B": "had listened",
+      "C": "will listen",
+      "D": "have listened"
+    },
+    "answer": "had listened"
+  },
+  {
+    "question": "We ............................ the job sooner if you hadn't wasted time.",
+    "options": {
+      "A": "might have finished",
+      "B": "will finish",
+      "C": "have finished",
+      "D": "finish"
+    },
+    "answer": "might have finished"
+  },
+  {
+    "question": "People ............................ happier if they eat well and get a little exercise.",
+    "options": {
+      "A": "would be",
+      "B": "are",
+      "C": "were",
+      "D": "would have been"
+    },
+    "answer": "are"
+  },
+  {
+    "question": "If you had worn a coat, you ............................ a cold.",
+    "options": {
+      "A": "didn't catch",
+      "B": "hadn't caught",
+      "C": "wouldn't have caught",
+      "D": "don't catch"
+    },
+    "answer": "wouldn't have caught"
+  },
+  {
+    "question": "Eating well helps your body fight ............................ disease and illness.",
+    "options": {
+      "A": "for",
+      "B": "against",
+      "C": "to",
+      "D": "at"
+    },
+    "answer": "against"
+  },
+  {
+    "question": "I can't eat peanuts because I'm allergic ............................ them.",
+    "options": {
+      "A": "with",
+      "B": "on",
+      "C": "at",
+      "D": "to"
+    },
+    "answer": "to"
+  },
+  {
+    "question": "I don't have a job ............................ the moment.",
+    "options": {
+      "A": "in",
+      "B": "at",
+      "C": "on",
+      "D": "of"
+    },
+    "answer": "at"
+  },
+  {
+    "question": "Bill is completely fed ............................ with his job and is thinking of leaving.",
+    "options": {
+      "A": "up",
+      "B": "over",
+      "C": "out",
+      "D": "off"
+    },
+    "answer": "up"
+  },
+  {
+    "question": "Do you think they will find a/an ............................ for all diseases one day?",
+    "options": {
+      "A": "benefit",
+      "B": "operation",
+      "C": "cure",
+      "D": "balance"
+    },
+    "answer": "cure"
+  },
+  {
+    "question": "It took Vanessa a long time to recover ............................ her illness.",
+    "options": {
+      "A": "for",
+      "B": "off",
+      "C": "over",
+      "D": "from"
+    },
+    "answer": "from"
+  },
+  {
+    "question": "Mr Williams travels a lot ............................ business.",
+    "options": {
+      "A": "in",
+      "B": "at",
+      "C": "on",
+      "D": "from"
+    },
+    "answer": "on"
+  },
+  {
+    "question": "I had a cold and couldn't sleep ............................ night.",
+    "options": {
+      "A": "on",
+      "B": "in",
+      "C": "at",
+      "D": "for"
+    },
+    "answer": "at"
+  },
+  {
+    "question": "Tony asked ............................ to go to the cinema with him.",
+    "options": {
+      "A": "me do I want",
+      "B": "if wanted I",
+      "C": "me if I wanted",
+      "D": "if did I want"
+    },
+    "answer": "me if I wanted"
+  },
+  {
+    "question": "Why did you lend ............................ ?",
+    "options": {
+      "A": "my jacket to Angela",
+      "B": "to Angela my jacket",
+      "C": "my jacket Angela",
+      "D": "Angela to my jacket"
+    },
+    "answer": "my jacket to Angela"
+  },
+  {
+    "question": "I wish you ............................ here!",
+    "options": {
+      "A": "are",
+      "B": "will be",
+      "C": "were",
+      "D": "to be"
+    },
+    "answer": "were"
+  },
+  {
+    "question": "We all ............................ you get well soon!",
+    "options": {
+      "A": "wish",
+      "B": "hope",
+      "C": "tell",
+      "D": "say"
+    },
+    "answer": "hope"
+  },
+  {
+    "question": "I wish I ............................ Fame Story last night. It's my favourite programme!",
+    "options": {
+      "A": "don't miss",
+      "B": "haven't missed",
+      "C": "didn't miss",
+      "D": "hadn't missed"
+    },
+    "answer": "hadn't missed"
+  },
+  {
+    "question": "You promised ............................ to my birthday party!",
+    "options": {
+      "A": "coming",
+      "B": "to come",
+      "C": "come",
+      "D": "that you come"
+    },
+    "answer": "to come"
+  },
+  {
+    "question": "I told Ed I'd see him the ............................ day.",
+    "options": {
+      "A": "forward",
+      "B": "after",
+      "C": "next",
+      "D": "later"
+    },
+    "answer": "next"
+  },
+  {
+    "question": "Jan said she'd been shopping the day ............................ .",
+    "options": {
+      "A": "before",
+      "B": "yesterday",
+      "C": "ago",
+      "D": "in front"
+    },
+    "answer": "before"
+  },
+  {
+    "question": "Do you really think those high-heeled shoes are ............................ in the jungle?",
+    "options": {
+      "A": "loose",
+      "B": "ancient",
+      "C": "rough",
+      "D": "suitable"
+    },
+    "answer": "suitable"
+  },
+  {
+    "question": "............................ on your jacket if you're cold.",
+    "options": {
+      "A": "Put",
+      "B": "Take",
+      "C": "Get",
+      "D": "Add"
+    },
+    "answer": "Put"
+  },
+  {
+    "question": "There was a sign over the gate saying '............................ OUT'.",
+    "options": {
+      "A": "CLEAR",
+      "B": "CONTINUE",
+      "C": "KEEP",
+      "D": "SET"
+    },
+    "answer": "KEEP"
+  },
+  {
+    "question": "Dinosaurs are ............................ , so there are no dinosaurs alive any more.",
+    "options": {
+      "A": "mild",
+      "B": "extinct",
+      "C": "global",
+      "D": "tight"
+    },
+    "answer": "extinct"
+  },
+  {
+    "question": "There were about twenty people ............................ total at the meeting.",
+    "options": {
+      "A": "on",
+      "B": "at",
+      "C": "in",
+      "D": "with"
+    },
+    "answer": "in"
+  },
+  {
+    "question": "Are you ............................ with Elaine Sharp? She's a young writer from Manchester.",
+    "options": {
+      "A": "common",
+      "B": "known",
+      "C": "heard",
+      "D": "familiar"
+    },
+    "answer": "familiar"
+  },
+  {
+    "question": "............................ up your shoelaces or you might trip over them.",
+    "options": {
+      "A": "Do",
+      "B": "Put",
+      "C": "Make",
+      "D": "Set"
+    },
+    "answer": "Do"
+  },
+  {
+    "question": "We've got to save the rainforests ............................ being destroyed.",
+    "options": {
+      "A": "for",
+      "B": "to",
+      "C": "from",
+      "D": "with"
+    },
+    "answer": "from"
+  },
+  {
+    "question": "............................ me a joke!",
+    "options": {
+      "A": "Tell",
+      "B": "Speak",
+      "C": "Say",
+      "D": "Do"
+    },
+    "answer": "Tell"
+  },
+  {
+    "question": "Ruth has got a great ............................ of humour.",
+    "options": {
+      "A": "emotion",
+      "B": "feeling",
+      "C": "sense",
+      "D": "mood"
+    },
+    "answer": "sense"
+  },
+  {
+    "question": "How did you ............................ when you heard the news?",
+    "options": {
+      "A": "make",
+      "B": "cause",
+      "C": "do",
+      "D": "react"
+    },
+    "answer": "react"
+  },
+  {
+    "question": "I've passed all my exams! Let's ............................ !",
+    "options": {
+      "A": "behave",
+      "B": "praise",
+      "C": "celebrate",
+      "D": "investigate"
+    },
+    "answer": "celebrate"
+  },
+  {
+    "question": "Congratulations ............................ getting into the final!",
+    "options": {
+      "A": "on",
+      "B": "with",
+      "C": "for",
+      "D": "by"
+    },
+    "answer": "on"
+  },
+  {
+    "question": "You'll never ............................ me the world is flat.",
+    "options": {
+      "A": "doubt",
+      "B": "convince",
+      "C": "criticise",
+      "D": "pretend"
+    },
+    "answer": "convince"
+  },
+  {
+    "question": "I was very ............................ when I was little. I was always getting into trouble!",
+    "options": {
+      "A": "bad-tempered",
+      "B": "polite",
+      "C": "depressed",
+      "D": "naughty"
+    },
+    "answer": "naughty"
+  },
+  {
+    "question": "I heard a ............................ that you're having a party. Is it true?",
+    "options": {
+      "A": "rumour",
+      "B": "news",
+      "C": "gossip",
+      "D": "fact"
+    },
+    "answer": "rumour"
+  },
+  {
+    "question": "Simon ............................ stand at the front of the class because he wouldn't stop talking.",
+    "options": {
+      "A": "made to",
+      "B": "was made to",
+      "C": "was made",
+      "D": "has made"
+    },
+    "answer": "was made to"
+  },
+  {
+    "question": "............................ Mum had a cold, she still went to work.",
+    "options": {
+      "A": "Despite",
+      "B": "In spite",
+      "C": "However",
+      "D": "Although"
+    },
+    "answer": "Although"
+  },
+  {
+    "question": "When are you going to ............................ ?",
+    "options": {
+      "A": "get fixed your computer",
+      "B": "get your computer fixed",
+      "C": "have fixed your computer",
+      "D": "have your computer fixing"
+    },
+    "answer": "get your computer fixed"
+  },
+  {
+    "question": "I'll do my homework as soon as I ............................ home.",
+    "options": {
+      "A": "get",
+      "B": "would get",
+      "C": "will get",
+      "D": "got"
+    },
+    "answer": "get"
+  },
+  {
+    "question": "Neither Alec ............................ Rob came to school today.",
+    "options": {
+      "A": "or",
+      "B": "and",
+      "C": "nor",
+      "D": "either"
+    },
+    "answer": "nor"
+  },
+  {
+    "question": "You can't make a snowman ............................ there's some snow!",
+    "options": {
+      "A": "if",
+      "B": "while",
+      "C": "unless",
+      "D": "after"
+    },
+    "answer": "unless"
+  },
+  {
+    "question": "I suggest ............................ pizza this evening.",
+    "options": {
+      "A": "have",
+      "B": "having",
+      "C": "to have",
+      "D": "us to have"
+    },
+    "answer": "having"
+  },
+  {
+    "question": "I passed the exam in spite of ............................ no revision!",
+    "options": {
+      "A": "doing",
+      "B": "I did",
+      "C": "to do",
+      "D": "I had done"
+    },
+    "answer": "doing"
+  }
+]
