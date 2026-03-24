@@ -18,9 +18,8 @@
     "report-statistic": "ts-node src/statistic/report-statistic.ts",
     "test-destination-vocab": "ts-node src/test-destination-vocab.ts",
     "ocr-destination": "ts-node src/ocr-destination-pdf.ts",
-    "extract-choose": "ts-node src/vocab_matching/extract-choose-correct-answer.ts",
-    "extract-match": "ts-node src/vocab_matching/extract-match-to-make-sentences.ts",
-    "export-choose-csv": "ts-node src/vocab_matching/export-choose-correct-to-csv.ts"
+    "extract-matching-to-csv":"ts-node src/vocab_matching/extract-matching-to-csv.ts",
+    "extract-vocab-to-csv":"ts-node src/vocab_matching/extract-vocab-to-csv.ts"
   },
   "keywords": [],
   "author": "",
