@@ -3,187 +3,171 @@ TREE 15
 
 NODE VOCAB
 
-Q1: What is the meaning of: chairman
-A. ngoại trừ
-B. chủ tịch
-C. bộ lạc
-D. phòng thí nghiệm
-Answer: B
-
-Q2: What is the meaning of: script
-A. cửa hàng
-B. tiêu thụ
-C. mãi mãi
-D. kịch bản
-Answer: D
-
-Q3: What is the meaning of: fare
-A. sự thất bại
-B. sơ đồ
-C. về
-D. giá vé
-Answer: D
-
-Q4: What is the meaning of: commander
-A. chỉ huy
-B. kết quả
-C. mặc dù
-D. chuẩn mực
+Q1: That's the most incredible ............ of art I've ever seen!
+A. work
+B. job
+C. creation
+D. brand
 Answer: A
 
-Q5: What is the meaning of: suffer
-A. hối tiếc
-B. chịu đựng
-C. sự trung thực
-D. sâu bọ
-Answer: B
+Q2: Actually, I............. a cup of tea first thing every morning but then I switch to coffee.
+A. do drink
+B. have been drinking
+C. have drunk
+D. am drinking
+Answer: A
 
-Q6: What is the meaning of: detect
-A. không thích
-B. di truyền
-C. âm lượng
-D. phát hiện
-Answer: D
-
-Q7: What is the meaning of: ashamed
-A. thiếu
-B. phù hợp
-C. xấu hổ
-D. đường
+Q3: Hello? Yes, I'd like to ............ an appointment for tomorrow with Dr Fletcher, please.
+A. do
+B. form
+C. make
+D. break
 Answer: C
 
-Q8: What is the meaning of: robbery
-A. cướp
-B. liên bang
-C. thời trang
-D. cuối cùng
+Q4: If our flight is delayed, will we ............ our connection in Los Angeles?
+A. lack
+B. lose
+C. drop
+D. miss
+Answer: D
+
+Q5: David seems to have found a new ............ of friends.
+A. group
+B. team
+C. company
+D. audience
 Answer: A
 
-Q9: What is the meaning of: port
-A. phía trước
-B. cảng
-C. thị giác
-D. sai lầm
-Answer: B
+Q6: Time ............ so quickly when you're doing something enjoyable.
+A. passes
+B. takes
+C. finds
+D. spends
+Answer: A
 
-Q10: What is the meaning of: shine
-A. tế bào
-B. trận đánh
-C. duy trì
-D. chiếu sáng
+Q7: 'What did they say when they realised you weren't a shoplifter?' 'They apologised ............ me.'
+A. to doubt
+B. they had doubted
+C. for doubting
+D. the doubt of
+Answer: C
+
+Q8: Suppose we ............ we could go and live on another planet. Would you want to go?
+A. to hear
+B. having heard
+C. hearing
+D. heard
 Answer: D
+
+Q9: When my parents got divorced, my best friend was very ............ and listened to all my problems.
+A. likeable
+B. amusing
+C. sympathetic
+D. enjoyable
+Answer: C
+
+Q10: They mentioned it in the article but they didn't ............ into detail.
+A. come
+B. go
+C. take
+D. make
+Answer: B
 
 
 
 NODE LISTENING
 
-Q1: Oll , who was married , fell into ___ depressions after he divorced .
-Answer: severe
+Q1: While the cause of the common ___ has been known since only the 1950 s , the disease has been with humanity since ancient times .
+Answer: cold
 
-Q2: The great ___ of large breakers one sees on an ocean beach result from distant winds .
-Answer: majority
+Q2: Lobsters usually ___ slowly by walking on the bottom of the sea floor .
+Answer: move
 
-Q3: The most common type of aspirator is the ___ aspirator .
-Answer: water
+Q3: The 1880 census ___ the population of the United States to be 50,189,209 .
+Answer: found
 
-Q4: On August 10 , a ___ of memorials began peacefully , but some people became outspoken after an evening candlelight vigil .
-Answer: day
+Q4: Perjury is a serious crime because it might be used to take away the power of a court , which can lead to ___ for the wrong person .
+Answer: punishment
 
-Q5: Traditionally , the home of the Emperor was considered the ___ .
-Answer: capital
+Q5: The only time a flying lizard comes to the ground is when a female is ready to ___ her eggs .
+Answer: lay
 
-Q6: In 2007 the club began to ___ floorball .
-Answer: play
+Q6: The number of protons in the nucleus causes its electric ___ .
+Answer: charge
 
-Q7: The bush ___ is found primarily in the coastal regions of south and eastern Australia .
-Answer: rat
+Q7: A knee ___ is where a wrestler strikes their opponent using their knees .
+Answer: strike
 
-Q8: In the late 1800 s , the yoke and ___ became the political symbol of the Spanish socialist party .
-Answer: arrows
+Q8: ___ occurring cadmium is composed of 8 isotopes .
+Answer: naturally
 
-Q9: A fishing port is a port or harbor for ___ and distributing fish .
-Answer: landing
+Q9: The next ___ was the development of procedural languages .
+Answer: advance
 
-Q10: These birds ___ on insects , including those stirred up by cattle .
-Answer: feed
+Q10: A three - point ___ clothesline is where a wrestler lines up in a three - point stance , charges at the opponent and clotheslines them .
+Answer: stance
 
 
 
 NODE SPEAKING
 
-1. Although many turtles spend much of their lives underwater , all turtles and tortoises breathe air , and must surface at regular intervals to refill their lungs .
-2. The train may sometimes experience a rollback after it is launched .
-3. Children between the ages of 6 and 16 must have full-time education .
-4. In 1892 he went to Paris , where he taught singing , and he coached many American and French artists for the operatic stage .
-5. A fully grown adult is about 1.8 m length and weighs 90 -.
-6. It seems likely that the standardization of the script will be greatly influenced by the need to typeset it on computers .
-7. The movie was well - liked by critics and audiences .
-8. Although businesses usually maintain some kind of fax capability , the technology has faced increasing competition from Internet - based alternatives .
-9. The decision whether a person is a refugee or not is most often left to certain government agencies with the host country .
-10. The song received extensive critical recognition .
+1. The Tentative List consists of sites which have been nominated .
+2. A goal of compiler and processor designers is to identify and take advantage of as much ILP as possible .
+3. A train may occasionally experience a rollback following a launch .
+4. The upperside of the wings is black .
+5. Oats are also occasionally used in several different drinks .
+6. Islam also has its own form of Theistic evolution , which says that mainstream scientific analysis of the origin of the universe is supported by the Qur'an .
+7. It is hard to find the shape of the minimal surface bounded by some arbitrary shaped frame using just mathematics .
+8. Tourism was , and continues to be one of the more important economic enterprises for the municipality .
+9. An unusual feature at a water park is ice skating .
+10. The European spadefoot toads are small to large sized frogs .
 
 
 NODE MATCHING
 
-1. contemporary -> đồng thời
-2. speculate -> suy đoán
-3. aside -> ngoài ra
-4. racing -> đua xe
-5. probability -> xác suất
-6. slogan -> khẩu hiệu
-7. mysterious -> bí ẩn
-8. conflict -> xung đột
-9. photography -> nhiếp ảnh
-10. flash -> đèn flash
+1. come (a)round (to) -> be persuaded to change your mind (about)
+2. judge -> someone whose job is to make decisions in a court of law
+3. hooligan -> someone who is noisy or violent in public places
+4. chase after -> follow sb/sth quickly in order to catch them
+5. see through (to) -> continue (or help to continue) to the end of sth unpleasant or difficult
+6. face up to -> accept sth and try to deal with it
+7. Dad thought it might be a good idea to look -> up the train times on the Internet.
+8. I don't know what we're going to live -> on now I've lost my job.
+9. take -> to move or carry someone or something from one place to another
+10. recipe -> a set of instructions for cooking or preparing a particular food
 
 
 NODE REVIEW
 
-1. slogan -> khẩu hiệu
-Q2: What is the meaning of: robbery
-A. cuối cùng
-B. cướp
-C. liên bang
-D. thời trang
-Answer: B
+Q1: Actually, I............. a cup of tea first thing every morning but then I switch to coffee.
+A. have drunk
+B. have been drinking
+C. do drink
+D. am drinking
+Answer: C
 
-Q3: What is the meaning of: suffer
-A. sâu bọ
-B. chịu đựng
-C. sự trung thực
-D. hối tiếc
-Answer: B
+2. Oats are also occasionally used in several different drinks .
+3. chase after -> follow sb/sth quickly in order to catch them
+4. recipe -> a set of instructions for cooking or preparing a particular food
+Q5: The number of protons in the nucleus causes its electric ___ .
+Answer: charge
 
-Q4: Oll , who was married , fell into ___ depressions after he divorced .
-Answer: severe
+Q6: The only time a flying lizard comes to the ground is when a female is ready to ___ her eggs .
+Answer: lay
 
-Q5: What is the meaning of: fare
-A. về
-B. giá vé
-C. sự thất bại
-D. sơ đồ
-Answer: B
+7. hooligan -> someone who is noisy or violent in public places
+Q8: The 1880 census ___ the population of the United States to be 50,189,209 .
+Answer: found
 
-Q6: A fishing port is a port or harbor for ___ and distributing fish .
-Answer: landing
+Q9: A three - point ___ clothesline is where a wrestler lines up in a three - point stance , charges at the opponent and clotheslines them .
+Answer: stance
 
-Q7: What is the meaning of: detect
-A. không thích
-B. phát hiện
-C. di truyền
-D. âm lượng
-Answer: B
-
-8. photography -> nhiếp ảnh
-Q9: What is the meaning of: shine
-A. chiếu sáng
-B. duy trì
-C. trận đánh
-D. tế bào
+Q10: They mentioned it in the article but they didn't ............ into detail.
+A. go
+B. come
+C. take
+D. make
 Answer: A
-
-Q10: The most common type of aspirator is the ___ aspirator .
-Answer: water
 
 
 

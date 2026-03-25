@@ -3,163 +3,167 @@ TREE 25
 
 NODE VOCAB
 
-Q1: What is the meaning of: snooty
-A. quang phổ
-B. khuynh hướng
-C. kiêu căng
-D. người đoạt giải
+Q1: ............................ rare artefacts were they that the museum decided to insure them.
+A. Too
+B. Very
+C. Such
+D. So
 Answer: C
 
-Q2: What is the meaning of: ploy
-A. mưu mẹo
-B. người tố giác
-C. sự trả thù
-D. trung cấp
+Q2: How long ............................ before Val finally turned up?
+A. had you been waiting
+B. have you been waiting
+C. are you waiting
+D. you waited
 Answer: A
 
-Q3: What is the meaning of: terrain
-A. bục vinh danh
-B. thỉnh thoảng
-C. thành thật mà nói
-D. địa hình
+Q3: Our plane tickets never arrived, ............................ in the post.
+A. were lost
+B. having lost
+C. had been lost
+D. having been lost
 Answer: D
 
-Q4: What is the meaning of: spy
-A. gián điệp
-B. sự suy đồi
-C. sự phóng túng
-D. đại sứ quán
-Answer: A
-
-Q5: What is the meaning of: undercurrent
-A. dâm dục
-B. thực thi
-C. thư mục
-D. dòng chảy ngầm
+Q4: Do you wish ............................ a formal complaint?
+A. you to make
+B. you made
+C. making
+D. to make
 Answer: D
 
-Q6: What is the meaning of: opulent
-A. xa hoa
-B. xâm phạm
-C. người cầu kỳ
-D. gián đoạn
+Q5: I get so stressed at work it's hard sometimes to ............................ in the evenings.
+A. undergo
+B. untie
+C. unwind
+D. undo
+Answer: C
+
+Q6: I couldn't believe it when Marcy accused me of ............................ in her relationship with Joe.
+A. interfering
+B. interacting
+C. intercepting
+D. intervening
 Answer: A
 
-Q7: What is the meaning of: halo
-A. sự đau khổ
-B. phong cách
-C. quầng sáng
-D. thời trung cổ
+Q7: Never ............................ complete and utter rubbish!
+A. have I heard so
+B. did I hear so
+C. have I heard such
+D. I heard such
 Answer: C
 
-Q8: What is the meaning of: bravado
-A. người tiên phong
-B. sự dũng cảm
-C. sự giải thoát
-D. di cư
-Answer: B
-
-Q9: What is the meaning of: transient
-A. phô trương
-B. đáng lo ngại
-C. thoáng qua
-D. phần cuối
+Q8: When she suggested ............................ over the weekend, I was so angry that I threatened to quit.
+A. me to working
+B. me to work
+C. me working
+D. me work
 Answer: C
 
-Q10: What is the meaning of: whip
-A. uyên bác
-B. tối hậu thư
-C. tấm chắn
-D. roi da
+Q9: There's no ............................ between Gary and Mark, even though they are brothers.
+A. reflection
+B. correspondence
+C. appearance
+D. resemblance
+Answer: D
+
+Q10: You can't just demand ............................ , you have to earn it.
+A. a respect
+B. the respect
+C. any respect
+D. respect
 Answer: D
 
 
 
 NODE LISTENING
 
-Q1: By the 7th millennium BCE , exceedingly large and organized ___ were found in the region , relying on deep wells for sources of water .
-Answer: settlements
+Q1: The mallard is a ___ - sized waterfowl species that is often slightly heavier than most other dabbling ducks .
+Answer: medium
 
-Q2: However , during the 20th century the ___ deteriorated due to pollution .
-Answer: river
+Q2: If a person still has a ___ , ventricular tachycardia can usually be stopped through cardioversion .
+Answer: pulse
 
-Q3: Nine - banded armadillos are ___ insectivores .
-Answer: mostly
+Q3: The eroded sandstone formation ___ about 75 ft tall and is about 300 ft in circumference .
+Answer: stands
 
-Q4: The five subspecies of the short - beaked echidna are each found in ___ geographical locations .
-Answer: different
+Q4: M 82 has undergone at least one tidal encounter with M 81 resulting in a large amount of ___ being funneled into the galaxy ' s core over the last 200 Myr .
+Answer: gas
 
-Q5: The nipples of nursing ___ naturally make a lubricant to prevent drying , cracking , or infections .
-Answer: mothers
+Q5: The primary flight ___ are intrinsically safe .
+Answer: controls
 
-Q6: This ___ used to be classified as sea cucumbers in the echinoderms .
-Answer: class
+Q6: Hedgehogs are ___ , but gymnures are less so .
+Answer: nocturnal
 
-Q7: The posterior pituitary is actually an ___ of the hypothalamus .
-Answer: extension
+Q7: In the late 1800 s , anarchist naturism appeared as the union of anarchist and naturist ___ .
+Answer: ideas
 
-Q8: Germanicus ' campaign had been taken to avenge the Teutoburg slaughter and also partially in reaction to indications of mutinous ___ amongst his troops .
-Answer: intent
+Q8: The main entrance to the castle is through the western barbican , an exterior ___ in front of the main gate .
+Answer: defence
 
-Q9: Blood ___ from the heart to arteries , which branch and narrow into smaller arteries , and then branch more into capillaries .
-Answer: moves
+Q9: Like all cryptographic keys , ___ keys must be chosen so that they cannot be predicted by an attacker , usually requiring them to be chosen randomly .
+Answer: session
 
-Q10: The mercury inside the tube is ___ and makes these bulbs hazardous waste .
-Answer: toxic
+Q10: Intraspecific competition occurs when ___ of the same species compete for the same resources in an ecosystem .
+Answer: members
 
 
 
 NODE SPEAKING
 
-1. In pre-modern society , the ordeal typically ranked along with the oath and witness accounts as the central means by which to reach a judicial verdict .
-2. Blood flows from the heart through arteries , which branch and narrow into arterioles , and then branch further into capillaries where nutrients and wastes are exchanged .
-3. Pollinators are often visually attracted by the shape and colors of the labellum .
-4. Siboglinid tube worms , which may grow to over 2 m tall in the largest species , often form an important part of the community around a hydrothermal vent .
-5. Some types of chemotherapy are gonadotoxic and may cause infertility .
-6. Corticosteroids , such as dexamethasone and budesonide , have been shown to improve outcomes in children with all severities of croup .
-7. Drug trafficking and illicit drug use is a significant problem in Russia .
-8. The parathyroid glands are two pairs of glands usually positioned behind the left and right lobes of the thyroid .
-9. Astronomers now have evidence there is a supermassive black hole at the center of the galaxy .
-10. As an elliptical galaxy , Messier 49 has the physical form of a radio galaxy , but it only has the radio emission of a normal galaxy .
+1. In the natural sciences , gradualism is a theory that profound change is the product of slow but continuous processes .
+2. Gastrotrichs are eutelic : each species has a genetically fixed number of cells as adults .
+3. He dubbed the relationship between color and salt formation halochromy , of which malachite green is a prime example .
+4. States are divided into counties or county - equivalents , which may be assigned some local governmental authority but are not sovereign .
+5. Trapping headbutts are where a wrestler holds both of the opponent 's arms under their own and hits the opponent with a series of headbutts .
+6. The garrison were auxiliaries , Roman infantry or cavalry units , not parts of Roman legions .
+7. The European spadefoot toads are small - to large-sized frogs , up to 10 cm in length , which are often inconspicuously colored .
+8. Like many deep-sea cephalopods , the vampire squid lacks ink sacs .
+9. Siboglinid tube worms , which may grow to over 2 m tall in the largest species , often form an important part of the community around a hydrothermal vent .
+10. Sclerophyllous plants occur in many parts of the world .
 
 
 NODE MATCHING
 
-1. inception -> sự khởi đầu
-2. reminiscent -> gợi nhớ
-3. to forestall -> để ngăn chặn
-4. preposterous -> vô lý
-5. meditation -> thiền định
-6. evoke -> gợi lên
-7. charm -> sự quyến rũ
-8. vivacious -> sống động
-9. magnanimous -> hào phóng
-10. parody -> nhại lại
+1. crowd around -> move to a particular place at the same time as a lot of other people
+2. get sth off your chest -> talk to someone about something that has been worrying you, so that you feel better about it
+3. press ahead/on (with) -> continue doing something in a determined way, despite difficulties, opposition or interruptions
+4. pass on -> give someone something, for example a message, that someone else has given you
+5. pride of place -> in the place that is most central or important
+6. knee-high to a grasshopper -> very small, because you were very young
+7. stop dead in your tracks -> suddenly stop, for example because you are surprised
+8. touch wood -> used when you have said that you have had good luck in order to prevent bad luck from happening to you
+9. cool down -> become cooler, or make something cooler
+10. talk down to -> talk to someone as if you think they are not as clever or important as you are
 
 
 NODE REVIEW
 
-1. Corticosteroids , such as dexamethasone and budesonide , have been shown to improve outcomes in children with all severities of croup .
-2. preposterous -> vô lý
-Q3: What is the meaning of: terrain
-A. thỉnh thoảng
-B. thành thật mà nói
-C. địa hình
-D. bục vinh danh
-Answer: C
+Q1: The eroded sandstone formation ___ about 75 ft tall and is about 300 ft in circumference .
+Answer: stands
 
-4. inception -> sự khởi đầu
-5. evoke -> gợi lên
-6. Astronomers now have evidence there is a supermassive black hole at the center of the galaxy .
-Q7: What is the meaning of: undercurrent
-A. dòng chảy ngầm
-B. dâm dục
-C. thư mục
-D. thực thi
-Answer: A
+2. press ahead/on (with) -> continue doing something in a determined way, despite difficulties, opposition or interruptions
+Q3: Our plane tickets never arrived, ............................ in the post.
+A. were lost
+B. having lost
+C. had been lost
+D. having been lost
+Answer: D
 
-8. Drug trafficking and illicit drug use is a significant problem in Russia .
-9. Pollinators are often visually attracted by the shape and colors of the labellum .
-10. charm -> sự quyến rũ
+4. Sclerophyllous plants occur in many parts of the world .
+Q5: In the late 1800 s , anarchist naturism appeared as the union of anarchist and naturist ___ .
+Answer: ideas
+
+Q6: The primary flight ___ are intrinsically safe .
+Answer: controls
+
+7. He dubbed the relationship between color and salt formation halochromy , of which malachite green is a prime example .
+8. knee-high to a grasshopper -> very small, because you were very young
+Q9: M 82 has undergone at least one tidal encounter with M 81 resulting in a large amount of ___ being funneled into the galaxy ' s core over the last 200 Myr .
+Answer: gas
+
+Q10: Hedgehogs are ___ , but gymnures are less so .
+Answer: nocturnal
+
 
 

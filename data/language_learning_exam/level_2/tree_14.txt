@@ -3,167 +3,165 @@ TREE 14
 
 NODE VOCAB
 
-Q1: What is the meaning of: housing
-A. mua
-B. tuyệt đối
-C. sâu sắc
-D. nhà ở
-Answer: D
-
-Q2: What is the meaning of: phenomenon
-A. hiện tượng
-B. 2 quảng cáo
-C. tan chảy
-D. không may
-Answer: A
-
-Q3: What is the meaning of: hunger
-A. chạm
-B. ngọn lửa
-C. đóng góp
-D. đói
-Answer: D
-
-Q4: What is the meaning of: construction
-A. đô thị
-B. con gấu
-C. tổ hợp
-D. sự thi công
-Answer: D
-
-Q5: What is the meaning of: brief
-A. Nhưng
-B. phiên bản
-C. ngắn gọn
-D. trên toàn thế giới
+Q1: We were disappointed that ............ of the members came to the youth club party.
+A. a few
+B. little
+C. few
+D. a little
 Answer: C
 
-Q6: What is the meaning of: urgent
-A. đoạn clip
-B. cấp bách
-C. thích nghi
-D. bỏ rơi
+Q2: I never read ............ of films as I don't trust the critics' opinions.
+A. reviews
+B. criticisms
+C. investigations
+D. articles
+Answer: A
+
+Q3: Karate hurt my hands at first, but I finally ............ it in the end.
+A. got used to
+B. was used to
+C. was used
+D. got use to
+Answer: A
+
+Q4: That top doesn't ............ me; it's just not my style.
+A. go with
+B. match
+C. fit
+D. suit
+Answer: D
+
+Q5: Could you tell me ............ ?
+A. where is the manager
+B. about where is the manager
+C. the manager is where
+D. where the manager is
+Answer: D
+
+Q6: Not only ............ my keys, I've lost my wallet, too.
+A. I have lost
+B. are I lost
+C. have I lost
+D. I did lose
+Answer: C
+
+Q7: We really ............ ourselves at the party! Thanks so much for inviting us!
+A. entertained
+B. had fun
+C. enjoyed
+D. occupied
+Answer: C
+
+Q8: In English yesterday, we had a discussion ............ different cultures.
+A. from
+B. for
+C. about
+D. around
+Answer: C
+
+Q9: I ............ have joined a gym but in the end I decided to exercise at home.
+A. must
+B. could
+C. will
+D. may
 Answer: B
 
-Q7: What is the meaning of: artwork
-A. tác phẩm nghệ thuật
-B. quầy hàng
-C. hiếm
-D. liên tục
-Answer: A
-
-Q8: What is the meaning of: silk
-A. lụa
-B. xưng
-C. khối cầu
-D. mô
-Answer: A
-
-Q9: What is the meaning of: curious
-A. tò mò
-B. dễ thương
-C. chấm
-D. Phần kết luận
-Answer: A
-
-Q10: What is the meaning of: flame
-A. ngọn lửa
-B. hình dạng
-C. tìm kiếm
-D. biên lai
-Answer: A
+Q10: In my ............ , freedom of the press must be maintained.
+A. sight
+B. thought
+C. view
+D. mind
+Answer: C
 
 
 
 NODE LISTENING
 
-Q1: The race is unique in that its winner receives a ___ belt rather than a trophy .
-Answer: championship
+Q1: Librarians around the ___ still use the number , especially when identifying books published in the United States .
+Answer: world
 
-Q2: Though often used interchangeably , in biology these ___ have different meanings .
-Answer: words
-
-Q3: Some items of clothing are designed to be worn as ___ , while others such as T - shirts can be used both as underwear and as outer clothing .
-Answer: underwear
-
-Q4: Double ___ also exist ; these have the symbol and raise a note by two semitones , or a whole step .
-Answer: sharps
-
-Q5: ___ have so far made two platinum albums , selling over two million copies around the world .
-Answer: editors
-
-Q6: The climate of Ghana is ___ and there are two main seasons : the wet season and the dry season .
+Q2: ___ Depression Ten - E originated from a tropical wave that moved off the west coast of Africa on August 14 .
 Answer: tropical
 
-Q7: The evolutionary history of scorpions goes back to the Silurian , 430 million ___ ago .
-Answer: years
-
-Q8: There are over 120 species of ___ cuttlefish , in 5 genera .
+Q3: It may be possible to terraform Mars to allow a wide variety of ___ things .
 Answer: living
 
-Q9: Michener wrote that he did not know who his ___ were or exactly when and where he was born .
-Answer: parents
+Q4: It was supposed that he possessed a healing ___ against snakebites .
+Answer: power
 
-Q10: The series remains ___ today .
-Answer: popular
+Q5: Not all virus ___ produce a protective immune response in this way .
+Answer: infections
+
+Q6: ___ rates are higher in some countries in Africa and Asia .
+Answer: infection
+
+Q7: Health care for the homeless is a major public health ___ .
+Answer: challenge
+
+Q8: The largest animals eat ___ , while the smaller ones follow a hierarchy .
+Answer: first
+
+Q9: Heavy rotation or power rotation is a term that applies to a ___ of songs that get the most airplay on a radio station .
+Answer: list
+
+Q10: Following the explosion , police cleared the area and searched for any ___ explosive devices .
+Answer: additional
 
 
 
 NODE SPEAKING
 
-1. In contrast , the procedures of the Diet of Japan have moved away from the British parliamentary model .
-2. Cockatoos are recognizable by the showy crests and curved and strong bills .
-3. The region was known from ancient times for its exceptionally hot springs .
-4. The effectiveness of the measure was questioned , since the video was available not only on YouTube , but also on other sites as part of an Internet phenomenon .
-5. An entity whose income exceeds its expenditure can lend or invest the excess income to help that excess income produce more income in the future .
-6. It is possible to use rounded arithmetic to evaluate the exact value of a function with a discrete domain and range .
-7. Eventually , the caldera cooled , allowing rain and snow to accumulate and form a lake .
-8. Warlimpirrnga paints abstract images of sacred dreaming stories and songs .
-9. Scholars ' rocks can be any color , and contrasting colors are not uncommon .
-10. This technique has long been used to produce flexible metal wire by drawing the material through a series of dies of decreasing size .
+1. The land on which the circuit is located was originally bought in 1926 by property developers who wanted to build housing .
+2. A grenade explosion blew Apiata off the bonnet of his vehicle , where he had been sleeping .
+3. Performance optimizations were made in order to speed up common tasks across all supported iOS devices .
+4. Many electronic paper technologies keep the same text and images indefinitely without electricity .
+5. The small commune formed only industrial and is residential today , the picturesque buildings mixed with modern buildings .
+6. Its main attraction is its ecological diversity .
+7. It flies slowly with its head facing downwards , looking for its main food , the large apple snails .
+8. The story and its main characters attracted little public interest when it first appeared .
+9. Prey includes a wide variety of small to medium-sized mammals and birds .
+10. A mud volcano may be the result of a piercement structure created by a pressurized mud diapir that breaches the Earth 's surface or ocean bottom .
 
 
 NODE MATCHING
 
-1. specialist -> chuyên gia
-2. impatient -> thiếu kiên nhẫn
-3. drag -> lôi kéo
-4. emphasis -> nhấn mạnh
-5. widely -> rộng rãi
-6. entire -> toàn bộ
-7. punish -> trừng phạt
-8. questionnaire -> bảng câu hỏi
-9. mechanic -> thợ cơ khí
-10. odd -> số lẻ
+1. cook (n) -> someone who cooks food, either as their job or for pleasure
+2. blame -> responsibility for an accident, problem or bad situation
+3. right -> something that you are morally or legally allowed to do or have
+4. I used to love basketball, but I've gone -> off team sports lately.
+5. track -> a piece of ground that is used for running or racing
+6. accurate -> correct in every detail and without any mistakes
+7. tabloid -> a newspaper that has small pages and not much serious news
+8. catch on -> understand
+9. pass out -> suddenly become unconscious
+10. finale -> the last part of a performance with the most exciting music and dancing
 
 
 NODE REVIEW
 
-1. Cockatoos are recognizable by the showy crests and curved and strong bills .
-Q2: Double ___ also exist ; these have the symbol and raise a note by two semitones , or a whole step .
-Answer: sharps
+Q1: It may be possible to terraform Mars to allow a wide variety of ___ things .
+Answer: living
 
-3. Eventually , the caldera cooled , allowing rain and snow to accumulate and form a lake .
-Q4: The series remains ___ today .
-Answer: popular
-
-5. punish -> trừng phạt
-Q6: What is the meaning of: flame
-A. tìm kiếm
-B. hình dạng
-C. biên lai
-D. ngọn lửa
-Answer: D
-
-7. emphasis -> nhấn mạnh
-Q8: What is the meaning of: silk
-A. lụa
-B. xưng
-C. khối cầu
-D. mô
+2. The small commune formed only industrial and is residential today , the picturesque buildings mixed with modern buildings .
+Q3: I never read ............ of films as I don't trust the critics' opinions.
+A. reviews
+B. investigations
+C. criticisms
+D. articles
 Answer: A
 
-9. The effectiveness of the measure was questioned , since the video was available not only on YouTube , but also on other sites as part of an Internet phenomenon .
-10. specialist -> chuyên gia
+Q4: ___ rates are higher in some countries in Africa and Asia .
+Answer: infection
+
+Q5: Not all virus ___ produce a protective immune response in this way .
+Answer: infections
+
+Q6: Following the explosion , police cleared the area and searched for any ___ explosive devices .
+Answer: additional
+
+7. The land on which the circuit is located was originally bought in 1926 by property developers who wanted to build housing .
+8. tabloid -> a newspaper that has small pages and not much serious news
+9. I used to love basketball, but I've gone -> off team sports lately.
+10. accurate -> correct in every detail and without any mistakes
 
 

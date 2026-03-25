@@ -3,171 +3,179 @@ TREE 19
 
 NODE VOCAB
 
-Q1: What is the meaning of: neglect
-A. sao nhãng
-B. tạm dừng
-C. xây dựng
-D. tỷ lệ mắc bệnh
+Q1: The kids suggested ............................ a pizza tonight. What do you think?
+A. getting
+B. we'll get
+C. to get
+D. for getting
 Answer: A
 
-Q2: What is the meaning of: thicket
-A. bụi rậm
-B. sự việc
-C. đại biểu
-D. thời trung cổ
-Answer: A
+Q2: ............................ of birds over a city usually predict cold weather.
+A. Herds
+B. Groups
+C. Flocks
+D. Packs
+Answer: C
 
-Q3: What is the meaning of: manor
-A. trang viên
-B. cắt bớt
-C. bão
-D. điểm tham chiếu
-Answer: A
-
-Q4: What is the meaning of: chasm
-A. sự mua lại
-B. tối thiểu
-C. số lượng lớn
-D. hang sâu
-Answer: D
-
-Q5: What is the meaning of: disruption
-A. sự gián đoạn
-B. cái nhìn thoáng qua
-C. khu vực lân cận
-D. kịch tính
-Answer: A
-
-Q6: What is the meaning of: wretched
-A. người phàm
-B. tối đa
-C. cơn thịnh nộ
-D. khốn khổ
-Answer: D
-
-Q7: What is the meaning of: pad
-A. can thiệp
-B. tấm lót
-C. toán học
-D. tâm chấn
+Q3: My younger sister's in ............................ .
+A. a year 7 at the school
+B. year 7 at school
+C. the year 7 at school
+D. the year 7 at the school
 Answer: B
 
-Q8: What is the meaning of: besotted
-A. chính trực
-B. ưu tú
-C. cận biên
-D. say đắm
+Q4: Why don't you have a doctor ............................ at your arm if it's hurting you?
+A. for looking
+B. to look
+C. look
+D. looking
+Answer: C
+
+Q5: We are pleased to inform you that we have decided to ............................ your request for British citizenship.
+A. give
+B. donate
+C. permit
+D. grant
 Answer: D
 
-Q9: What is the meaning of: to exacerbate
-A. làm trầm trọng thêm
-B. lạc quan
-C. thâm hụt
-D. sự độc ác
+Q6: I'd never kill an animal unless it ............................ me first.
+A. attacked
+B. will attack
+C. attacks
+D. has attacked
 Answer: A
 
-Q10: What is the meaning of: denounce
-A. lên án
-B. chủ nghĩa duy lý
-C. kẻ thù không đội trời chung
-D. dị thường
+Q7: You're the first person I've met ............................ political views are more left-wing than mine!
+A. whose
+B. who has
+C. who's
+D. for whom
 Answer: A
+
+Q8: Relations between the two islands have ............................ further recently.
+A. deteriorated
+B. distorted
+C. spoiled
+D. decayed
+Answer: A
+
+Q9: When I was pregnant, I often got a sudden ............................ for tinned sardines.
+A. envy
+B. craving
+C. preference
+D. greed
+Answer: B
+
+Q10: Andrea and Theresa are so different! You couldn't have two more ............................ sisters.
+A. conflicting
+B. contrasting
+C. dislike
+D. distinguished
+Answer: B
 
 
 
 NODE LISTENING
 
-Q1: Because of the lack of ___ characteristics that supportthis group , it is very possible that the subfamily as it is currently recognized could grow bigger .
-Answer: physical
-
-Q2: With advances in medicinal chemistry , most of today ' s antibacterials chemically are ___ of various natural compounds .
-Answer: modifications
-
-Q3: Water turbines are divided into two ___ ; reaction turbines and impulse turbines .
-Answer: groups
-
-Q4: Obsidian can be found in ___ which have experienced rhyolitic eruptions .
-Answer: locations
-
-Q5: Cenote water is often very clear , as the water comes from ___ water infiltrating slowly through the ground .
-Answer: rain
-
-Q6: Particle - antiparticle pairs can annihilate each other if they are in ___ quantum states .
-Answer: appropriate
-
-Q7: Barium oxide is made by ___ barium carbonate .
-Answer: heating
-
-Q8: The ___ of homochirality in the first place is much discussed .
-Answer: origin
-
-Q9: TUTTs sometimes brings a large amount of vertical ___ shear over tropical disturbances in the deep tropics and cyclones and thus hinder their development .
+Q1: TUTTs sometimes brings a large amount of vertical ___ shear over tropical disturbances in the deep tropics and cyclones and thus hinder their development .
 Answer: wind
 
-Q10: Sexual ___ is a process that can only be found in eukaryotes .
-Answer: reproduction
+Q2: Historically , ___ accidents and catastrophes have resulted from microsleep episodes in these circumstances .
+Answer: many
+
+Q3: Both ___ - financial and financial capital accumulation is usually needed for economic growth , since additional production usually requires additional funds to enlarge the scale of production .
+Answer: non
+
+Q4: Some enzymes or enzyme complexes ___ several cofactors .
+Answer: require
+
+Q5: The elytra act as ___ wing - cases for the hind wings underneath , which are used for flying .
+Answer: protective
+
+Q6: Stars get the energy they produce through nuclear fusion of ___ into helium .
+Answer: hydrogen
+
+Q7: The authority of appellate courts to review the decisions of lower courts varies widely from one ___ to another .
+Answer: jurisdiction
+
+Q8: The Master has also been featured in ___ - offs of the series , which are of unclear canonicity and may not take place in the same continuity .
+Answer: spin
+
+Q9: Above the western entrance is the face of the astronomical clock , which was destroyed during the 30 ___ war .
+Answer: year
+
+Q10: Subfamily Nymphicinae Subfamily Calyptorhynchinae : The ___ cockatoos Subfamily Cacatuinae
+Answer: black
 
 
 
 NODE SPEAKING
 
-1. Now , laser engraving machines are being made and even today the mechanical cutting has proven its strength in economical terms and quality .
-2. The Cheer pheasant lacks the color and brilliance of most pheasants .
-3. Upon its grand opening , the armory 's size seemed inadequate for a work force .
-4. Flogging was used to punish convicts in the penal colonies of Australia .
-5. The electron transport chain consists of a spatially separated series of redox reactions in which electrons are transferred from a donor molecule to an acceptor molecule .
-6. There is some sexual dimorphism in this species .
-7. The chloroplasts of glaucophytes are known as' cyanelles ' .
-8. Cofactors can be divided into two types , either inorganic ions , or complex organic molecules called coenzymes .
-9. This form is infrequent except in elementary arithmetic .
-10. Tests tubes are often preferred above beakers when multiple small chemical or biological samples have to be handled and / or stored .
+1. Researchers have also found the effects of illusory superiority in studies into relationship satisfaction .
+2. The electron transport chain consists of a spatially separated series of redox reactions in which electrons are transferred from a donor molecule to an acceptor molecule .
+3. In a simple example , the two bromine atoms in 3 - tert- butyl- trans - 1, 2 - dibromohexane mutarotate by heating .
+4. Older banyan trees are characterized by aerial prop roots that mature into thick , woody trunks , which can become indistinguishable from the primary trunk with age .
+5. A well - known example of natural selection in action is the development of antibiotic resistance in microorganisms .
+6. OF reacts with many metals to yield oxides and fluorides .
+7. The tits are generalist insectivores that consume a wide range of small insects and other invertebrates , particularly small defoliating caterpillars .
+8. With around 10,000 species the Oligochaetes make up about a half of the phylum Annelida .
+9. Lichenometry is a method of dating exposed rock by using the growth of lichen .
+10. The area of study for pollen and spores , including fossils , is called palynology .
 
 
 NODE MATCHING
 
-1. relevance -> sự liên quan
-2. antithesis -> phản đề
-3. inimical -> thù địch
-4. lethargy -> sự uể oải
-5. contemplate -> suy ngẫm
-6. upcoming -> sắp tới
-7. neglect -> sao nhãng
-8. endeavour -> nỗ lực
-9. memorial -> đài tưởng niệm
-10. sophistry -> ngụy biện
+1. If the hire car isn't there when you arrive, -> give us a call and we'll come to pick you up.
+2. speak out -> state your opinion firmly and publicly about something, especially in order to protest against or defend something
+3. get on -> continue doing something
+4. heat up -> make something hot; become hot
+5. live and let live -> used for saying that you should accept other people’s beliefs and way of life, even if they are very different from your own
+6. wind down -> end or finish something gradually; gradually reduce work before stopping completely; relax after a period of excitement or worry
+7. kick yourself -> be very annoyed because you have made a mistake, missed an opportunity, etc
+8. once in a blue moon -> very rarely
+9. Detectives are still trying to piece -> together exactly what happened that evening.
+10. What annoys me is that the man got -> off with just 100 hours' community service.
 
 
 NODE REVIEW
 
-Q1: What is the meaning of: disruption
-A. cái nhìn thoáng qua
-B. khu vực lân cận
-C. kịch tính
-D. sự gián đoạn
+Q1: Both ___ - financial and financial capital accumulation is usually needed for economic growth , since additional production usually requires additional funds to enlarge the scale of production .
+Answer: non
+
+Q2: Stars get the energy they produce through nuclear fusion of ___ into helium .
+Answer: hydrogen
+
+3. get on -> continue doing something
+Q4: Relations between the two islands have ............................ further recently.
+A. decayed
+B. deteriorated
+C. spoiled
+D. distorted
+Answer: B
+
+Q5: I'd never kill an animal unless it ............................ me first.
+A. has attacked
+B. will attack
+C. attacked
+D. attacks
+Answer: C
+
+Q6: Subfamily Nymphicinae Subfamily Calyptorhynchinae : The ___ cockatoos Subfamily Cacatuinae
+Answer: black
+
+7. Researchers have also found the effects of illusory superiority in studies into relationship satisfaction .
+Q8: Historically , ___ accidents and catastrophes have resulted from microsleep episodes in these circumstances .
+Answer: many
+
+Q9: TUTTs sometimes brings a large amount of vertical ___ shear over tropical disturbances in the deep tropics and cyclones and thus hinder their development .
+Answer: wind
+
+Q10: The kids suggested ............................ a pizza tonight. What do you think?
+A. to get
+B. for getting
+C. we'll get
+D. getting
 Answer: D
-
-Q2: What is the meaning of: manor
-A. bão
-B. điểm tham chiếu
-C. trang viên
-D. cắt bớt
-Answer: C
-
-3. lethargy -> sự uể oải
-Q4: What is the meaning of: chasm
-A. số lượng lớn
-B. tối thiểu
-C. hang sâu
-D. sự mua lại
-Answer: C
-
-5. contemplate -> suy ngẫm
-6. upcoming -> sắp tới
-7. Now , laser engraving machines are being made and even today the mechanical cutting has proven its strength in economical terms and quality .
-8. There is some sexual dimorphism in this species .
-9. Tests tubes are often preferred above beakers when multiple small chemical or biological samples have to be handled and / or stored .
-Q10: Obsidian can be found in ___ which have experienced rhyolitic eruptions .
-Answer: locations
 
 
 

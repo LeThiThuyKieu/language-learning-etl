@@ -3,153 +3,175 @@ TREE 8
 
 NODE VOCAB
 
-Q1: What is the meaning of: shy
-A. xấu hổ
-B. kết quả
-C. lắp đặt
-D. khó khăn
-Answer: A
-
-Q2: What is the meaning of: claim
-A. mới nhất
-B. quân đội
-C. tâm thần
-D. khẳng định
-Answer: D
-
-Q3: What is the meaning of: dust
-A. bụi
-B. trái phiếu
-C. tiêu biểu
-D. thuộc về chính trị
-Answer: A
-
-Q4: What is the meaning of: relevant
-A. chấp nhận được
-B. quét
-C. bệnh ung thư
-D. liên quan
-Answer: D
-
-Q5: What is the meaning of: programming
-A. nghèo
-B. phác thảo
-C. sự cam kết
-D. lập trình
-Answer: D
-
-Q6: What is the meaning of: wonder
-A. vị trí
-B. thắc mắc
-C. bông
-D. không thể
-Answer: B
-
-Q7: What is the meaning of: battery
-A. lây lan
-B. đồng nghiệp
-C. chất liệu
-D. ắc quy
-Answer: D
-
-Q8: What is the meaning of: intended
-A. chứa
-B. dự định
-C. khăng khăng
-D. thời gian rảnh rỗi
-Answer: B
-
-Q9: What is the meaning of: suburb
-A. chỉ huy
-B. tan chảy
-C. vùng ngoại ô
-D. cuối cùng
+Q1: He'd been planning to leave the team the .......... time, and hadn't told anyone.
+A. full
+B. total
+C. whole
+D. complete
 Answer: C
 
-Q10: What is the meaning of: treasure
-A. phí
-B. kho báu
-C. bộ đồ
-D. đá
+Q2: When you ............ your destination, your tour guide will meet you at the airport.
+A. achieve
+B. reach
+C. get
+D. arrive
+Answer: B
+
+Q3: I'm going to take the car to the garage as the ............ has been making a funny noise.
+A. device
+B. appliance
+C. engine
+D. machine
+Answer: C
+
+Q4: There's ............ coffee left, if anyone wants some.
+A. a little
+B. little
+C. a few
+D. few
+Answer: A
+
+Q5: Make sure you ............ your homework before you go out.
+A. make
+B. solve
+C. write
+D. do
+Answer: D
+
+Q6: I could spend hours ............ the Internet!
+A. sailing
+B. swimming
+C. diving
+D. surfing
+Answer: D
+
+Q7: Only after doing his chores ............ to go to meet his friends.
+A. was Jason allowed
+B. was allowed Jason
+C. did Jason allow
+D. Jason was allowed
+Answer: A
+
+Q8: I'm in two ............ about whether to go to the wedding or not.
+A. minds
+B. thoughts
+C. heads
+D. brains
+Answer: A
+
+Q9: We'd love to ............ afford to go on a round-the-world cruise.
+A. will have to
+B. have to
+C. be able to
+D. can
+Answer: C
+
+Q10: I know Jane's pretty, but ............ seen someone spend so much time in front of the mirror?
+A. ever have you
+B. have you ever
+C. you have never
+D. do you ever
 Answer: B
 
 
 
 NODE LISTENING
 
-Q1: 52 ___ aftershocks , ranging in size from 4.4 to 6.0 , were recorded within 7 2 hours of the main tremor .
-Answer: big
+Q1: The ___ were abolished per 3 October 2015 .
+Answer: districts
 
-Q2: A striking feature of metabolism is the ___ of the basic metabolic pathways among vastly different species .
-Answer: similarity
+Q2: Eggs are laid singly under old leaves of a ___ plant and are green or grey blue .
+Answer: host
 
-Q3: As of 2010 , the municipality had a ___ population of 11,457 , down from 11,727 as of 2005 .
+Q3: Critics found ___ too easy and cut - scenes dialog too long .
+Answer: battle
+
+Q4: The discovery of the H 5 histone ___ to date back to 1970 ' s .
+Answer: appears
+
+Q5: In 2005 , the municipality had a ___ population of 15,935 .
 Answer: total
 
-Q4: The size of Irish elk antlers is ___ .
-Answer: distinctive
+Q6: Known as One Billion Rising for ___ , the event was held on February 2014 .
+Answer: justice
 
-Q5: The median income for a ___ in the city was $ 28,542 , and the median income for a family was $ 27,500 .
-Answer: household
+Q7: The ___ became famous for its rose garden .
+Answer: property
 
-Q6: The best - known version is the ___ food version , which uses fried chicken .
-Answer: soul
+Q8: Agriculture and commerce with Haiti represent the main ___ activities of this municipality .
+Answer: economic
 
-Q7: American carrier ___ had difficulty locating the target , despite the positions they had been given .
-Answer: aircraft
+Q9: White chocolate , although similar in texture to that of milk and dark chocolate , does not contain any cocoa ___ .
+Answer: solids
 
-Q8: Oxygen is the most common element by ___ on Earth .
-Answer: mass
-
-Q9: Butter cakes are often made by beating the butter and ___ until fluffy .
-Answer: sugar
-
-Q10: The party quickly declined after the 1856 ___ .
-Answer: election
+Q10: The site has pages on ___ and tropes .
+Answer: series
 
 
 
 NODE SPEAKING
 
-1. The colonial intellectual and political leaders in the 1760s and 1770s closely read history to compare governments and their effectiveness of rule .
-2. Most eels prefer to live in the shallowest parts of the ocean .
-3. The best -known method of prey capture is by means of sticky webs .
-4. The building of both bridges was difficult , with both the first and second bridges needing multiple redesigns from multiple architects .
-5. The following table is a list of MPs elected on 5 May 2005 , ordered by constituency .
-6. Spanish athletes have won a total of 132 medals .
-7. The silky sifaka has a variable social structure , and lives in groups of two to nine individuals .
-8. By the 1990s , the Federal government had reversed its views on wolves .
-9. This species probably lived near a freshwater lake , probably hunting for other small creatures that lived in the same habitat .
-10. When the need for a town crier disappeared , the position passed into local folklore .
+1. Plans exist for a cinema , a DIY and a clothing store .
+2. Gram staining is used to determine gram status to classify bacteria broadly .
+3. Fire plays a major role in the ecology of the forest with many plant species needing fire to regenerate .
+4. Traditionally , this dance performed without any instruments .
+5. Each code consists of two parts , separated by a hyphen .
+6. Difficulties arise in tracing the history of design management .
+7. The first goal of treating gout is to reduce the symptoms of an acute attack .
+8. Absolute value may be thought of as the number 's distance from zero on the real number line .
+9. No certain dates can be assigned to this empress 's life or reign .
+10. On each typical episode , a celebrity guest came on the show with a secret .
 
 
 NODE MATCHING
 
-1. risk -> rủi ro
-2. frame -> khung
-3. summarize -> tóm tắt
-4. relieved -> nhẹ nhõm
-5. variation -> sự biến đổi
-6. upwards -> hướng lên trên
-7. magic -> ảo thuật
-8. precisely -> chính xác
-9. excitement -> sự phấn khích
-10. shy -> xấu hổ
+1. orchestra -> a large group of musicians who use many different instruments in order to play mostly classical music
+2. Sharon came -> into some money when her aunt died.
+3. urban -> relating to towns and cities
+4. earth -> the land on which we live
+5. Many people get -> away with serious crimes every day.
+6. drown out -> prevent a sound from being heard by making a louder noise
+7. We took it in -> turns to use the skateboard.
+8. everyday -> very common or completely normal
+9. clothing -> clothes
+10. set in -> start and be likely to continue for a while (for rain, winter, an economic depression, etc)
 
 
 NODE REVIEW
 
-1. The colonial intellectual and political leaders in the 1760s and 1770s closely read history to compare governments and their effectiveness of rule .
-Q2: As of 2010 , the municipality had a ___ population of 11,457 , down from 11,727 as of 2005 .
-Answer: total
+Q1: Known as One Billion Rising for ___ , the event was held on February 2014 .
+Answer: justice
 
-3. The building of both bridges was difficult , with both the first and second bridges needing multiple redesigns from multiple architects .
-4. precisely -> chính xác
-5. risk -> rủi ro
-6. upwards -> hướng lên trên
-7. variation -> sự biến đổi
-8. summarize -> tóm tắt
-9. This species probably lived near a freshwater lake , probably hunting for other small creatures that lived in the same habitat .
-10. Most eels prefer to live in the shallowest parts of the ocean .
+2. orchestra -> a large group of musicians who use many different instruments in order to play mostly classical music
+Q3: There's ............ coffee left, if anyone wants some.
+A. few
+B. a little
+C. a few
+D. little
+Answer: B
+
+4. Each code consists of two parts , separated by a hyphen .
+5. Many people get -> away with serious crimes every day.
+Q6: I'm in two ............ about whether to go to the wedding or not.
+A. brains
+B. heads
+C. thoughts
+D. minds
+Answer: D
+
+Q7: I'm going to take the car to the garage as the ............ has been making a funny noise.
+A. appliance
+B. device
+C. engine
+D. machine
+Answer: C
+
+Q8: The site has pages on ___ and tropes .
+Answer: series
+
+9. No certain dates can be assigned to this empress 's life or reign .
+Q10: Critics found ___ too easy and cut - scenes dialog too long .
+Answer: battle
+
 
 

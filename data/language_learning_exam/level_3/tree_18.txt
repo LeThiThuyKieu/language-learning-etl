@@ -3,163 +3,167 @@ TREE 18
 
 NODE VOCAB
 
-Q1: What is the meaning of: dilemma
-A. vĩnh viễn
-B. mặc định
-C. sự xem xét
-D. tình huống khó xử
+Q1: No sooner ............................ everyone started to gossip about him.
+A. Mike had left than
+B. left Mike when
+C. did Mike leave when
+D. had Mike left than
 Answer: D
 
-Q2: What is the meaning of: petulant
-A. lật đổ
-B. toàn tri
-C. nhượng quyền
-D. cáu kỉnh
-Answer: D
-
-Q3: What is the meaning of: misnomer
-A. tên gọi sai
-B. tổng thống
-C. không đau
-D. để trả đũa
-Answer: A
-
-Q4: What is the meaning of: sojourn
-A. kê đơn
-B. u mê
-C. chuyến đi
-D. tẻ nhạt
+Q2: Old Mrs Duckworth was coming down the road, weighed ............................ with bags of shopping.
+A. off
+B. out
+C. down
+D. on
 Answer: C
 
-Q5: What is the meaning of: presumption
-A. nước hoa
-B. siêng năng
-C. giả định
-D. tập hợp
-Answer: C
-
-Q6: What is the meaning of: fervour
-A. dao động
-B. bất khả sai lầm
-C. âm sắc
-D. nhiệt huyết
-Answer: D
-
-Q7: What is the meaning of: temperance
-A. bậc thang
-B. người ủng hộ
-C. kinh cầu nguyện
-D. sự tiết chế
-Answer: D
-
-Q8: What is the meaning of: senility
-A. sự già yếu
-B. Tuân thủ
-C. thời tiết xấu
-D. quang học
-Answer: A
-
-Q9: What is the meaning of: stopgap
-A. được cho là
-B. giải pháp tạm thời
-C. chỗ
-D. sắc thái
+Q3: Is that the bookshop ............................ they've also got a café?
+A. which
+B. where
+C. whose
+D. with whom
 Answer: B
 
-Q10: What is the meaning of: intelligentsia
-A. ổn định
-B. giả tạo
-C. giới trí thức
-D. thủ công
+Q4: ............................ is measured in cm³ or m³.
+A. Magnitude
+B. Extent
+C. Mass
+D. Volume
+Answer: D
+
+Q5: It would have been a great journey, ............................ we not got lost along the way.
+A. had
+B. would
+C. should
+D. might
+Answer: A
+
+Q6: I ............................ at the exam paper lying on Mr Gregson's desk, but I didn't want to risk it.
+A. can have looked
+B. can look
+C. could look
+D. could have looked
+Answer: D
+
+Q7: What if your cat suddenly ............................ to you right now? How would you react?
+A. had started talking
+B. starts talking
+C. is starting to talk
+D. started talking
+Answer: D
+
+Q8: It turned out that I ............................ have bought Frank a present after all.
+A. oughtn't
+B. mustn't
+C. needn't
+D. mightn't
 Answer: C
+
+Q9: A sudden ............................ of wind blew the letter out of my hand.
+A. grain
+B. speck
+C. flake
+D. gust
+Answer: D
+
+Q10: ............................ find out more about the costs before we make a final decision?
+A. Will I
+B. Shall I
+C. Am I due to
+D. Do I
+Answer: B
 
 
 
 NODE LISTENING
 
-Q1: The symptoms of diphtheria usually begin two to seven ___ after infection .
-Answer: days
+Q1: Some people ___ this is because of paranormal or extraterrestrial beings .
+Answer: think
 
-Q2: Most feathered dinosaurs ___ so far have been coelurosaurs .
-Answer: discovered
-
-Q3: To ensure that the movements of the ___ in the film were believable , the animators took a crash course in fish biology and oceanography .
-Answer: fish
-
-Q4: Since 2002 , subtropical storms have been given names from the same naming sequence as ___ storms .
-Answer: tropical
-
-Q5: When they are ready to ___ , the adults are released from the host , and sperm from the males penetrates the bodies of the females to achieve fertilization .
+Q2: When they are ready to ___ , the adults are released from the host , and sperm from the males penetrates the bodies of the females to achieve fertilization .
 Answer: reproduce
 
-Q6: An algorithm for finding the smallest superpermutation for 6 or more ___ is as of yet unsolved .
-Answer: symbols
+Q3: At room temperature , ethane is a flammable ___ .
+Answer: gas
 
-Q7: However , mitochondrial DNA only reflects the history of ___ in a population .
-Answer: females
+Q4: Those who witnessed the ___ stood in the pouring rain for up to two hours reciting the Rosary .
+Answer: apparition
 
-Q8: Neutrophils are the most abundant white blood ___ , constituting 60 - 70 % of the circulating leukocytes , and including two functionally unequal subpopulations : neutrophil - killers and neutrophil - cagers .
-Answer: cell
+Q5: Many ___ programmes have been run on the C 651 cars , including the past program .
+Answer: experimental
 
-Q9: The designers analyzed IDEA to measure its strength against differential cryptanalysis and concluded that it is immune under certain ___ .
-Answer: assumptions
+Q6: A stream cipher ___ use of a much smaller and more convenient cryptographic key , for example 128 bits keys .
+Answer: makes
 
-Q10: Dated to 3.6 million ___ ag , o they were the oldest known evidence of hominin bipedalism .
-Answer: years
+Q7: Obsidian can be found where ___ silicate eruptions have happened .
+Answer: high
+
+Q8: In 2010 , he came out as ___ , after previously describing himself as bisexual .
+Answer: homosexual
+
+Q9: Most of the finer sort of ___ manuscripts , whether illuminated or not , were written on vellum .
+Answer: medieval
+
+Q10: The hippocampus has a generally similar appearance across the mammals from monotremes such as the echidna to primates such as ___ .
+Answer: humans
 
 
 
 NODE SPEAKING
 
-1. The posterior pituitary is actually an extension of the hypothalamus .
-2. The distinctive horns and the muscular neck may have been used in fighting conspecifics .
-3. Gout is partly genetic , contributing to about 60 % of variability in uric acid level .
-4. Fundamental to the discipline are the sciences of physics and mathematics as these help to obtain both a qualitative and quantitative description of how such systems will work .
-5. Hydrography 's origin lies in the making of chart like drawings and notations made by individual mariners .
-6. A person has chronic Hepatitis C if he has been infected with the Hepatitis C virus for more than six months .
-7. The human vagina is an elastic , muscular canal that extends from the vulva to the cervix .
-8. Hypereutrophic lakes are very nutrient- rich lakes characterized by frequent and severe nuisance algal blooms and low transparency .
-9. The 1880 census determined the resident population of the United States to be 50,189,209 , an increase of 30.2 percent over the 38,555,983 persons enumerated during the 1870 Census .
-10. Modern psychiatric hospitals evolved from , and eventually replaced the older lunatic asylums .
+1. An electric locomotive runs on electricity as the name suggests .
+2. Mast cells are a type of innate immune cell in connective tissue and the mucous membranes .
+3. Cockatoos are recognizable by the prominent crests and curved bills .
+4. Sexual reproduction involves the production of ascospores .
+5. Monocytes which migrate from the bloodstream to the tissues will then differentiate into macrophages or dendritic cells , which then stay in the tissue .
+6. The country 's provinces are further divided into 337 municipalities which are administered by an alcalde and municipal council .
+7. Some clays are thixotropic , and their behavior is of great importance in structural and geotechnical engineering .
+8. Until recently , electroreception was known only in vertebrates .
+9. This is judged to be one of the pivotal battles in the control of Indian subcontinent by the colonial powers .
+10. Limp vellum or limp - parchment bindings were used frequently in the 16th and 17th centuries , and were sometimes gilt but were also often not embellished .
 
 
 NODE MATCHING
 
-1. complacency -> sự tự mãn
-2. uprising -> cuộc nổi dậy
-3. taboo -> điều cấm kỵ
-4. to entail -> bao gồm
-5. temperance -> sự tiết chế
-6. investigator -> điều tra viên
-7. indictment -> cáo trạng
-8. wistfulness -> nỗi nhớ nhung
-9. nepotism -> sự thiên vị
-10. grid -> lưới
+1. I'm going to have to mull this -> over for a while before I make a final decision.
+2. see eye to eye (with sb) -> agree with someone or have the same opinion as them
+3. paper over -> hide a problem or disagreement rather than finding a satisfactory solution to it
+4. talk round -> discuss something in a general way and without dealing with the most important issues
+5. a drop in the ocean -> a very small amount that will not have much effect
+6. blurt out -> say something suddenly and without thinking about the effect it will have, usually because you are nervous or excited
+7. change out of -> take off the clothes or a piece of clothing you are wearing and put on different ones
+8. shout down -> make it difficult to hear what someone says by shouting while they are speaking
+9. warm up -> prepare for a sport or activity by doing gentle exercises or practising just before it starts warm-up (n)
+10. in the dark (about) -> not knowing very much about something, because other people are keeping it secret from you
 
 
 NODE REVIEW
 
-Q1: The designers analyzed IDEA to measure its strength against differential cryptanalysis and concluded that it is immune under certain ___ .
-Answer: assumptions
+Q1: At room temperature , ethane is a flammable ___ .
+Answer: gas
 
-Q2: What is the meaning of: misnomer
-A. để trả đũa
-B. không đau
-C. tổng thống
-D. tên gọi sai
-Answer: D
+Q2: Obsidian can be found where ___ silicate eruptions have happened .
+Answer: high
 
-3. The posterior pituitary is actually an extension of the hypothalamus .
-Q4: The symptoms of diphtheria usually begin two to seven ___ after infection .
-Answer: days
+3. a drop in the ocean -> a very small amount that will not have much effect
+4. in the dark (about) -> not knowing very much about something, because other people are keeping it secret from you
+5. change out of -> take off the clothes or a piece of clothing you are wearing and put on different ones
+Q6: ............................ is measured in cm³ or m³.
+A. Volume
+B. Magnitude
+C. Mass
+D. Extent
+Answer: A
 
-5. The human vagina is an elastic , muscular canal that extends from the vulva to the cervix .
-6. Hydrography 's origin lies in the making of chart like drawings and notations made by individual mariners .
-7. temperance -> sự tiết chế
-Q8: However , mitochondrial DNA only reflects the history of ___ in a population .
-Answer: females
+7. blurt out -> say something suddenly and without thinking about the effect it will have, usually because you are nervous or excited
+8. This is judged to be one of the pivotal battles in the control of Indian subcontinent by the colonial powers .
+Q9: It would have been a great journey, ............................ we not got lost along the way.
+A. had
+B. would
+C. should
+D. might
+Answer: A
 
-9. A person has chronic Hepatitis C if he has been infected with the Hepatitis C virus for more than six months .
-10. wistfulness -> nỗi nhớ nhung
+10. Until recently , electroreception was known only in vertebrates .
 
 

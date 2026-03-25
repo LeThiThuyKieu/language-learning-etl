@@ -3,183 +3,167 @@ TREE 13
 
 NODE VOCAB
 
-Q1: What is the meaning of: rapidly
-A. ống
-B. liên tục
-C. mù
-D. vi khuẩn
+Q1: We ............ pay for the tickets as Josie won them in a competition.
+A. couldn't
+B. didn't have to
+C. hadn't to
+D. mustn't
 Answer: B
 
-Q2: What is the meaning of: dealer
-A. sắc sảo
-B. đàm phán
-C. điểm đến
-D. đại lý
-Answer: D
-
-Q3: What is the meaning of: dump
-A. bãi rác
-B. phân biệt
-C. lều
-D. linh hồn
+Q2: When you arrive ............ , have your passport ready.
+A. at the airport
+B. on the airport
+C. to the airport
+D. in the airport
 Answer: A
 
-Q4: What is the meaning of: hurry
-A. sự vội vàng
-B. sự yếu đuối
-C. chắc chắn
-D. chính xác
-Answer: A
-
-Q5: What is the meaning of: adequate
-A. săn bắn
-B. ca phẫu thuật
-C. cuộc điều tra
-D. đủ
-Answer: D
-
-Q6: What is the meaning of: update
-A. cho dù
-B. miễn nhiệm
-C. tưởng tượng
-D. cập nhật
-Answer: D
-
-Q7: What is the meaning of: evil
-A. độc ác
-B. thì thầm
-C. tranh luận
-D. rõ ràng
-Answer: A
-
-Q8: What is the meaning of: preparation
-A. sữa
-B. sự chuẩn bị
-C. máy thu
-D. B
+Q3: I'd have been able to say goodbye to Trish if only ............ to the airport in time.
+A. I get
+B. I had got
+C. I got
+D. I have got
 Answer: B
 
-Q9: What is the meaning of: tsunami
-A. giống hệt nhau
-B. xấu xí
-C. tính năng
-D. sóng thần
+Q4: I saw the interview while I was ............ through a magazine at the hairdresser's.
+A. clicking
+B. flicking
+C. picking
+D. ticking
+Answer: B
+
+Q5: Oh, I'm sorry! ............ disturbing you?
+A. Am I
+B. Should I
+C. Have I
+D. Do I
+Answer: A
+
+Q6: If you hadn't lost the pieces, we ............ a game of chess.
+A. could have
+B. may have
+C. can't have
+D. couldn't have had
+Answer: A
+
+Q7: Just ............ practice every day and you'll soon be able to play the piano.
+A. few
+B. a few
+C. little
+D. a little
 Answer: D
 
-Q10: What is the meaning of: gesture
-A. thời trang
-B. ngắn gọn
-C. cử chỉ
-D. quá
-Answer: C
+Q8: This fascinating book covers some of the most ............ crimes of the twentieth century.
+A. hidden
+B. infamous
+C. unknown
+D. covered
+Answer: B
+
+Q9: The brochure says that the hotel has a great ............ of the sea.
+A. appearance
+B. sight
+C. look
+D. view
+Answer: D
+
+Q10: .......... your time - don't rush.
+A. Tell
+B. Take
+C. Spend
+D. Find
+Answer: B
 
 
 
 NODE LISTENING
 
-Q1: Although the alligator often moves slowly , it can run very fast for short ___ , especially in very short lunges .
-Answer: times
+Q1: Generally , unblended black teas are named after the ___ in which they are produced .
+Answer: region
 
-Q2: After the gold ___ , the forest slowly began to regrow .
-Answer: rush
+Q2: After many concerts , the band went back to Sweden and began writing songs for their next ___ .
+Answer: album
 
-Q3: Some research suggests an ___ between personality and job satisfaction .
-Answer: association
+Q3: Anatole France start his career as a parnassianism ___ .
+Answer: poet
 
-Q4: Various forms of competition can be referred to by the term ___ .
-Answer: championship
+Q4: Many of the details of the galaxy ___ a mystery , especially how it formed .
+Answer: remain
 
-Q5: A birdbath is an attraction for many different ___ of birds to visit gardens , especially during the summer and drought periods .
-Answer: species
+Q5: Cockatoos are recognizable by the showy crests and ___ and strong bills .
+Answer: curved
 
-Q6: The main rooftop mast supports two FM ___ antennas , and a top - mounted television antenna previously used by WBPX .
-Answer: master
+Q6: Cold seeps ___ over cracks in the seafloor caused by the movement of the Earth ' s crust .
+Answer: occur
 
-Q7: Szeged and ___ area has been inhabited since ancient time .
-Answer: surrounding
+Q7: An entity whose ___ exceeds its expenditure can lend or invest the excess income to help that excess income produce more income in the future .
+Answer: income
 
-Q8: It is most often ___ in pairs or small noisy flocks of up to 10 individuals , but sometimes up to 30 .
-Answer: found
+Q8: During the next ten to eleven hours , the radioactive ___ moved towards the northeast , reaching between 300 and 350 kilometers from the accident .
+Answer: cloud
 
-Q9: A concert tour is a series of concerts by an artist or group of artists in different cities or ___ .
-Answer: locations
+Q9: Spyros Kyprianou died on 12 March 2002 after a long fight with prostate ___ .
+Answer: cancer
 
-Q10: The case remained unsolved and cold for several years , partly due to the ___ of tips pouring in to the police who investigated the crime .
-Answer: volume
+Q10: The important material of a given ___ is often its defining point .
+Answer: era
 
 
 
 NODE SPEAKING
 
-1. The film was released on 19 March 2004 in Spain and 10 September 2004 in Mexico .
-2. Cooling refers to the process of becoming cold , or lowering in temperature .
-3. The greater roadrunner nests on a platform of sticks low in a cactus or a bush and lays three to six eggs , which hatch in 20 days .
-4. The rules currently used for the sport are based on the old rules .
-5. The trophy is in the form of a grandfather clocks .
-6. After boxing , Rose became a successful businessman .
-7. Roads entering the City are narrowed and have small chicanes to force drivers to slow down and be recorded by CCTV cameras .
-8. There are two major highways in the county .
-9. The glaciers crush minerals in the rock as they pass over them .
-10. There are four kinds of exams : These are by far the most commonly taken exams .
+1. Radiation therapy is commonly applied to the cancerous tumor because of its ability to control cell growth .
+2. An Event Cache is a gathering organized and attended by geocachers .
+3. This system is found in most fish , including sharks .
+4. The origin of supermassive black holes remains an open field of research .
+5. Zinc sulfate can be used to add zinc to the soil .
+6. A flounder 's diet consists mainly of fish spawn , crustaceans , polychaetes and small fish .
+7. In 2012 the event was visited by totally 50 700 people , which meant a new record had been broken .
+8. In one experiment , Lavoisier found that there was no increase in mass when tin and air were heated in a closed container .
+9. Greek philosophy is one of the foundations of Western culture .
+10. If the subject still wished to stop after all four successive verbal prods , the experiment was halted .
 
 
 NODE MATCHING
 
-1. likewise -> tương tự
-2. hence -> kể từ đây
-3. strictly -> nghiêm ngặt
-4. cable -> cáp
-5. retire -> về hưu
-6. particularly -> cụ thể
-7. element -> yếu tố
-8. resolution -> nghị quyết
-9. disadvantage -> điều bất lợi
-10. calm -> điềm tĩnh
+1. task -> something that you have to do, often something that is difficult or unpleasant
+2. I'll never forget -> learning that I had the winning ticket.
+3. sympathetic -> willing to understand someone's problems and help them
+4. fare -> the money that you pay for a journey
+5. damaged -> harmed physically
+6. The shop's giving -> away free software with every computer.
+7. occur -> to happen
+8. Cynthia's decided to set -> up a small business producing temporary tattoos.
+9. commentator -> someone whose job is to give a description of an event on television or radio as it happens
+10. true -> based on facts or on things that really happened
 
 
 NODE REVIEW
 
-Q1: What is the meaning of: rapidly
-A. vi khuẩn
-B. ống
-C. mù
-D. liên tục
+Q1: Oh, I'm sorry! ............ disturbing you?
+A. Have I
+B. Do I
+C. Should I
+D. Am I
 Answer: D
 
-Q2: It is most often ___ in pairs or small noisy flocks of up to 10 individuals , but sometimes up to 30 .
-Answer: found
+Q2: During the next ten to eleven hours , the radioactive ___ moved towards the northeast , reaching between 300 and 350 kilometers from the accident .
+Answer: cloud
 
-3. After boxing , Rose became a successful businessman .
-Q4: Szeged and ___ area has been inhabited since ancient time .
-Answer: surrounding
+3. fare -> the money that you pay for a journey
+4. I'll never forget -> learning that I had the winning ticket.
+5. The shop's giving -> away free software with every computer.
+Q6: Many of the details of the galaxy ___ a mystery , especially how it formed .
+Answer: remain
 
-Q5: What is the meaning of: tsunami
-A. tính năng
-B. xấu xí
-C. giống hệt nhau
-D. sóng thần
-Answer: D
+Q7: The important material of a given ___ is often its defining point .
+Answer: era
 
-Q6: The main rooftop mast supports two FM ___ antennas , and a top - mounted television antenna previously used by WBPX .
-Answer: master
+Q8: Cold seeps ___ over cracks in the seafloor caused by the movement of the Earth ' s crust .
+Answer: occur
 
-Q7: What is the meaning of: preparation
-A. sự chuẩn bị
-B. B
-C. sữa
-D. máy thu
-Answer: A
+Q9: An entity whose ___ exceeds its expenditure can lend or invest the excess income to help that excess income produce more income in the future .
+Answer: income
 
-Q8: What is the meaning of: evil
-A. độc ác
-B. tranh luận
-C. rõ ràng
-D. thì thầm
-Answer: A
-
-9. The rules currently used for the sport are based on the old rules .
-Q10: Some research suggests an ___ between personality and job satisfaction .
-Answer: association
-
+10. This system is found in most fish , including sharks .
 
 

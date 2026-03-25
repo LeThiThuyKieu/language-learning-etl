@@ -3,185 +3,173 @@ TREE 12
 
 NODE VOCAB
 
-Q1: What is the meaning of: heel
-A. quan sát
-B. thường xuyên
-C. cú đánh
-D. gót chân
-Answer: D
-
-Q2: What is the meaning of: additionally
-A. có kinh nghiệm
-B. mặt sau
-C. bên trong
-D. thêm vào đó
-Answer: D
-
-Q3: What is the meaning of: election
-A. bầu cử
-B. ôn tập
-C. ca phẫu thuật
-D. mãi mãi
-Answer: A
-
-Q4: What is the meaning of: perspective
-A. thiếu
-B. thiếu niên
-C. ghế
-D. luật xa gần
-Answer: D
-
-Q5: What is the meaning of: dirt
-A. manh mối
-B. nhấp chuột
-C. nhiếp ảnh
-D. đất
-Answer: D
-
-Q6: What is the meaning of: occasionally
-A. không
-B. nhạc kịch
-C. thỉnh thoảng
-D. sản xuất
-Answer: C
-
-Q7: What is the meaning of: balance
-A. mục tiêu
-B. thời gian
-C. yếu tố
-D. THĂNG BẰNG
-Answer: D
-
-Q8: What is the meaning of: disagreement
-A. nhà phân tích
-B. bất đồng
-C. chân thành
-D. ảo ảnh
+Q1: Did you read that ............ of the new Lloyd-Rice musical? It said it was awful!
+A. criticism
+B. review
+C. report
+D. summary
 Answer: B
 
-Q9: What is the meaning of: motion
-A. xích
-B. liên quan
-C. cử động
-D. cạm bẫy
-Answer: C
+Q2: Shona could ............ before she learnt to talk properly!
+A. sing
+B. have to sing
+C. have sung
+D. be singing
+Answer: A
 
-Q10: What is the meaning of: surely
-A. sàn
-B. vô ích
-C. thấp hơn
-D. chắc chắn
+Q3: Hugh was quite worried because he hadn't ............ for the test.
+A. read
+B. studied
+C. examined
+D. learned
+Answer: B
+
+Q4: Anybody found stealing from this shop will be ............ .
+A. prosecuted
+B. persuaded
+C. provoked
+D. persecuted
+Answer: A
+
+Q5: Police blamed the robberies ............ a local gang.
+A. with
+B. on
+C. for
+D. to
+Answer: B
+
+Q6: Do you think you could pass that book ............ to me, please?
+A. over
+B. in
+C. through
+D. under
+Answer: A
+
+Q7: My teeth were a little yellow so I ............ by the dentist.
+A. was cleaned them
+B. have them cleaned
+C. had cleaned them
+D. had them cleaned
 Answer: D
+
+Q8: It was the first time we ............ to a Mexican restaurant.
+A. have been
+B. had been
+C. went
+D. go
+Answer: B
+
+Q9: Being the conductor of a large ............ is an extremely demanding job. You have to make sure about a hundred musicians are playing in time.
+A. company
+B. group
+C. band
+D. orchestra
+Answer: D
+
+Q10: More and more people are living into ............ age and it's a serious social problem.
+A. ancient
+B. high
+C. old
+D. far
+Answer: C
 
 
 
 NODE LISTENING
 
-Q1: The agenda for the summit included some issues which remained unresolved from ___ summits .
-Answer: previous
+Q1: Shuttles were originally passed back and forth by ___ .
+Answer: hand
 
-Q2: A major railway survey in April 1961 was used in the ___ of a government report on the future of the network .
-Answer: writing
+Q2: Saltwater crocodiles ___ in the wet season , when water levels are at their highest .
+Answer: mate
 
-Q3: The first huts and ___ were constructed by hand or with simple tools .
-Answer: shelters
+Q3: The greater roadrunner nests on a platform of ___ low in a cactus or a bush and lays three to six eggs , which hatch in 20 days .
+Answer: sticks
 
-Q4: In 1984 , when Tjapaltjarri was about 25 , he finally came into ___ people from outside his family .
-Answer: contact
+Q4: The idiom is based on the honor shown to ___ in Hinduism .
+Answer: cows
 
-Q5: Computer architecture is the combination of microarchitecture and instruction ___ architecture .
-Answer: set
+Q5: Stotting makes a prey animal more ___ , and uses up time and energy that could be spent on escaping from the predator .
+Answer: visible
 
-Q6: Designers need to take into ___ that color - blindness is highly sensitive to differences in material .
-Answer: account
+Q6: The least skipper can be ___ in damp or wet habitats with tall grasses .
+Answer: found
 
-Q7: Death masks were increasingly used by scientists from the late 18th century onwards to record ___ in human physiognomy .
-Answer: variations
+Q7: When writing ___ amounts the location of the symbol varies by currency .
+Answer: currency
 
-Q8: The city was an important ___ and refueling place for early long distance airplane flights between Europe and Australia in the early twentieth century .
-Answer: landing
+Q8: The tower is situated at the ___ side of the place , where the land walls of the city join the sea walls .
+Answer: southern
 
-Q9: These six ___ were closed by October 1942 .
-Answer: camps
+Q9: In the Gregorian calendar , 303 out of every 400 ___ are common years .
+Answer: years
 
-Q10: His lectures were legendary and frequently used to last for three or four ___ .
-Answer: hours
+Q10: There are two ___ of the anthem : a long and a short one .
+Answer: versions
 
 
 
 NODE SPEAKING
 
-1. The group played together for 55 years , until 1938 .
-2. Water turbines were developed in the 19th century and were widely used for industrial power prior to electrical grids .
-3. The following credits are sourced from liner notes .
-4. Tanzania is divided into 26 Regions .
-5. For most people , the process of smelling gives little information concerning the ingredients of a substance .
-6. Masonry is commonly used for the walls of buildings , retaining walls and monuments .
-7. Japan has had more than one system for designating years .
-8. Bird eggs are a common food and one of the most versatile ingredients used in cooking .
-9. The opposite of multiplication is division .
-10. Color blindness is very sensitive to changes in material .
+1. The temple is famous for the approximately 25,000 black rats that live , and are revered , in the temple .
+2. The idea behind all property law is property .
+3. Urinary tract infections may affect 10 % of people during childhood .
+4. The permanent collection consists of more than 35,000 works of art .
+5. Japan has had more than one system for designating years .
+6. 't Hooft is most famous for his contributions to the development of gauge theories in particle physics .
+7. Some moths are farmed for their economic value .
+8. Since metals are good conductors of electricity , they are valuable in electrical tools and for carrying an electric current over long distances with little energy loss .
+9. The first event on the para-alpine program is the downhill .
+10. In many jurisdictions no formalities are necessary to start an association .
 
 
 NODE MATCHING
 
-1. dirt -> đất
-2. representative -> tiêu biểu
-3. lighting -> ánh sáng
-4. emerge -> xuất hiện
-5. jury -> bồi thẩm đoàn
-6. disagreement -> bất đồng
-7. whisper -> thì thầm
-8. surely -> chắc chắn
-9. minor -> người vị thành niên
-10. rope -> dây thừng
+1. If you could make -> out the cheque to Peardrop Limited, that would be fine.
+2. Andy is -> not old enough to drive a car.
+3. wage(s) -> a regular amount of money that you earn for working
+4. relationship -> the way in which two or more people or groups behave towards each other
+5. I put a lot of effort -> into writing this report.
+6. run over -> hit with a car
+7. menu -> a list of the food that is available in a restaurant
+8. arrive -> to reach a place
+9. hand out -> give things to people in a group
+10. We'd love you to come -> round for dinner sometime.
 
 
 NODE REVIEW
 
-Q1: What is the meaning of: disagreement
-A. bất đồng
-B. ảo ảnh
-C. nhà phân tích
-D. chân thành
+Q1: Do you think you could pass that book ............ to me, please?
+A. under
+B. through
+C. over
+D. in
+Answer: C
+
+Q2: When writing ___ amounts the location of the symbol varies by currency .
+Answer: currency
+
+3. wage(s) -> a regular amount of money that you earn for working
+4. hand out -> give things to people in a group
+Q5: There are two ___ of the anthem : a long and a short one .
+Answer: versions
+
+Q6: Being the conductor of a large ............ is an extremely demanding job. You have to make sure about a hundred musicians are playing in time.
+A. group
+B. band
+C. company
+D. orchestra
+Answer: D
+
+7. The permanent collection consists of more than 35,000 works of art .
+Q8: My teeth were a little yellow so I ............ by the dentist.
+A. had them cleaned
+B. have them cleaned
+C. had cleaned them
+D. was cleaned them
 Answer: A
 
-2. representative -> tiêu biểu
-Q3: In 1984 , when Tjapaltjarri was about 25 , he finally came into ___ people from outside his family .
-Answer: contact
-
-Q4: What is the meaning of: perspective
-A. ghế
-B. luật xa gần
-C. thiếu niên
-D. thiếu
-Answer: B
-
-Q5: What is the meaning of: occasionally
-A. không
-B. sản xuất
-C. nhạc kịch
-D. thỉnh thoảng
-Answer: D
-
-6. emerge -> xuất hiện
-7. surely -> chắc chắn
-Q8: What is the meaning of: surely
-A. thấp hơn
-B. sàn
-C. vô ích
-D. chắc chắn
-Answer: D
-
-Q9: Computer architecture is the combination of microarchitecture and instruction ___ architecture .
-Answer: set
-
-Q10: What is the meaning of: heel
-A. quan sát
-B. thường xuyên
-C. cú đánh
-D. gót chân
-Answer: D
-
+9. We'd love you to come -> round for dinner sometime.
+10. Some moths are farmed for their economic value .
 
 

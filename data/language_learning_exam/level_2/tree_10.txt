@@ -3,181 +3,175 @@ TREE 10
 
 NODE VOCAB
 
-Q1: What is the meaning of: distract
-A. làm xao nhãng
-B. trí tưởng tượng
-C. cú đánh
-D. màu sắc
-Answer: A
-
-Q2: What is the meaning of: rub
-A. xoa bóp
-B. sóng thần
-C. chuyến du lịch
-D. sự tôn trọng
-Answer: A
-
-Q3: What is the meaning of: valuable
-A. Nước
-B. có giá trị lớn
-C. ga-ra
-D. yêu cầu
+Q1: Everyone had ............ a good time when we went bowling that we agreed to go again.
+A. enough
+B. such
+C. so
+D. too
 Answer: B
 
-Q4: What is the meaning of: assure
-A. lực lượng lao động
-B. sắc sảo
-C. nguồn gốc
-D. đảm bảo
-Answer: D
+Q2: I believe that judges should be independent ............ the government.
+A. from
+B. to
+C. with
+D. on
+Answer: A
 
-Q5: What is the meaning of: associated
-A. giảm giá
-B. có liên quan
-C. chức năng
-D. mục tiêu
+Q3: Don't drop your sweet wrapper on the floor, ............ ?
+A. do you
+B. aren't you
+C. will you
+D. won't you
+Answer: C
+
+Q4: The audience showed their ............ by giving the orchestra a standing ovation.
+A. audition
+B. appreciation
+C. review
+D. entertainment
 Answer: B
 
-Q6: What is the meaning of: unlikely
-A. không chắc chắn
-B. tài khoản
-C. riêng biệt
-D. hộ gia đình
-Answer: A
-
-Q7: What is the meaning of: evaluation
-A. chặt
-B. nhà đầu tư
-C. sự đánh giá
-D. quảng cáo
+Q5: I hadn't studied, so when the teacher asked me I had ............ idea.
+A. even
+B. none
+C. no
+D. not
 Answer: C
 
-Q8: What is the meaning of: organizer
-A. chủ yếu
-B. kịch bản
-C. người tổ chức
-D. nhập khẩu
+Q6: We ............ a swimming pool put in this week.
+A. get
+B. are having
+C. have
+D. have got
+Answer: B
+
+Q7: David ............ me to the train station every morning.
+A. goes
+B. makes
+C. takes
+D. has
 Answer: C
 
-Q9: What is the meaning of: ugly
-A. xấu xí
-B. cùng với
-C. cuộc điều tra
-D. thánh
+Q8: 'What do you want to do this summer?' 'I think we should go somewhere ............ has plenty of sun and sand.'
+A. that
+B. when
+C. where
+D. who
 Answer: A
 
-Q10: What is the meaning of: relative
-A. sang trọng
-B. giải đấu
-C. đến
-D. liên quan đến
-Answer: D
+Q9: Researchers have ............ to the conclusion that your personality is affected by your genes.
+A. got
+B. arrived
+C. come
+D. reached
+Answer: C
+
+Q10: 'You look thoughtful.' 'I .......... about our holiday last year.'
+A. was just thinking
+B. just think
+C. had just thought
+D. am just think
+Answer: A
 
 
 
 NODE LISTENING
 
-Q1: ___ seamounts are not yet to be studied , or even mapped .
-Answer: most
+Q1: ___ snakes are commonly kept as pets by reptile enthusiasts .
+Answer: rat
 
-Q2: In the United States , the term lien generally refers to a wide ___ of legal interests .
-Answer: range
+Q2: ___ had long been practiced in Africa .
+Answer: slavery
 
-Q3: Xcelerator will not ___ in the rain so that a shortshot does not happen when the launch track is wet .
-Answer: operate
+Q3: Late in life he suffered from ___ and madness .
+Answer: depression
 
-Q4: India was not affected by the imperial order - in - ___ of 1825 that attempted to introduce the British sterling coinage to the British colonies .
-Answer: council
-
-Q5: The purpose of classification is to protect information from being used to damage or cause danger to national ___ .
-Answer: security
-
-Q6: ___ one has some similar properties as positive one .
+Q4: ___ one has some similar properties as positive one .
 Answer: negative
 
-Q7: His bar code is considered as a ___ key to access areas of the facility where he was created and trained .
-Answer: security
+Q5: It was ruled by a ___ called a Bai or Obai .
+Answer: king
 
-Q8: In 1984 , when he was about 25 , he finally came into ___ people from outside his family .
+Q6: Eight anarchists were convicted of ___ .
+Answer: conspiracy
+
+Q7: Mehr was then nominated by the Prime ___ to serve as the Minister of Finance .
+Answer: minister
+
+Q8: Before ___ with Europeans , the indigenous peoples of North America were divided into many different polities , from small bands of a few families to large empires .
 Answer: contact
 
-Q9: It was supposed that he possessed a spiritual healing power against snake ___ .
-Answer: bites
+Q9: In 1943 , he became assistant director in charge of mechanization and also had ___ for cryptographic liaison with the US .
+Answer: responsibility
 
-Q10: A ___ and handclaps were added on July 16 .
-Answer: harmonium
+Q10: ___ seamounts are not yet to be studied , or even mapped .
+Answer: most
 
 
 
 NODE SPEAKING
 
-1. Barril died in Barcelona , Spain from pneumonia , aged 62 .
-2. The characteristics of this secret or key are determined by the system which uses it ; some system require that such keys be in a specific format .
-3. Three different definitions of the rosids are in use .
-4. The city expanded quickly after the construction of a new wharf in 1931 , followed by its designation as the capital city of the then - French colony in 1933 .
-5. Kalpokas died after following days ill health on 20 March 2019 , at the age of 75 .
-6. The network focuses on supporting peer-directed and open-source projects .
-7. The book has remained in print since its initial publication in 1971 , and has sold over two million copies .
-8. The importation of slaves was made illegal in 1792 and Chinese workers were brought to work in the farms .
-9. The flight test program was hampered by problems with the 747's JT9D engines .
-10. There were 14 surviving kittens in 2008 and 15 in 2009 .
+1. There are many different versions of this song .
+2. The pug finally arrived in the United States during the 19th century and soon became popular there as well .
+3. The supreme court has a president and 8 judges .
+4. A mouse or a rat strain is a group of animals that is genetically uniform .
+5. The history of law is closely connected to the development of human civilizations .
+6. Chemical literature connect structures or properties of chemicals to academic papers or patents related to them .
+7. There were 14 surviving kittens in 2008 and 15 in 2009 .
+8. Other theorems have a known proof that cannot easily be written down .
+9. Dual use technology means to the possibility of military use of civilian nuclear technology for generating electricity .
+10. Blankets may also be used on the ground for a picnic or other places where people want to sit without their clothing getting dirty or wet .
 
 
 NODE MATCHING
 
-1. nerve -> dây thần kinh
-2. reality -> thực tế
-3. glad -> vui mừng
-4. exploration -> khám phá
-5. shadow -> bóng tối
-6. ethical -> đạo đức
-7. convenient -> thuận lợi
-8. seminar -> hội thảo
-9. relative -> liên quan đến
-10. effectively -> có hiệu quả
+1. make for -> go in the direction of
+2. line up -> get/put into lines
+3. grill (v) -> to cook something by putting it close to great heat above or below it
+4. quiz show -> a television or radio programme in which people answer questions in order to win prizes
+5. Mum's trying -> out a new recipe tonight!
+6. bring on -> cause (an illness, etc)
+7. corporal punishment -> punishment that consists of hitting someone
+8. I'm writing an essay and I need to find -> out who discovered penicillin.
+9. put by -> save an amount of money for the future
+10. bulletin -> a short news broadcast
 
 
 NODE REVIEW
 
-Q1: What is the meaning of: distract
-A. làm xao nhãng
-B. cú đánh
-C. trí tưởng tượng
-D. màu sắc
-Answer: A
-
-2. glad -> vui mừng
-3. exploration -> khám phá
-Q4: What is the meaning of: rub
-A. chuyến du lịch
-B. xoa bóp
-C. sự tôn trọng
-D. sóng thần
-Answer: B
-
-Q5: A ___ and handclaps were added on July 16 .
-Answer: harmonium
-
-Q6: India was not affected by the imperial order - in - ___ of 1825 that attempted to introduce the British sterling coinage to the British colonies .
-Answer: council
-
-Q7: What is the meaning of: ugly
-A. cùng với
-B. cuộc điều tra
-C. xấu xí
-D. thánh
+Q1: We ............ a swimming pool put in this week.
+A. have
+B. get
+C. are having
+D. have got
 Answer: C
 
-Q8: ___ seamounts are not yet to be studied , or even mapped .
-Answer: most
+Q2: I hadn't studied, so when the teacher asked me I had ............ idea.
+A. none
+B. not
+C. no
+D. even
+Answer: C
 
-Q9: What is the meaning of: unlikely
-A. không chắc chắn
-B. riêng biệt
-C. hộ gia đình
-D. tài khoản
+3. The pug finally arrived in the United States during the 19th century and soon became popular there as well .
+Q4: It was ruled by a ___ called a Bai or Obai .
+Answer: king
+
+5. Mum's trying -> out a new recipe tonight!
+6. There are many different versions of this song .
+7. I'm writing an essay and I need to find -> out who discovered penicillin.
+Q8: ___ snakes are commonly kept as pets by reptile enthusiasts .
+Answer: rat
+
+Q9: Late in life he suffered from ___ and madness .
+Answer: depression
+
+Q10: 'You look thoughtful.' 'I .......... about our holiday last year.'
+A. was just thinking
+B. am just think
+C. had just thought
+D. just think
 Answer: A
 
-10. The importation of slaves was made illegal in 1792 and Chinese workers were brought to work in the farms .
 
 

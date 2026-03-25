@@ -3,169 +3,166 @@ TREE 3
 
 NODE VOCAB
 
-Q1: What is the meaning of: easily
-A. khóa học
-B. mang
-C. nha sĩ
-D. một cách dễ dàng
+Q1: Jane and I listened to Guy's explanation, but ............................ of us believed him.
+A. both
+B. either
+C. none
+D. neither
 Answer: D
 
-Q2: What is the meaning of: thank
-A. lấy
-B. phòng bếp
-C. mũ
-D. cám ơn
-Answer: D
+Q2: I've decided to become a vegetarian and give ............................ meat.
+A. off
+B. up
+C. out
+Answer: B
 
-Q3: What is the meaning of: right adj
-A. hấp dẫn
-B. chèo
-C. tính từ phải
-D. hoang dã
+Q3: “You've been annoying me all day!” my mum said. My mum said I ............................ her all day.
+A. was annoying
+B. annoyed
+C. had been annoying
 Answer: C
 
-Q4: What is the meaning of: contain
-A. mối quan hệ
-B. Cuối cùng
-C. lãnh đạo
-D. bao gồm
-Answer: D
+Q4: Dinosaurs are ............................ , so there are no dinosaurs alive any more.
+A. mild
+B. global
+C. extinct
+D. tight
+Answer: C
 
-Q5: What is the meaning of: during
-A. trống
-B. chủ thể
-C. bắt đầu
-D. trong lúc
-Answer: D
-
-Q6: What is the meaning of: himself
-A. chính mình
-B. tàu thủy
-C. đáng sợ
-D. Thứ Tư
+Q5: ‘Do you need this paintbrush?’ ‘Ah, yes. ............................ it to me, please?’
+A. Will you pass
+B. Are you passing
+C. Do you pass
 Answer: A
 
-Q7: What is the meaning of: achieve
-A. đạt được
-B. lịch trình
-C. tính từ phải
-D. mười một
-Answer: A
+Q6: If you had worn a coat, you ............................ a cold.
+A. don't catch
+B. wouldn't have caught
+C. hadn't caught
+D. didn't catch
+Answer: B
 
-Q8: What is the meaning of: village
-A. làng bản
-B. ném
-C. nguy hiểm
-D. quảng trường
-Answer: A
+Q7: Jeanne, ............................ us that joke about the guy who knocks on the door.
+A. speak
+B. tell
+C. make
+D. say
+Answer: B
 
-Q9: What is the meaning of: column
-A. nặng
-B. mệt
-C. Bình thường
-D. cột
+Q8: I'm really ............................ for all your help.
+A. loving
+B. confident
+C. patient
+D. grateful
 Answer: D
 
-Q10: What is the meaning of: great
-A. Nước
-B. tái chế
-C. báo cáo
-D. Tuyệt
+Q9: Let's see what's on at the cinema, ............................ ?
+A. let us
+B. do we
+C. shall us
+D. shall we
 Answer: D
+
+Q10: Of course you can have some milk. Get ............................ out of the cupboard.
+A. a glass
+B. glass
+Answer: A
 
 
 
 NODE LISTENING
 
-Q1: Mother was happy to finally get a new ___ after Daisy died .
-Answer: dog
+Q1: Gathering was the ___ of the women and children .
+Answer: job
 
-Q2: She was elected President in ___ 2007 .
-Answer: october
+Q2: The ratio of ___ to width is 5 to 8 .
+Answer: height
 
-Q3: They had seven ___ 40 songs between 1973 and 1976 .
-Answer: top
+Q3: I ___ I knew who broke in to our house .
+Answer: wish
 
-Q4: The ___ production version .
-Answer: first
+Q4: ___ is something I enjoy doing .
+Answer: driving
 
-Q5: She ___ jam on her toast .
-Answer: put
+Q5: The ___ started to play .
+Answer: band
 
-Q6: The four little ones left the United States on 21 ___ 1869 .
-Answer: june
+Q6: Do you have ___ plans ?
+Answer: weekend
 
-Q7: Dufresne died on 14 June 2014 in New York ___ at the age of 78 , from cancer .
-Answer: city
+Q7: It has a ___ of 218 .
+Answer: population
 
-Q8: He ' s got a ___ temper .
-Answer: bad
+Q8: There is a ___ in my sneakers .
+Answer: hole
 
-Q9: Combs can be used for ___ purposes .
-Answer: many
+Q9: He loves his sneakers more than his regular ___ .
+Answer: shoes
 
-Q10: She had to ___ over .
-Answer: start
+Q10: It is easy to understand people who ___ clearly .
+Answer: speak
 
 
 
 NODE SPEAKING
 
-1. The final was held on 24 May 2008 .
-2. In the late 19th century , Westerners knew little about Japan .
-3. The port of the mosque measures 27 meters high .
-4. He has edited and written many books and articles .
-5. I wish I could find that book .
-6. I wish we could tell them .
-7. What a boring teacher !
-8. The game has now spread around the cricket world .
-9. I wish I could tell them good-bye .
-10. Her eyes were closed .
+1. She sat at the table in front of ours .
+2. Have you been doing your homework ?
+3. Three men are running along the riverside .
+4. The building was completed in 1941 , after the start of World War II .
+5. Everyone looked for the missing boys .
+6. I 've spoken with all the parents except for his .
+7. I wish I had some cool water to drink .
+8. These are the friends whose names you know .
+9. I miss my mom .
+10. The food was brought on beautiful plates .
 
 
 NODE MATCHING
 
-1. wine -> rượu
-2. contain -> bao gồm
-3. thank -> cám ơn
-4. dance -> nhảy
-5. thing -> điều
-6. government -> chính phủ
-7. season -> mùa
-8. ice -> đá
-9. column -> cột
-10. normally -> thông thường
+1. skill -> the ability to do something well, usually as a result of experience and training
+2. image -> picture, especially one in a mirror or on a computer, television, or cinema screen
+3. debt -> an amount of money that you owe
+4. flight -> a journey in a plane
+5. independent -> not depending on other people
+6. I missed a few lessons but I'm catching -> up with the rest of the class quite quickly.
+7. chop -> to cut something such as food or wood into pieces
+8. You live in a village, -> don't you?
+9. term -> one of the periods of time that the year is divided into for students
+10. 'The dog is wet. It must be raining outside.' -> I'm almost certain.
 
 
 NODE REVIEW
 
-Q1: Combs can be used for ___ purposes .
-Answer: many
+Q1: I ___ I knew who broke in to our house .
+Answer: wish
 
-Q2: What is the meaning of: great
-A. Nước
-B. Tuyệt
-C. tái chế
-D. báo cáo
-Answer: B
+Q2: The ratio of ___ to width is 5 to 8 .
+Answer: height
 
-Q3: What is the meaning of: column
-A. cột
-B. mệt
-C. Bình thường
-D. nặng
+3. The building was completed in 1941 , after the start of World War II .
+Q4: It is easy to understand people who ___ clearly .
+Answer: speak
+
+5. term -> one of the periods of time that the year is divided into for students
+Q6: I'm really ............................ for all your help.
+A. grateful
+B. patient
+C. confident
+D. loving
 Answer: A
 
-4. In the late 19th century , Westerners knew little about Japan .
-5. thank -> cám ơn
-6. government -> chính phủ
-Q7: She was elected President in ___ 2007 .
-Answer: october
+Q7: He loves his sneakers more than his regular ___ .
+Answer: shoes
 
-8. The game has now spread around the cricket world .
-Q9: Dufresne died on 14 June 2014 in New York ___ at the age of 78 , from cancer .
-Answer: city
+8. skill -> the ability to do something well, usually as a result of experience and training
+Q9: Jeanne, ............................ us that joke about the guy who knocks on the door.
+A. say
+B. speak
+C. tell
+D. make
+Answer: C
 
-10. contain -> bao gồm
+10. independent -> not depending on other people
 
 

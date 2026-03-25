@@ -3,165 +3,163 @@ TREE 20
 
 NODE VOCAB
 
-Q1: What is the meaning of: spam
-A. không đáng ghen tị
-B. rời rạc
-C. thư rác
-D. độ chính xác
+Q1: The ............................ of one winning the lottery is hardly worth even considering.
+A. fortune
+B. likelihood
+C. luck
+D. hazard
+Answer: B
+
+Q2: This time tomorrow, Barry will ............................ across the Pacific for exactly three months.
+A. have been rowing
+B. have rowed
+C. be rowing
+Answer: A
+
+Q3: Mona's going to leave early this afternoon but she says she'll ............................ up the hours tomorrow.
+A. catch
+B. make
+C. bring
+D. find
+Answer: B
+
+Q4: It's high time ............................ rid of this old sofa.
+A. to get
+B. we got
+C. we get
+D. for us to get
+Answer: B
+
+Q5: After what the manager said this morning, I didn't ............................ him about the problems I've been having.
+A. dare telling
+B. dare to telling
+C. dare tell
+D. dare it telling
 Answer: C
 
-Q2: What is the meaning of: platitude
-A. kẻ nịnh hót
-B. lời sáo rỗng
-C. sự cách ly
-D. thận trọng
-Answer: B
+Q6: When we were in Athens, I bought a ............................ statuette.
+A. white, beautiful, marble, little
+B. marble, beautiful, little, white
+C. beautiful, little, white, marble
+D. beautiful, little, marble, white
+Answer: C
 
-Q3: What is the meaning of: to foment
-A. sự chán nản
-B. phép lạ
-C. thu nhập
-D. kích động
+Q7: When we landed, ............................ on the plane for 18 hours!
+A. we are
+B. we were
+C. we've been
+D. we'd been
 Answer: D
 
-Q4: What is the meaning of: presidential
-A. vô hại
-B. tổng thống
-C. sự cuồng tín
-D. thân thiện
-Answer: B
-
-Q5: What is the meaning of: iniquitous
-A. mơ hồ
-B. bất công
-C. dấu vết
-D. khẳng định
-Answer: B
-
-Q6: What is the meaning of: surrogate
-A. để đọc
-B. ra
-C. có hại
-D. người thay thế
+Q8: Has Britain's influence in the world ............................ since the Second World War?
+A. decayed
+B. devastated
+C. worsened
+D. declined
 Answer: D
 
-Q7: What is the meaning of: querulous
-A. hay than van
-B. thân thiện
-C. thần đồng
-D. trang trọng
-Answer: A
-
-Q8: What is the meaning of: activist
-A. nhiệt huyết
-B. chiều rộng
-C. dễ bảo
-D. nhà hoạt động
-Answer: D
-
-Q9: What is the meaning of: aspiration
-A. khát vọng
-B. trưởng thành
-C. tục ngữ
-D. người cùng tên
-Answer: A
-
-Q10: What is the meaning of: mentor
-A. sự vỡ mộng
-B. người hướng dẫn
-C. hay than van
-D. đạo đức giả
+Q9: ............................ a scholarship, I entered the frightening and unknown territory of private education.
+A. To be awarded
+B. Having been awarded
+C. To award
+D. Having awarded
 Answer: B
+
+Q10: Don't throw the paper away because I ............................ it yet.
+A. haven't been reading
+B. hadn't read
+C. haven't read
+D. hadn't been reading
+Answer: C
 
 
 
 NODE LISTENING
 
-Q1: The type A viruses are the most ___ human pathogens among the three influenza types and causes the most severe disease .
-Answer: virulent
+Q1: Tectonic earthquakes from the volcano had been detected since early August 2017 , and volcanic activity intensified for several weeks before decreasing significantly in late ___ .
+Answer: october
 
-Q2: Absinthe has often been portrayed as a dangerously addictive psychoactive ___ and hallucinogen .
-Answer: drug
+Q2: Geophysics is applied to societal needs , such as mineral resources , mitigation of natural ___ and environmental protection .
+Answer: hazards
 
 Q3: These concerns have intensified due to the ___ of China , the predominant supplier .
 Answer: actions
 
-Q4: On Earth , most basalt magmas have formed by melting of the ___ .
-Answer: mantle
+Q4: Slackware is known as a highly customizable ___ , generally considered a distribution for expert users .
+Answer: distribution
 
-Q5: The fallout of the weakening ___ game market affected game developers , publishers and distributors .
-Answer: rhythm
+Q5: The ___ is important because it connects complex numbers and trigonometry .
+Answer: formula
 
-Q6: In ___ times , regnal years were counted from the year a new monarch took the throne .
-Answer: ancient
+Q6: The seventeenth ___ saw a culinary revolution which transported French gastronomy into the modern era .
+Answer: century
 
-Q7: ___ is simply a quantitative measure of what the second law of thermodynamics describes : the spreading of energy until it is evenly spread .
-Answer: entropy
+Q7: In the United States , the term lien generally refers to a wide range of encumbrances and would include other forms of mortgage or ___ .
+Answer: charge
 
-Q8: ___ omnibus editions collect roughly 24 issues in a slipcase with several extras .
-Answer: limited
+Q8: Absinthe has often been portrayed as a dangerously addictive psychoactive ___ and hallucinogen .
+Answer: drug
 
-Q9: Unaipon was a recognized ___ on ballistics .
-Answer: authority
+Q9: The temporal lobe holds the primary auditory cortex , which is important for the processing of ___ in both speech and vision in humans .
+Answer: semantics
 
-Q10: A rare side effect of propofol is propofol infusion ___ .
-Answer: syndrome
+Q10: The novel has been the ___ of interpretations focusing on the historical role of book burning in suppressing dissenting ideas for change .
+Answer: subject
 
 
 
 NODE SPEAKING
 
-1. In organisms that use chromosomal crossover to exchange DNA and recombine genes , errors in alignment during meiosis can also cause mutations .
-2. The ability to fly or glide has been suggested for at least two dromaeosaur genera .
-3. Insect galls on plants give some herbivorous insects their own microhabitat .
-4. Chasms and gorges form a network that dissects the rocky platforms on the plateau .
-5. The executive branch is headed by the president and is formally independent of both the legislature and the judiciary .
-6. Physicists are working on a number of ways to write down a theory of quantum gravity .
-7. The heat index is referenced to any combination of air temperature and humidity where the partial pressure of water vapor is equal to a baseline value of 1.6 kPa .
-8. Twenty - eight merchant ships laden with more than 34000 ST of cargo were sunk or destroyed ; three ships carrying a further 7500 ST were later salvaged .
-9. Any medication may cause anaphylaxis .
-10. Making use of dyes he was able to find a structure which he named chromatin .
+1. Cenotes are surface connections to subterranean water bodies .
+2. The taxonomy of the herring gull / lesser black - backed gull group is very complicated , with different authorities recognizing between two and eight species .
+3. The longsword is characterized not so much by a longer blade , but by a longer grip , which indicates a weapon designed for two -handed use .
+4. Unaipon took out provisional patents for 19 inventions , but he could not afford to get any of his inventions fully patented .
+5. Insect galls on plants give some herbivorous insects their own microhabitat .
+6. Alekhine is known for his fierce and imaginative attacking style , combined with great positional and endgame skill .
+7. Modern physical chemistry originated in the 1860s to 1880s with work on chemical thermodynamics , electrolytes in solutions , chemical kinetics and other subjects .
+8. In a synchronous stream cipher , the sender and receiver must be exactly in step for decryption to be successful .
+9. Some extinct animals such as sauropod dinosaurs appear to have used stones to grind tough plant matter .
+10. The drug is commonly used to treat attention - deficit hyperactivity disorder and narcolepsy .
 
 
 NODE MATCHING
 
-1. sword -> gươm
-2. juggernaut -> Giaganat
-3. visionary -> người có tầm nhìn
-4. domain -> lãnh địa
-5. palatable -> ngon miệng
-6. aegis -> tấm chắn
-7. epigram -> câu châm ngôn
-8. iniquitous -> bất công
-9. uproarious -> ồn ào
-10. minion -> thương yêu
+1. on the spur of the moment -> if you do something on the spur of the moment, you do it suddenly and do not take time to plan it or think carefully about it
+2. have green fingers -> be good at growing plants
+3. not have a leg to stand on -> not have any way of proving that you are right about something
+4. kick off (with) -> begin (with)
+5. blot on the landscape -> something that makes a place look less attractive, for example an ugly building
+6. opt out (of) -> decide not to take part in something or stop taking part in it
+7. move out -> permanently leave the house or flat where you live or the place where you have your business
+8. run down -> if an organisation or area is run down, its size, importance and activity is reduced run-down (adj)
+9. let off steam -> shout or do something that allows you to get rid of anger
+10. change your tune -> change your opinion or attitude
 
 
 NODE REVIEW
 
-1. palatable -> ngon miệng
-2. Chasms and gorges form a network that dissects the rocky platforms on the plateau .
-3. domain -> lãnh địa
-Q4: The type A viruses are the most ___ human pathogens among the three influenza types and causes the most severe disease .
-Answer: virulent
+Q1: This time tomorrow, Barry will ............................ across the Pacific for exactly three months.
+A. be rowing
+B. have been rowing
+C. have rowed
+Answer: B
 
-Q5: The fallout of the weakening ___ game market affected game developers , publishers and distributors .
-Answer: rhythm
+Q2: Tectonic earthquakes from the volcano had been detected since early August 2017 , and volcanic activity intensified for several weeks before decreasing significantly in late ___ .
+Answer: october
 
-6. Making use of dyes he was able to find a structure which he named chromatin .
-7. aegis -> tấm chắn
-Q8: ___ omnibus editions collect roughly 24 issues in a slipcase with several extras .
-Answer: limited
+3. Some extinct animals such as sauropod dinosaurs appear to have used stones to grind tough plant matter .
+4. Alekhine is known for his fierce and imaginative attacking style , combined with great positional and endgame skill .
+5. The drug is commonly used to treat attention - deficit hyperactivity disorder and narcolepsy .
+6. move out -> permanently leave the house or flat where you live or the place where you have your business
+Q7: The novel has been the ___ of interpretations focusing on the historical role of book burning in suppressing dissenting ideas for change .
+Answer: subject
 
-Q9: A rare side effect of propofol is propofol infusion ___ .
-Answer: syndrome
+8. not have a leg to stand on -> not have any way of proving that you are right about something
+Q9: In the United States , the term lien generally refers to a wide range of encumbrances and would include other forms of mortgage or ___ .
+Answer: charge
 
-Q10: What is the meaning of: platitude
-A. lời sáo rỗng
-B. thận trọng
-C. sự cách ly
-D. kẻ nịnh hót
-Answer: A
+Q10: The seventeenth ___ saw a culinary revolution which transported French gastronomy into the modern era .
+Answer: century
 
 
 

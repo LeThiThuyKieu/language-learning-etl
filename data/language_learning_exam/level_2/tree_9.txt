@@ -3,179 +3,173 @@ TREE 9
 
 NODE VOCAB
 
-Q1: What is the meaning of: giant
-A. người khổng lồ
-B. biến đổi
-C. sự trùng hợp
-D. nếp gấp
-Answer: A
-
-Q2: What is the meaning of: zone
-A. phán xét
-B. khôn ngoan
-C. vùng
-D. chắc chắn
-Answer: C
-
-Q3: What is the meaning of: planning
-A. hơn nữa
-B. thiết yếu
-C. Cổ phần
-D. lập kế hoạch
-Answer: D
-
-Q4: What is the meaning of: difficulty
-A. tiếp theo
-B. tuyệt vọng
-C. khó khăn
-D. trụ sở
-Answer: C
-
-Q5: What is the meaning of: associate
-A. vị trí
-B. mở rộng
-C. bơi
-D. kết hợp
-Answer: D
-
-Q6: What is the meaning of: resolve
-A. lạc quan
-B. không công bằng
-C. một cách đầy đủ
-D. giải quyết
-Answer: D
-
-Q7: What is the meaning of: estimate
-A. ước lượng
-B. phi hành đoàn
-C. không cần thiết
-D. trao đổi
-Answer: A
-
-Q8: What is the meaning of: translation
-A. đơn giản
-B. bản dịch
-C. chặt
-D. tham vọng
+Q1: That ............ be Ted at the door. He's in bed with chicken pox.
+A. mustn't
+B. can't
+C. oughtn't to
+D. hasn't to
 Answer: B
 
-Q9: What is the meaning of: needle
-A. biến đổi
-B. NÓ
-C. thu nhập
-D. cây kim
+Q2: Shelley disagreed with the board's decision and so she ............ and went to work for another company.
+A. resigned
+B. sacked
+C. fired
+D. retired
+Answer: A
+
+Q3: The government is trying to convince people ............ the need for higher taxes.
+A. with
+B. of
+C. that
+D. for
+Answer: B
+
+Q4: It's about time you ............ thinking about setting up your own business.
+A. started
+B. to start
+C. have started
+D. start
+Answer: A
+
+Q5: We .......... when someone knocked at the door.
+A. were talked
+B. talked
+C. were talking
+D. had talked
+Answer: C
+
+Q6: Rachel is mad ........... the Eurovision Song Contest.
+A. about
+B. against
+C. from
+D. for
+Answer: A
+
+Q7: I wish you ............ so rude to Rosalind last night.
+A. wouldn't be
+B. hadn't been
+C. haven't been
+D. weren't
+Answer: B
+
+Q8: If the examiner can't ............ sense of your writing, you'll get a low mark.
+A. make
+B. bring
+C. take
+D. understand
+Answer: A
+
+Q9: ........... TV for the last four hours? Turn it off and get some exercise!
+A. Watched you
+B. Are you watching
+C. Do you watch
+D. Have you been watching
 Answer: D
 
-Q10: What is the meaning of: theme
-A. chủ đề
-B. tuyển dụng
-C. móng tay
-D. nhà tù
+Q10: 'They've got some great clothes on sale in there!' 'If only I ............ the time to go shopping!'
+A. had
+B. can have
+C. will have
+D. have
 Answer: A
 
 
 
 NODE LISTENING
 
-Q1: Other theorems have a known ___ that cannot easily be written down .
-Answer: proof
+Q1: Adding to science and technology has happened throughout the ___ ' s history .
+Answer: country
 
-Q2: In October 2015 , the ___ were abolished .
-Answer: districts
-
-Q3: The process of ___ reproduction has three major parts .
-Answer: cell
-
-Q4: In the 14th century , the word described the roughness of woven ___ before it was cut .
-Answer: cloth
-
-Q5: He also persuaded his ___ to buy new equipment because he wanted a modern , efficient police force .
-Answer: authority
-
-Q6: Tropical disturbances that reach tropical storm intensity are named from a pre - ___ list .
-Answer: determined
-
-Q7: Even though astronomers tried to ___ it again , it has not been reliably seen since .
+Q2: Even though astronomers tried to ___ it again , it has not been reliably seen since .
 Answer: find
 
-Q8: Turbine selection is based mostly on the available water head , and less so on the available ___ rate .
-Answer: flow
+Q3: Coherence defines the behavior of reads and writes to the same memory ___ .
+Answer: location
 
-Q9: The meaning and intent are sometimes mirrored in different ___ .
-Answer: terms
+Q4: The microarchitecture is related to , but not the same as , the instruction ___ architecture .
+Answer: set
 
-Q10: An elbow smash is where a wrestler makes a punching motion , tucks their hand towards their chest so the elbow and forearm make ___ .
-Answer: contact
+Q5: While the movie is widely said to be a classic comedy today , ___ reaction was mixed when the movie was first released .
+Answer: critical
+
+Q6: The readout can be analog or digital , and modern instruments have ___ with a computer or network .
+Answer: communications
+
+Q7: The films are ___ and directed by a variety of individuals and feature large , often ensemble , casts .
+Answer: written
+
+Q8: Dial - up modem ___ in the US dropped to 60 % by 2003 , and in 2006 stood at 36 % .
+Answer: use
+
+Q9: For most of its 4.5 billion - year lifetime , Wild 2 probably had a more ___ and circular orbit .
+Answer: distant
+
+Q10: ___ of atmospheric chemistry are important .
+Answer: observations
 
 
 
 NODE SPEAKING
 
-1. The vibrant colors of the coat of arms are to point to a bright future for the islands .
-2. The burgh has a population of approximately 1,300 with about 25 per cent of pensionable age .
-3. During the Iron Age humans started using iron for making tools and weapons .
-4. These birds feed on nectar from flowers using a long tongue .
-5. In the United States , campaigns have made people believe that wildfires are always bad for nature .
-6. A number of plateaus make up a large part of the plain .
-7. Chicken or veal parmigiana has become very popular in Australia as a pub dish , often served with chips and salad .
-8. The British used parts of North America as a penal colony .
-9. These are large birds , with colorful male plumage , but are nevertheless difficult to see in the dense vegetation they inhabit .
-10. About 400 hotels and restaurants were ordered to close for violating local environmental laws , while 3 casinos have been permanently shut down .
+1. In 2016 Cocks was diagnosed with kidney cancer .
+2. The foundation of the abbey Fulda and its territory originated with an Imperial grant , and the sovereign principality therefore was subject only to the German emperor .
+3. The movement is controversial .
+4. Civil rights are protected by law and custom .
+5. The film received negative reviews from critics .
+6. NMR spectroscopy databases provide information to relate structure and NMR data .
+7. The chapel offers regular services .
+8. It is held in many mental health circles that masturbation can relieve depression and lead to a higher sense of self-esteem .
+9. Llullaillaco is a stratovolcano which rises 2200 m above the surrounding terrain .
+10. In this version , the wrestler either starts by lying down or dropping down on the mat while the opponent stands near to their head .
 
 
 NODE MATCHING
 
-1. unfold -> mở ra
-2. partnership -> quan hệ đối tác
-3. summary -> bản tóm tắt
-4. steadily -> đều đặn
-5. exit -> ra
-6. chief -> trưởng
-7. monitor -> màn hình
-8. documentary -> phim tài liệu
-9. distinguish -> phân biệt
-10. transfer -> chuyển khoản
+1. speed up -> increase speed
+2. Wear a mask because these chemicals give -> off fumes that can be harmful.
+3. high school -> in the UK, a school for children between 11-18; in the US, between 14-18
+4. get along (with) -> have a good relationship (with)
+5. capital punishment -> the punishment of legally killing someone who has committed a serious crime
+6. world -> the planet that we live on
+7. guide -> to show someone where to go by going with them
+8. factory -> a building where large quantities of goods are produced using machines
+9. hand down -> give something valuable to your children or grandchildren, usually when you die
+10. go in for -> enter (a competition, etc); like
 
 
 NODE REVIEW
 
-1. About 400 hotels and restaurants were ordered to close for violating local environmental laws , while 3 casinos have been permanently shut down .
-2. During the Iron Age humans started using iron for making tools and weapons .
-Q3: He also persuaded his ___ to buy new equipment because he wanted a modern , efficient police force .
-Answer: authority
-
-4. The vibrant colors of the coat of arms are to point to a bright future for the islands .
-5. A number of plateaus make up a large part of the plain .
-Q6: What is the meaning of: resolve
-A. lạc quan
-B. không công bằng
-C. một cách đầy đủ
-D. giải quyết
+Q1: 'They've got some great clothes on sale in there!' 'If only I ............ the time to go shopping!'
+A. have
+B. will have
+C. can have
+D. had
 Answer: D
 
-Q7: In October 2015 , the ___ were abolished .
-Answer: districts
-
-Q8: What is the meaning of: translation
-A. tham vọng
-B. bản dịch
-C. chặt
-D. đơn giản
-Answer: B
-
-Q9: What is the meaning of: estimate
-A. không cần thiết
-B. trao đổi
-C. phi hành đoàn
-D. ước lượng
-Answer: D
-
-Q10: What is the meaning of: planning
-A. hơn nữa
-B. thiết yếu
-C. lập kế hoạch
-D. Cổ phần
+2. guide -> to show someone where to go by going with them
+Q3: I wish you ............ so rude to Rosalind last night.
+A. weren't
+B. wouldn't be
+C. hadn't been
+D. haven't been
 Answer: C
+
+4. Llullaillaco is a stratovolcano which rises 2200 m above the surrounding terrain .
+5. go in for -> enter (a competition, etc); like
+6. Civil rights are protected by law and custom .
+7. factory -> a building where large quantities of goods are produced using machines
+Q8: Dial - up modem ___ in the US dropped to 60 % by 2003 , and in 2006 stood at 36 % .
+Answer: use
+
+Q9: The readout can be analog or digital , and modern instruments have ___ with a computer or network .
+Answer: communications
+
+Q10: It's about time you ............ thinking about setting up your own business.
+A. have started
+B. started
+C. to start
+D. start
+Answer: B
 
 
 
