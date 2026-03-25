@@ -3,173 +3,173 @@ TREE 17
 
 NODE VOCAB
 
-Q1: What is the meaning of: manifestation
-A. biểu hiện
-B. khoản tiền bất ngờ
-C. tình huống khẩn cấp
-D. u mê
+Q1: In a few hundred years' time, oil will not be nearly so ............................ here on Earth.
+A. considerable
+B. ample
+C. immense
+D. abundant
+Answer: D
+
+Q2: Don't worry – the documents are safely ............................ lock and key at my place.
+A. under
+B. in
+C. within
+D. on
 Answer: A
 
-Q2: What is the meaning of: mask
-A. sự tức giận
-B. mặt nạ
-C. triển vọng
-D. hình bóng
+Q3: My only ambition, really, is to settle down and ............................ a family.
+A. grow
+B. raise
+C. make
+D. bring
 Answer: B
 
-Q3: What is the meaning of: crude
-A. điều chỉnh
-B. dầu thô
-C. lo lắng
-D. nằm im
-Answer: B
+Q4: I always clean the flat before my mum comes round, but she always finds at least one ............................ of dust and says it's filthy!
+A. scrap
+B. gust
+C. speck
+D. blade
+Answer: C
 
-Q4: What is the meaning of: confine
-A. sự phân biệt chủng tộc
-B. giới hạn
-C. sự phóng túng
-D. người nhận
-Answer: B
+Q5: You know what they ............................ : variety is the spice of life!
+A. say
+B. tell
+C. speak
+D. state
+Answer: A
 
-Q5: What is the meaning of: immeasurably
-A. siêng năng
-B. vô cùng
-C. phe phái
-D. chủ sở hữu
-Answer: B
+Q6: We're saving for our holiday, so we're ............................ back on luxuries this month.
+A. dropping
+B. moving
+C. cutting
+D. giving
+Answer: C
 
-Q6: What is the meaning of: solo
-A. sự thất vọng
-B. trần trụi
-C. liên tục
-D. độc lập
+Q7: When Josh phoned, he sounded like he ............................ quite a shock.
+A. had
+B. had been having
+C. had had
+D. would have
+Answer: C
+
+Q8: To be honest, Harry has ............................ than you have.
+A. considerably been more helpful
+B. been more considerably helpful
+C. been considerably more helpful
+D. been more helpful considerably
+Answer: C
+
+Q9: I don't want to do the course in applied statistics, but it's ............................ .
+A. compulsory
+B. inevitable
+C. indecisive
+D. bound
+Answer: A
+
+Q10: Too many people work in the public ............................ in this country, in my opinion.
+A. area
+B. zone
+C. division
+D. sector
 Answer: D
-
-Q7: What is the meaning of: cattle
-A. sự trơ tráo
-B. ra lệnh
-C. gia súc
-D. sắc bén
-Answer: C
-
-Q8: What is the meaning of: trance
-A. bất lợi
-B. kỳ quặc
-C. bản trình bày
-D. trạng thái thôi miên
-Answer: D
-
-Q9: What is the meaning of: demon
-A. điều cấm kỵ
-B. cổ đông
-C. quỷ
-D. nguyên tắc
-Answer: C
-
-Q10: What is the meaning of: to perpetuate
-A. ca ngợi
-B. chuông kêu
-C. để duy trì
-D. điều cấm kỵ
-Answer: C
 
 
 
 NODE LISTENING
 
-Q1: Many fish ___ sex over the course of their lifespan , a phenomenon called sequential hermaphroditism .
-Answer: change
+Q1: Polymorphism is common in nature ; it is related to biodiversity , genetic variation , and ___ .
+Answer: adaptation
 
-Q2: In many cases , the splicing process can create a range of unique proteins by varying the exon ___ of the same mRNA .
-Answer: composition
+Q2: In his weakest form , Frieza is a relatively short humanoid with a large chestnut - shaped skull and two ___ .
+Answer: horns
 
-Q3: Iocaste belongs to the Ananke group , believed to be the ___ of a break - up of a captured heliocentric asteroid .
-Answer: remnants
+Q3: Between 1948 and 1950 , she developed a theory : these mobile ___ regulated genes by inhibiting or modulating their action .
+Answer: elements
 
-Q4: It has been suggested that many of the existing plant and most animal species have undergone an event of polyploidization in their ___ history .
-Answer: evolutionary
-
-Q5: Most dolmen constructions they were build using stone slabs of big ___ .
-Answer: dimensions
-
-Q6: Children of women with GDM have an increased risk for ___ and adult obesity and an increased risk of glucose intolerance and type 2 diabetes later in life .
-Answer: childhood
-
-Q7: Centrioles are typically made up of nine sets of ___ microtubule triplets , arranged in a cylinder .
-Answer: short
-
-Q8: Epidemiological practice and the results of epidemiological analysis make a significant ___ to health management
+Q4: Epidemiological practice and the results of epidemiological analysis make a significant ___ to health management
 Answer: contribution
 
-Q9: Sometimes it is ___ to tell the difference between anaphylaxis ; asthma ; fainting caused by not having enough oxygen ; and panic attacks .
-Answer: difficult
+Q5: It is well - known spa ___ , specialising in mud treatment for rheumatism and similar medical problems .
+Answer: town
 
-Q10: Without treatment , an ___ attack of gout usually resolves in five to seven days ; however , 60 % of people have a second attack within one year .
-Answer: acute
+Q6: Potassium iodate is used to add iodine to ___ .
+Answer: salt
+
+Q7: Wrasses have protractile mouths , usually with ___ jaw teeth that jut outwards .
+Answer: separate
+
+Q8: The drug is commonly used to treat attention - ___ hyperactivity disorder and narcolepsy .
+Answer: deficit
+
+Q9: A ___ view is that the name was a veiled insult .
+Answer: contrary
+
+Q10: Although most of a cell ' s DNA is contained in the cell nucleus , the mitochondrion has its own independent genome that shows ___ similarity to bacterial genomes .
+Answer: substantial
 
 
 
 NODE SPEAKING
 
-1. The authors were able to experimentally work out a rate law at 261.2 K for the reaction of 1,2 - dimethylidenecyclohexane with sulfur dioxide to give the corresponding sulfolene .
-2. Psyche is massive enough that its perturbations on other asteroids can be measured , which enables a mass measurement .
-3. However , recent research has shown that at least some prokaryotes have microcompartments such as carboxysomes .
-4. Potassium iodate is sometimes used for iodination of table salt to prevent iodine deficiency .
-5. Silver carbonate can be prepared by combining aqueous solutions of sodium carbonate with a deficiency of silver nitrate .
-6. The rugged coastline has been the scene of a number of shipwrecks .
-7. Van Vollenhoven was diagnosed with a Melanoma , a common type of skin cancer , in May 2017 .
-8. Handedness seems to follow from the brain hemisphere division of labor .
-9. Bombards were replaced by weapons using smaller caliber iron shells with more powerful gunpowder .
-10. s of 2011 , there are about one hundred medications in development for hepatitis C.
+1. A consonant may be added to separate vowels in hiatus .
+2. Modern exact cladistic analyses have not been conclusive .
+3. Although completing the square can be used to solve many quadratic equations , it does not work with every equation .
+4. Benzodiazepines are the most commonly used medication for the treatment of alcohol withdrawal and are generally safe and effective in suppressing symptoms of alcohol withdrawal .
+5. Bombards were replaced by weapons using smaller caliber iron shells with more powerful gunpowder .
+6. Gravitational lensing studies of the Bullet cluster are claimed to provide the best evidence to date for the existence of dark matter .
+7. Measurement of the absorption of light is complicated by the solvent used to extract the chlorophyll from plant material , which affects the values obtained ,
+8. A description of any thermodynamic system employs the four laws of thermodynamics that form an axiomatic basis .
+9. Later ornithopods became larger , but never rivaled the incredible size of the long-necked , long-tailed sauropods that they partially supplanted .
+10. The standard method of travel was by foot , as wheeled carts were almost nonexistent and heavy cargo was usually sent by boat .
 
 
 NODE MATCHING
 
-1. dispute -> tranh luận
-2. to dispense -> phân phát
-3. cadence -> nhịp điệu
-4. acumen -> sự nhạy bén
-5. lineage -> dòng dõi
-6. homeland -> quê hương
-7. unrivalled -> vô song
-8. to pontificate -> thuyết giảng
-9. realm -> vương quốc
-10. wistful -> u sầu
+1. tide over -> help someone to get to the end of a difficult period of time, especially by giving them money until they can get some more
+2. figure out -> be able to understand something or solve a problem; understand what someone is like and why they behave in the way they do
+3. have your wits about you -> be able to think quickly and make sensible decisions
+4. Hardly had they locked the shop -> up when the alarm went off.
+5. walk out -> leave a meeting, performance, etc before the end, usually because you are angry or bored; suddenly leave a relationship, your family, your job, etc
+6. lock, stock and barrel -> including every part of a particular thing, situation, place, etc
+7. hold back -> stop someone or something from moving forwards
+8. get in -> be elected for a political job
+9. lash out -> try to hit or attack someone suddenly and violently; speak angrily to or at someone
+10. take the scenic route -> follow a longer path than the usual one because it is more attractive
 
 
 NODE REVIEW
 
-1. Potassium iodate is sometimes used for iodination of table salt to prevent iodine deficiency .
-2. The rugged coastline has been the scene of a number of shipwrecks .
-3. Bombards were replaced by weapons using smaller caliber iron shells with more powerful gunpowder .
-Q4: What is the meaning of: confine
-A. sự phóng túng
-B. sự phân biệt chủng tộc
-C. giới hạn
-D. người nhận
-Answer: C
+1. walk out -> leave a meeting, performance, etc before the end, usually because you are angry or bored; suddenly leave a relationship, your family, your job, etc
+2. Bombards were replaced by weapons using smaller caliber iron shells with more powerful gunpowder .
+3. Modern exact cladistic analyses have not been conclusive .
+Q4: Wrasses have protractile mouths , usually with ___ jaw teeth that jut outwards .
+Answer: separate
 
-Q5: What is the meaning of: crude
-A. dầu thô
-B. lo lắng
-C. nằm im
-D. điều chỉnh
-Answer: A
+Q5: Epidemiological practice and the results of epidemiological analysis make a significant ___ to health management
+Answer: contribution
 
-Q6: What is the meaning of: cattle
-A. ra lệnh
-B. sự trơ tráo
-C. sắc bén
-D. gia súc
+6. The standard method of travel was by foot , as wheeled carts were almost nonexistent and heavy cargo was usually sent by boat .
+Q7: To be honest, Harry has ............................ than you have.
+A. considerably been more helpful
+B. been considerably more helpful
+C. been more considerably helpful
+D. been more helpful considerably
+Answer: B
+
+Q8: When Josh phoned, he sounded like he ............................ quite a shock.
+A. would have
+B. had
+C. had been having
+D. had had
 Answer: D
 
-7. Silver carbonate can be prepared by combining aqueous solutions of sodium carbonate with a deficiency of silver nitrate .
-8. Van Vollenhoven was diagnosed with a Melanoma , a common type of skin cancer , in May 2017 .
-Q9: In many cases , the splicing process can create a range of unique proteins by varying the exon ___ of the same mRNA .
-Answer: composition
-
-Q10: It has been suggested that many of the existing plant and most animal species have undergone an event of polyploidization in their ___ history .
-Answer: evolutionary
+9. Measurement of the absorption of light is complicated by the solvent used to extract the chlorophyll from plant material , which affects the values obtained ,
+Q10: I don't want to do the course in applied statistics, but it's ............................ .
+A. bound
+B. indecisive
+C. inevitable
+D. compulsory
+Answer: D
 
 
 

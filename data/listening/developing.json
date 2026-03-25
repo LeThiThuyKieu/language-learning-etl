@@ -1,0 +1,405 @@
+[
+  {
+    "gapped_text": "A: Hi, Amy. What did you do this weekend?\nB: Oh, not much. I _______ home and _______ on a project.\nA: Is that all?\nB: No. I also finished a good book. Later, I _______ _______ _______. What about you?\nA: I played tennis. The courts were crowded. I _______ a long time to play!\nB: What else did you do?\nA: Some friends _______ _______ to dinner. Later, we went to a club and met a lot of _______ _______.",
+    "blanks": [
+      { "answer": "stayed" },
+      { "answer": "worked" },
+      { "answer": "visited" },
+      { "answer": "a" },
+      { "answer": "friend" },
+      { "answer": "waited" },
+      { "answer": "invited" },
+      { "answer": "me" },
+      { "answer": "interesting" },
+      { "answer": "people" }
+    ],
+    "audio": ""
+  },
+  {
+    "gapped_text": "A: Where do you get the bus _______ _______?\nB: I don't take the bus.\nA: Oh. How do you _______ _______ _______?\nB: I take the subway.\nA: How often do you _______ _______?\nB: I take it every day.\nA: How much _______ _______ _______?\nB: It costs about $50 a month.",
+    "blanks": [
+      { "answer": "to" },
+      { "answer": "school" },
+      { "answer": "get" },
+      { "answer": "to" },
+      { "answer": "school" },
+      { "answer": "take" },
+      { "answer": "it" },
+      { "answer": "does" },
+      { "answer": "it" },
+      { "answer": "cost" }
+    ],
+    "audio": ""
+  },
+  {
+    "gapped_text": "A: Did you hear about the argument between Steve and Mr. Riley?\nB: An argument? But they've been friends for years. What happened?\nA: Steve was cutting some _______ _______ from that tree in his yard, and one fell on the roof of Mr. Riley's car.\nB: Oh, no! You know that car is his _______ _______.\nA: Right. Well, Steve offered to take it to a _______ _______ and pay for the damages.\nB: That _______ _______.\nA: Yeah. But Mr. Riley was so angry that he won't even talk to Steve anymore.",
+    "blanks": [
+      { "answer": "tree" },
+      { "answer": "branches" },
+      { "answer": "prize" },
+      { "answer": "possession" },
+      { "answer": "repair" },
+      { "answer": "shop" },
+      { "answer": "seems" },
+      { "answer": "reasonable" }
+    ],
+    "audio": ""
+  },
+  {
+  "gapped_text": "A: _______ _______ _______ want to do for Brandon's birthday?\nB: Let's have a party!\nA: _______ _______ _______ want to have it?\nB: How about Saturday night?\nA: Okay. Where do you _______ _______ _______ it?\nB: How about my place?\nA: Sounds great. Now, _______ _______ _______ want to invite?\nB: All of Brandon's friends!",
+  "blanks": [
+    { "answer": "What" },
+    { "answer": "do" },
+    { "answer": "you" },
+    { "answer": "When" },
+    { "answer": "do" },
+    { "answer": "you" },
+    { "answer": "want" },
+    { "answer": "to" },
+    { "answer": "have" },
+    { "answer": "who" },
+    { "answer": "do" },
+    { "answer": "you" }
+  ],
+  "audio": ""
+},
+{
+  "gapped_text": "A: What do you _______ _______ _______ tonight?\nB: Let's go out to eat.\nA: Where do you _______ _______ _______?\nB: I don't know. What about you? What do you want to eat?\nA: I want to go to the _______ _______.\nB: I'm tired of Italian food.\nA: So, what do you _______ _______ _______, then?\nB: Let's order take-out Chinese!",
+  "blanks": [
+    { "answer": "want" },
+    { "answer": "to" },
+    { "answer": "do" },
+    { "answer": "want" },
+    { "answer": "to" },
+    { "answer": "go" },
+    { "answer": "Italian" },
+    { "answer": "place" },
+    { "answer": "want" },
+    { "answer": "to" },
+    { "answer": "have" }
+  ],
+  "audio": ""
+},
+{
+  "gapped_text": "A: I'm going shopping. Do you want to come with me?\nB: Yes. I have to buy birthday presents for the twins, _______ and _______. \nA: Oh, that reminds me! We have to get some graduation presents.\nB: Right. We need something for _______.\nA: And _______ is graduating, too. We need a present for him.\nB: Okay. And as long as we're out, why don't we get the wedding present?\nA: You mean for _______ and _______? Good idea!",
+  "blanks": [
+    { "answer": "Heather" },
+    { "answer": "Allison" },
+    { "answer": "Michael" },
+    { "answer": "Jonathan" },
+    { "answer": "Lisa" },
+    { "answer": "Kevin" }
+  ],
+  "audio": ""
+},
+{
+  "gapped_text": "A: Excuse me, _______ _______ _______ that bag in the overhead compartment?\nB: I'm afraid it's a bit heavy. Would you help me?\nA: Sure. _______ _______ _______.\nB: Thanks.\nA: Oh, and we're taking off soon. _______ _______ turn off your cell phone, please?\nAnd _______ _______ _______ your seat back forward, too?\nB: No problem. Thanks for your help.",
+  "blanks": [
+    { "answer": "could" },
+    { "answer": "you" },
+    { "answer": "put" },
+    { "answer": "There" },
+    { "answer": "you" },
+    { "answer": "go" },
+    { "answer": "Could" },
+    { "answer": "you" },
+    { "answer": "would" },
+    { "answer": "you" },
+    { "answer": "put" }
+  ],
+  "audio": ""
+},
+{
+  "gapped_text": "A: I heard you had a terrible _______ _______. What happened?\nB: I slipped on the steps. I dropped my phone and my cup of coffee!\nA: Wow! _______ _______ _______ your phone?\nB: Yes, but I got a new one.\nA: What happened to the coffee? _______ _______ _______ it?\nB: Yes. Now I have a stain on my new pants.\nA: Did you take them to the dry cleaners?\nB: Yes. I hope _______ _______ comes out!",
+  "blanks": [
+    { "answer": "mishap" },
+    { "answer": "yesterday" },
+    { "answer": "Did" },
+    { "answer": "you" },
+    { "answer": "break" },
+    { "answer": "Did" },
+    { "answer": "you" },
+    { "answer": "spill" },
+    { "answer": "the" },
+    { "answer": "stain" }
+  ],
+  "audio": ""
+},
+{
+  "gapped_text": "A: So, what do _______ _______?\nB: I'm a flight attendant.\nA: That sounds interesting. Do you _______ _______ a lot?\nB: Yes. I've been to over 30 countries. _______ _______ _______ _______? What do you do?\nA: I am a manager in a restaurant.\nB: Do you work on _______ _______?\nA: No. I travel on weekends. It's a great job!",
+  "blanks": [
+    { "answer": "you" },
+    { "answer": "do" },
+    { "answer": "fly" },
+    { "answer": "overseas" },
+    { "answer": "How" },
+    { "answer": "about" },
+    { "answer": "you" },
+    { "answer": "the" },
+    { "answer": "weekends" }
+  ],
+  "audio": ""
+},
+{
+  "gapped_text": "A: What did you do in the past that you don't do now?\nB: Well, I didn't _______ _______ workout very much.\nA: So what do you do now?\nB: Now, I run every day in the park. I used to _______ _______, but now I love it!\nA: I _______ _______ _______ weights and use the machines at the gym.\nB: And now?\nA: Now I ride my bike a lot. I didn't _______ _______ _______ outdoors, but now I really enjoy it.",
+  "blanks": [
+    { "answer": "use" },
+    { "answer": "to" },
+    { "answer": "hate" },
+    { "answer": "running" },
+    { "answer": "used" },
+    { "answer": "to" },
+    { "answer": "lift" },
+    { "answer": "use" },
+    { "answer": "to" },
+    { "answer": "exercise" }
+  ],
+  "audio": ""
+},
+{
+  "gapped_text": "A: Hey, Jen. _______ _______ _______ this weekend?\nB: Maybe. Do you have some plans?\nA: Yes. _______ _______ _______ pop music?\nB: Sure. Why?\nA: I've got tickets for the pop music festival at Reed Hall. _______ _______ _______ to come with me?\nB: Do you have _______ _______ _______ night or Saturday night?\nA: Saturday night.\nB: Great! I'd love to!",
+  "blanks": [
+    { "answer": "Are" },
+    { "answer": "you" },
+    { "answer": "free" },
+    { "answer": "Do" },
+    { "answer": "you" },
+    { "answer": "like" },
+    { "answer": "Do" },
+    { "answer": "you" },
+    { "answer": "want" },
+    { "answer": "tickets" },
+    { "answer": "for" },
+    { "answer": "Friday" }
+  ],
+  "audio": ""
+},
+{
+  "gapped_text": "A: So, how do you like your school?\nB: Well, I like some things, but I _______ _______ _______ things.\nA: Such as?\nB: I like the _______, the _______, and the _______. But I don't like the food, the gym, or the clubs. How about you?\nA: Just the opposite! I really like the _______, the _______, and the _______.\nB: What don't you like?\nA: I guess I _______ _______ _______ the classes, the teachers, and the homework!",
+  "blanks": [
+    { "answer": "don't" },
+    { "answer": "like" },
+    { "answer": "other" },
+    { "answer": "campus" },
+    { "answer": "teachers" },
+    { "answer": "students" },
+    { "answer": "food" },
+    { "answer": "clubs" },
+    { "answer": "pool" },
+    { "answer": "don't" },
+    { "answer": "really" },
+    { "answer": "like" }
+  ],
+  "audio": ""
+},
+{
+  "gapped_text": "A: What do you do in your free time, Lara?\nB: I used to enjoy _______, but now I like _______ and _______.\nA: Oh, not me! I enjoy collecting things. I collect _______ cards.\nB: Do you do anything else?\nA: Yes, I really enjoy _______ the Internet and listening to _______.\nB: Do you play any sports?\nA: I go _______ and _______ in the winter. How about you?\nB: I like summer sports. I enjoy _______ and _______.",
+  "blanks": [
+    { "answer": "painting" },
+    { "answer": "cooking" },
+    { "answer": "gardening" },
+    { "answer": "baseball" },
+    { "answer": "surfing" },
+    { "answer": "music" },
+    { "answer": "skiing" },
+    { "answer": "snowboarding" },
+    { "answer": "swimming" },
+    { "answer": "hiking" }
+  ],
+  "audio": ""
+},
+{
+  "gapped_text": "A: Can I help you?\nB: Yes, I'd _______ _______ _______ this shirt. I need to get a larger one.\nA: No problem.\nB: And the color is wrong. I'd like to find a _______ _______.\nA: That's fine. Oh, and do you have your receipt?\nB: Uh-oh, I think I forgot it. I _______ _______ go home and get it.\nA: Yes, I _______ _______ _______ your receipt.\nB: Okay, I'll be right back.",
+  "blanks": [
+    { "answer": "like" },
+    { "answer": "to" },
+    { "answer": "return" },
+    { "answer": "blue" },
+    { "answer": "one" },
+    { "answer": "need" },
+    { "answer": "to" },
+    { "answer": "need" },
+    { "answer": "to" },
+    { "answer": "see" }
+  ],
+  "audio": ""
+},
+{
+  "gapped_text": "A: _______ _______ help you?\nB: Yes. I can't open the window in my room. _______ _______ get some help?\nA: Certainly. Is there anything else?\nB: Yes. I _______ _______ _______ the air conditioner off.\nA: We can help with that. Is there anything else I can do?\nB: Yes. I _______ _______ _______ to the Internet.\nA: You need a password. I _______ _______ _______ _______ up with it.\nB: Thank you very much!",
+  "blanks": [
+    { "answer": "Can" },
+    { "answer": "I" },
+    { "answer": "Can" },
+    { "answer": "I" },
+    { "answer": "can't" },
+    { "answer": "turn" },
+    { "answer": "off" },
+    { "answer": "can't" },
+    { "answer": "connect" },
+    { "answer": "can" },
+    { "answer": "send" },
+    { "answer": "someone" }
+  ],
+  "audio": ""
+},
+{
+  "gapped_text": "A: Hey, would you like to go to a movie tonight?\nB: Yeah, I'd love to. _______ _______?\nA: Hats off to Harry is playing at the Gateway Theater. _______ _______ a boy that gets lost,\nends up in Hollywood, and becomes a big star.\nB: _______ _______ it?\nA: Well, besides the boy, umm, Russell Hill.\nB: Oh, _______ _______ funny guy. Let's go!",
+  "blanks": [
+    { "answer": "What's" },
+    { "answer": "on" },
+    { "answer": "It's" },
+    { "answer": "about" },
+    { "answer": "Who's" },
+    { "answer": "in" },
+    { "answer": "He's" },
+    { "answer": "a" }
+  ],
+  "audio": ""
+},
+{
+  "gapped_text": "A: Are you afraid of anything?\nB: Yes. I'm afraid of elevators. Once, when I was a kid, I got stuck in _______ _______.\nA: So what do you do when you have to take an elevator?\nB: I try to _______ _______ _______! How about you?\nA: I was afraid of insects when I was a kid.\nB: How did you stop being _______ _______ insects?\nA: When I was in college, I studied insects in a _______ _______. Now, I'm not afraid at all.\nIn fact, I think _______ _______ _______ _______!",
+  "blanks": [
+    { "answer": "an" },
+    { "answer": "elevator" },
+    { "answer": "take" },
+    { "answer": "the" },
+    { "answer": "stairs" },
+    { "answer": "afraid" },
+    { "answer": "of" },
+    { "answer": "science" },
+    { "answer": "class" },
+    { "answer": "insects" },
+    { "answer": "are" },
+    { "answer": "fascinating" }
+  ],
+  "audio": ""
+},
+{
+  "gapped_text": "A: Mike called today. He wants to go to the restaurant with us tonight.\nB: Did he leave his number?\nA: Yes. It's _______. He also asked us to invite Lisa.\nB: Did he leave her number?\nA: No, but I have it memorized. It's ______.\nB: Got it. We should call the restaurant, too. I think their number is _______.",
+  "blanks": [
+    { "answer": "645-760-3950" },
+    { "answer": "760-3950" },
+    { "answer": "858-7869" }
+  ],
+  "audio": ""
+},
+{
+  "gapped_text": "A: What did you see on your tour?\nB: We first saw the Grant House. It's _______ _______ building in the city.\nA: Nice. What else did you see?\nB: Then we visited the park. It's one of the _______ _______ _______ in the country. After\nthat, we went to the top of the mountain.\nA: Oh, I bet the view was great. Isn't that one of the _______ _______ in the state?\nB: Yes. Actually, it's the _______ _______ in the country. The view _______ _______.",
+  "blanks": [
+    { "answer": "the" },
+    { "answer": "oldest" },
+    { "answer": "biggest" },
+    { "answer": "city" },
+    { "answer": "parks" },
+    { "answer": "tallest" },
+    { "answer": "mountains" },
+    { "answer": "highest" },
+    { "answer": "mountain" },
+    { "answer": "was" },
+    { "answer": "fantastic" }
+  ],
+  "audio": ""
+},
+{
+  "gapped_text": "A: Excuse me, where are _______ _______?\nB: Your bags are in the baggage claim area, on carousel 3.\nA: Thanks. Oh, and are there _______ _______ to eat near the baggage claim area?\nB: Yes. There are two cafes and a couple of _______.\nA: Great. How do we get into the city?\nB: There are _______ _______ _______ _______ just outside, after you leave the baggage area.\nA: Thank you so much!",
+  "blanks": [
+    { "answer": "our" },
+    { "answer": "suitcases" },
+    { "answer": "any" },
+    { "answer": "places" },
+    { "answer": "restaurants" },
+    { "answer": "buses" },
+    { "answer": "and" },
+    { "answer": "taxis" }
+  ],
+  "audio": ""
+},
+{
+  "gapped_text": "A: Yes, sir, may I help you?\nB: I'd like a room for two nights, please.\nA: _______ _______?\nB: That's right. My name is Chris Smithson.\nA: Did you _______ _______?\nB: No, Smithson. S-M-I-T-H-S-O-N. Do you need to see some identification?\nA: _______ _______ _______ you have identification?\nB: Yes. I do. Here you go.",
+  "blanks": [
+    { "answer": "Two" },
+    { "answer": "nights" },
+    { "answer": "say" },
+    { "answer": "Smith" },
+    { "answer": "Did" },
+    { "answer": "you" },
+    { "answer": "say" }
+  ],
+  "audio": ""
+},
+{
+  "gapped_text": "A: Are you going downtown today?\nB: Yes, but _______ _______ _______ marathon today. There's going to be a lot of traffic.\nA: Yes. _______ _______ _______ several streets blocked off.\nB: And I just heard there's been an accident, too.\nA: It's true. There's been a collision _______ _______ _______ _______.\nB: Wow! So, I guess I'll walk. _______ _______ _______ _______ with my feet today!",
+  "blanks": [
+    { "answer": "there's" },
+    { "answer": "a" },
+    { "answer": "There" },
+    { "answer": "are" },
+    { "answer": "between" },
+    { "answer": "two" },
+    { "answer": "buses" },
+    { "answer": "There's" },
+    { "answer": "no" },
+    { "answer": "problem" }
+  ],
+  "audio": ""
+},
+{
+  "gapped_text": "A: How do you like your new roommate?\nB: I don't know . . . She's _______ _______!\nA: What do you mean?\nB: She's _______ _______ at night. She watches TV and sings in her room.\nA: So she's not as nice as your last roommate?\nB: No. My last roommate was _______ _______ and considerate.\nA: So what are you going to do?\nB: Well, you know me. I'm _______ _______. I guess I won't do anything!",
+  "blanks": [
+    { "answer": "really" },
+    { "answer": "inconsiderate" },
+    { "answer": "terribly" },
+    { "answer": "loud" },
+    { "answer": "extremely" },
+    { "answer": "kind" },
+    { "answer": "really" },
+    { "answer": "timid" }
+  ],
+  "audio": ""
+},
+{
+  "gapped_text": "A: Hi, Jen. _______ _______ your trip?\nB: It was great! I had a wonderful time.\nA: _______ _______ the food?\nB: It was good! I ate a lot!\nA: How _______ _______ _______ there?\nB: It was beautiful the whole time I was there.\nA: So what was the best thing _______ _______ _______?",
+  "blanks": [
+    { "answer": "How" },
+    { "answer": "was" },
+    { "answer": "How" },
+    { "answer": "was" },
+    { "answer": "was" },
+    { "answer": "the" },
+    { "answer": "weather" },
+    { "answer": "about" },
+    { "answer": "your" },
+    { "answer": "trip" }
+  ],
+  "audio": ""
+},
+{
+  "gapped_text": "The club is going to hold an _______ tournament every year.\nThe club's _______ are closed for two months every year.\nThe gym instructors can produce individual _______ for members.\nIn the first exercise studio, there are _______ classes.\nInstructors are able to design _______ which are safe and enjoyable.\nLeisure membership does not include _______.",
+  "blanks": [
+    { "answer": "international" },
+    { "answer": "tennis courts" },
+    { "answer": "fitness programs" },
+    { "answer": "indoor cycling" },
+    { "answer": "workouts" },
+    { "answer": "golf access" }
+  ],
+  "audio": ""
+},
+{
+  "gapped_text": "Cycling to work can save employees both money and ______.\nIn recent years, ______ ______ have increased in the city.\nRegular cycling improves health and reduces ______ ______.\nIf more employees cycle to work, the company needs less ______ ______.\nEmployees can borrow a maximum of ______ ______ ______ for cycling equipment.\nEmployees are allowed to buy two bikes if part of their journey is by ______.",
+  "blanks": [
+    { "answer": "time" },
+    { "answer": "traffic" },
+    { "answer": "jams" },
+    { "answer": "heart" },
+    { "answer": "disease" },
+    { "answer": "parking" },
+    { "answer": "space" },
+    { "answer": "a" },
+    { "answer": "thousand" },
+    { "answer": "dollars" },
+    { "answer": "train" }
+  ],
+  "audio": ""
+}
+]

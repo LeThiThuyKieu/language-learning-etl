@@ -3,171 +3,169 @@ TREE 23
 
 NODE VOCAB
 
-Q1: What is the meaning of: injustice
-A. bất công
-B. tuôn ra
-C. kéo dài
-D. thẳng đứng
-Answer: A
-
-Q2: What is the meaning of: propagandist
-A. bay hơi
-B. chiến thuật
-C. từ chối
-D. người tuyên truyền
-Answer: D
-
-Q3: What is the meaning of: fastidious
-A. cầu kỳ
-B. chất nổ
-C. vít
-D. huy động
-Answer: A
-
-Q4: What is the meaning of: resistance
-A. quái thú
-B. tủ
-C. sự tự nguyện
-D. sức chống cự
-Answer: D
-
-Q5: What is the meaning of: wildfire
-A. bí mật
-B. sự phân biệt
-C. hẹp
-D. cháy rừng
-Answer: D
-
-Q6: What is the meaning of: reluctance
-A. mua sắm
-B. nộp
-C. sự miễn cưỡng
-D. sự biến động
-Answer: C
-
-Q7: What is the meaning of: gambit
-A. lật đổ
-B. nước cờ
-C. cuộc tranh cãi
-D. có quyền
+Q1: Reports are coming in that a flood has hit a heavily ............................ area in the south of India.
+A. crowded
+B. populated
+C. personalised
+D. peopled
 Answer: B
 
-Q8: What is the meaning of: archive
-A. lưu trữ
-B. bản thảo
-C. cuộc nổi loạn
-D. lỗi
+Q2: There's so much technical ............................ in this manual that I can't really understand it.
+A. tongue
+B. jargon
+C. slang
+D. speech
+Answer: B
+
+Q3: I'm so ............................ under with work at the moment - it's awful!
+A. snowed
+B. fogged
+C. iced
+D. rained
 Answer: A
 
-Q9: What is the meaning of: casino
-A. để củng cố
-B. tin đồn
-C. sòng bạc
-D. vi phạm
+Q4: It took Edward a long time to ............................ living in Canada.
+A. be used
+B. be used to
+C. get used to
+D. used to
 Answer: C
 
-Q10: What is the meaning of: taint
-A. giảm bớt
-B. sự ô nhiễm
-C. nồng
-D. sự phân định
+Q5: My jeans ............................ in the wash and they're too small for me now.
+A. reduced
+B. deteriorated
+C. shrank
+D. diminished
+Answer: C
+
+Q6: Although she would have preferred to carry on working, my mum ............................ her career in order to have children.
+A. devoted
+B. repealed
+C. abolished
+D. sacrificed
+Answer: D
+
+Q7: Hardly ............................ of the paintings at the gallery were for sale.
+A. few
+B. any
+C. none
+D. some
 Answer: B
+
+Q8: That new painting looks a bit out of ............................ in our living room, don't you think?
+A. room
+B. space
+C. spot
+D. place
+Answer: D
+
+Q9: I got totally fed up with telesales, ............................ being quite good at it.
+A. however
+B. even if
+C. despite
+D. although
+Answer: C
+
+Q10: I wish you would stop wasting so much time on computer games and do something a little more ............................ .
+A. worthwhile
+B. feasible
+C. enviable
+D. welcome
+Answer: A
 
 
 
 NODE LISTENING
 
-Q1: Another example is in the proposed biosynthesis of aranotin , an oxepine ___ in nature , and its related compounds .
-Answer: found
+Q1: A lot of electricity is ___ in arc welding .
+Answer: used
 
-Q2: Most of the oomycetes produce two distinct ___ of spores .
-Answer: types
+Q2: This research contributed greatly to understanding the lateralization of brain ___ .
+Answer: function
 
-Q3: According to 2011 census , Vikramasingapuram had a population of 47,241 with a sex - ___ of 1,058 females for every 1,000 males , much above the national average of 929 .
-Answer: ratio
+Q3: The early modern period was characterized by ___ changes in many realms of human endeavor .
+Answer: profound
 
-Q4: Most ___ databases store information on stable molecules .
-Answer: chemical
+Q4: The ___ of formally defined layers or strata is central to the geologic discipline of stratigraphy .
+Answer: concept
 
-Q5: Praxidike belongs to the Ananke group , believed to be the ___ of a break - up of a captured asteroid .
-Answer: remnants
+Q5: Dates in brackets represent the ___ dates of the Ptolemaic pharaohs .
+Answer: ruling
 
-Q6: A urinary ___ infection in the lower urinary tract is known as a bladder infection .
-Answer: tract
+Q6: ___ division is more complex in eukaryotes than in other organisms .
+Answer: cell
 
-Q7: The goatse . cx ___ name was reportedly sold at an auction on April 30 , 2007 to an unknown bidder .
-Answer: domain
+Q7: Hydrazoic acid is extremely ___ , even more toxic than sodium azide .
+Answer: toxic
 
-Q8: Some water turbines are designed for Pumped ___ hydroelectricity .
-Answer: storage
+Q8: Calcium nitrate is used in waste water pre - conditioning for odor emission ___ .
+Answer: prevention
 
-Q9: Sebaceous glands are involved in skin ___ such as acne and keratosis pilaris .
-Answer: problems
+Q9: Before the age of ___ and computational chemistry , wet chemistry was the predominant form of scientific discovery in the chemical field .
+Answer: theoretical
 
-Q10: Color blindness is typically an inherited genetic ___ .
-Answer: disorder
+Q10: In Hydrology , dissipation is the ___ of converting mechanical energy of downward flowing water into thermal and acoustical energy .
+Answer: process
 
 
 
 NODE SPEAKING
 
-1. Other authors have attempted to use evolutionary game theory in order to explain the emergence of human attitudes about morality and corresponding animal behaviors .
-2. Haematoxylin and eosin staining is often used in histology for thin sections of tissue .
-3. TLR signaling leads to the induction or suppression of genes that orchestrate the inflammatory response .
-4. Polydnaviruses are a unique group of insect viruses that have a mutualistic relationship with parasitic wasps .
-5. A proto-oncogene is a normal gene that could become an oncogene due to mutations or increased expression .
-6. Garnica started in athletics after his vision severely deteriorated , and is a T12 long distance track and field events .
-7. Hydrazoic acid is very explosive .
-8. It hunts by flying low and slowly over an area of open ground , hovering over spots that conceal potential prey .
-9. Embryo transfer can be performed after various durations of embryo culture , conferring different stages in embryogenesis .
-10. Unaipon was a recognized authority on ballistics .
+1. On Earth , most basalt magmas have formed by melting of the mantle .
+2. The chessboard on the top of the cabinet was thin enough to allow for a magnetic linkage .
+3. There are many kinds of icosahedra , with some being more symmetrical than others .
+4. Shanbaug died of pneumonia on 18 May 2015 after being in a persistent vegetative state for nearly 42 years .
+5. Engineering ceramics are known for their stiffness , high temperature , and stability under compression and electrical stress .
+6. Furthermore , renewable can also provide energy to refrigerate medicine and sterilize medical equipment in rural areas where the access to electricity is difficult .
+7. Embryo transfer can be performed after various durations of embryo culture , conferring different stages in embryogenesis .
+8. Unusually for falcons , plumage often differs between male and female , although as usual with monogamous raptors the female is slightly larger than the male .
+9. The gymnosperms and angiosperms together make up the spermatophytes or seed plants .
+10. In ancient times , regnal years were counted from the year a new monarch took the throne .
 
 
 NODE MATCHING
 
-1. exquisite -> tinh tế
-2. exchequer -> kho bạc
-3. prudence -> sự thận trọng
-4. archive -> lưu trữ
-5. spotlight -> điểm sáng
-6. litigious -> hay kiện tụng
-7. casino -> sòng bạc
-8. diligently -> siêng năng
-9. complication -> biến chứng
-10. theoretical -> lý thuyết
+1. fly off the handle -> suddenly become extremely angry without a good reason
+2. switch on/off -> start/stop a machine/light/etc working
+3. before your time -> used for saying that something happened or existed before you were born or before you lived or worked somewhere
+4. up in arms about -> angry and complaining about something
+5. it’s as broad as it’s long -> used for saying that you cannot choose between two things or actions because they are equal
+6. let your hair down -> relax and enjoy yourself because you are in a comfortable environment
+7. One good way to drum -> up support is to get people in the high street to sign a petition.
+8. crease up -> laugh a lot, or make someone else laugh a lot
+9. go about -> start dealing with a problem, situation or job in a particular way
+10. keep up -> continue to do something; move at the same speed as someone or something
 
 
 NODE REVIEW
 
-Q1: What is the meaning of: taint
-A. sự phân định
-B. nồng
-C. sự ô nhiễm
-D. giảm bớt
+Q1: Although she would have preferred to carry on working, my mum ............................ her career in order to have children.
+A. repealed
+B. devoted
+C. sacrificed
+D. abolished
 Answer: C
 
-Q2: The goatse . cx ___ name was reportedly sold at an auction on April 30 , 2007 to an unknown bidder .
-Answer: domain
+Q2: I'm so ............................ under with work at the moment - it's awful!
+A. iced
+B. rained
+C. fogged
+D. snowed
+Answer: D
 
-3. Unaipon was a recognized authority on ballistics .
-Q4: What is the meaning of: fastidious
-A. vít
-B. cầu kỳ
-C. chất nổ
-D. huy động
-Answer: B
+3. In ancient times , regnal years were counted from the year a new monarch took the throne .
+Q4: The early modern period was characterized by ___ changes in many realms of human endeavor .
+Answer: profound
 
-5. Garnica started in athletics after his vision severely deteriorated , and is a T12 long distance track and field events .
-6. Other authors have attempted to use evolutionary game theory in order to explain the emergence of human attitudes about morality and corresponding animal behaviors .
-Q7: Sebaceous glands are involved in skin ___ such as acne and keratosis pilaris .
-Answer: problems
+Q5: Hydrazoic acid is extremely ___ , even more toxic than sodium azide .
+Answer: toxic
 
-Q8: Most of the oomycetes produce two distinct ___ of spores .
-Answer: types
+Q6: A lot of electricity is ___ in arc welding .
+Answer: used
 
-Q9: Praxidike belongs to the Ananke group , believed to be the ___ of a break - up of a captured asteroid .
-Answer: remnants
-
-10. archive -> lưu trữ
+7. Embryo transfer can be performed after various durations of embryo culture , conferring different stages in embryogenesis .
+8. Furthermore , renewable can also provide energy to refrigerate medicine and sterilize medical equipment in rural areas where the access to electricity is difficult .
+9. crease up -> laugh a lot, or make someone else laugh a lot
+10. On Earth , most basalt magmas have formed by melting of the mantle .
 
 

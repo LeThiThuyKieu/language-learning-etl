@@ -3,173 +3,183 @@ TREE 16
 
 NODE VOCAB
 
-Q1: What is the meaning of: to decry
-A. lên án
-B. sự hối hận
-C. đẹp như tranh vẽ
-D. thú vị
-Answer: A
+Q1: Do you think there might be a ............................ between Angie's behaviour and the accident she had?
+A. junction
+B. tie
+C. link
+D. bond
+Answer: C
 
-Q2: What is the meaning of: magnate
-A. suy yếu
-B. thời tiết xấu
-C. cam kết
-D. ông trùm
-Answer: D
+Q2: Even ............................ I work all night I won't finish.
+A. although
+B. if
+C. when
+D. so
+Answer: B
 
-Q3: What is the meaning of: constitutional
-A. hiến pháp
-B. khát vọng
-C. đặc biệt
-D. bất khả xâm phạm
-Answer: A
+Q3: Ian Mills won the election ............................ all the odds.
+A. despite
+B. without
+C. against
+D. below
+Answer: C
 
-Q4: What is the meaning of: fraught
-A. ám chỉ
-B. phần kết
-C. sự đồng lõa
-D. căng thẳng
-Answer: D
+Q4: A half, written as a/an ............................, looks like this: 1/2.
+A. rate
+B. fraction
+C. ratio
+D. equation
+Answer: B
 
-Q5: What is the meaning of: limbo
-A. sự lấp lửng
-B. tính hợp lệ
-C. kích động
-D. khu vực biệt lập
-Answer: A
+Q5: I'm thinking of going on Million Euro Spender; I'd love to ............................ spend a million euros in one day!
+A. can
+B. have to
+C. be able
+D. must
+Answer: B
 
-Q6: What is the meaning of: to accost
-A. để tiếp cận
-B. kết án
-C. lòng trung thành
-D. tàn tích
-Answer: A
+Q6: In no way ............................ that people will be prevented from organising peaceful protests.
+A. this law does mean
+B. does this law mean
+C. means this law
+D. this law means
+Answer: B
 
-Q7: What is the meaning of: placid
-A. điềm tĩnh
-B. tàu
-C. ác ý
-D. ruột
-Answer: A
+Q7: How dare you accuse me ............................ !
+A. to cheat
+B. of cheating
+C. cheating
+D. that I cheat
+Answer: B
 
-Q8: What is the meaning of: marketplace
-A. căng thẳng
-B. chủ trì
-C. đỉnh cao
-D. thị trường
-Answer: D
+Q8: I always take my lucky ............................ with me into an exam.
+A. sign
+B. item
+C. charm
+D. spell
+Answer: C
 
-Q9: What is the meaning of: bizarre
-A. tăng tốc
-B. tù nhân
-C. tiếp tuyến
-D. kỳ lạ
-Answer: D
+Q9: The new Arts Centre seems to have been ............................ construction for quite some time.
+A. below
+B. on
+C. under
+D. in
+Answer: C
 
-Q10: What is the meaning of: evolutionary
-A. tiến hóa
-B. loại trừ
-C. bài điếu văn
-D. nhóm
+Q10: What kind of world do you want to leave behind for your ............................ ?
+A. descendants
+B. siblings
+C. predecessors
+D. ancestors
 Answer: A
 
 
 
 NODE LISTENING
 
-Q1: Thermocouples are widely used in science and ___ .
-Answer: industry
+Q1: The increasing use of carbon fiber composites is displacing aluminum from aerospace ___ in favor of other metals .
+Answer: applications
 
-Q2: Procaine was ___ synthesized in 1905 , shortly after amylocaine .
-Answer: first
+Q2: With advances in medicinal chemistry , most modern antibacterials are semisynthetic ___ of various natural compounds .
+Answer: modifications
 
-Q3: Hydrazoic acid is ___ and highly toxic .
-Answer: volatile
+Q3: Adults are strictly diurnal , ___ preferentially in the late morning and early afternoon .
+Answer: flying
 
-Q4: An OEM damper ___ of an outer mass bonded / vulcanized to an inner hub .
+Q4: The Cheer pheasant ___ the color and brilliance of most pheasants .
+Answer: lacks
+
+Q5: An OEM damper ___ of an outer mass bonded / vulcanized to an inner hub .
 Answer: consists
 
-Q5: Small amounts of hydrogen sulfide can be found in ___ petroleum .
-Answer: crude
+Q6: An example is the thermal ___ - opening reaction of 3,4 - dimethylcyclobutene .
+Answer: ring
 
-Q6: Seaweeds are also harvested or cultivated for the extraction of alginate , agar and carrageenan , gelatinous ___ collectively known as hydrocolloids or phycocolloids .
-Answer: substances
+Q7: These spots are often followed within a few days or weeks by a much greater leakage of ___ , which blurs the vision .
+Answer: blood
 
-Q7: Hollandaise is one of the five ___ sauces in French haute cuisine .
-Answer: mother
+Q8: There are two objects , one convex and one concave , that can both be called ___ icosahedra .
+Answer: regular
 
-Q8: Web ___ and web proxy servers employ web caches to store previous responses from web servers , such as web pages and images .
-Answer: browsers
+Q9: If a person still has a ___ , it is usually possible to terminate the episode using electric cardioversion .
+Answer: pulse
 
-Q9: In a ___ example the two bromine atoms in 3 - tert - butyl - trans - 1 , 2 - dibromohexane mutarotate by heating .
-Answer: straightforward
-
-Q10: By 2002 , 36 states had repealed their sodomy ___ or their courts had overturned them .
-Answer: laws
+Q10: Jaspillite is also formed as exhalative chemical ___ in certain lead - zinc ore deposits , and as a hydrothermal alteration facies around submarine volcanism .
+Answer: sediments
 
 
 
 NODE SPEAKING
 
 1. There are risks of infection by salmonella bacteria .
-2. Pumice is widely used to make lightweight concrete and insulative low-density cinder blocks .
-3. Women wear a feminine tartan kilt , a short white blouse with a sleeveless velvet jacket over it , matching tartan hose and ghilies shoes .
-4. Because of their abundance , seamounts are one of the most common marine ecosystems in the world .
-5. Gerardus't Hooft is well known for his theories about gauge theory , black holes , and quantum gravity .
-6. Bromine is toxic and corrosive to skin .
-7. Lactose intolerance is distinct from milk allergy , an immune response to cow 's milk proteins .
-8. Typically unitary authorities cover large towns or cities , which are large enough to be independent of county or regional administration .
-9. Hazzard died in New York City on 12 December 2016 from complications of dementia , aged 85 .
-10. Plants in wildfire - prone ecosystems often survive through adaptations to their local fire regime .
+2. Follies began as decorative accents on the great estates of the late 16th century and early 17th century but they flourished especially in the two centuries which followed .
+3. Before the Roman conquest their land and capital appear to have been part of the territory of the Atrebates , possibly as part of a confederation of tribes .
+4. Differential cryptanalysis is usually a chosen plaintext attack , meaning that the attacker must be able to obtain ciphertexts for some set of plaintexts of their choosing .
+5. Some dispute psychometrics entirely .
+6. If schizophrenia is caused by bad communication between mother and child , then family interaction studies become relevant .
+7. Potassium ions are vital for the functioning of all living cells .
+8. It is known as a spa , specialising in mud treatment for rheumatism and similar ailments .
+9. The second half of glycolysis is known as the 'pay - off phase ' , by the net gain of the energy - rich molecules ATP and NADH .
+10. The function or use of the dodecahedra remains a mystery ; no mention of them has been found in texts or pictures of the time .
 
 
 NODE MATCHING
 
-1. fulsome -> đầy đặn
-2. sue -> kiện tụng
-3. generic -> chung
-4. apparition -> sự xuất hiện
-5. dispensation -> sự ban phát
-6. tobacco -> thuốc lá
-7. engagement -> hôn ước
-8. appetite -> sự thèm ăn
-9. iconoclast -> kẻ phá bỏ biểu tượng
-10. to demur -> phản đối
+1. from time to time -> sometimes, but not often
+2. If you didn't eat your lunch so fast, -> you wouldn't get hiccups, would you?
+3. I’d never buy -> blackmailers off – I’d rather go to the police and face the consequences.
+4. go together -> if two or more things go together, they frequently exist together; if two things go together, they seem good, natural or attractive in combination with each other
+5. crack down (on) -> start dealing with someone or something much more strictly crackdown (n)
+6. put across/over -> explain an idea, belief, etc in a way that is easy to understand
+7. turn over a new leaf -> change your life by starting to be a better person or stopping a bad habit
+8. No matter what I said, Chris refused to back -> down from her position on abortion.
+9. go down (well/badly) (with sb) -> produce a particular reaction
+10. a sight for sore eyes -> someone or something that you are very pleased to see
 
 
 NODE REVIEW
 
-Q1: What is the meaning of: bizarre
-A. tù nhân
-B. tăng tốc
-C. tiếp tuyến
-D. kỳ lạ
-Answer: D
+1. Differential cryptanalysis is usually a chosen plaintext attack , meaning that the attacker must be able to obtain ciphertexts for some set of plaintexts of their choosing .
+Q2: The new Arts Centre seems to have been ............................ construction for quite some time.
+A. in
+B. under
+C. below
+D. on
+Answer: B
 
-Q2: What is the meaning of: constitutional
-A. hiến pháp
-B. khát vọng
-C. đặc biệt
-D. bất khả xâm phạm
+Q3: Do you think there might be a ............................ between Angie's behaviour and the accident she had?
+A. link
+B. junction
+C. tie
+D. bond
 Answer: A
 
-3. Bromine is toxic and corrosive to skin .
-Q4: An OEM damper ___ of an outer mass bonded / vulcanized to an inner hub .
-Answer: consists
+4. put across/over -> explain an idea, belief, etc in a way that is easy to understand
+Q5: Even ............................ I work all night I won't finish.
+A. although
+B. if
+C. so
+D. when
+Answer: B
 
-5. apparition -> sự xuất hiện
-Q6: What is the meaning of: marketplace
-A. chủ trì
-B. đỉnh cao
-C. căng thẳng
-D. thị trường
+6. go down (well/badly) (with sb) -> produce a particular reaction
+Q7: How dare you accuse me ............................ !
+A. to cheat
+B. cheating
+C. that I cheat
+D. of cheating
 Answer: D
 
-Q7: Seaweeds are also harvested or cultivated for the extraction of alginate , agar and carrageenan , gelatinous ___ collectively known as hydrocolloids or phycocolloids .
-Answer: substances
+8. I’d never buy -> blackmailers off – I’d rather go to the police and face the consequences.
+Q9: I'm thinking of going on Million Euro Spender; I'd love to ............................ spend a million euros in one day!
+A. can
+B. must
+C. have to
+D. be able
+Answer: C
 
-8. to demur -> phản đối
-9. Women wear a feminine tartan kilt , a short white blouse with a sleeveless velvet jacket over it , matching tartan hose and ghilies shoes .
-10. engagement -> hôn ước
+Q10: If a person still has a ___ , it is usually possible to terminate the episode using electric cardioversion .
+Answer: pulse
+
 
 

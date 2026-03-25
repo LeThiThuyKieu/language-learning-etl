@@ -3,153 +3,166 @@ TREE 5
 
 NODE VOCAB
 
-Q1: What is the meaning of: website
-A. môi trường
-B. nhà thờ
-C. câu lạc bộ
-D. trang web
-Answer: D
-
-Q2: What is the meaning of: prefer
-A. Không có gì
-B. thích hơn
-C. trông chờ
-D. thay đổi
+Q1: You can make the dog ............................ to you by shouting 'come'.
+A. coming
+B. come
+C. to come
 Answer: B
 
-Q3: What is the meaning of: football
-A. tính năng
-B. trượt tuyết
-C. căn hộ
-D. bóng đá
+Q2: I want ............................ me what's wrong, but she won't.
+A. to tell Lisa
+B. Lisa to telling
+C. Lisa telling
+D. Lisa to tell
 Answer: D
 
-Q4: What is the meaning of: sail
-A. quốc tế
-B. hóa đơn
-C. chèo
-D. hứa
-Answer: C
-
-Q5: What is the meaning of: bean
-A. giữa
-B. Chính xác
-C. nền tảng
-D. đậu
-Answer: D
-
-Q6: What is the meaning of: disagree
-A. không đồng ý
-B. tuyên bố
-C. cảm thấy
-D. hoàn thành
+Q3: At my last basketball club, we ............................ every Saturday for three hours.
+A. used to train
+B. train
+C. training
+D. were training
 Answer: A
 
-Q7: What is the meaning of: knee
-A. tầng dưới
-B. đáng sợ
-C. đầu gối
-D. DVD
-Answer: C
+Q4: I ............................ apologise when I broke my mum's favourite vase.
+A. ought to
+B. had to
+C. could
+D. must
+Answer: B
 
-Q8: What is the meaning of: exercise
-A. Ai
-B. dừng lại
-C. bài tập
-D. từ
-Answer: C
-
-Q9: What is the meaning of: essay
-A. rác
-B. lái xe
-C. hoạt động
-D. tiểu luận
+Q5: Do you really think those high-heeled shoes are ............................ in the jungle?
+A. loose
+B. ancient
+C. rough
+D. suitable
 Answer: D
 
-Q10: What is the meaning of: suit
-A. một nửa
-B. động cơ
-C. bộ đồ
-D. Xin vui lòng
+Q6: The CD was expensive. ............................, it wasn't very good quality.
+A. Although
+B. In spite of
+C. However
+Answer: C
+
+Q7: We all wish Tim ............................ with the housework.
+A. would help
+B. will help
+C. helps
+Answer: A
+
+Q8: I don't think Adam ............................ what the coach told us.
+A. had been understanding
+B. understood
+C. has been understanding
+D. was understanding
+Answer: B
+
+Q9: 'What ............................ when you saw the man?' the police officer asked.
+A. have you done
+B. are you doing
+C. do you do
+D. were you doing
+Answer: D
+
+Q10: The bank in the high street was ............................ again yesterday.
+A. stolen
+B. broken
+C. robbed
+D. taken
 Answer: C
 
 
 
 NODE LISTENING
 
-Q1: If we had known , we ' d have ___ .
-Answer: come
+Q1: Have you already ___ it ?
+Answer: done
 
-Q2: They often liked doing ___ together .
-Answer: things
+Q2: The women coming over ___ are my friends .
+Answer: today
 
-Q3: Shall I teach you to ___ ?
-Answer: dance
+Q3: That ' s the house where guests ___ .
+Answer: stay
 
-Q4: Not much is known about his ___ .
-Answer: life
+Q4: Delpire died in Paris on 26 September 2017 in Paris at the ___ of 91 .
+Answer: age
 
-Q5: Her son became a ___ .
-Answer: dentist
+Q5: She must go ___ soon .
+Answer: home
 
-Q6: He gave the boys some money to buy their mother some ___ .
-Answer: flowers
+Q6: It got ___ rights in 1249 .
+Answer: city
 
-Q7: I do not always listen to ___ .
-Answer: music
+Q7: ___ was too shy to wear a bikini .
+Answer: mother
 
-Q8: It was the day when she broke her ___ .
-Answer: arm
+Q8: ___ on the Aha !
+Answer: research
 
-Q9: It is ___ to talk to her peacefully .
-Answer: difficult
+Q9: My ___ - in - law died three years ago .
+Answer: mother
 
-Q10: The ___ is made of plastic .
-Answer: ball
+Q10: Stubing died on 3 July 2017 in Rome , ___ 76 .
+Answer: age
 
 
 
 NODE SPEAKING
 
-1. That was the spot where the tree was .
-2. Football is the most popular sport in Costa Rica .
-3. The speech lasted 40 minutes and 14 seconds .
-4. There is a guest house on the hill behind the main house .
-5. They feed on insects and fruit .
-6. The teacher asked him to close the windows .
-7. The song has been covered by number of artists .
-8. Blue crabs are famous in this area .
-9. The song was released in November 2013 .
-10. I wish I could have finished it .
+1. What 's the date today ?
+2. Not much is known about his life .
+3. In 1870 the river flooded .
+4. All of you should leave .
+5. Worldwide production of apples in 2013 was 90.8 million tonnes .
+6. She was happy but now she is sad .
+7. Not all adults are always correct in what they do or say .
+8. The train stopped before I arrived at my station .
+9. You must feel very sick .
+10. The sun began to rise .
 
 
 NODE MATCHING
 
-1. double -> gấp đôi
-2. together -> cùng nhau
-3. flying -> bay
-4. differently -> khác nhau
-5. meeting -> cuộc họp
-6. drink -> uống
-7. bathroom -> phòng tắm
-8. accept -> chấp nhận
-9. note -> ghi chú
-10. worst -> tồi tệ nhất
+1. viewer -> someone who watches television programmes
+2. lack -> to not have something, or to not have enough of something
+3. illegal -> not allowed by the law
+4. try on -> put on (a piece of clothing) to see how it looks and if it fits
+5. Carol has a maths test tomorrow, -> doesn't she?
+6. Mr Robinson is responsible -> for interviewing people applying for jobs.
+7. polite -> behaving towards other people in a pleasant way that follows all the usual rules of society
+8. champion -> someone who has won an important competition, especially in sport
+9. get away with -> escape punishment for
+10. doubt -> to think that something is probably not true, probably does not exist, or probably will not happen
 
 
 NODE REVIEW
 
-1. double -> gấp đôi
-2. The teacher asked him to close the windows .
-3. worst -> tồi tệ nhất
-4. flying -> bay
-Q5: Her son became a ___ .
-Answer: dentist
+Q1: Have you already ___ it ?
+Answer: done
 
-6. The song was released in November 2013 .
-7. The speech lasted 40 minutes and 14 seconds .
-8. together -> cùng nhau
-9. accept -> chấp nhận
-10. differently -> khác nhau
+2. Not much is known about his life .
+3. All of you should leave .
+Q4: At my last basketball club, we ............................ every Saturday for three hours.
+A. used to train
+B. train
+C. training
+D. were training
+Answer: A
+
+5. champion -> someone who has won an important competition, especially in sport
+Q6: It got ___ rights in 1249 .
+Answer: city
+
+Q7: Delpire died in Paris on 26 September 2017 in Paris at the ___ of 91 .
+Answer: age
+
+8. doubt -> to think that something is probably not true, probably does not exist, or probably will not happen
+9. What 's the date today ?
+Q10: I don't think Adam ............................ what the coach told us.
+A. understood
+B. has been understanding
+C. was understanding
+D. had been understanding
+Answer: A
+
 
 
