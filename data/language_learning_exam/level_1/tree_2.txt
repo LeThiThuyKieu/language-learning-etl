@@ -3,179 +3,170 @@ TREE 2
 
 NODE VOCAB
 
-Q1: What is the meaning of: beat
-A. quảng cáo
-B. tiết tấu
-C. mười ba
-D. sa mạc
+Q1: If you exercise more, you ............................ weight.
+A. would lose
+B. will lose
+C. have lost
+D. had lost
 Answer: B
 
-Q2: What is the meaning of: businessman
-A. dạy bảo
-B. cá
-C. doanh nhân
-D. giờ
-Answer: C
-
-Q3: What is the meaning of: window
-A. đường
-B. sớm
-C. nặng
-D. cửa sổ
-Answer: D
-
-Q4: What is the meaning of: dad
-A. con ếch
-B. lạ lùng
-C. địa điểm
-D. bố
-Answer: D
-
-Q5: What is the meaning of: driver
-A. có thể
-B. Chắc chắn
-C. được rồi
-D. tài xế
-Answer: D
-
-Q6: What is the meaning of: negative
-A. tiêu cực
-B. kem
-C. người lớn
-D. thuê
+Q2: I'll see you ............................ half past eight.
+A. at
+B. on
+C. in
+D. to
 Answer: A
 
-Q7: What is the meaning of: weight
-A. gửi
-B. tức giận
-C. lợi thế
-D. cân nặng
-Answer: D
+Q3: ............................ it was expensive, the CD wasn't very good quality.
+A. In spite of
+B. Although
+C. However
+Answer: B
 
-Q8: What is the meaning of: board
-A. phía nam
-B. mập
-C. nghệ sĩ
-D. Cái bảng
-Answer: D
-
-Q9: What is the meaning of: example
-A. quần jean
-B. quốc tế
-C. ví dụ
-D. mét
+Q4: Students mustn't run in school buildings.
+A. They can run if they want to.
+B. Students don't like running.
+C. Running isn't allowed.
 Answer: C
 
-Q10: What is the meaning of: model
-A. to lớn
-B. mười lăm
-C. người mẫu
-D. đôi
+Q5: If something is illegal, it's against the ............................ .
+A. rule
+B. law
+C. society
+D. government
+Answer: B
+
+Q6: I hope ............................ a pilot when I grow up.
+A. become
+B. to become
+C. becoming
+Answer: B
+
+Q7: I don't know much about computers, so I asked the assistant for ............................ advice.
+A. a little
+B. a lot
+C. many
+D. a few
+Answer: A
+
+Q8: Bob joined the ............................ about six years ago.
+A. ambition
+B. fame
+C. pension
+D. company
+Answer: D
+
+Q9: Do you think we'll all have flying cars ............................ the future?
+A. on
+B. at
+C. in
+D. to
 Answer: C
+
+Q10: It was a fantastic experience because I'd never ............................ in a plane before.
+A. been flying
+B. flown
+Answer: B
 
 
 
 NODE LISTENING
 
-Q1: Have you ever gone to sleep on a ___ ?
-Answer: train
+Q1: He had very powerful ___ .
+Answer: legs
 
-Q2: The airport was closed for about five ___ after the crash .
-Answer: hours
+Q2: The two ___ have never played each other before .
+Answer: teams
 
-Q3: I buy my ___ from a local baker .
-Answer: bread
+Q3: The main ___ used on the line is Class 375 Electrostars .
+Answer: trains
 
-Q4: Our kids have ___ deciding what to wear to school .
-Answer: trouble
+Q4: She joined the U . S . Sailing ___ .
+Answer: team
 
-Q5: Freestyle snowboarding is now an Olympic ___ .
-Answer: sport
+Q5: Several different explanations exist for the ___ name .
+Answer: original
 
-Q6: Please return my ___ as soon as possible .
-Answer: book
+Q6: She was an only ___ , born in London .
+Answer: child
 
-Q7: Historically , Latin or Romance has been the official ___ .
-Answer: language
+Q7: Is there any of the vegetable spaghetti left from last night ' s ___ ?
+Answer: dinner
 
-Q8: He has already left for his ___ .
-Answer: class
+Q8: She died after a long illness on 6 ___ 2014 at the age of 85 .
+Answer: april
 
-Q9: Jane had a nice ___ collection .
-Answer: jacket
+Q9: The band ' s second world tour began in ___ 2001 .
+Answer: january
 
-Q10: Is it ___ 5 p . m . ?
-Answer: already
+Q10: On ___ 10 , a day of memorials began peacefully .
+Answer: august
 
 
 
 NODE SPEAKING
 
-1. We went to look for food .
-2. Pussy Riot released seven songs and five videos .
-3. The airport was closed for about five hours after the crash .
-4. She often wore her pajamas until noon .
-5. Let me get you your coat .
-6. Have you changed your hairstyle ?
-7. He died on 12 July 2019 , four days before his 85th birthday .
-8. She made many friends before leaving the country .
-9. Historically , Latin or Romance has been the official language .
-10. It was then that I saw her .
+1. Alsop died on 12 May 2018 at the age of 70 .
+2. The purpose of the event is to have the hardest shot .
+3. The dogs started to fight .
+4. He was part of the American basketball team , which won the gold medal .
+5. I like dogs more than cats .
+6. Have you already had your lunch ?
+7. I thought I saw him .
+8. He has many works .
+9. I do not always listen to music .
+10. It showed that 5,308,483 people were living in the United States .
 
 
 NODE MATCHING
 
-1. pound -> pao
-2. firstly -> Trước hết
-3. dark -> tối tăm
-4. disaster -> thảm họa
-5. restaurant -> nhà hàng
-6. far -> xa
-7. wrong -> sai
-8. routine -> lịch trình
-9. hat -> mũ
-10. follow -> theo
+1. eat out -> eat at a restaurant
+2. take away -> remove
+3. have fun -> get enjoyment from an activity that is not important or serious
+4. vitamin -> a natural substance in food that is necessary to keep your body healthy
+5. ferry -> a boat that makes short regular journeys between two or more places
+6. deserve -> if you deserve something, it is right that you get it, because of the way that you are or the way that you have behaved
+7. silk -> a thin smooth cloth made from the fibres produced by insects called silkworms
+8. 'Greg can't be in the final! He's a terrible player!' -> I'm almost certain.
+9. talented -> very good at something
+10. lie down -> start lying(on a bed, etc)
 
 
 NODE REVIEW
 
-1. Historically , Latin or Romance has been the official language .
-Q2: What is the meaning of: window
-A. đường
-B. sớm
-C. cửa sổ
-D. nặng
-Answer: C
+Q1: Students mustn't run in school buildings.
+A. Running isn't allowed.
+B. Students don't like running.
+C. They can run if they want to.
+Answer: A
 
-Q3: Our kids have ___ deciding what to wear to school .
-Answer: trouble
-
-4. far -> xa
-Q5: What is the meaning of: businessman
-A. cá
-B. dạy bảo
-C. giờ
-D. doanh nhân
+2. talented -> very good at something
+Q3: I don't know much about computers, so I asked the assistant for ............................ advice.
+A. a few
+B. many
+C. a lot
+D. a little
 Answer: D
 
-Q6: What is the meaning of: dad
-A. địa điểm
-B. lạ lùng
-C. bố
-D. con ếch
-Answer: C
+Q4: ............................ it was expensive, the CD wasn't very good quality.
+A. Although
+B. In spite of
+C. However
+Answer: A
 
-Q7: Historically , Latin or Romance has been the official ___ .
-Answer: language
-
-8. The airport was closed for about five hours after the crash .
-Q9: What is the meaning of: beat
-A. sa mạc
-B. mười ba
-C. quảng cáo
-D. tiết tấu
+5. take away -> remove
+6. The dogs started to fight .
+Q7: I'll see you ............................ half past eight.
+A. on
+B. to
+C. in
+D. at
 Answer: D
 
-10. routine -> lịch trình
+Q8: The main ___ used on the line is Class 375 Electrostars .
+Answer: trains
+
+9. silk -> a thin smooth cloth made from the fibres produced by insects called silkworms
+10. It showed that 5,308,483 people were living in the United States .
 
 

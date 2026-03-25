@@ -3,158 +3,172 @@ TREE 24
 
 NODE VOCAB
 
-Q1: What is the meaning of: to covet
-A. để làm rõ
-B. làm suy yếu
-C. sự giả tạo
-D. thèm muốn
+Q1: It's not fair to make the dog ............................ in the car on such a hot day.
+A. waiting
+B. to wait
+C. wait
+D. for waiting
+Answer: C
+
+Q2: 'Have you finished with the paper yet?' 'I've ............................ started reading it!'
+A. already
+B. still
+C. just
+D. even
+Answer: C
+
+Q3: You have to go through a number of ............................ stages before you become an expert.
+A. intermediate
+B. medium
+C. average
+D. moderate
+Answer: A
+
+Q4: We still ............................ to the idea.
+A. haven't got used
+B. don't use
+C. didn't use
+D. don't get used
+Answer: A
+
+Q5: I woke up late for my interview because I ............................ about it all night and didn't get much sleep.
+A. had worried
+B. worried
+C. have been worrying
+D. had been worrying
 Answer: D
 
-Q2: What is the meaning of: impassive
-A. trơ trơ
-B. lòng thương xót
-C. lũ lụt
-D. sự gián đoạn
-Answer: A
-
-Q3: What is the meaning of: sage
-A. để tránh né
-B. sự ngoan cố
-C. cây xô thơm
-D. để chứng minh
-Answer: C
-
-Q4: What is the meaning of: tether
-A. người thích xem hình ảnh liên quan đến tình dục
-B. sự dũng cảm
-C. dây buộc
-D. độc lập
-Answer: C
-
-Q5: What is the meaning of: spouse
-A. vợ chồng
-B. sự thiếu thận trọng
-C. bình minh
-D. sinh thái
-Answer: A
-
-Q6: What is the meaning of: accusation
-A. thuyết giảng
-B. cáo buộc
-C. liên lạc viên
-D. để đáp lại
+Q6: Maria was just walking along the road when someone on a motorbike ............................ her handbag.
+A. clenched
+B. grabbed
+C. clutched
+D. fumbled
 Answer: B
 
-Q7: What is the meaning of: segment
-A. tâm lý
-B. nghiêng
-C. phân đoạn
-D. khó tính
+Q7: Rebecca didn't deserve ............................ punished quite so severely, if you ask me.
+A. being
+B. be
+C. to being
+D. to be
+Answer: D
+
+Q8: The company's announced it's ............................ off over 1,000 workers.
+A. leaving
+B. laying
+C. setting
+D. giving
+Answer: B
+
+Q9: ............................ they get the letter tomorrow, you still won't get a reply before the weekend.
+A. Even though
+B. However
+C. Even if
+D. While
 Answer: C
 
-Q8: What is the meaning of: decree
-A. sắc lệnh
-B. phép chiếu
-C. cảm hứng
-D. bất cứ điều gì
-Answer: A
-
-Q9: What is the meaning of: proceeds
-A. chiến trường
-B. người tuyên truyền
-C. tiền thu nhập
-D. phương pháp luận
-Answer: C
-
-Q10: What is the meaning of: oxymoron
-A. nghịch lý
-B. văn bản
-C. doanh thu
-D. mong muốn
-Answer: A
+Q10: These days, I only see Morgan once in a ............................ moon.
+A. green
+B. grey
+C. white
+D. blue
+Answer: D
 
 
 
 NODE LISTENING
 
-Q1: Zinc oxide is a white ___ .
-Answer: solid
-
-Q2: The head and thorax are white and the abdomen is yellow - orange with a row of black ___ .
-Answer: spots
-
-Q3: A classic example is the thermal ring - opening ___ of 3,4 - dimethylcyclobutene .
-Answer: reaction
-
-Q4: A ___ of other visiting diesel and steam locomotives have also seen service on the line .
-Answer: number
-
-Q5: Epidemiological practice and the results of epidemiological analysis make a significant contribution to emerging population - ___ health management frameworks .
-Answer: based
-
-Q6: These frogs lack adhesive toe discs found in the ___ frogs .
-Answer: tree
-
-Q7: A few species that live in waters where the supply of food particles is very poor ___ on crustaceans and other small animals .
-Answer: prey
-
-Q8: This ___ contributed greatly to understanding how each cerebral hemisphere works .
-Answer: research
-
-Q9: Although they are the most diverse of the caecilian families , the caeciliids do have a number of features in common that distinguish them from ___ caecilians .
+Q1: Many scientists had thought that the frontal lobe was disproportionately enlarged in humans compared to ___ primates .
 Answer: other
 
-Q10: Medications can ___ African trypanosomiasis .
+Q2: Gravitational lensing studies of the Bullet ___ are claimed to provide the best evidence to date for the existence of dark matter .
+Answer: cluster
+
+Q3: The authors were able to experimentally work out a rate law at 261.2 K for the reaction of 1,2 - dimethylidenecyclohexane with sulfur dioxide to give the ___ sulfolene .
+Answer: corresponding
+
+Q4: The tits are insectivorous , and eat a ___ range of small insects and other invertebrates , particularly small leaf - eating caterpillars .
+Answer: wide
+
+Q5: Pirogi come in ___ shapes and forms : they are often oblong with tapering ends , but can also be circular or rectangular .
+Answer: different
+
+Q6: Untreated streptococcal pharyngitis usually resolves within a few ___ .
+Answer: days
+
+Q7: Medications can ___ African trypanosomiasis .
 Answer: treat
+
+Q8: The dorsal and anal fins are divided into anterior spiny and posterior soft - rayed ___ , which may be partially or completely separated .
+Answer: portions
+
+Q9: Although completing the square can be used to solve many quadratic ___ , it does not work with every equation .
+Answer: equations
+
+Q10: A deranged genetic scientist abducts college ___ as human guinea pigs that he uses in his experiments in crossbreeding plants with humans .
+Answer: students
 
 
 
 NODE SPEAKING
 
-1. Characteristic features are a very long filiform tail , reduced eyes , and a low number of pectoral - fin radials .
-2. Eunomia appears to be a stretched but fairly round body , with what appear to be four sides of differing curvature and noticeably different average compositions .
-3. A didgeridoo is a type of musical instrument that , according to western musicological classification , falls into the category of aerophone .
-4. A flounder 's food is mainly fish spawn , crustaceans , polychaetes and small fish .
-5. The shell colouration also keeps the animal cryptic in the water .
-6. Horse - drawn for-hire hackney carriage services began operating in both Paris and London in the early 17th century .
-7. The bumblebee bat roosts in the caves of limestone hills , along rivers , within dry evergreen or deciduous forests .
-8. Hummingbird beaks are flexible and their shapes vary dramatically as an adaptation for specialized feeding .
-9. Many traditional wood joinery techniques use the distinctive material properties of wood , often without resorting to mechanical fasteners or adhesives .
-10. Cyclothymia is also an old name for bipolar disorder .
+1. Tonic immobility has also been said to occur in humans that are subject to intense trauma , such as rape or sexual assault .
+2. Horse - drawn for-hire hackney carriage services began operating in both Paris and London in the early 17th century .
+3. A linear chain of amino acid residues is called a polypeptide .
+4. There are few characteristics common to all blues , as the genre takes its shape from the peculiarities of each individual performance .
+5. Construction began in AD 142 at the order of Roman Emperor Antoninus Pius , and took about twelve years to complete .
+6. However , some people with schizophrenia have the ability to tickle themselves .
+7. Free vibration occurs when a mechanical system is set in motion with an initial input and allowed to vibrate freely .
+8. Potassium chromate is a carcinogen and strong oxidant .
+9. The exact identity of silphium is unclear .
+10. The company was also the first in the industry to make a gas-fired generator to electrify pipelines so they would n't corrode so much .
 
 
 NODE MATCHING
 
-1. rumination -> sự suy ngẫm
-2. cooperative -> hợp tác xã
-3. reverential -> kính trọng
-4. kudos -> thanh danh
-5. arena -> đấu trường
-6. to excoriate -> chỉ trích gay gắt
-7. to vituperate -> chửi rủa
-8. shrug -> nhún vai
-9. slap -> tát
-10. misanthrope -> người ghét loài người
+1. stand up to -> not allow yourself to be treated badly, especially by someone in authority
+2. for good -> permanently, without the possibility of change in the future
+3. throw out -> get rid of something that you no longer want, for example by putting it in a dustbin; force someone to leave a place or group; if someone in authority throws out a plan, proposal, etc they refuse to accept it
+4. blend in -> if someone or something blends in, they are similar to the other people, objects, buildings, etc around them, and so they seem appropriate or you do not notice them
+5. The tour we're going on next week takes -> in some fantastic areas of natural beauty.
+6. give sb a taste/dose of their own medicine -> treat someone in the same bad way they treat other people
+7. mount up -> get much larger
+8. put in -> fix something such as equipment in the place where it will be used and make it ready to use; make an official request, claim, offer, etc
+9. follow up -> check something or try to find out more about it; do something in addition to what you have already done
+10. get/catch sb's drift -> understand the basic meaning
 
 
 NODE REVIEW
 
-1. The bumblebee bat roosts in the caves of limestone hills , along rivers , within dry evergreen or deciduous forests .
-2. Cyclothymia is also an old name for bipolar disorder .
-3. rumination -> sự suy ngẫm
-Q4: This ___ contributed greatly to understanding how each cerebral hemisphere works .
-Answer: research
+1. The exact identity of silphium is unclear .
+Q2: It's not fair to make the dog ............................ in the car on such a hot day.
+A. wait
+B. waiting
+C. to wait
+D. for waiting
+Answer: A
 
-5. Eunomia appears to be a stretched but fairly round body , with what appear to be four sides of differing curvature and noticeably different average compositions .
-6. arena -> đấu trường
-7. slap -> tát
-8. Hummingbird beaks are flexible and their shapes vary dramatically as an adaptation for specialized feeding .
-9. misanthrope -> người ghét loài người
-Q10: What is the meaning of: oxymoron
-A. văn bản
-B. nghịch lý
-C. doanh thu
-D. mong muốn
+Q3: The company's announced it's ............................ off over 1,000 workers.
+A. setting
+B. laying
+C. giving
+D. leaving
+Answer: B
+
+4. Horse - drawn for-hire hackney carriage services began operating in both Paris and London in the early 17th century .
+Q5: Gravitational lensing studies of the Bullet ___ are claimed to provide the best evidence to date for the existence of dark matter .
+Answer: cluster
+
+Q6: Although completing the square can be used to solve many quadratic ___ , it does not work with every equation .
+Answer: equations
+
+7. However , some people with schizophrenia have the ability to tickle themselves .
+8. The tour we're going on next week takes -> in some fantastic areas of natural beauty.
+9. A linear chain of amino acid residues is called a polypeptide .
+Q10: 'Have you finished with the paper yet?' 'I've ............................ started reading it!'
+A. even
+B. just
+C. still
+D. already
 Answer: B
 
 

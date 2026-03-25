@@ -3,171 +3,173 @@ TREE 22
 
 NODE VOCAB
 
-Q1: What is the meaning of: walkout
-A. tuyến đường
-B. đình công
-C. điềm báo xấu
-D. âm trầm
+Q1: When I realised that I'd left my homework at home, I quickly ............................ back to get it.
+A. crawled
+B. dashed
+C. drifted
+D. crept
 Answer: B
 
-Q2: What is the meaning of: inequality
-A. bất bình đẳng
-B. vị trí còn trống
-C. quốc tịch
-D. phù hợp
-Answer: A
-
-Q3: What is the meaning of: baleful
-A. để xác nhận
-B. thực phẩm bổ sung
-C. hiệu quả
-D. không may
+Q2: Getting divorced was a ............................ decision, so I don't blame my ex-wife.
+A. relative
+B. cooperative
+C. related
+D. joint
 Answer: D
 
-Q4: What is the meaning of: tenure
-A. nhiệm kỳ
-B. lớn
-C. chẩn đoán
-D. để đẩy nhanh
+Q3: Sending out e-mails that people haven't asked for to ............................ addresses is often known as 'spamming'.
+A. sufficient
+B. multiple
+C. widespread
+D. countless
+Answer: B
+
+Q4: Apparently, before the fight some of the youths had ............................ themselves with knives.
+A. armed
+B. readied
+C. installed
+D. fitted
 Answer: A
 
-Q5: What is the meaning of: patrol
-A. lòng trung thành
-B. để giải thoát
-C. tuần tra
-D. phù hợp
+Q5: Were you really just on the point ............................ ?
+A. of resigning
+B. to resign
+C. with resignation
+D. of having resigned
+Answer: A
+
+Q6: I hope the government reduces the amount of ............................ tape required to start a new company.
+A. red
+B. blue
+C. green
+D. yellow
+Answer: A
+
+Q7: The house I was born in was ............................ some time ago.
+A. demolished
+B. smashed
+C. evicted
+D. ground
+Answer: A
+
+Q8: The ............................ on the kitchen table.
+A. grocery are
+B. grocery is
+C. groceries are
+D. groceries is
 Answer: C
 
-Q6: What is the meaning of: handling
-A. bay lên
-B. xử lý
-C. cây xô thơm
-D. sự suy đồi
-Answer: B
+Q9: You shouldn't have let Kerry ............................ without apologising for what you said to her.
+A. leaving
+B. to leaving
+C. leave
+D. to leave
+Answer: C
 
-Q7: What is the meaning of: morose
-A. ủ rũ
-B. quầy tính tiền
-C. vinh quang
-D. coi
-Answer: A
-
-Q8: What is the meaning of: spine
-A. xương sống
-B. chủ nghĩa bi quan
-C. vô tình
-D. điểm giao nhau
-Answer: A
-
-Q9: What is the meaning of: decorous
-A. nguyên mẫu
-B. thực thể
-C. con nai
-D. đoan trang
-Answer: D
-
-Q10: What is the meaning of: secular
-A. thế tục
-B. tỷ lệ mắc bệnh
-C. tro
-D. chuyến đi
-Answer: A
+Q10: Unless Ray ............................ here soon, I'm going to leave because I'm getting bored.
+A. doesn't get
+B. will get
+C. gets
+D. won't get
+Answer: C
 
 
 
 NODE LISTENING
 
-Q1: Some of a subsidiary ___ were : Under this doctrine , Indian rulers under British protection surrendered the control of their foreign affairs to the British .
-Answer: alliance
+Q1: During December to March , the lake turns to a ___ cobalt blue color , returning to a colder steel grey color for April to November .
+Answer: vibrant
 
-Q2: Fossil bryozoans first appear in the early Ordovician and had a ___ adaptive radiation .
-Answer: huge
+Q2: CIDCO carved out 16 nodes small townships with a view towards facilitating comprehensive ___ .
+Answer: development
 
-Q3: Most members have a complex lifecycle , involving both asexual and sexual ___ .
-Answer: reproduction
+Q3: The ladder ___ arises because no one technique can measure distances at all ranges encountered in astronomy .
+Answer: analogy
 
-Q4: ___ terpenoids are often used for their scent .
-Answer: plant
+Q4: He dubbed the relationship between color and salt ___ halochromy , of which malachite green is a prime example .
+Answer: formation
 
-Q5: Corticosteroids , ___ as dexamethasone and budesonide , have been shown to improve outcomes in children with all severities of croup .
-Answer: such
+Q5: One balances a chemical equation by changing the scalar number for each chemical ___ .
+Answer: formula
 
-Q6: Coagulation is highly conserved throughout ___ .
-Answer: biology
+Q6: Some examples of large Plinian eruptions that formed calderas ___ the following : The lava is usually rhyolitic and has a lot of silicates .
+Answer: include
 
-Q7: A proto - oncogene is a ___ gene that can become an oncogene due to mutations or increased expression .
-Answer: normal
+Q7: The classic varve ___ is a light / dark colored couplet deposited in a glacial lake .
+Answer: archetype
 
-Q8: Debian packages are standard Unix ar ___ that include two gzipped or bzipped tar archives : one that holds the control information and another that contains the data .
-Answer: archives
+Q8: The adult plumage of most of the albatrosses is usually some variation of dark upper - ___ and back with white undersides , often compared to that of a gull .
+Answer: wing
 
-Q9: The flattened bodies of stingrays allow them to effectively ___ themselves in their environments .
-Answer: conceal
+Q9: Arcanite is the ___ form of potassium sulfate .
+Answer: mineral
 
-Q10: C - type asteroids are very ___ with albedos usually in the 0.03 to 0.10 range .
-Answer: dark
+Q10: A schismatic is a person who creates or incites ___ in an organization or who is a member of a splinter group .
+Answer: schism
 
 
 
 NODE SPEAKING
 
-1. The origin of homochirality in the first place is much discussed .
-2. The authority of appellate courts to review the decisions of lower courts varies widely from one jurisdiction to another .
-3. Males and females look very similar except during the breeding season when the most conspicuous difference is a swollen gland around the male 's vent .
-4. Like the white - tailed hummingbird , it is sometimes considered a subspecies of the more widespread stripe-tailed hummingbird .
-5. Both cetaceans and artiodactyl are now classified under the super-order Cetartiodactyla , which includes both whales and hippopotamuses .
-6. Zinc sulfate can be used to supplement zinc in the brewing process .
-7. There is marked sexual dimorphism in this species .
-8. The saltwater crocodile is a large reptile growing to about 5 m in length .
-9. In order to enable the promotion of all Form 3 students to Form 4 in the school , the school altered the class structure to a symmetrical one .
-10. Haematoxylin and eosin staining is frequently used in histology to examine thin tissue sections .
+1. Commodus also had a passion for gladiatorial combat , which he took so far as to take to the arena himself , dressed as a secutor .
+2. A frequency distribution is said to be skewed when its mean and median are different .
+3. Histones undergo posttranslational modifications that alter their interaction with DNA and nuclear proteins .
+4. Emotional memory , the memory for events that evoke a particularly strong emotion , is a domain that can involve both declarative and procedural memory processes .
+5. Potassium nitrate can be made by combining ammonium nitrate and potassium hydroxide .
+6. Glaucocystophytic algae contain muroplasts , which are similar to chloroplasts except that they have a cell wall , similar to that of prokaryotes .
+7. The statement that is being tested against the null hypothesis is the alternative hypothesis .
+8. This list is arranged by drainage basin , with respective tributaries indented under each larger stream 's name .
+9. Eunomia appears to be an elongated but fairly regularly shaped body , with what appear to be four sides of differing curvature and noticeably different average compositions .
+10. Chondroitin sulfate was originally isolated well before the structure was characterized , leading to changes in terminology with time .
 
 
 NODE MATCHING
 
-1. chicanery -> sự lừa đảo
-2. motive -> động cơ
-3. toss -> quăng
-4. civic -> dân sự
-5. tremor -> sự rung chuyển
-6. undergraduate -> sinh viên đại học
-7. jingoism -> chủ nghĩa dân tộc cực đoan
-8. scrupulous -> tỉ mỉ
-9. malfeasance -> hành vi sai trái
-10. meagre -> ít ỏi
+1. concrete jungle -> unpleasant part of a city where there are a lot of ugly buildings close together
+2. spring up -> appear or be produced suddenly and quickly
+3. never/don't look a gift horse in the mouth -> if you are given something good, you should not complain about it or try to find things that are wrong with it
+4. speak volumes -> provide a lot of information, especially in an indirect way
+5. smarten up -> improve the appearance of something, for example by cleaning or painting it; if you smarten up or smarten yourself up, you make yourself look tidy and clean
+6. It took us ages to figure -> out how to get everyone to the sports centre without Phil knowing.
+7. bump into -> meet someone unexpectedly; accidentally hit against something
+8. take the law into your own hands -> punish someone in your own way without involving the police or the courts, often by doing something illegal yourself
+9. knuckle down -> start working hard, especially when you should have done this earlier
+10. club together -> if people club together, each of them gives some money so all the money collected can be used to buy something
 
 
 NODE REVIEW
 
-Q1: What is the meaning of: spine
-A. chủ nghĩa bi quan
-B. vô tình
-C. xương sống
-D. điểm giao nhau
+Q1: Getting divorced was a ............................ decision, so I don't blame my ex-wife.
+A. related
+B. relative
+C. joint
+D. cooperative
 Answer: C
 
-2. motive -> động cơ
-3. scrupulous -> tỉ mỉ
-Q4: Some of a subsidiary ___ were : Under this doctrine , Indian rulers under British protection surrendered the control of their foreign affairs to the British .
-Answer: alliance
+2. Eunomia appears to be an elongated but fairly regularly shaped body , with what appear to be four sides of differing curvature and noticeably different average compositions .
+Q3: Were you really just on the point ............................ ?
+A. with resignation
+B. of resigning
+C. of having resigned
+D. to resign
+Answer: B
 
-Q5: What is the meaning of: baleful
-A. để xác nhận
-B. hiệu quả
-C. không may
-D. thực phẩm bổ sung
-Answer: C
+4. club together -> if people club together, each of them gives some money so all the money collected can be used to buy something
+5. concrete jungle -> unpleasant part of a city where there are a lot of ugly buildings close together
+Q6: During December to March , the lake turns to a ___ cobalt blue color , returning to a colder steel grey color for April to November .
+Answer: vibrant
 
-Q6: Debian packages are standard Unix ar ___ that include two gzipped or bzipped tar archives : one that holds the control information and another that contains the data .
-Answer: archives
+Q7: The classic varve ___ is a light / dark colored couplet deposited in a glacial lake .
+Answer: archetype
 
-Q7: Coagulation is highly conserved throughout ___ .
-Answer: biology
-
-8. Like the white - tailed hummingbird , it is sometimes considered a subspecies of the more widespread stripe-tailed hummingbird .
-9. civic -> dân sự
-Q10: Corticosteroids , ___ as dexamethasone and budesonide , have been shown to improve outcomes in children with all severities of croup .
-Answer: such
+8. smarten up -> improve the appearance of something, for example by cleaning or painting it; if you smarten up or smarten yourself up, you make yourself look tidy and clean
+9. This list is arranged by drainage basin , with respective tributaries indented under each larger stream 's name .
+Q10: Apparently, before the fight some of the youths had ............................ themselves with knives.
+A. readied
+B. armed
+C. installed
+D. fitted
+Answer: B
 
 
 

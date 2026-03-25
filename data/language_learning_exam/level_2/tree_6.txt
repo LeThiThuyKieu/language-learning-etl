@@ -3,169 +3,179 @@ TREE 6
 
 NODE VOCAB
 
-Q1: What is the meaning of: isolate
-A. tín dụng
-B. sự sáng tạo
-C. bạn
-D. phân lập
-Answer: D
+Q1: I suppose now I'm 43, I have ............ hope of playing football for England.
+A. a little
+B. little
+C. a few
+D. few
+Answer: B
 
-Q2: What is the meaning of: contest
-A. sẵn sàng
-B. điều bất lợi
-C. đàm phán
-D. cuộc thi
-Answer: D
-
-Q3: What is the meaning of: range
-A. rộng lớn
-B. tình bạn
-C. phạm vi
-D. trên
-Answer: C
-
-Q4: What is the meaning of: fascinating
-A. chất
-B. chính trị
-C. trong khi đó
-D. lôi cuốn
-Answer: D
-
-Q5: What is the meaning of: manufacture
-A. sản xuất
-B. nguyên tắc
-C. sự nhiệt tình
-D. vững chắc
+Q2: After working at the same factory for thirty years, my grandfather was looking forward to his ............ .
+A. pension
+B. overtime
+C. allowance
+D. charity
 Answer: A
 
-Q6: What is the meaning of: parade
-A. yêu cầu
-B. tài chính
-C. thương hiệu
-D. cuộc diễu hành
-Answer: D
+Q3: That necklace is wonderful! It must have ............ you a fortune!
+A. spent
+B. cost
+C. done
+D. charged
+Answer: B
 
-Q7: What is the meaning of: switch
-A. công tắc
-B. nhấn
-C. hung dữ
-D. khắc nghiệt
+Q4: The earthquake was ............ powerful that the town was destroyed.
+A. enough
+B. so
+C. such
+D. too
+Answer: B
+
+Q5: Why don't you ............ a go? It's not difficult!
+A. have
+B. make
+C. do
+D. set
 Answer: A
 
-Q8: What is the meaning of: tube
-A. ống
-B. mở rộng
-C. cánh
-D. trung tâm mua sắm
+Q6: Diana looks terribly ............ . You don't think she's ill, do you?
+A. slim
+B. thin
+C. slender
+D. slight
+Answer: B
+
+Q7: Before she retired, my grandma ............ go for a run every morning before work.
+A. use to
+B. would
+C. got used to
+D. was used to
+Answer: B
+
+Q8: I'll pick up a ............ on the way home and then we won't have to cook.
+A. takeaway
+B. fast food
+C. delivery
+D. microwave
 Answer: A
 
-Q9: What is the meaning of: wrap
-A. ổn định
-B. có liên quan
-C. chịu trách nhiệm
-D. bọc
+Q9: I think you should be very proud ............ everything you've achieved.
+A. from
+B. in
+C. for
+D. of
 Answer: D
 
-Q10: What is the meaning of: excessive
-A. gọn gàng
-B. áp lực
-C. đáng kể
-D. quá mức
-Answer: D
+Q10: The mayor was attacked ............ public money.
+A. for wasting
+B. of wasting
+C. to waste
+D. he waste
+Answer: A
 
 
 
 NODE LISTENING
 
-Q1: Orders of magnitude are generally used to make very approximate ___ .
-Answer: comparisons
+Q1: The ocelli of insects have a simple lens , but their focal point always lies behind the retina . They can never form a ___ image .
+Answer: sharp
 
-Q2: The ___ has ruled that the $ 2.7 billion in school funding was inadequate and distributed unfairly .
-Answer: court
+Q2: Many types of ducks and geese share the same ___ , have overlapping or identical hunting seasons , and are hunted using the same methods .
+Answer: habitat
 
-Q3: Stubing died on 3 July 2017 at her home in Rome from ___ myeloma at the age of 76 .
-Answer: multiple
+Q3: All defensive players wear fielding gloves , made of ___ or similar material .
+Answer: leather
 
-Q4: A few ___ live in waters where there is very little food available .
-Answer: species
+Q4: The narrow coastal plain rises rapidly into several mountain ___ .
+Answer: ranges
 
-Q5: Cold seeps ___ over fissures on the seafloor caused by tectonic activity .
-Answer: occur
+Q5: In 2007 , a special TGV ___ the speed record for rail vehicles , reaching 574,8 km / h .
+Answer: set
 
-Q6: The throwback uniforms would have an ___ on future seasons in the NHL , as several teams adopted throwbacks as alternate jerseys .
-Answer: impact
+Q6: The weapon ' s barrel is screwed into the ___ and is not quickly detachable .
+Answer: receiver
 
-Q7: The film was very well received by ___ and audiences .
-Answer: critics
+Q7: The flattened bodies of stingrays allow them to ___ themselves .
+Answer: hide
 
-Q8: Most automobiles today use drive shafts to ___ power from the engine to the wheels .
-Answer: deliver
+Q8: Shortage of rain during the highly variable Monsoon season can cause droughts in U . P . leading to several deaths and loss of ___ .
+Answer: property
 
-Q9: Breeding in this family begins at the ___ of the rainy season .
-Answer: start
+Q9: This plant is adaptable and easy to ___ .
+Answer: grow
 
-Q10: Absinthe has a ___ green color but may also be colorless .
-Answer: natural
+Q10: LEED is not a standard but an ___ grid .
+Answer: evaluation
 
 
 
 NODE SPEAKING
 
-1. In appearance it is light yellow and opaque , smooth and creamy .
-2. Businesses usually have some kind of fax system , but the technology has faced increasing competition from Internet - based methods .
-3. Canada is a federation composed of ten provinces and three territories .
-4. Teams are given up to four clues and must try to figure out the connection between them within 40 seconds .
-5. French explorers and fur traders were the first Europeans in the subregion .
-6. As a result , the two worlds collide and it seems they are doomed by circumstance .
-7. Dredge nets have a coarse mesh in order to let organisms smaller than the target species through .
-8. It affects up to 80 percent of all patients who have had diabetes for 10 years or more .
-9. Gas chambers have been used for capital punishment in the United States to execute death row inmates .
-10. Water wheels have been used for hundreds of years for industrial power .
+1. There are species on the checklist .
+2. The show also has slang not used in today 's culture .
+3. In 1896 , winners ' medals were made from silver .
+4. The Murids are classified in four subfamilies , and about 140 genera .
+5. Because of code sharing , a single flight may be shown with many different flight numbers .
+6. The strong taste that people associate with anchovies is due to the curing process .
+7. Sugar died from cardiac arrest on March 25 , 2012 at age 75 .
+8. Igneous rocks can be classified according to their chemistry .
+9. Like Ulleung - do , the islets are volcanic rocks , with only a thin layer of soil and moss .
+10. As a former President of Ireland he was given a state funeral .
 
 
 NODE MATCHING
 
-1. northern -> phía bắc
-2. rugby -> bóng bầu dục
-3. basket -> rổ
-4. emergency -> khẩn cấp
-5. defend -> phòng vệ
-6. explode -> nổ
-7. chest -> ngực
-8. alter -> thay đổi
-9. discount -> giảm giá
-10. gentle -> dịu dàng
+1. exam -> an important test of your knowledge, especially one that you take at school or university
+2. remedy -> a cure for pain or for a minor illness
+3. jury -> a group of members of the public who decide whether someone is guilty in a court case
+4. I've grown -> out of these shoes so my mum's going to get me some new ones.
+5. put through -> connect by phone
+6. operation -> the process of cutting into someone's body for medical reasons
+7. suit (v) -> if a style or something you wear suits you, it makes you look good
+8. Dave's competing -> in the school tennis tournament.
+9. half time -> in football and some other team sports, a period of rest between the two halves of a match
+10. wear off -> stop being effective (for a drug, etc)
 
 
 NODE REVIEW
 
-Q1: The throwback uniforms would have an ___ on future seasons in the NHL , as several teams adopted throwbacks as alternate jerseys .
-Answer: impact
+1. half time -> in football and some other team sports, a period of rest between the two halves of a match
+Q2: I'll pick up a ............ on the way home and then we won't have to cook.
+A. takeaway
+B. fast food
+C. delivery
+D. microwave
+Answer: A
 
-Q2: What is the meaning of: isolate
-A. bạn
-B. phân lập
-C. sự sáng tạo
-D. tín dụng
-Answer: B
+Q3: The ocelli of insects have a simple lens , but their focal point always lies behind the retina . They can never form a ___ image .
+Answer: sharp
 
-Q3: Breeding in this family begins at the ___ of the rainy season .
-Answer: start
+4. exam -> an important test of your knowledge, especially one that you take at school or university
+Q5: The weapon ' s barrel is screwed into the ___ and is not quickly detachable .
+Answer: receiver
 
-4. It affects up to 80 percent of all patients who have had diabetes for 10 years or more .
-5. As a result , the two worlds collide and it seems they are doomed by circumstance .
-6. alter -> thay đổi
-7. gentle -> dịu dàng
-Q8: Stubing died on 3 July 2017 at her home in Rome from ___ myeloma at the age of 76 .
-Answer: multiple
+Q6: I think you should be very proud ............ everything you've achieved.
+A. in
+B. from
+C. of
+D. for
+Answer: C
 
-9. rugby -> bóng bầu dục
-Q10: What is the meaning of: fascinating
-A. chất
-B. lôi cuốn
-C. chính trị
-D. trong khi đó
-Answer: B
+Q7: Diana looks terribly ............ . You don't think she's ill, do you?
+A. slight
+B. slim
+C. thin
+D. slender
+Answer: C
 
+Q8: Why don't you ............ a go? It's not difficult!
+A. set
+B. make
+C. have
+D. do
+Answer: C
+
+9. The Murids are classified in four subfamilies , and about 140 genera .
+10. wear off -> stop being effective (for a drug, etc)
 
 

@@ -3,165 +3,165 @@ TREE 4
 
 NODE VOCAB
 
-Q1: What is the meaning of: happen
-A. mười lăm
-B. luyện tập
-C. bất cứ nơi nào
-D. xảy ra
-Answer: D
-
-Q2: What is the meaning of: gun
-A. hố
-B. áo sơ mi
-C. súng
-D. bánh mỳ
-Answer: C
-
-Q3: What is the meaning of: not
-A. phim ảnh
-B. một vài chi tiết
-C. không
-D. số không
-Answer: C
-
-Q4: What is the meaning of: response
-A. tuyệt vời
-B. điện
-C. trợ lý
-D. phản ứng
-Answer: D
-
-Q5: What is the meaning of: guitar
-A. hoàn thành
-B. đàn guitar
-C. ki-lô-mét
-D. túi
+Q1: Leon never ............................ about it, but he was once a world champion skier.
+A. was talking
+B. talks
+C. talk
+D. is talking
 Answer: B
 
-Q6: What is the meaning of: carefully
-A. bữa trưa
-B. mùa hè
-C. cẩn thận
-D. sandwich
+Q2: Lizzie has been having dance classes ............................ she was four years old.
+A. from
+B. for
+C. since
+D. when
 Answer: C
 
-Q7: What is the meaning of: after
-A. sau đó
-B. một nửa n
-C. CHÀO
-D. vòi sen
-Answer: A
-
-Q8: What is the meaning of: incredible
-A. đáng kinh ngạc
-B. tránh xa
-C. dữ liệu
-D. xa
-Answer: A
-
-Q9: What is the meaning of: fruit
-A. hoa quả
-B. tập trung
-C. thiếu niên
-D. ngốc nghếch
-Answer: A
-
-Q10: What is the meaning of: zero
-A. họa sĩ
-B. số không
-C. Ồ
-D. ý kiến
+Q3: ............................ the cost, the CD wasn't very good quality.
+A. However
+B. In spite of
+C. Although
 Answer: B
+
+Q4: Have you always been keen ............................ motorbikes?
+A. for
+B. in
+C. on
+D. with
+Answer: C
+
+Q5: The money ............................ you lent me was really useful. Thanks!
+A. where
+B. that
+C. who
+D. whose
+Answer: B
+
+Q6: Thankfully, the train arrived on ............................ .
+A. schedule
+B. board
+C. coach
+D. platform
+Answer: A
+
+Q7: Do you remember ............................ to Germany when you were two years old?
+A. going
+B. to go
+C. go
+Answer: A
+
+Q8: That's the girl ............................ grandfather helped to develop the Internet.
+A. who
+B. whose
+C. that
+D. which
+Answer: B
+
+Q9: Do you remember ............................ excited the first time you went on a train?
+A. to feel
+B. you feel
+C. feeling
+D. to feeling
+Answer: C
+
+Q10: Dean was late for physics so he ............................ up a story about being attacked by a cat!
+A. wrote
+B. created
+C. made
+D. took
+Answer: C
 
 
 
 NODE LISTENING
 
-Q1: The ___ stopped suddenly .
-Answer: train
+Q1: Have you just ___ ?
+Answer: arrived
 
-Q2: There are different ___ about his early life .
-Answer: views
+Q2: I ___ I were smarter .
+Answer: wish
 
-Q3: The Seto Ohashi ___ was built in the 1980 s .
-Answer: bridge
+Q3: ___ me that football .
+Answer: pass
 
-Q4: He always had a toothpick in his ___ .
-Answer: mouth
+Q4: You are as ___ as ever to me .
+Answer: beautiful
 
-Q5: Trass died on 14 ___ 2017 , aged 88 .
-Answer: february
+Q5: If it was his , where did it ___ ?
+Answer: go
 
-Q6: The driver did n't know where to ___ .
-Answer: turn
+Q6: She placed her ___ on the floor .
+Answer: bag
 
-Q7: I have been teaching here for ___ years .
-Answer: many
+Q7: Megan started playing ___ during the summer break .
+Answer: soccer
 
-Q8: Arrow was born on August 23 , 1921 in ___ York City , New York .
-Answer: new
+Q8: Put away the ___ pajamas .
+Answer: winter
 
-Q9: She got ___ she wanted .
-Answer: what
+Q9: I need to see my ___ for this toothache .
+Answer: dentist
 
-Q10: Every day he ___ his wife not to worry but I know she does .
-Answer: tells
+Q10: The songs tell personal stories of life in the wide ___ country of Australia .
+Answer: open
 
 
 
 NODE SPEAKING
 
-1. He always boiled his broccoli .
-2. I have n't changed anything .
-3. Title V includes various other extra rules .
-4. The sea is mostly ice-covered .
-5. Cricket is the most popular sport in Bangladesh .
-6. Did you tell her where to meet us ?
-7. He died in Paris .
-8. We were planning to go together , but she got sick .
-9. She said she had something to tell you but she did n't say what it was .
-10. With county codes , official until 1974 .
+1. There was a red car parked there .
+2. I forgot to bring my umbrella .
+3. The history of traditional sports is ancient .
+4. He died doing what he believed in .
+5. He fell on his knees .
+6. I grew up with three brothers .
+7. Arrow was born on August 23 , 1921 in New York City , New York .
+8. My mother calls every weekend .
+9. The songs tell personal stories of life in the wide open country of Australia .
+10. Harrison got very excited when his parents gave him a car .
 
 
 NODE MATCHING
 
-1. DVD -> DVD
-2. pleased -> vừa lòng
-3. ninety -> chín mươi
-4. wide -> rộng
-5. write -> viết
-6. never -> không bao giờ
-7. natural -> tự nhiên
-8. healthy -> khỏe mạnh
-9. manner -> thái độ
-10. museum -> bảo tàng
+1. I lent my new computer game -> to Daniel and I don't think I'll get it back for a while!
+2. apologise -> to tell someone that you are sorry for doing something wrong
+3. suffer -> to feel pain in your body or your mind; to have a particular illness or physical problem
+4. operate -> if equipment operates, or if you operate it, you use or control it and it works in the way it should
+5. give away -> give sth free of charge
+6. 'Someone is at the door. It must be Mrs Johnson from next door.' -> I'm almost certain.
+7. I would love to work -> as a racing driver, or maybe a car mechanic.
+8. course -> a series of lessons in an academic subject or a practical skill
+9. identity card -> an official document that shows who you are
+10. tradition -> a very old custom, belief, or story
 
 
 NODE REVIEW
 
-Q1: He always had a toothpick in his ___ .
-Answer: mouth
+Q1: I need to see my ___ for this toothache .
+Answer: dentist
 
-2. He always boiled his broccoli .
-Q3: What is the meaning of: happen
-A. xảy ra
-B. bất cứ nơi nào
-C. luyện tập
-D. mười lăm
-Answer: A
+2. operate -> if equipment operates, or if you operate it, you use or control it and it works in the way it should
+3. identity card -> an official document that shows who you are
+Q4: ___ me that football .
+Answer: pass
 
-Q4: Every day he ___ his wife not to worry but I know she does .
-Answer: tells
+Q5: Dean was late for physics so he ............................ up a story about being attacked by a cat!
+A. took
+B. wrote
+C. created
+D. made
+Answer: D
 
-5. The sea is mostly ice-covered .
-Q6: Arrow was born on August 23 , 1921 in ___ York City , New York .
-Answer: new
+6. Arrow was born on August 23 , 1921 in New York City , New York .
+Q7: Leon never ............................ about it, but he was once a world champion skier.
+A. is talking
+B. talks
+C. was talking
+D. talk
+Answer: B
 
-Q7: The Seto Ohashi ___ was built in the 1980 s .
-Answer: bridge
-
-8. never -> không bao giờ
-9. manner -> thái độ
-10. museum -> bảo tàng
+8. apologise -> to tell someone that you are sorry for doing something wrong
+9. My mother calls every weekend .
+10. Harrison got very excited when his parents gave him a car .
 
 
