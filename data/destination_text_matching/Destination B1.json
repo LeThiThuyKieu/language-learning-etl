@@ -3124,5 +3124,27 @@
         "right": "to the power or it won't work."
       }
     ]
+  },
+  {
+    "page": 43,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "I am going to get married in June.",
+        "right": "Are you? Congratulations!"
+      },
+      {
+        "left": "Are we still going to the cinema on Saturday night?",
+        "right": "I don't know yet. I'll ring you on Friday."
+      },
+      {
+        "left": "I'm having a party tomorrow night.",
+        "right": "Are you going to ask Jill to come too?"
+      },
+      {
+        "left": "I'm taking the kids to the circus tomorrow afternoon.",
+        "right": "Are you? I'm sure they'll love it!"
+      }
+    ]
   }
 ]
