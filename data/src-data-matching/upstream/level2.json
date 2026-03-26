@@ -1,0 +1,28 @@
+[
+  {
+    "page": 57,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "They killed the dragon in cold blood.",
+        "right": "in a cruel, unfeeling, violent way"
+      },
+      {
+        "left": "Trying to get information from him is like getting blood out of a stone!",
+        "right": "very difficult"
+      },
+      {
+        "left": "My family means more to me than friends. After all, blood is thicker than water.",
+        "right": "family relationships are the most important"
+      },
+      {
+        "left": "He sweated blood to set up the company.",
+        "right": "work extremely hard"
+      },
+      {
+        "left": "Cruelty to animals makes my blood boil.",
+        "right": "make someone very angry"
+      }
+    ]
+  }
+]
