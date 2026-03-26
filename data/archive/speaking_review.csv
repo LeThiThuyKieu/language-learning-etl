@@ -1,0 +1,4 @@
+source_file,mode,reason,sentences,audio,difficulty,conflict_with_source_file,conflict_with_mode,conflict_with_sentences,conflict_with_audio,conflict_with_difficulty
+level1.json,upstream,JSON_PARSE_ERROR:Unexpected end of JSON input,,,easy,,,,,
+level2.json,upstream,JSON_PARSE_ERROR:Unexpected end of JSON input,,,medium,,,,,
+level3.json,upstream,JSON_PARSE_ERROR:Unexpected end of JSON input,,,hard,,,,,
