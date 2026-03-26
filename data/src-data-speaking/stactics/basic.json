@@ -1,0 +1,259 @@
+[
+  {
+    "id": 1,
+    "sentences": [
+      "1. My name is Tim.",
+      "2. My e-mail address is timr@gmail.com",
+      "3. I live in New York.",
+      "4. I have a reservation for tonight."
+    ],
+    "audio": "https://your-host/audio/basic-1.mp3"
+  },
+  {
+    "id": 2,
+    "sentences": [
+      "1. Are you Abby's sister? - Yes, I am.",
+      "2. Does he wear glasses? - Yes, he does.",
+      "3. Is she in her twenties? - No, she isn't."
+    ],
+    "audio": ""
+  },
+  {
+    "id": 3,
+    "sentences": [
+      "1. pants",
+      "2. jackets",
+      "3. sneakers",
+      "4. earrings",
+      "5. blouses",
+      "6. purses"
+    ],
+    "audio": ""
+  },
+  {
+    "id": 4,
+    "sentences": [
+      "1. thirteen",
+      "2. fifteen",
+      "3. sixteen",
+      "4. thirty",
+      "5. fifty",
+      "6. sixty"
+    ],
+    "audio": ""
+  },
+  {
+    "id": 5,
+    "sentences": [
+      "1. first",
+      "2. second",
+      "3. third",
+      "4. fourth",
+      "5. fifth",
+      "6. sixth",
+      "7. seventh",
+      "8. eighth",
+      "9. ninth",
+      "10. tenth",
+      "11. twentieth",
+      "12. thirty-first"
+    ],
+    "audio": ""
+  },
+  {
+    "id": 6,
+    "sentences": [
+      "1. server",
+      "2. flight attendant",
+      "3. teacher",
+      "4. construction worker",
+      "5. businessperson",
+      "6. receptionist"
+    ],
+    "audio": ""
+  },
+  {
+    "id": 7,
+    "sentences": [
+      "1. What's your favorite TV show?",
+      "2. Who's your favorite actor?",
+      "3. Why do you like it?",
+      "4. When do you usually watch TV?"
+    ],
+    "audio": ""
+  },
+  {
+    "id": 8,
+    "sentences": [
+      "1. I play tennis a lot.",
+      "2. I like to take walks.",
+      "3. What sports do you play?",
+      "4. Do you like watching sports?"
+    ],
+    "audio": ""
+  },
+  {
+    "id": 9,
+    "sentences": [
+      "1. is",
+      "2. isn't",
+      "3. do",
+      "4. don't",
+      "5. are",
+      "6. aren't",
+      "7. does",
+      "8. doesn't"
+    ],
+    "audio": ""
+  },
+  {
+    "id": 10,
+    "sentences": [
+      "1. Do you have any brothers?",
+      "2. What does he do?",
+      "3. Who do you look like?",
+      "4. What are their names?"
+    ],
+    "audio": ""
+  },
+  {
+    "id": 11,
+    "sentences": [
+      "1. I can come to your play.",
+      "2. I can't come to your party.",
+      "3. They can go to the beach with us."
+    ],
+    "audio": ""
+  },
+  {
+    "id": 12,
+    "sentences": [
+      "1. a thousand",
+      "2. one thousand",
+      "3. two hundred and twenty-seven",
+      "4. two hundred twenty-seven",
+      "5. four thousand-six hundred and eighteen",
+      "6. four thousand-six hundred eighteen"
+    ],
+    "audio": ""
+  },
+  {
+    "id": 13,
+    "sentences": [
+      "1. The pie was delicious.",
+      "2. The French fries were really salty.",
+      "3. The steak wasn't cooked enough.",
+      "4. The vegetables weren't very fresh."
+    ],
+    "audio": ""
+  },
+  {
+    "id": 14,
+    "sentences": [
+      "1. How's your family?",
+      "2. How are you?",
+      "3. How have you been?",
+      "4. What have you been doing?"
+    ],
+    "audio": ""
+  },
+  {
+    "id": 15,
+    "sentences": [
+      "1. It rained every day.",
+      "2. I rented a house.",
+      "3. I walked on the beach every morning."
+    ],
+    "audio": ""
+  },
+  {
+    "id": 16,
+    "sentences": [
+      "1. There's a small yard.",
+      "2. There's only one bathroom.",
+      "3. There are four bedrooms in my apartment.",
+      "4. There are three windows in my living room."
+    ],
+    "audio": ""
+  },
+  {
+    "id": 17,
+    "sentences": [
+      "1. I'm going to graduate next month.",
+      "2. I want to travel this summer.",
+      "3. I hope to be rich someday."
+    ],
+    "audio": ""
+  },
+  {
+    "id": 18,
+    "sentences": [
+      "1. In Taipei it will be cloudy, wet, and hot today.",
+      "2. Tomorrow it's going to be sunny, hot, and humid.",
+      "3. Remember to wear your boots, jacket, and hat."
+    ],
+    "audio": ""
+  },
+  {
+    "id": 19,
+    "sentences": [
+      "1. Would you like a large or a small coffee?",
+      "2. Are you paying with cash or credit?",
+      "3. Can this be machine-washed or should I dry-clean it?",
+      "4. Do you like this blue coat or the red one?"
+    ],
+    "audio": ""
+  },
+  {
+    "id": 20,
+    "sentences": [
+      "1. leather wallet",
+      "2. expensive sunglasses",
+      "3. regular glasses",
+      "4. colorful backpack"
+    ],
+    "audio": ""
+  },
+  {
+    "id": 21,
+    "sentences": [
+      "1. A: Is there a post office near here?   B: A post office?",
+      "2. A: Could I please have a map?   B: A map?",
+      "3. A: Do you know where the restrooms are?   B: The restrooms?",
+      "4. A: I'm trying to find a supermarket.   B: A supermarket?"
+    ],
+    "audio": ""
+  },
+  {
+    "id": 22,
+    "sentences": [
+      "1. makes",
+      "2. speaks",
+      "3. loves",
+      "4. plays",
+      "5. practices",
+      "6. watches"
+    ],
+    "audio": ""
+  },
+  {
+    "id": 23,
+    "sentences": [
+      "1. It's a noisy city.",
+      "2. It's very crowded.",
+      "3. Everything is cheap.",
+      "4. The parks are beautiful."
+    ],
+    "audio": ""
+  },
+  {
+    "id": 24,
+    "sentences": [
+      "1. Did you cut yourself?",
+      "2. How did you break your arm?",
+      "3. Did you go to the doctor?",
+      "4. Why did you go to the doctor?"
+    ],
+    "audio": ""
+  }
+]
