@@ -3610,5 +3610,545 @@
       "D": "I had done"
     },
     "answer": "doing"
+  },
+  {
+    "question": "Well, it's 7pm. I'd better hit the ............ if I want to get home before it's dark.",
+    "options": { "A": "roof", "B": "headlines", "C": "road", "D": "newspaper" },
+    "answer": "road"
+  },
+  {
+    "question": "She's a bit plump, but she buys clothes that ............ her shape so she always looks good.",
+    "options": { "A": "flatter", "B": "develop", "C": "enhance", "D": "correct" },
+    "answer": "flatter"
+  },
+  {
+    "question": "My sister loves watching TV, but I'm not really ............ it: I much prefer reading a book.",
+    "options": { "A": "up to", "B": "out of", "C": "in", "D": "into" },
+    "answer": "into"
+  },
+  {
+    "question": "People who are fashion ............ always wear very modern clothes.",
+    "options": { "A": "aware", "B": "cultured", "C": "conscious", "D": "educated" },
+    "answer": "conscious"
+  },
+  {
+    "question": "I really like his paintings, but I admit that at first ............ the colours seem a bit bright.",
+    "options": { "A": "sight", "B": "view", "C": "look", "D": "impression" },
+    "answer": "sight"
+  },
+  {
+    "question": "Did you see the brightly coloured jacket and trousers that he was wearing at the party? It was a really eye-............ outfit!",
+    "options": { "A": "catching", "B": "grabbing", "C": "getting", "D": "holding" },
+    "answer": "catching"
+  },
+  {
+    "question": "Jo hates mobiles, but Lorna is really addicted ............ hers: she won't go anywhere without it!",
+    "options": { "A": "to", "B": "with", "C": "at", "D": "on" },
+    "answer": "to"
+  },
+  {
+    "question": "She dyed her hair red because it's the latest ............ .",
+    "options": { "A": "show", "B": "trend", "C": "shoot", "D": "style" },
+    "answer": "trend"
+  },
+  {
+    "question": "He used to like rock music when he was younger, but now he's gone ............ it.",
+    "options": { "A": "out of", "B": "away from", "C": "off", "D": "into" },
+    "answer": "off"
+  },
+  {
+    "question": "We're all very friendly in this company: everyone uses ............ names.",
+    "options": { "A": "business", "B": "first", "C": "code", "D": "brand" },
+    "answer": "first"
+  },
+  {
+    "question": "Her son is a bit spoilt: he always wants to be the centre of ............ .",
+    "options": { "A": "focus", "B": "piece", "C": "trend", "D": "attention" },
+    "answer": "attention"
+  },
+  {
+    "question": "She's a real trend ............: she always wears something new and different.",
+    "options": { "A": "beginner", "B": "starter", "C": "follower", "D": "setter" },
+    "answer": "setter"
+  },
+  {
+    "question": "He likes nearly everything on TV, but his favourite programmes are chat ............ .",
+    "options": { "A": "shows", "B": "videos", "C": "series", "D": "broadcasts" },
+    "answer": "shows"
+  },
+  {
+    "question": "Those shoes ............ your handbag really well.",
+    "options": { "A": "look", "B": "suit", "C": "fit", "D": "match" },
+    "answer": "match"
+  },
+  {
+    "question": "Famous actors are always in the public ............ .",
+    "options": { "A": "light", "B": "service", "C": "eye", "D": "interest" },
+    "answer": "eye"
+  },
+  {
+    "question": "She tried windsurfing, but she didn't take ............ it at all.",
+    "options": { "A": "over", "B": "to", "C": "on", "D": "up" },
+    "answer": "to"
+  },
+  {
+    "question": "Films with very serious topics don't usually appeal ............ young people.",
+    "options": { "A": "on", "B": "into", "C": "to", "D": "at" },
+    "answer": "to"
+  },
+  {
+    "question": "When she told me she was going to live in Australia, I was taken ............: I just couldn't believe it!",
+    "options": { "A": "back", "B": "aback", "C": "behind", "D": "under" },
+    "answer": "aback"
+  },
+  {
+    "question": "He's very interested in politics: when he buys a newspaper he turns immediately to the international ............ section.",
+    "options": { "A": "news", "B": "obituaries", "C": "classified", "D": "society" },
+    "answer": "news"
+  },
+  {
+    "question": "He always wears very modern clothes because he wants to make a fashion ............ .",
+    "options": { "A": "opinion", "B": "sentence", "C": "statement", "D": "view" },
+    "answer": "statement"
+  },
+  {
+    "question": "In the 16th century, many ............ set out to discover unknown lands.",
+    "options": {
+      "A": "sightseers",
+      "B": "explorers",
+      "C": "backpackers",
+      "D": "pilgrims"
+    },
+    "answer": "explorers"
+  },
+  {
+    "question": "With the weekend free, we decided to take a two-day ............ to the nearest island.",
+    "options": { "A": "travel", "B": "trip", "C": "journey", "D": "flight" },
+    "answer": "trip"
+  },
+  {
+    "question": "Due to a(n) ............ in the postal service, we got the flight tickets at the very last minute.",
+    "options": { "A": "postponement", "B": "delay", "C": "interruption", "D": "break" },
+    "answer": "delay"
+  },
+  {
+    "question": "The organisers of the cycling race decided to choose an alternative ............ in order to avoid a busy tourist area.",
+    "options": { "A": "route", "B": "road", "C": "way", "D": "direction" },
+    "answer": "route"
+  },
+  {
+    "question": "Having spent the last twenty years visiting every corner of the world, I can say that travel certainly ............ the mind.",
+    "options": { "A": "widens", "B": "expands", "C": "extends", "D": "broadens" },
+    "answer": "broadens"
+  },
+  {
+    "question": "As the train pulled into the ............ , the passengers got ready to board it.",
+    "options": { "A": "platform", "B": "station", "C": "dock", "D": "port" },
+    "answer": "station"
+  },
+  {
+    "question": "It is becoming quite common for older people to take a travelling ............ with them on holiday.",
+    "options": { "A": "colleague", "B": "partner", "C": "companion", "D": "associate" },
+    "answer": "companion"
+  },
+  {
+    "question": "There will always be some tourists who prefer more unusual holiday destinations off the beaten ............ .",
+    "options": { "A": "track", "B": "way", "C": "path", "D": "course" },
+    "answer": "track"
+  },
+  {
+    "question": "I got a good deal on a round- ............ ticket for only £199.",
+    "options": { "A": "journey", "B": "trip", "C": "route", "D": "way" },
+    "answer": "trip"
+  },
+  {
+    "question": "We sent a letter to the travel company requesting a ............ on winter destinations.",
+    "options": { "A": "prospectus", "B": "pamphlet", "C": "brochure", "D": "leaflet" },
+    "answer": "brochure"
+  },
+  {
+    "question": "She's the type who can't sit still on holiday and is always ............ the move.",
+    "options": { "A": "on", "B": "in", "C": "at", "D": "by" },
+    "answer": "on"
+  },
+  {
+    "question": "The main attraction for most tourists is the ancient ............ in the southern part of the island.",
+    "options": { "A": "ruins", "B": "remnants", "C": "wrecks", "D": "remains" },
+    "answer": "ruins"
+  },
+  {
+    "question": "She had never been to Prague before, and she ............ in love with it straight away.",
+    "options": { "A": "fell", "B": "dropped", "C": "tripped", "D": "crashed" },
+    "answer": "fell"
+  },
+  {
+    "question": "They couldn't wait to go for a swim in the crystal-............ water of the small bay.",
+    "options": { "A": "pure", "B": "clean", "C": "fresh", "D": "clear" },
+    "answer": "clear"
+  },
+  {
+    "question": "The ............ from our hotel room over the tiny mountain village was out of this world.",
+    "options": { "A": "outlook", "B": "sight", "C": "view", "D": "scene" },
+    "answer": "view"
+  },
+  {
+    "question": "The sea was so ............ that day that many passengers became quite ill as the ship rolled from side to side.",
+    "options": { "A": "calm", "B": "rough", "C": "open", "D": "dark" },
+    "answer": "rough"
+  },
+  {
+    "question": "Having worked non-stop for almost six months, he decided to take a(n) ............ break and return on Monday morning.",
+    "options": { "A": "day", "B": "extended", "C": "flying", "D": "weekend" },
+    "answer": "weekend"
+  },
+  {
+    "question": "The soldiers were exhausted and couldn’t move back any further, so they had no choice but to ............ .",
+    "options": { "A": "surrender", "B": "conquer", "C": "invade", "D": "retreat" },
+    "answer": "surrender"
+  },
+  {
+    "question": "After long months of negotiations, the two sides finally signed a peace ............ .",
+    "options": { "A": "treaty", "B": "disarmament", "C": "truce", "D": "contract" },
+    "answer": "treaty"
+  },
+  {
+    "question": "The police ............ the protesters and brought them to the police station.",
+    "options": { "A": "attacked", "B": "arrested", "C": "defeated", "D": "defended" },
+    "answer": "arrested"
+  },
+  {
+    "question": "The ............ came on board and inspected all the sailors on the ship.",
+    "options": { "A": "ally", "B": "pacifist", "C": "admiral", "D": "private" },
+    "answer": "admiral"
+  },
+  {
+    "question": "It’s not always easy for a soldier to carry ............ orders.",
+    "options": { "A": "out", "B": "on", "C": "off", "D": "up" },
+    "answer": "out"
+  },
+  {
+    "question": "............ through the mountains on horse back was an amazing experience.",
+    "options": { "A": "Hiking", "B": "Wandering", "C": "Trekking", "D": "Marching" },
+    "answer": "Trekking"
+  },
+  {
+    "question": "Many people want to ............ their history back as far as they can and discover who their ancestors were.",
+    "options": { "A": "find", "B": "search", "C": "trace", "D": "track" },
+    "answer": "trace"
+  },
+  {
+    "question": "Very occasionally, an outstanding person comes along who changes the ............ of history.",
+    "options": { "A": "course", "B": "route", "C": "path", "D": "way" },
+    "answer": "course"
+  },
+  {
+    "question": "Amelia Earhart ............ history in 1928 when she became the first woman to fly across the Atlantic.",
+    "options": { "A": "fixed", "B": "did", "C": "prepared", "D": "made" },
+    "answer": "made"
+  },
+  {
+    "question": "Jane was going to pay for the trip, but when she saw how much it was going to cost, she backed ............ .",
+    "options": { "A": "away", "B": "out", "C": "off", "D": "up" },
+    "answer": "out"
+  },
+  {
+    "question": "The Louvre Museum in Paris is ............ in history: it used to be the palace of the French kings.",
+    "options": { "A": "recorded", "B": "full", "C": "steeped", "D": "loaded" },
+    "answer": "steeped"
+  },
+  {
+    "question": "You really should buy a DVD player! You have to move with the ............ .",
+    "options": { "A": "times", "B": "time", "C": "timing", "D": "timer" },
+    "answer": "times"
+  },
+  {
+    "question": "On 5th November 1605, Guy Fawkes tried to blow ............ the Houses of Parliament in London.",
+    "options": { "A": "down", "B": "off", "C": "up", "D": "away" },
+    "answer": "up"
+  },
+  {
+    "question": "It can be very difficult to bring ............ political change because people generally like things that are familiar.",
+    "options": { "A": "about", "B": "on", "C": "around", "D": "up" },
+    "answer": "about"
+  },
+  {
+    "question": "Up until midnight, one group of soldiers were keeping watch, then another group took ............ .",
+    "options": { "A": "in", "B": "up", "C": "over", "D": "on" },
+    "answer": "over"
+  },
+  {
+    "question": "Every child has the right to free education in a ............ school.",
+    "options": { "A": "public", "B": "private", "C": "state", "D": "boarding" },
+    "answer": "state"
+  },
+  {
+    "question": "Jane's teacher told her that she would have to work hard to ............ up with the other students in the class.",
+    "options": { "A": "pick", "B": "catch", "C": "get", "D": "stand" },
+    "answer": "catch"
+  },
+  {
+    "question": "This time tomorrow I will be ............ my exam.",
+    "options": { "A": "sitting", "B": "giving", "C": "writing", "D": "passing" },
+    "answer": "sitting"
+  },
+  {
+    "question": "Alex wanted to know how much he would have to pay for his university ............ .",
+    "options": { "A": "grant", "B": "fees", "C": "loan", "D": "scholarship" },
+    "answer": "fees"
+  },
+  {
+    "question": "Her achievements are outstanding. She's in a ............ of her own.",
+    "options": { "A": "school", "B": "lesson", "C": "group", "D": "class" },
+    "answer": "class"
+  },
+  {
+    "question": "Helena was delighted when her application to Oxford University was ............ .",
+    "options": { "A": "passed", "B": "accepted", "C": "admitted", "D": "appointed" },
+    "answer": "accepted"
+  },
+  {
+    "question": "Kate took her school ............ home to her parents and they were pleased to see that she had done well that term.",
+    "options": { "A": "report", "B": "statement", "C": "assessment", "D": "certificate" },
+    "answer": "report"
+  },
+  {
+    "question": "Our language school will ............ intensive courses for those who want to take the FCE exam earlier.",
+    "options": { "A": "run", "B": "enroll", "C": "hold", "D": "take" },
+    "answer": "run"
+  },
+  {
+    "question": "Now that I've got my degree I will apply for a teaching ............ .",
+    "options": { "A": "career", "B": "place", "C": "post", "D": "profession" },
+    "answer": "post"
+  },
+  {
+    "question": "He liked the poem so much he decided to learn it by ............ .",
+    "options": { "A": "memory", "B": "heart", "C": "mind", "D": "word" },
+    "answer": "heart"
+  },
+  {
+    "question": "I hope that this punishment will ............ you a lesson!",
+    "options": { "A": "teach", "B": "learn", "C": "know", "D": "give" },
+    "answer": "teach"
+  },
+  {
+    "question": "The teacher gave out the homework assignments and then ............ the class.",
+    "options": { "A": "attended", "B": "missed", "C": "held", "D": "dismissed" },
+    "answer": "dismissed"
+  },
+  {
+    "question": "The teacher went to prepare her lesson and pick up her register from the ............ .",
+    "options": { "A": "corridor", "B": "staff room", "C": "science lab", "D": "library" },
+    "answer": "staff room"
+  },
+  {
+    "question": "David was very disappointed when he was told that he had ............ the course.",
+    "options": { "A": "failed", "B": "missed", "C": "dismissed", "D": "lost" },
+    "answer": "failed"
+  },
+  {
+    "question": "I recommend that you get a private ............ to help you with your Maths.",
+    "options": { "A": "trainer", "B": "tutor", "C": "lecturer", "D": "instructor" },
+    "answer": "tutor"
+  },
+  {
+    "question": "The children at the local primary school are working on a ............ related to the environment.",
+    "options": { "A": "thesis", "B": "seminar", "C": "tutorial", "D": "project" },
+    "answer": "project"
+  },
+  {
+    "question": "She loves reading and always has her ............ in a book.",
+    "options": { "A": "nose", "B": "eyes", "C": "look", "D": "attention" },
+    "answer": "nose"
+  },
+  {
+    "question": "Make a study timetable, that way you won't fall ............ with your homework.",
+    "options": { "A": "behind", "B": "back", "C": "out", "D": "over" },
+    "answer": "behind"
+  },
+  {
+    "question": "This Maths problem is really difficult. It will take me some time to work it ............ .",
+    "options": { "A": "up", "B": "out", "C": "off", "D": "over" },
+    "answer": "out"
+  },
+  {
+    "question": "Environmental pollution causes ............ to people's health.",
+    "options": { "A": "devastation", "B": "destruction", "C": "disaster", "D": "damage" },
+    "answer": "damage"
+  },
+  {
+    "question": "We must respect nature or suffer the ............ .",
+    "options": { "A": "consequences", "B": "results", "C": "impact", "D": "effects" },
+    "answer": "consequences"
+  },
+  {
+    "question": "Everyone should learn about using ............ resources responsibly.",
+    "options": { "A": "global", "B": "natural", "C": "physical", "D": "earthly" },
+    "answer": "natural"
+  },
+  {
+    "question": "The wildlife park was created to protect ............ species.",
+    "options": { "A": "dangerous", "B": "endangered", "C": "extinct", "D": "wild" },
+    "answer": "endangered"
+  },
+  {
+    "question": "We should try to reduce our water ............ .",
+    "options": { "A": "consumption", "B": "use", "C": "protection", "D": "warning" },
+    "answer": "consumption"
+  },
+  {
+    "question": "The cost of cleaning up toxic ............ is very high.",
+    "options": { "A": "waste", "B": "rubbish", "C": "residue", "D": "sewage" },
+    "answer": "waste"
+  },
+  {
+    "question": "If we cut down these trees, we will destroy the natural ............ of the birds and animals that live in them.",
+    "options": { "A": "ecosystem", "B": "space", "C": "area", "D": "habitat" },
+    "answer": "habitat"
+  },
+  {
+    "question": "What is the future of genetically ............ food? Will we accept or reject it?",
+    "options": { "A": "programmed", "B": "modified", "C": "improved", "D": "changed" },
+    "answer": "modified"
+  },
+  {
+    "question": "We must find a better way to ............ of plastics because they cause environmental problems.",
+    "options": { "A": "deposit", "B": "dispose", "C": "discard", "D": "dump" },
+    "answer": "dispose"
+  },
+  {
+    "question": "One of the major environmental ............ that needs to be considered is deforestation.",
+    "options": { "A": "warnings", "B": "laws", "C": "issues", "D": "measures" },
+    "answer": "issues"
+  },
+  {
+    "question": "I can't stand seeing animals in ............ .",
+    "options": { "A": "protection", "B": "packaging", "C": "reserve", "D": "captivity" },
+    "answer": "captivity"
+  },
+  {
+    "question": "Global ............ is causing climate changes.",
+    "options": { "A": "destruction", "B": "pollution", "C": "heating", "D": "warming" },
+    "answer": "warming"
+  },
+  {
+    "question": "We must investigate ............ energy forms.",
+    "options": { "A": "balanced", "B": "alternative", "C": "ultimate", "D": "creative" },
+    "answer": "alternative"
+  },
+  {
+    "question": "The new law will ............ effect in six months.",
+    "options": { "A": "have", "B": "give", "C": "bring", "D": "take" },
+    "answer": "take"
+  },
+  {
+    "question": "It's better for animals to live in the ............ .",
+    "options": { "A": "nature", "B": "wild", "C": "wildlife", "D": "habitat" },
+    "answer": "wild"
+  },
+  {
+    "question": "The ozone ............ forms a part of the upper atmosphere.",
+    "options": { "A": "layer", "B": "level", "C": "limit", "D": "layout" },
+    "answer": "layer"
+  },
+  {
+    "question": "You need a well-......... diet to lead a healthy lifestyle.",
+    "options": { "A": "mannered", "B": "informed", "C": "balanced", "D": "preserved" },
+    "answer": "balanced"
+  },
+  {
+    "question": "She asked for a second ......... as it tasted so good.",
+    "options": { "A": "helping", "B": "course", "C": "dish", "D": "plate" },
+    "answer": "helping"
+  },
+  {
+    "question": "Cereals are good for you because most of them are ......... in fat.",
+    "options": { "A": "short", "B": "light", "C": "small", "D": "low" },
+    "answer": "low"
+  },
+  {
+    "question": "Many busy housewives today buy ......... foods.",
+    "options": { "A": "icy", "B": "frozen", "C": "cold", "D": "freezing" },
+    "answer": "frozen"
+  },
+  {
+    "question": "He couldn't cope ......... the workload so he resigned.",
+    "options": { "A": "with", "B": "to", "C": "in", "D": "from" },
+    "answer": "with"
+  },
+  {
+    "question": "I'm tired of washing by hand. I could ......... with a washing machine.",
+    "options": { "A": "make", "B": "have", "C": "get", "D": "do" },
+    "answer": "do"
+  },
+  {
+    "question": "Helen offered to give me the ......... for her delicious pizza.",
+    "options": { "A": "receipt", "B": "instructions", "C": "recipe", "D": "prescription" },
+    "answer": "recipe"
+  },
+  {
+    "question": "I love chips, but the doctor advised me not to eat ......... food.",
+    "options": { "A": "baked", "B": "fried", "C": "grilled", "D": "roast" },
+    "answer": "fried"
+  },
+  {
+    "question": "Eating a bar of chocolate from time ......... time won't do you any harm.",
+    "options": { "A": "to", "B": "in", "C": "at", "D": "with" },
+    "answer": "to"
+  },
+  {
+    "question": "To keep in good ......... you should exercise regularly.",
+    "options": { "A": "body", "B": "shape", "C": "fit", "D": "build" },
+    "answer": "shape"
+  },
+  {
+    "question": "She never drinks ......... water because it's too fizzy.",
+    "options": { "A": "gassy", "B": "flat", "C": "bubbly", "D": "sparkling" },
+    "answer": "sparkling"
+  },
+  {
+    "question": "The gardener decided to retire ......... the age of fifty.",
+    "options": { "A": "in", "B": "with", "C": "at", "D": "of" },
+    "answer": "at"
+  },
+  {
+    "question": "He was late so I decided to ......... time by window-shopping.",
+    "options": { "A": "waste", "B": "miss", "C": "spend", "D": "kill" },
+    "answer": "kill"
+  },
+  {
+    "question": "John felt a sharp ......... in his back.",
+    "options": { "A": "injury", "B": "pain", "C": "wound", "D": "ache" },
+    "answer": "pain"
+  },
+  {
+    "question": "The teacher refused to put ......... with his bad behaviour any longer.",
+    "options": { "A": "in", "B": "up", "C": "off", "D": "for" },
+    "answer": "up"
+  },
+  {
+    "question": "It took six months for him to fully ......... from his illness.",
+    "options": { "A": "heal", "B": "cure", "C": "recover", "D": "mend" },
+    "answer": "recover"
+  },
+  {
+    "question": "Matthew was fined £100 for driving ......... age.",
+    "options": { "A": "with", "B": "in", "C": "on", "D": "under" },
+    "answer": "under"
+  },
+  {
+    "question": "I enjoy eating hot, ......... food but it gives me indigestion.",
+    "options": { "A": "creamy", "B": "spicy", "C": "greasy", "D": "savoury" },
+    "answer": "spicy"
+  },
+  {
+    "question": "Electric fires give ......... less heat than coal fires.",
+    "options": { "A": "off", "B": "in", "C": "up", "D": "away" },
+    "answer": "off"
+  },
+  {
+    "question": "The meal was delicious, especially the main ......... .",
+    "options": { "A": "appetiser", "B": "dessert", "C": "course", "D": "starter" },
+    "answer": "course"
   }
 ]

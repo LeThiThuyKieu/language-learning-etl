@@ -1,0 +1,125 @@
+[
+  {
+    "page": 60,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "shed light",
+        "right": "clarify"
+      },
+      {
+        "left": "spawn",
+        "right": "give birth to"
+      },
+      {
+        "left": "the status quo",
+        "right": "the normal and accepted order of things"
+      },
+      {
+        "left": "the establishment",
+        "right": "the government and ruling classes of a country"
+      },
+      {
+        "left": "subjugated",
+        "right": "under the control of an enemy, enslaved"
+      },
+      {
+        "left": "plight",
+        "right": "hardship, destitution"
+      },
+      {
+        "left": "an instrument of change",
+        "right": "an event or means by which change occurs"
+      },
+      {
+        "left": "a spiritual dimension",
+        "right": "a less materialistic element in an ideology"
+      }
+    ]
+  },
+  {
+    "page": 95,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "water off a duck’s back",
+        "right": "(criticism) has no effect on sb"
+      },
+      {
+        "left": "water under the bridge",
+        "right": "(event/mistake) now forgotten or no longer important"
+      },
+      {
+        "left": "in(to) deep water",
+        "right": "involved in complicated, dangerous affairs"
+      },
+      {
+        "left": "a fish out of water",
+        "right": "sb who feels uncomfortable in unfamiliar surroundings"
+      },
+      {
+        "left": "come hell or high water",
+        "right": "whatever the difficulties"
+      },
+      {
+        "left": "in hot water",
+        "right": "in trouble"
+      },
+      {
+        "left": "take to sth like a duck to water",
+        "right": "do sth new very easily"
+      },
+      {
+        "left": "pour oil on troubled waters",
+        "right": "do sth to calm or settle a difficult situation/ dispute"
+      }
+    ]
+  },
+  {
+    "page": 95,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "mince my",
+        "right": "words"
+      },
+      {
+        "left": "a man of",
+        "right": "few words"
+      },
+      {
+        "left": "paint a",
+        "right": "pretty picture"
+      },
+      {
+        "left": "by word",
+        "right": "of mouth"
+      },
+      {
+        "left": "speak your",
+        "right": "mind"
+      },
+      {
+        "left": "let you",
+        "right": "in on a secret"
+      },
+      {
+        "left": "making",
+        "right": "small talk"
+      },
+      {
+        "left": "hold my",
+        "right": "tongue"
+      },
+      {
+        "left": "the talk",
+        "right": "of the town"
+      },
+      {
+        "left": "talk is",
+        "right": "cheap"
+      }
+    ]
+  }
+
+]
