@@ -298,5 +298,400 @@
         "right": "make an attempt"
       }
     ]
+  },
+  {
+    "page": 23,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "Just dropping you a quick line to",
+        "right": "let you know I've done all the things you asked me to about the party."
+      },
+      {
+        "left": "I am writing with regard to",
+        "right": "the article which you published on 6th January, entitled 'Think Before You Spend'."
+      },
+      {
+        "left": "I thought I'd write to you now while",
+        "right": "things are quiet."
+      },
+      {
+        "left": "It was great to hear your news and",
+        "right": "that you've settled in to your new surroundings."
+      },
+      {
+        "left": "Our main objection is to the statistics you printed which",
+        "right": "strongly suggested that crime is on the increase."
+      },
+      {
+        "left": "Give it a try and write and",
+        "right": "let me know how you get on."
+      },
+      {
+        "left": "I insist that you either replace the damaged goods within ten days or",
+        "right": "send me a full refund of the purchase price."
+      },
+      {
+        "left": "I hope you will agree that this is a matter which",
+        "right": "is urgently in need of your attention."
+      }
+    ]
+  },
+  {
+    "page": 0,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "There is also a spacious and comfortable family room, which should appeal to diners with young children.",
+        "right": "Restaurant"
+      },
+      {
+        "left": "After a year of almost continual use, I can honestly say that I have not had a single problem with it.",
+        "right": "Product"
+      },
+      {
+        "left": "One of the most striking things about these portraits is the way their subjects appear to be so natural.",
+        "right": "Exhibition"
+      },
+      {
+        "left": "A hush descended as the conductor took the podium.",
+        "right": "Classical concert"
+      },
+      {
+        "left": "Visitors were treated to a variety of remarkable music and dance acts, as well as the choice of over a hundred fascinating stalls and sideshows to visit.",
+        "right": "Festival"
+      },
+      {
+        "left": "The beautifully shot desert scenes and the Ry Cooder soundtrack make it totally unforgettable.",
+        "right": "Film"
+      }
+    ]
+  },
+  {
+    "page": 0,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "If we were to",
+        "right": "reduce the price of admission, more people would visit the gallery"
+      },
+      {
+        "left": "Imposing a small fine would",
+        "right": "almost certainly deter people from keeping the books longer than necessary."
+      },
+      {
+        "left": "Should you approve these changes,",
+        "right": "there would be great benefits for all concerned."
+      },
+      {
+        "left": "Only by keeping costs to a minimum",
+        "right": "can we expect the scheme to make a profit."
+      },
+      {
+        "left": "Assuming we can get backing from sponsors, we should",
+        "right": "be able to keep within our budget for the year."
+      },
+      {
+        "left": "Unless something can be done to reverse this trend,",
+        "right": "we may be forced to close the London office."
+      }
+    ]
+  },
+  {
+    "page": 0,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "hurdle",
+        "right": "something blocking one's way"
+      },
+      {
+        "left": "insurmountable",
+        "right": "impossible to overcome"
+      },
+      {
+        "left": "second nature",
+        "right": "automatic"
+      },
+      {
+        "left": "detrimental",
+        "right": "damaging"
+      },
+      {
+        "left": "permutations",
+        "right": "variations"
+      },
+      {
+        "left": "nerve-racking",
+        "right": "frightening"
+      },
+      {
+        "left": "underestimate yourself",
+        "right": "believe oneself to be weaker than one is"
+      }
+    ]
+  },
+  {
+    "page": 0,
+    "kind": "PAIR",
+    "pairs": [
+      { "left": "on duty", "right": "working" },
+      { "left": "on the off-chance", "right": "just in case" },
+      { "left": "on principle", "right": "due to a belief" },
+      { "left": "on a whim", "right": "impulsively" },
+      { "left": "on second thoughts", "right": "after re-consideration" },
+      { "left": "on purpose", "right": "intentionally" },
+      { "left": "on target", "right": "as planned" },
+      { "left": "on condition that", "right": "only if" },
+      { "left": "on one's own", "right": "independently" },
+      { "left": "on a budget", "right": "with a limited amount of money" }
+    ]
+  },
+  {
+    "page": 0,
+    "kind": "PAIR",
+    "pairs": [
+      { "left": "have the world", "right": "at one's feet" },
+      { "left": "be in", "right": "seventh heaven" },
+      { "left": "be a feather", "right": "in one's cap" },
+      { "left": "have one's head", "right": "in the clouds" },
+      { "left": "keep on", "right": "top of things" },
+      { "left": "keep up with", "right": "the Joneses" },
+      { "left": "rub sb up the", "right": "wrong way" },
+      { "left": "steal the", "right": "show" },
+      { "left": "work one's fingers", "right": "to the bone" },
+      { "left": "work one's way", "right": "up to the top" }
+    ]
+  },
+  {
+    "page": 0,
+    "kind": "PAIR",
+    "pairs": [
+      { "left": "take up", "right": "start (e.g. a hobby)" },
+      { "left": "give up", "right": "stop trying" },
+      { "left": "block out", "right": "ignore" },
+      { "left": "count on", "right": "rely" },
+      { "left": "make up for", "right": "compensate" },
+      { "left": "run through", "right": "examine" }
+    ]
+  },
+  {
+    "page": 0,
+    "kind": "PAIR",
+    "pairs": [
+      { "left": "pristine/littered", "right": "coastline" },
+      { "left": "temperate/extreme", "right": "climate" },
+      { "left": "delicate/fragrant", "right": "blossoms" },
+      { "left": "gnarled/blackened", "right": "branches" },
+      { "left": "sparkling/winding", "right": "stream" },
+      { "left": "heavy/slow-moving", "right": "traffic" },
+      { "left": "fanciful/literal", "right": "interpretation" },
+      { "left": "unjustified/strict", "right": "regulations" }
+    ]
+  },
+  {
+    "page": 0,
+    "kind": "PAIR",
+    "pairs": [
+      { "left": "bring the", "right": "house down" },
+      { "left": "read somebody", "right": "like a book" },
+      { "left": "face the", "right": "music" },
+      { "left": "let one's", "right": "hair down" },
+      { "left": "off the", "right": "beaten track" },
+      { "left": "on a", "right": "shoestring budget" },
+      { "left": "on the", "right": "house" },
+      { "left": "on the edge", "right": "of one's seat" },
+      { "left": "paint the", "right": "town red" },
+      { "left": "read between", "right": "the lines" }
+    ]
+  },
+  {
+    "page": 0,
+    "kind": "PAIR",
+    "pairs": [
+      { "left": "murder", "right": "planning and causing the death of sb" },
+      {
+        "left": "embezzlement",
+        "right": "stealing money from the company where you work"
+      },
+      {
+        "left": "jaywalking",
+        "right": "crossing the street in the wrong place"
+      },
+      { "left": "manslaughter", "right": "unintentionally causing sb's death" },
+      { "left": "vandalism", "right": "destruction of public property" },
+      { "left": "littering", "right": "leaving rubbish in a public place" },
+      { "left": "fraud", "right": "gaining money through dishonest means" },
+      { "left": "slander", "right": "publicly lying about sb" },
+      {
+        "left": "loitering with intent",
+        "right": "remaining in a public place without an obvious reason"
+      },
+      { "left": "mugging", "right": "robbing sb in the street" },
+      { "left": "libel", "right": "publishing lies about sb" },
+      {
+        "left": "kidnapping",
+        "right": "holding sb against their will in order to gain sth"
+      },
+      { "left": "trespassing", "right": "illegally entering sb's property" }
+    ]
+  },
+  {
+    "page": 0,
+    "kind": "PAIR",
+    "pairs": [
+      { "left": "foot the", "right": "bill for sth" },
+      { "left": "on the fringes", "right": "of society" },
+      { "left": "take the law into", "right": "one's own hands" },
+      { "left": "kill two birds", "right": "with one stone" },
+      { "left": "throw oneself on", "right": "the mercy of the court" },
+      { "left": "bridge the", "right": "generation gap" },
+      { "left": "the law of", "right": "the jungle" },
+      { "left": "rob Peter", "right": "to pay Paul" },
+      { "left": "make a", "right": "killing on sth" },
+      { "left": "charity", "right": "begins at home" }
+    ]
+  },
+  {
+    "page": 0,
+    "kind": "PAIR",
+    "pairs": [
+      { "left": "break", "right": "the mould" },
+      { "left": "blind someone", "right": "with science" },
+      { "left": "move with", "right": "the times" },
+      { "left": "be somebody's", "right": "guinea pig" },
+      { "left": "once in a", "right": "blue moon" },
+      { "left": "turn the", "right": "clock back" },
+      { "left": "come down", "right": "to earth" },
+      { "left": "reinvent", "right": "the wheel" },
+      { "left": "it doesn't take", "right": "a rocket scientist" },
+      { "left": "stand the test", "right": "of time" }
+    ]
+  },
+  {
+    "page": 0,
+    "kind": "PAIR",
+    "pairs": [
+      { "left": "beaver away", "right": "at something" },
+      { "left": "keep one's mind", "right": "on the job" },
+      { "left": "mean", "right": "business" },
+      { "left": "make", "right": "ends meet" },
+      { "left": "get something off", "right": "the ground" },
+      { "left": "be someone's", "right": "right-hand man" },
+      { "left": "call", "right": "the shots" },
+      { "left": "have time on", "right": "one's hands" },
+      { "left": "keep one's nose", "right": "to the grindstone" },
+      { "left": "be an", "right": "inside job" }
+    ]
+  },
+  {
+    "page": 0,
+    "kind": "PAIR",
+    "pairs": [
+      { "left": "on the verge of", "right": "about to do/happen" },
+      { "left": "on offer", "right": "available" },
+      { "left": "on the basis of", "right": "due to" },
+      { "left": "on the dole", "right": "receiving unemployment benefit" },
+      { "left": "on the level", "right": "honest" },
+      { "left": "on hold", "right": "waiting" },
+      { "left": "on a roll", "right": "winning" },
+      { "left": "on and on", "right": "continuously" },
+      { "left": "on and off", "right": "intermittently" },
+      { "left": "on demand", "right": "when needed" }
+    ]
+  },
+  {
+    "page": 0,
+    "kind": "PAIR",
+    "pairs": [
+      { "left": "the late manager", "right": "the manager who has died" },
+      {
+        "left": "the manager in question",
+        "right": "the manager we're talking about"
+      },
+      {
+        "left": "the manager to-be",
+        "right": "the person who is bound to become manager"
+      },
+      {
+        "left": "the former manager",
+        "right": "the person who was manager before the current one"
+      },
+      {
+        "left": "the so-called manager",
+        "right": "the person who is supposed to be the manager"
+      },
+      {
+        "left": "the present manager",
+        "right": "the person who is currently manager"
+      },
+      {
+        "left": "the would-be manager",
+        "right": "the person who would like to be manager"
+      },
+      {
+        "left": "the stop-gap manager",
+        "right": "the person who is holding the manager's post temporarily"
+      }
+    ]
+  },
+  {
+    "page": 0,
+    "kind": "PAIR",
+    "pairs": [
+      { "left": "be over", "right": "the hill" },
+      { "left": "be given a clean", "right": "bill of health" },
+      { "left": "be black", "right": "and blue" },
+      { "left": "be fit as", "right": "a fiddle" },
+      { "left": "have butterflies in", "right": "one's stomach" },
+      { "left": "kick up", "right": "one's heels" },
+      { "left": "scare the life", "right": "out of someone" },
+      { "left": "be of sound", "right": "mind and body" },
+      { "left": "have nerves", "right": "of steel" },
+      { "left": "keep a stiff", "right": "upper lip" }
+    ]
+  },
+  {
+    "page": 0,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "People wrongly assume that there",
+        "right": "is not much visual interest in orchestral performances."
+      },
+      {
+        "left": "It can no longer be assumed that the purpose of art",
+        "right": "is to delight and instruct."
+      },
+      { "left": "Some people claim that art", "right": "is a useless luxury." },
+      {
+        "left": "These days the fame of an artist",
+        "right": "is more dependent on advertising than on artistic merit."
+      },
+      {
+        "left": "What is most striking about the picture",
+        "right": "is the artist's use of light and shade."
+      },
+      {
+        "left": "In the theatre, the lighting",
+        "right": "is as important a part of the performance as the acting."
+      },
+      {
+        "left": "Although I personally don't like this sculpture, it",
+        "right": "is reckoned to be a masterpiece."
+      },
+      {
+        "left": "The film is exciting, moving and, in parts, very funny, which is why it",
+        "right": "is one of my favourites."
+      },
+      {
+        "left": "Though not very popular, in my view the exhibition",
+        "right": "is well worth attending."
+      },
+      {
+        "left": "In a live rock concert, it",
+        "right": "is the whole performance as much as the music that makes it unforgettable."
+      }
+    ]
   }
 ]
