@@ -3723,5 +3723,886 @@
       "D": "turmoil"
     },
     "answer": "turmoil"
+  },
+  {
+    "question": "The future looks ……… for the Swan Theatre unless ticket sales improve.",
+    "options": {
+      "A": "chilly",
+      "B": "bleak",
+      "C": "exposed",
+      "D": "inhospitable"
+    },
+    "answer": "bleak"
+  },
+  {
+    "question": "Kate and Leopold is a(n) ……… romantic comedy.",
+    "options": {
+      "A": "amiable",
+      "B": "civil",
+      "C": "charming",
+      "D": "friendly"
+    },
+    "answer": "charming"
+  },
+  {
+    "question": "The play was full of ……… one-liners.",
+    "options": {
+      "A": "corny",
+      "B": "musty",
+      "C": "withered",
+      "D": "fusty"
+    },
+    "answer": "corny"
+  },
+  {
+    "question": "The script was intelligent but the ……… special effects spoilt our overall enjoyment of the film.",
+    "options": {
+      "A": "fixed",
+      "B": "dated",
+      "C": "established",
+      "D": "antique"
+    },
+    "answer": "dated"
+  },
+  {
+    "question": "This new video game has a ……… storyline and a larger-than-life action hero.",
+    "options": {
+      "A": "gripping",
+      "B": "grabbing",
+      "C": "grasping",
+      "D": "growing"
+    },
+    "answer": "gripping"
+  },
+  {
+    "question": "The dialogue is good in the film and it includes a(n) ……… exchange of life stories that had everyone in stitches.",
+    "options": {
+      "A": "hilarious",
+      "B": "unruly",
+      "C": "blustery",
+      "D": "rough"
+    },
+    "answer": "hilarious"
+  },
+  {
+    "question": "I was impressed by the author's perception and by the ……… remarks in the book.",
+    "options": {
+      "A": "inside",
+      "B": "insensitive",
+      "C": "indiscreet",
+      "D": "insightful"
+    },
+    "answer": "insightful"
+  },
+  {
+    "question": "After the minute's silence in the cathedral there came a second ……… moment for reflection.",
+    "options": {
+      "A": "upsetting",
+      "B": "poignant",
+      "C": "piteous",
+      "D": "pathetic"
+    },
+    "answer": "poignant"
+  },
+  {
+    "question": "The subject matter was presented in such a heavy-handed and ……… manner that we walked out half way through the performance.",
+    "options": {
+      "A": "pretentious",
+      "B": "precautious",
+      "C": "pre-emptive",
+      "D": "preclusive"
+    },
+    "answer": "pretentious"
+  },
+  {
+    "question": "The ending was appropriately ………, with Alan getting down on one knee and asking Fran to marry him.",
+    "options": {
+      "A": "soapy",
+      "B": "sloppy",
+      "C": "soppy",
+      "D": "slippery"
+    },
+    "answer": "soppy"
+  },
+  {
+    "question": "……… is falling at last and the price of goods and services is coming down.",
+    "options": {
+      "A": "Inflation",
+      "B": "Inflammation",
+      "C": "Deflation",
+      "D": "Deflection"
+    },
+    "answer": "Inflation"
+  },
+  {
+    "question": "I'll need to ……… some money from the bank to pay for the holiday.",
+    "options": {
+      "A": "remove",
+      "B": "cancel",
+      "C": "extract",
+      "D": "withdraw"
+    },
+    "answer": "withdraw"
+  },
+  {
+    "question": "The bank ……… dealt with the large transaction very efficiently.",
+    "options": {
+      "A": "teller",
+      "B": "seller",
+      "C": "assistant",
+      "D": "aide"
+    },
+    "answer": "teller"
+  },
+  {
+    "question": "Because Patrick didn't have enough money in his account to cover the amount, the cheque ……….",
+    "options": {
+      "A": "sprang",
+      "B": "jumped",
+      "C": "bounced",
+      "D": "hopped"
+    },
+    "answer": "bounced"
+  },
+  {
+    "question": "Every month Clara is afraid to look at her bank ……… because she knows she's spending too much.",
+    "options": {
+      "A": "report",
+      "B": "statement",
+      "C": "affirmation",
+      "D": "certificate"
+    },
+    "answer": "statement"
+  },
+  {
+    "question": "The national ……… of France used to be the Franc, but now it's the Euro.",
+    "options": {
+      "A": "exchange",
+      "B": "cash",
+      "C": "coin",
+      "D": "currency"
+    },
+    "answer": "currency"
+  },
+  {
+    "question": "This needs to be paid into the bank; could you go this afternoon and make a(n) ………?",
+    "options": {
+      "A": "placement",
+      "B": "deposit",
+      "C": "payment",
+      "D": "accumulation"
+    },
+    "answer": "deposit"
+  },
+  {
+    "question": "Elizabeth's so lucky! Last week she won a writing competition and this week she's won the lottery, two ……… one after the other!",
+    "options": {
+      "A": "windbags",
+      "B": "windpipes",
+      "C": "wind-breaks",
+      "D": "windfalls"
+    },
+    "answer": "windfalls"
+  },
+  {
+    "question": "My bank account has a £1,000 ……… facility, but I don't want to use it because I get stressed when I owe money.",
+    "options": {
+      "A": "overdraft",
+      "B": "outpass",
+      "C": "overpass",
+      "D": "redraft"
+    },
+    "answer": "overdraft"
+  },
+  {
+    "question": "Despite the many ……… distractions she had to overcome, she achieved the success she deserved.",
+    "options": {
+      "A": "extended",
+      "B": "extracted",
+      "C": "external",
+      "D": "extravagant"
+    },
+    "answer": "external"
+  },
+  {
+    "question": "The total ……… of nuclear weapons would hopefully give the world something to celebrate.",
+    "options": {
+      "A": "extermination",
+      "B": "elimination",
+      "C": "ellipsis",
+      "D": "exception"
+    },
+    "answer": "elimination"
+  },
+  {
+    "question": "The ……… of hard work bringing positive results is perhaps out of favour now in the modern world.",
+    "options": {
+      "A": "abstract",
+      "B": "opinion",
+      "C": "concept",
+      "D": "belief"
+    },
+    "answer": "concept"
+  },
+  {
+    "question": "Overconfidence due to overnight success can take us quickly down that ……… road to failure.",
+    "options": {
+      "A": "sticky",
+      "B": "slippery",
+      "C": "oily",
+      "D": "slithery"
+    },
+    "answer": "slippery"
+  },
+  {
+    "question": "Company headquarters are situated ……… in the heart of the city.",
+    "options": {
+      "A": "direct",
+      "B": "exact",
+      "C": "precise",
+      "D": "right"
+    },
+    "answer": "right"
+  },
+  {
+    "question": "He ……… more and more experience until he finally reached the top of his profession.",
+    "options": {
+      "A": "achieved",
+      "B": "gained",
+      "C": "earned",
+      "D": "won"
+    },
+    "answer": "gained"
+  },
+  {
+    "question": "The preparations for the Olympic Games are on ……… according to the committee in charge.",
+    "options": {
+      "A": "goal",
+      "B": "target",
+      "C": "progress",
+      "D": "aim"
+    },
+    "answer": "target"
+  },
+  {
+    "question": "Following years of intense training, the accomplished athlete ……… the medal triumphantly.",
+    "options": {
+      "A": "took off",
+      "B": "went off",
+      "C": "ran off",
+      "D": "carried off"
+    },
+    "answer": "carried off"
+  },
+  {
+    "question": "Having worked his fingers to the ……… for many years, he eventually saw the fruit of his hard work at the age of fifty.",
+    "options": {
+      "A": "end",
+      "B": "edge",
+      "C": "bone",
+      "D": "nail"
+    },
+    "answer": "bone"
+  },
+  {
+    "question": "Once she had achieved the success she desired, she decided that it was time to ……… it easy for a while.",
+    "options": {
+      "A": "take",
+      "B": "make",
+      "C": "have",
+      "D": "do"
+    },
+    "answer": "take"
+  },
+  {
+    "question": "There was a wonderful ski ……… way up in the mountains, suitable for the whole family.",
+    "options": {
+      "A": "lodge",
+      "B": "hostel",
+      "C": "pension",
+      "D": "house"
+    },
+    "answer": "lodge"
+  },
+  {
+    "question": "The lucky survivors of the freak storm related their ……… tale to the eager journalists.",
+    "options": {
+      "A": "challenging",
+      "B": "harrowing",
+      "C": "gruelling",
+      "D": "saddening"
+    },
+    "answer": "harrowing"
+  },
+  {
+    "question": "The heat of the summer sun had caused the area to catch fire, leaving behind only ………, smouldering tree trunks.",
+    "options": {
+      "A": "blackened",
+      "B": "smoky",
+      "C": "deadly",
+      "D": "dried"
+    },
+    "answer": "blackened"
+  },
+  {
+    "question": "The boss was ……… with the new employee over his qualifications and ability to perform his job well.",
+    "options": {
+      "A": "at a loose end",
+      "B": "at a loss",
+      "C": "at odds",
+      "D": "at a standstill"
+    },
+    "answer": "at odds"
+  },
+  {
+    "question": "It was a ……… squabble and they didn't make up for weeks.",
+    "options": {
+      "A": "strong",
+      "B": "sharp",
+      "C": "bitter",
+      "D": "sour"
+    },
+    "answer": "bitter"
+  },
+  {
+    "question": "Take a penknife with you – it might ……… in handy.",
+    "options": {
+      "A": "come",
+      "B": "be",
+      "C": "fall",
+      "D": "get"
+    },
+    "answer": "come"
+  },
+  {
+    "question": "Everything is going well and business is ……….",
+    "options": {
+      "A": "roaring",
+      "B": "boosting",
+      "C": "bursting",
+      "D": "booming"
+    },
+    "answer": "booming"
+  },
+  {
+    "question": "I found her attitude quite ………. I really can't understand why she's so angry.",
+    "options": {
+      "A": "moving",
+      "B": "baffling",
+      "C": "unconditional",
+      "D": "invasive"
+    },
+    "answer": "baffling"
+  },
+  {
+    "question": "Making personal phone calls during office hours is ……… upon where I work.",
+    "options": {
+      "A": "frowned",
+      "B": "disapproved",
+      "C": "condemned",
+      "D": "criticised"
+    },
+    "answer": "frowned"
+  },
+  {
+    "question": "Peter was too ……… to dare to stand up and speak in front of all those people.",
+    "options": {
+      "A": "self-aware",
+      "B": "self-righteous",
+      "C": "self-indulgent",
+      "D": "self-conscious"
+    },
+    "answer": "self-conscious"
+  },
+  {
+    "question": "Sally has been feeling rather down in the ……… recently. How can we cheer her up?",
+    "options": {
+      "A": "mood",
+      "B": "dumps",
+      "C": "beans",
+      "D": "feelings"
+    },
+    "answer": "dumps"
+  },
+  {
+    "question": "Don't believe John – there's not a ……… of truth in what he says!",
+    "options": {
+      "A": "trace",
+      "B": "touch",
+      "C": "grain",
+      "D": "slip"
+    },
+    "answer": "grain"
+  },
+  {
+    "question": "He was knocked out in the fight and they had to throw water on him to bring him ……….",
+    "options": {
+      "A": "back",
+      "B": "round",
+      "C": "in",
+      "D": "over"
+    },
+    "answer": "round"
+  },
+  {
+    "question": "The environmental ……… group Greenpeace has done a lot to change government policies.",
+    "options": {
+      "A": "campaign",
+      "B": "pressure",
+      "C": "power",
+      "D": "force"
+    },
+    "answer": "pressure"
+  },
+  {
+    "question": "The young offender was obliged to report to his probation ……… on a weekly basis.",
+    "options": {
+      "A": "officer",
+      "B": "guide",
+      "C": "advisor",
+      "D": "leader"
+    },
+    "answer": "officer"
+  },
+  {
+    "question": "Deborah won the match against all ……….",
+    "options": {
+      "A": "chances",
+      "B": "hopes",
+      "C": "facts",
+      "D": "odds"
+    },
+    "answer": "odds"
+  },
+  {
+    "question": "Getting teenagers to assist old people can help to ……… the generation gap.",
+    "options": {
+      "A": "cover",
+      "B": "fix",
+      "C": "throw",
+      "D": "bridge"
+    },
+    "answer": "bridge"
+  },
+  {
+    "question": "In court, the accused ……… guilty to all the charges.",
+    "options": {
+      "A": "was",
+      "B": "pleaded",
+      "C": "claimed",
+      "D": "admitted"
+    },
+    "answer": "pleaded"
+  },
+  {
+    "question": "Discussions on the issue of expansion of the company have been in ……… since the outbreak of disease in the area.",
+    "options": {
+      "A": "hitch",
+      "B": "limbo",
+      "C": "feud",
+      "D": "core"
+    },
+    "answer": "limbo"
+  },
+  {
+    "question": "Viewers were ……… at the incredible sight of the lunar landscape, unable to take their eyes off the screen until the very end of the broadcast.",
+    "options": {
+      "A": "switched",
+      "B": "devised",
+      "C": "transfixed",
+      "D": "stifled"
+    },
+    "answer": "transfixed"
+  },
+  {
+    "question": "The culprit had been under their noses all along and so the investigators were criticised heavily for making unnecessary ……….",
+    "options": {
+      "A": "blunders",
+      "B": "hitches",
+      "C": "assets",
+      "D": "tasks"
+    },
+    "answer": "blunders"
+  },
+  {
+    "question": "The authorities were ……… that the public should not find out about the high level research being carried out at the institute.",
+    "options": {
+      "A": "certain",
+      "B": "adamant",
+      "C": "absolute",
+      "D": "sure"
+    },
+    "answer": "adamant"
+  },
+  {
+    "question": "They certainly ……… the mould when they brought out their latest model; it's totally different from anything else they've ever produced!",
+    "options": {
+      "A": "destroyed",
+      "B": "broke",
+      "C": "cracked",
+      "D": "changed"
+    },
+    "answer": "broke"
+  },
+  {
+    "question": "It's an accepted fact that in the modern world certain companies try to ……… their nearest competitors.",
+    "options": {
+      "A": "outrun",
+      "B": "outgrow",
+      "C": "outdistance",
+      "D": "outdo"
+    },
+    "answer": "outdo"
+  },
+  {
+    "question": "We are lucky to be witness to this era of ever-increasing ……… change.",
+    "options": {
+      "A": "experimental",
+      "B": "digital",
+      "C": "technological",
+      "D": "new age"
+    },
+    "answer": "technological"
+  },
+  {
+    "question": "Working mothers throughout the company were delighted with the introduction of ………, as it made it easier to manage collecting children from school at different times on different days.",
+    "options": {
+      "A": "overtime",
+      "B": "part-time",
+      "C": "flexitime",
+      "D": "full-time"
+    },
+    "answer": "flexitime"
+  },
+  {
+    "question": "Any job that involves doing the same thing day in day out must be pretty ……….",
+    "options": {
+      "A": "strenuous",
+      "B": "mundane",
+      "C": "stimulating",
+      "D": "arduous"
+    },
+    "answer": "mundane"
+  },
+  {
+    "question": "Keith's ……… income looks impressive, but once tax and social security contributions are deducted, it's not so much.",
+    "options": {
+      "A": "full",
+      "B": "grand",
+      "C": "net",
+      "D": "gross"
+    },
+    "answer": "gross"
+  },
+  {
+    "question": "Having lost her mother at an early age, Mary felt she had become a mere ………, having to do absolutely everything for her five brothers and sisters.",
+    "options": {
+      "A": "taskmaster",
+      "B": "workmate",
+      "C": "slavedriver",
+      "D": "workhorse"
+    },
+    "answer": "workhorse"
+  },
+  {
+    "question": "They were on the ……… of folding the company when an investor saved the day with a large, financial contribution.",
+    "options": {
+      "A": "edge",
+      "B": "basis",
+      "C": "verge",
+      "D": "offchance"
+    },
+    "answer": "verge"
+  },
+  {
+    "question": "Recent medical research into the new virus has ........... fears that it is usually fatal.",
+    "options": {
+      "A": "propelled",
+      "B": "killed",
+      "C": "dispelled",
+      "D": "disappeared"
+    },
+    "answer": "dispelled"
+  },
+  {
+    "question": "I'd seen the champion on television but never met him in the ........... before.",
+    "options": {
+      "A": "person",
+      "B": "flesh",
+      "C": "face",
+      "D": "reality"
+    },
+    "answer": "flesh"
+  },
+  {
+    "question": "When learning a foreign language, keeping well-ordered vocabulary notes is ...........",
+    "options": {
+      "A": "paramount",
+      "B": "uppermost",
+      "C": "highest",
+      "D": "substantial"
+    },
+    "answer": "paramount"
+  },
+  {
+    "question": "Jenny was completely ........... in her work and could not be distracted.",
+    "options": {
+      "A": "submerged",
+      "B": "sunk",
+      "C": "drowned",
+      "D": "immersed"
+    },
+    "answer": "immersed"
+  },
+  {
+    "question": "She started ..........., so I knew she was bored.",
+    "options": {
+      "A": "blinking",
+      "B": "yawning",
+      "C": "wheezing",
+      "D": "swallowing"
+    },
+    "answer": "yawning"
+  },
+  {
+    "question": "The doctor instructed him to keep his arm in a ........... for two weeks.",
+    "options": {
+      "A": "plaster",
+      "B": "sling",
+      "C": "sleeve",
+      "D": "shade"
+    },
+    "answer": "sling"
+  },
+  {
+    "question": "It's a very ........... disease so we may all catch it.",
+    "options": {
+      "A": "rigorous",
+      "B": "nagging",
+      "C": "contagious",
+      "D": "spreading"
+    },
+    "answer": "contagious"
+  },
+  {
+    "question": "The piercing scream scared the ........... out of me.",
+    "options": {
+      "A": "life",
+      "B": "breath",
+      "C": "mind",
+      "D": "nerve"
+    },
+    "answer": "life"
+  },
+  {
+    "question": "The deadline is this Friday, but ........... the circumstances I'll accept your essay next Monday.",
+    "options": {
+      "A": "on",
+      "B": "over",
+      "C": "under",
+      "D": "for"
+    },
+    "answer": "under"
+  },
+  {
+    "question": "That ear infection won't clear ........... on its own; you'll need antibiotics.",
+    "options": {
+      "A": "up",
+      "B": "away",
+      "C": "off",
+      "D": "out"
+    },
+    "answer": "up"
+  },
+  {
+    "question": "Many educationalists feel that continuous ........... is fairer than formal examinations.",
+    "options": {
+      "A": "judgment",
+      "B": "assignment",
+      "C": "cramming",
+      "D": "assessment"
+    },
+    "answer": "assessment"
+  },
+  {
+    "question": "Only the very wealthy can afford the tuition ........... at this college.",
+    "options": {
+      "A": "funds",
+      "B": "fees",
+      "C": "fares",
+      "D": "prices"
+    },
+    "answer": "fees"
+  },
+  {
+    "question": "Jerry passed the examination with ........... colours.",
+    "options": {
+      "A": "flying",
+      "B": "soaring",
+      "C": "flowing",
+      "D": "striking"
+    },
+    "answer": "flying"
+  },
+  {
+    "question": "The news spread fast by ........... of mouth.",
+    "options": {
+      "A": "way",
+      "B": "means",
+      "C": "course",
+      "D": "word"
+    },
+    "answer": "word"
+  },
+  {
+    "question": "Fiona is not very bright and has to work hard to ........... up with the rest of the class.",
+    "options": {
+      "A": "stay",
+      "B": "bear",
+      "C": "keep",
+      "D": "hold"
+    },
+    "answer": "keep"
+  },
+  {
+    "question": "Travelling abroad for a year gave Jane a completely new ........... on life.",
+    "options": {
+      "A": "image",
+      "B": "picture",
+      "C": "perspective",
+      "D": "appearance"
+    },
+    "answer": "perspective"
+  },
+  {
+    "question": "Some children had drawn a moustache on the woman in the photo as a ...........",
+    "options": {
+      "A": "prank",
+      "B": "hunch",
+      "C": "comedy",
+      "D": "stunt"
+    },
+    "answer": "prank"
+  },
+  {
+    "question": "Many people ........... having to pay so much VAT on what they buy.",
+    "options": {
+      "A": "object",
+      "B": "estimate",
+      "C": "resent",
+      "D": "annoy"
+    },
+    "answer": "resent"
+  },
+  {
+    "question": "The written text of the advert was so small and blurred that I couldn't ........... it.",
+    "options": {
+      "A": "attend",
+      "B": "realise",
+      "C": "define",
+      "D": "decipher"
+    },
+    "answer": "decipher"
+  },
+  {
+    "question": "It's a simple, ........... restaurant, so there's no need to dress up.",
+    "options": {
+      "A": "unpretentious",
+      "B": "unpredictable",
+      "C": "irresponsible",
+      "D": "unassuming"
+    },
+    "answer": "unpretentious"
+  },
+  {
+    "question": "It's a really muddy path, so we'd better wear ........... .",
+    "options": {
+      "A": "sandals",
+      "B": "wellingtons",
+      "C": "stilettos",
+      "D": "mittens"
+    },
+    "answer": "wellingtons"
+  },
+  {
+    "question": "Bill ........... his fists, trying to contain his anger.",
+    "options": {
+      "A": "pursed",
+      "B": "twisted",
+      "C": "clenched",
+      "D": "shrugged"
+    },
+    "answer": "clenched"
+  },
+  {
+    "question": "Spending so much money on a dress you only wear once is just money down the ..........., in my opinion!",
+    "options": {
+      "A": "bin",
+      "B": "sink",
+      "C": "drain",
+      "D": "earth"
+    },
+    "answer": "drain"
+  },
+  {
+    "question": "I don't believe you really met Jack Nicholson; you're ........... me on!",
+    "options": {
+      "A": "having",
+      "B": "putting",
+      "C": "taking",
+      "D": "giving"
+    },
+    "answer": "having"
+  },
+  {
+    "question": "Sue felt her boss was always picking ........... her and blaming her unfairly.",
+    "options": {
+      "A": "at",
+      "B": "out",
+      "C": "to",
+      "D": "on"
+    },
+    "answer": "on"
+  },
+  {
+    "question": "The company is going to hire a famous actress to ........... their new range of beauty products.",
+    "options": {
+      "A": "make",
+      "B": "launch",
+      "C": "sail",
+      "D": "set"
+    },
+    "answer": "launch"
+  },
+  {
+    "question": "Kelly went on a shopping ........... and spent half her salary on clothes.",
+    "options": {
+      "A": "mall",
+      "B": "spree",
+      "C": "deal",
+      "D": "chain"
+    },
+    "answer": "spree"
+  },
+  {
+    "question": "We all hope that the boss is going to ........... the bill for the staff party.",
+    "options": {
+      "A": "arm",
+      "B": "leg",
+      "C": "foot",
+      "D": "head"
+    },
+    "answer": "foot"
+  },
+  {
+    "question": "Mr Nesbitt ........... a lot of weight with the owner of the store, so he's the one you should try to persuade.",
+    "options": {
+      "A": "carries",
+      "B": "takes",
+      "C": "pulls",
+      "D": "measures"
+    },
+    "answer": "carries"
   }
 ]
+
