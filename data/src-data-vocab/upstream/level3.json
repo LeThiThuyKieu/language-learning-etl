@@ -3433,5 +3433,295 @@
       "D": "reconstruction"
     },
     "answer": "reforestation"
+  },
+  {
+    "question": "As she told me the story, tears ........... up in her eyes.",
+    "options": {
+      "A": "raised",
+      "B": "mounted",
+      "C": "welled",
+      "D": "filled"
+    },
+    "answer": "welled"
+  },
+  {
+    "question": "The news of the attack left us completely ........... .",
+    "options": {
+      "A": "stunned",
+      "B": "stirred",
+      "C": "moved",
+      "D": "upset"
+    },
+    "answer": "stunned"
+  },
+  {
+    "question": "His mother ........... into a rage when she heard what he'd done.",
+    "options": {
+      "A": "rushed",
+      "B": "soared",
+      "C": "flew",
+      "D": "fell"
+    },
+    "answer": "flew"
+  },
+  {
+    "question": "His educational theories are hotly ........... .",
+    "options": {
+      "A": "contested",
+      "B": "perceived",
+      "C": "received",
+      "D": "disapproved"
+    },
+    "answer": "contested"
+  },
+  {
+    "question": "The new teacher soon ........... to grips with the discipline problem in class.",
+    "options": {
+      "A": "went",
+      "B": "set",
+      "C": "put",
+      "D": "came"
+    },
+    "answer": "came"
+  },
+  {
+    "question": "Fiona didn't lie, but she did give rather a ........... picture of the situation.",
+    "options": {
+      "A": "defaced",
+      "B": "disfigured",
+      "C": "disguised",
+      "D": "distorted"
+    },
+    "answer": "distorted"
+  },
+  {
+    "question": "It's a ........... conclusion that Sally will get into university.",
+    "options": {
+      "A": "guaranteed",
+      "B": "foregone",
+      "C": "foolproof",
+      "D": "granted"
+    },
+    "answer": "foregone"
+  },
+  {
+    "question": "The speech was proving rather ........... , and the audience were yawning.",
+    "options": {
+      "A": "strenuous",
+      "B": "tedious",
+      "C": "loquacious",
+      "D": "arduous"
+    },
+    "answer": "tedious"
+  },
+  {
+    "question": "Thanks to generous support from parents, the threat of the college being closed down has now ........... .",
+    "options": {
+      "A": "retreated",
+      "B": "revised",
+      "C": "retired",
+      "D": "receded"
+    },
+    "answer": "receded"
+  },
+  {
+    "question": "A full-sized tripod is far too ……… to carry around. I find this pocket-sized one is much handier.",
+    "options": {
+      "A": "overweight",
+      "B": "inept",
+      "C": "unwieldy",
+      "D": "outsize"
+    },
+    "answer": "unwieldy"
+  },
+  {
+    "question": "Many diseases that used to be considered ……… of mankind are now easily treatable with antibiotics.",
+    "options": {
+      "A": "scourges",
+      "B": "tortures",
+      "C": "blights",
+      "D": "thorns"
+    },
+    "answer": "scourges"
+  },
+  {
+    "question": "She knows she needs exercise, but finds going to the gym a ……… .",
+    "options": {
+      "A": "job",
+      "B": "toil",
+      "C": "work",
+      "D": "chore"
+    },
+    "answer": "chore"
+  },
+  {
+    "question": "The special effects were quite good, but that's more than could be ……… for the acting.",
+    "options": {
+      "A": "mentioned",
+      "B": "spoken",
+      "C": "said",
+      "D": "told"
+    },
+    "answer": "said"
+  },
+  {
+    "question": "There has been a great deal of ……… surrounding the closure of the hospital.",
+    "options": {
+      "A": "discrepancy",
+      "B": "combat",
+      "C": "disparity",
+      "D": "controversy"
+    },
+    "answer": "controversy"
+  },
+  {
+    "question": "There are a ……… of reasons why a patient might decide not to consult a doctor.",
+    "options": {
+      "A": "crowd",
+      "B": "multitude",
+      "C": "deluge",
+      "D": "horde"
+    },
+    "answer": "multitude"
+  },
+  {
+    "question": "There are some safety ……… in connection with the new building that still need to be addressed.",
+    "options": {
+      "A": "worries",
+      "B": "cares",
+      "C": "troubles",
+      "D": "concerns"
+    },
+    "answer": "concerns"
+  },
+  {
+    "question": "If you don't eat enough fruit and vegetables, you may suffer from a vitamin ……… .",
+    "options": {
+      "A": "shortage",
+      "B": "insufficiency",
+      "C": "deficiency",
+      "D": "defect"
+    },
+    "answer": "deficiency"
+  },
+  {
+    "question": "He always suffers from stage ……… before every performance.",
+    "options": {
+      "A": "fright",
+      "B": "fear",
+      "C": "anxiety",
+      "D": "panic"
+    },
+    "answer": "fright"
+  },
+  {
+    "question": "After the earthquake, the entrance hall was turned into a ……… casualty ward.",
+    "options": {
+      "A": "mainstay",
+      "B": "makeshift",
+      "C": "piecework",
+      "D": "wayside"
+    },
+    "answer": "makeshift"
+  },
+  {
+    "question": "Our local team seems to have ……… its focus. We've been beaten three times in a row.",
+    "options": {
+      "A": "missed",
+      "B": "removed",
+      "C": "lost",
+      "D": "misplaced"
+    },
+    "answer": "lost"
+  },
+  {
+    "question": "He's prejudiced against foreigners and strongly ……… a law against immigration.",
+    "options": {
+      "A": "argues",
+      "B": "advocates",
+      "C": "counsels",
+      "D": "commands"
+    },
+    "answer": "advocates"
+  },
+  {
+    "question": "Blokeston Athletic are on the ……… of being relegated to the Fourth Division.",
+    "options": {
+      "A": "edge",
+      "B": "verge",
+      "C": "rim",
+      "D": "ledge"
+    },
+    "answer": "verge"
+  },
+  {
+    "question": "'Lookism' is based on purely ……… standards of beauty.",
+    "options": {
+      "A": "arbitrary",
+      "B": "accidental",
+      "C": "impossible",
+      "D": "unreachable"
+    },
+    "answer": "arbitrary"
+  },
+  {
+    "question": "His private life has come under close public ……… since he won the championship.",
+    "options": {
+      "A": "scrutiny",
+      "B": "attention",
+      "C": "enquiry",
+      "D": "notice"
+    },
+    "answer": "scrutiny"
+  },
+  {
+    "question": "I find his attitude towards poverty ……… and bigoted.",
+    "options": {
+      "A": "outstanding",
+      "B": "ignorant",
+      "C": "incomparable",
+      "D": "sympathetic"
+    },
+    "answer": "ignorant"
+  },
+  {
+    "question": "Manchester had several opportunities to score but ……… their chances.",
+    "options": {
+      "A": "spent",
+      "B": "squandered",
+      "C": "scattered",
+      "D": "abused"
+    },
+    "answer": "squandered"
+  },
+  {
+    "question": "The team coach remained ……… from the public debate about his competence.",
+    "options": {
+      "A": "far",
+      "B": "disinterested",
+      "C": "away",
+      "D": "aloof"
+    },
+    "answer": "aloof"
+  },
+  {
+    "question": "This new law is just the latest in a ……… of laws intended to wipe out discrimination.",
+    "options": {
+      "A": "procession",
+      "B": "lineage",
+      "C": "file",
+      "D": "succession"
+    },
+    "answer": "succession"
+  },
+  {
+    "question": "There was absolute ……… when the spectators invaded the pitch.",
+    "options": {
+      "A": "rioting",
+      "B": "rebellion",
+      "C": "turbulence",
+      "D": "turmoil"
+    },
+    "answer": "turmoil"
   }
 ]
