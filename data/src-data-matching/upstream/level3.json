@@ -120,6 +120,183 @@
         "right": "cheap"
       }
     ]
+  },
+  {
+    "page": 0,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "totally",
+        "right": "unjustified"
+      },
+      {
+        "left": "in a badly neglected",
+        "right": "state"
+      },
+      {
+        "left": "deeply",
+        "right": "concerned"
+      },
+      {
+        "left": "absolutely",
+        "right": "enchanting"
+      },
+      {
+        "left": "of great historical",
+        "right": "interest"
+      },
+      {
+        "left": "are being gradually",
+        "right": "restored"
+      },
+      {
+        "left": "provides a valuable",
+        "right": "insight"
+      },
+      {
+        "left": "one of the few remaining",
+        "right": "examples"
+      },
+      {
+        "left": "to wander",
+        "right": "around"
+      },
+      {
+        "left": "to spend hours",
+        "right": "exploring"
+      }
+    ]
+  },
+  {
+    "page": 0,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "The specialist held",
+        "right": "degrees in cardiology from a number of institutions"
+      },
+      {
+        "left": "Our local GP is held",
+        "right": "in high esteem by the community."
+      },
+      {
+        "left": "The nurse asked me how",
+        "right": "I had been keeping."
+      },
+      {
+        "left": "Hold",
+        "right": "still while I give you this injection."
+      },
+      {
+        "left": "I've been trying to get hold",
+        "right": "of a doctor all morning."
+      }
+    ]
+  },
+  {
+    "page": 1,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "wind, solar",
+        "right": "power"
+      },
+      {
+        "left": "natural, man-made",
+        "right": "disaster"
+      },
+      {
+        "left": "noise, air",
+        "right": "pollution"
+      },
+      {
+        "left": "industrial, nuclear",
+        "right": "waste"
+      },
+      {
+        "left": "wild-life, water",
+        "right": "conservation"
+      },
+      {
+        "left": "extinct, endangered",
+        "right": "species"
+      },
+      {
+        "left": "noxious, toxic",
+        "right": "fumes"
+      }
+    ]
+  },
+  {
+    "page": 43,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "Action is needed now before",
+        "right": "it is too late."
+      },
+      {
+        "left": "It should not be forgotten",
+        "right": "that the public also have a duty to act on this issue."
+      },
+      {
+        "left": "If we allow this situation to continue,",
+        "right": "the consequences could be disastrous."
+      },
+      {
+        "left": "It is only",
+        "right": "a matter of time before the situation becomes uncontrollable."
+      },
+      {
+        "left": "The government is obviously either",
+        "right": "unable or unwilling to act."
+      },
+      {
+        "left": "Yet it would be a mistake to",
+        "right": "overlook the fact that schools play a vital role in this."
+      },
+      {
+        "left": "We have known about",
+        "right": "the situation for some time and yet very little action has been taken to correct it."
+      },
+      {
+        "left": "Although some measures",
+        "right": "have been implemented, these are clearly not enough."
+      }
+    ]
+  },
+  {
+    "page": 48,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "give in to/to back down",
+        "right": "submit/acquiesce/surrender to"
+      },
+      {
+        "left": "put up with/to stand for",
+        "right": "tolerate"
+      },
+      {
+        "left": "tackle/get to grips with",
+        "right": "deal with"
+      },
+      {
+        "left": "take advantage of",
+        "right": "exploit"
+      },
+      {
+        "left": "frown upon/take a dim view of",
+        "right": "condemn"
+      },
+      {
+        "left": "talk sb into",
+        "right": "persuade to"
+      },
+      {
+        "left": "give it a go",
+        "right": "make an attempt"
+      }
+    ]
   }
-
 ]
