@@ -12,7 +12,7 @@
       { "answer": "£2" },
       { "answer": "twelve" }
     ],
-    "audio": "CD1 track 28"
+    "audio": "https://res.cloudinary.com/dcz6avkds/video/upload/v1774539117/Track_28_tjjslj.mp3"
   },
   {
     "gapped_text": "A: Good morning. _______ _______ _______ _______?\nB: Yes – I'd like to book some tickets for the city tour, please.\nA: Certainly. _______ _______ _______ _______ _______ _______ _______ _______?\nB: Just two adults – my friend and myself.\nA: _______ _______ _______ _______ _______ _______? We have one starting in ten minutes.\nB: Actually, we want to go this afternoon. _______ _______ _______ _______ _______ _______ _______ _______?\nA: No, but there's one at 3:15.\nB: That will be fine. _______ _______ _______ _______ _______?\nA: An hour. Here are your tickets. That's £10, please.\nB: Here you are.\nA: Thank you. Enjoy the tour!",
@@ -47,7 +47,7 @@
       { "answer": "it" },
       { "answer": "last?" }
     ],
-    "audio": "CD1 track 9"
+    "audio": "https://res.cloudinary.com/dcz6avkds/video/upload/v1774541024/Track_29_celz4b.mp3"
   },
 {
   "gapped_text": "Title: _______ _______ _______ \nDirected by: Brian _______\nStarring: Tim _______ as Dave Douglas.\nRobert Downey Jr gives a _______ performance as Dr Kozak.\nAn exciting film for _______.",
@@ -60,7 +60,7 @@
     { "answer": "good" },
     { "answer": "kids" }
   ],
-  "audio": "CD 2 - 14.mp3"
+  "audio": "https://res.cloudinary.com/dcz6avkds/video/upload/v1774539229/14_iskimz.mp3"
 },
 {
   "gapped_text": "TO: Tom\nFROM: _______\nDATE: _______ October\nPLACE: _______ _______\nADDRESS: 7, _______ _______\nTIME: _______ _______",
@@ -74,7 +74,7 @@
     { "answer": "8" },
     { "answer": "o'clock" }
   ],
-  "audio": "CD 2 - 23.mp3"
+  "audio": "https://res.cloudinary.com/dcz6avkds/video/upload/v1774539232/23_s7afqy.mp3"
 }
 
 ]
