@@ -41,6 +41,11 @@ const DEFAULT_INPUT_ROOT = path.resolve(process.cwd(), "data/src-data-speaking")
 const DEFAULT_OUTPUT_CSV = path.resolve(process.cwd(), "data/archive/speaking_raw.csv");
 const DEFAULT_REVIEW_CSV = path.resolve(process.cwd(), "data/archive/speaking_review.csv");
 
+/* =========================
+   UTIL FUNCTIONS
+========================= */
+
+// Escape dữ liệu để ghi CSV
 function csvEscape(value: string): string {
   if (/[",\n\r]/.test(value)) {
     return `"${value.replace(/"/g, '""')}"`;
@@ -48,17 +53,12 @@ function csvEscape(value: string): string {
   return value;
 }
 
+// Chuẩn hóa newline
 function normalizeLineEndings(value: string): string {
   return value.replace(/\r\n/g, "\n").replace(/\r/g, "\n");
 }
 
-function normalizeSpaces(value: string): string {
-  return value
-    .replace(/\u00a0/g, " ")
-    .replace(/[ \t]+/g, " ")
-    .trim();
-}
-
+// Chuẩn hóa string để so sánh
 function normalizeForCompare(value: string): string {
   return normalizeLineEndings(value)
     .replace(/\u00a0/g, " ")
@@ -66,95 +66,82 @@ function normalizeForCompare(value: string): string {
     .trim();
 }
 
+// Chuẩn hóa audio
 function normalizeAudio(value: string): string {
   return normalizeForCompare(value);
 }
 
+// Parse mode CLI
 function parseMode(input?: string): SourceMode {
   const lower = String(input || "both").toLowerCase();
-  if (lower === "stactics" || lower === "upstream" || lower === "both") {
-    return lower;
+  if (["stactics", "upstream", "both"].includes(lower)) {
+    return lower as SourceMode;
   }
-  throw new Error(`Invalid mode: ${input}. Use stactics | upstream | both`);
+  throw new Error(`Invalid mode: ${input}`);
 }
 
+// Map difficulty từ tên file
 function mapDifficultyFromFileName(fileName: string): Difficulty {
   const lower = fileName.toLowerCase();
-
   if (lower.includes("basic") || lower.includes("level1")) return "easy";
   if (lower.includes("developing") || lower.includes("level2")) return "medium";
   if (lower.includes("expanding") || lower.includes("level3")) return "hard";
-
   return "medium";
 }
 
+// Extract sentences sạch
 function extractSentencesRaw(value: unknown): string[] {
   if (!Array.isArray(value)) return [];
-
-  const out: string[] = [];
-  for (const part of value) {
-    const s = normalizeLineEndings(String(part ?? "")).trim();
-    if (s.length > 0) out.push(s);
-  }
-  return out;
+  return value
+    .map((v) => normalizeLineEndings(String(v ?? "")).trim())
+    .filter((s) => s.length > 0);
 }
 
+// Lấy số thứ tự đầu câu
 function parseLeadingNumber(sentence: string): number | null {
   const match = sentence.match(/^\s*(\d+)\s*([.)-]|\s)/);
-  if (!match) return null;
-  return Number(match[1]);
+  return match ? Number(match[1]) : null;
 }
 
+// Validate numbering
 function validateSentenceNumbering(sentences: string[]): { ok: boolean; reason?: string } {
-  if (sentences.length === 0) {
-    return { ok: false, reason: "EMPTY_SENTENCES" };
-  }
+  if (sentences.length === 0) return { ok: false, reason: "EMPTY_SENTENCES" };
 
-  const nums: number[] = [];
-  for (const s of sentences) {
-    const n = parseLeadingNumber(s);
-    if (n === null) {
-      return { ok: false, reason: "MISSING_NUMBER_PREFIX" };
-    }
-    nums.push(n);
-  }
-
-  for (let i = 0; i < nums.length; i += 1) {
-    const expected = i + 1;
-    if (nums[i] !== expected) {
-      return {
-        ok: false,
-        reason: `NON_SEQUENTIAL_NUMBERING(expected:${expected},actual:${nums[i]})`,
-      };
+  for (let i = 0; i < sentences.length; i++) {
+    const num = parseLeadingNumber(sentences[i]);
+    if (num === null) return { ok: false, reason: "MISSING_NUMBER_PREFIX" };
+    if (num !== i + 1) {
+      return { ok: false, reason: `NON_SEQUENTIAL(expected:${i + 1},actual:${num})` };
     }
   }
 
   return { ok: true };
 }
 
-function toJoinedSentencesKeepNewline(sentences: string[]): string {
+// Join sentences
+function joinSentences(sentences: string[]): string {
   return normalizeLineEndings(sentences.join("\n")).trim();
 }
 
-function getModesToProcess(mode: SourceMode): Array<"stactics" | "upstream"> {
-  if (mode === "both") return ["stactics", "upstream"];
-  return [mode];
+// Mode xử lý
+function getModes(mode: SourceMode): Array<"stactics" | "upstream"> {
+  return mode === "both" ? ["stactics", "upstream"] : [mode];
 }
 
-function safeReadJsonArray(filePath: string): { ok: true; data: unknown[] } | { ok: false; error: string } {
+// Đọc JSON an toàn
+function safeReadJsonArray(filePath: string) {
   try {
     const raw = fs.readFileSync(filePath, "utf8");
-    const parsed = JSON.parse(raw) as unknown;
-    if (!Array.isArray(parsed)) {
-      return { ok: false, error: "ROOT_NOT_ARRAY" };
-    }
-    return { ok: true, data: parsed };
-  } catch (err) {
-    return { ok: false, error: `JSON_PARSE_ERROR:${(err as Error).message}` };
+    const parsed = JSON.parse(raw);
+    if (!Array.isArray(parsed)) return { ok: false, error: "ROOT_NOT_ARRAY" };
+    return { ok: true, data: parsed as unknown[] };
+  } catch (e: any) {
+    return { ok: false, error: "JSON_PARSE_ERROR:" + e.message };
   }
 }
 
-function buildBaseReviewRow(params: {
+// Tạo review row
+function baseReviewRow(params: {
   source_file: string;
   mode: "stactics" | "upstream";
   reason: string;
@@ -172,88 +159,55 @@ function buildBaseReviewRow(params: {
   };
 }
 
-function writeMainCsv(filePath: string, rows: MainRow[]): void {
+// Ghi CSV chính
+function writeMainCsv(filePath: string, rows: MainRow[]) {
   fs.mkdirSync(path.dirname(filePath), { recursive: true });
 
-  const header = "sentences,audio,difficulty";
-  const body = rows
-    .map((r) => [r.sentences, r.audio, r.difficulty].map(csvEscape).join(","))
-    .join("\n");
+  const content =
+    "sentences,audio,difficulty\n" +
+    rows.map((r) => [r.sentences, r.audio, r.difficulty].map(csvEscape).join(",")).join("\n");
 
-  const content = body ? `${header}\n${body}\n` : `${header}\n`;
   fs.writeFileSync(filePath, content, "utf8");
 }
 
-function writeReviewCsv(filePath: string, rows: ReviewRow[]): void {
+// Ghi CSV review
+function writeReviewCsv(filePath: string, rows: ReviewRow[]) {
   fs.mkdirSync(path.dirname(filePath), { recursive: true });
 
-  const header = [
-    "source_file",
-    "mode",
-    "reason",
-    "sentences",
-    "audio",
-    "difficulty",
-    "conflict_with_source_file",
-    "conflict_with_mode",
-    "conflict_with_sentences",
-    "conflict_with_audio",
-    "conflict_with_difficulty",
-  ].join(",");
+  const header = Object.keys(rows[0] || {}).join(",");
+  const body = rows.map((r) => Object.values(r).map(csvEscape).join(",")).join("\n");
 
-  const body = rows
-    .map((r) =>
-      [
-        r.source_file,
-        r.mode,
-        r.reason,
-        r.sentences,
-        r.audio,
-        r.difficulty,
-        r.conflict_with_source_file,
-        r.conflict_with_mode,
-        r.conflict_with_sentences,
-        r.conflict_with_audio,
-        r.conflict_with_difficulty,
-      ]
-        .map(csvEscape)
-        .join(","),
-    )
-    .join("\n");
-
-  const content = body ? `${header}\n${body}\n` : `${header}\n`;
-  fs.writeFileSync(filePath, content, "utf8");
+  fs.writeFileSync(filePath, header + "\n" + body, "utf8");
 }
 
-function main(): void {
+/* =========================
+   MAIN PROCESS
+========================= */
+
+function main() {
   const mode = parseMode(process.argv[2]);
-  const inputRoot = process.argv[3] ? path.resolve(process.argv[3]) : DEFAULT_INPUT_ROOT;
-  const outputCsv = process.argv[4] ? path.resolve(process.argv[4]) : DEFAULT_OUTPUT_CSV;
-  const reviewCsv = process.argv[5] ? path.resolve(process.argv[5]) : DEFAULT_REVIEW_CSV;
+  const inputRoot = process.argv[3] || DEFAULT_INPUT_ROOT;
+  const outputCsv = process.argv[4] || DEFAULT_OUTPUT_CSV;
+  const reviewCsv = process.argv[5] || DEFAULT_REVIEW_CSV;
 
-  const modes = getModesToProcess(mode);
+  const modes = getModes(mode);
 
   const mainRows: MainRow[] = [];
   const reviewRows: ReviewRow[] = [];
 
-  // exact dedupe cho output chính
-  const seenMainKey = new Set<string>();
+  const seen = new Set<string>();
+  const audioMap = new Map<string, AudioSeenRecord>();
+  const conflictSet = new Set<string>();
 
-  // track audio đầu tiên đã thấy
-  const audioToFirstSeen = new Map<string, AudioSeenRecord>();
+  for (const m of modes) {
+    const dir = path.join(inputRoot, m);
 
-  // để không đẩy lặp lại cùng 1 conflict nhiều lần
-  const reportedAudioConflicts = new Set<string>();
-
-  for (const currentMode of modes) {
-    const sourceDir = path.join(inputRoot, currentMode);
-
-    if (!fs.existsSync(sourceDir)) {
+    if (!fs.existsSync(dir)) {
       reviewRows.push(
-        buildBaseReviewRow({
-          source_file: sourceDir,
-          mode: currentMode,
-          reason: "SOURCE_DIR_NOT_FOUND",
+        baseReviewRow({
+          source_file: dir,
+          mode: m,
+          reason: "SOURCE_NOT_FOUND",
           sentences: "",
           audio: "",
           difficulty: "medium",
@@ -262,22 +216,19 @@ function main(): void {
       continue;
     }
 
-    const jsonFiles = fs
-      .readdirSync(sourceDir)
-      .filter((name) => name.toLowerCase().endsWith(".json"))
-      .sort((a, b) => a.localeCompare(b));
+    const files = fs.readdirSync(dir).filter((f) => f.endsWith(".json"));
 
-    for (const fileName of jsonFiles) {
-      const filePath = path.join(sourceDir, fileName);
-      const difficulty = mapDifficultyFromFileName(fileName);
+    for (const file of files) {
+      const difficulty = mapDifficultyFromFileName(file);
+      const filePath = path.join(dir, file);
 
-      const loaded = safeReadJsonArray(filePath);
-      if (!loaded.ok) {
+      const data = safeReadJsonArray(filePath);
+      if (!data.ok) {
         reviewRows.push(
-          buildBaseReviewRow({
-            source_file: fileName,
-            mode: currentMode,
-            reason: loaded.error,
+          baseReviewRow({
+            source_file: file,
+            mode: m,
+            reason: data.error,
             sentences: "",
             audio: "",
             difficulty,
@@ -286,41 +237,24 @@ function main(): void {
         continue;
       }
 
-      loaded.data.forEach((rawItem, index) => {
-        const sourceTag = `${fileName}#${index + 1}`;
+      data.data.forEach((raw, idx) => {
+        const tag = `${file}#${idx + 1}`;
 
-        if (!rawItem || typeof rawItem !== "object") {
+        const item = raw as SpeakingItem;
+        const sentencesArr = extractSentencesRaw(item.sentences);
+        const joined = joinSentences(sentencesArr);
+        const normalized = normalizeForCompare(joined);
+
+        const audio = normalizeAudio(String(item.audio ?? ""));
+
+        const valid = validateSentenceNumbering(sentencesArr);
+        if (!valid.ok) {
           reviewRows.push(
-            buildBaseReviewRow({
-              source_file: sourceTag,
-              mode: currentMode,
-              reason: "ITEM_NOT_OBJECT",
-              sentences: "",
-              audio: "",
-              difficulty,
-            }),
-          );
-          return;
-        }
-
-        const item = rawItem as SpeakingItem;
-
-        const sentenceArray = extractSentencesRaw(item.sentences);
-        const sentenceValidation = validateSentenceNumbering(sentenceArray);
-
-        const joinedSentences = toJoinedSentencesKeepNewline(sentenceArray);
-        const joinedSentencesNormalized = normalizeForCompare(joinedSentences);
-
-        const audioRaw = String(item.audio ?? "");
-        const audio = normalizeAudio(audioRaw);
-
-        if (!sentenceValidation.ok) {
-          reviewRows.push(
-            buildBaseReviewRow({
-              source_file: sourceTag,
-              mode: currentMode,
-              reason: sentenceValidation.reason || "INVALID_SENTENCES",
-              sentences: joinedSentences,
+            baseReviewRow({
+              source_file: tag,
+              mode: m,
+              reason: valid.reason!,
+              sentences: joined,
               audio,
               difficulty,
             }),
@@ -330,11 +264,11 @@ function main(): void {
 
         if (!audio) {
           reviewRows.push(
-            buildBaseReviewRow({
-              source_file: sourceTag,
-              mode: currentMode,
+            baseReviewRow({
+              source_file: tag,
+              mode: m,
               reason: "MISSING_AUDIO",
-              sentences: joinedSentences,
+              sentences: joined,
               audio,
               difficulty,
             }),
@@ -342,69 +276,44 @@ function main(): void {
           return;
         }
 
-        const firstSeen = audioToFirstSeen.get(audio);
-        if (firstSeen && firstSeen.sentences !== joinedSentencesNormalized) {
-          // tạo key conflict theo cặp 2 source để chỉ report 1 lần/cặp
-          const pairKeySorted = [firstSeen.source_file, sourceTag].sort().join(" <-> ");
-          const conflictKey = `${audio} || ${pairKeySorted}`;
+        // check conflict audio
+        const existed = audioMap.get(audio);
+        if (existed && existed.sentences !== normalized) {
+          const key = [existed.source_file, tag].sort().join("|");
+          if (!conflictSet.has(key)) {
+            conflictSet.add(key);
 
-          if (!reportedAudioConflicts.has(conflictKey)) {
-            reportedAudioConflicts.add(conflictKey);
-
-            // row A: current record, show conflict with firstSeen
             reviewRows.push({
-              source_file: sourceTag,
-              mode: currentMode,
-              reason: "AUDIO_DUPLICATED_WITH_DIFFERENT_SENTENCES",
-              sentences: joinedSentences,
+              source_file: tag,
+              mode: m,
+              reason: "AUDIO_CONFLICT",
+              sentences: joined,
               audio,
               difficulty,
-              conflict_with_source_file: firstSeen.source_file,
-              conflict_with_mode: firstSeen.mode,
-              conflict_with_sentences: firstSeen.sentences,
+              conflict_with_source_file: existed.source_file,
+              conflict_with_mode: existed.mode,
+              conflict_with_sentences: existed.sentences,
               conflict_with_audio: audio,
-              conflict_with_difficulty: firstSeen.difficulty,
-            });
-
-            // row B: firstSeen record, show conflict with current
-            reviewRows.push({
-              source_file: firstSeen.source_file,
-              mode: firstSeen.mode,
-              reason: "AUDIO_DUPLICATED_WITH_DIFFERENT_SENTENCES",
-              sentences: firstSeen.sentences,
-              audio,
-              difficulty: firstSeen.difficulty,
-              conflict_with_source_file: sourceTag,
-              conflict_with_mode: currentMode,
-              conflict_with_sentences: joinedSentences,
-              conflict_with_audio: audio,
-              conflict_with_difficulty: difficulty,
+              conflict_with_difficulty: existed.difficulty,
             });
           }
-
           return;
         }
 
-        if (!firstSeen) {
-          audioToFirstSeen.set(audio, {
-            source_file: sourceTag,
-            mode: currentMode,
-            sentences: joinedSentencesNormalized,
+        if (!existed) {
+          audioMap.set(audio, {
+            source_file: tag,
+            mode: m,
+            sentences: normalized,
             difficulty,
           });
         }
 
-        const dedupeKey = `${joinedSentencesNormalized}||${audio}||${difficulty}`;
-        if (seenMainKey.has(dedupeKey)) {
-          return;
-        }
-        seenMainKey.add(dedupeKey);
+        const key = `${normalized}|${audio}|${difficulty}`;
+        if (seen.has(key)) return;
+        seen.add(key);
 
-        mainRows.push({
-          sentences: joinedSentences,
-          audio,
-          difficulty,
-        });
+        mainRows.push({ sentences: joined, audio, difficulty });
       });
     }
   }
@@ -412,32 +321,9 @@ function main(): void {
   writeMainCsv(outputCsv, mainRows);
   writeReviewCsv(reviewCsv, reviewRows);
 
-  const totalReviewRows = reviewRows.length;
-
-  const audioConflictRows = reviewRows.filter(
-    (r) => r.reason === "AUDIO_DUPLICATED_WITH_DIFFERENT_SENTENCES",
-  );
-
-  // Đếm số cặp conflict unique (2 dòng -> 1 issue)
-  const audioConflictPairKeys = new Set<string>();
-  for (const row of audioConflictRows) {
-    const pair = [row.source_file, row.conflict_with_source_file].sort().join(" <-> ");
-    const key = `${row.audio}||${pair}`;
-    audioConflictPairKeys.add(key);
-  }
-
-  const audioConflictIssueCount = audioConflictPairKeys.size;
-  const nonAudioConflictIssueCount = totalReviewRows - audioConflictRows.length;
-  const totalReviewIssues = nonAudioConflictIssueCount + audioConflictIssueCount;
-
-  console.log(`Done. mode=${mode}`);
-  console.log(`Main rows: ${mainRows.length} -> ${outputCsv}`);
-  console.log(`Review rows: ${totalReviewRows} -> ${reviewCsv}`);
-  console.log(`Review issues: ${totalReviewIssues}`);
-
-  if (audioConflictIssueCount > 0) {
-    console.log(`Audio duplicate issues: ${audioConflictIssueCount}`);
-  }
+  console.log("DONE");
+  console.log("Main:", mainRows.length);
+  console.log("Review:", reviewRows.length);
 }
 
 main();

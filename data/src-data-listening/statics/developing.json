@@ -126,7 +126,7 @@
   "audio": "https://res.cloudinary.com/dcz6avkds/video/upload/v1774488724/TFL_Developing_CD1_42_stbl1q.mp3"
 },
 {
-  "gapped_text": "A: So, what do _______ _______?\nB: I'm a flight attendant.\nA: That sounds interesting. Do you _______ _______ a lot?\nB: Yes. I've been to over 30 countries. _______ _______ _______ _______? What do you do?\nA: I am a manager in a restaurant.\nB: Do you work on _______ _______?\nA: No. I travel on weekends. It's a great job!",
+  "gapped_text": "A: So, what do _______ _______?\nB: I'm a flight attendant.\nA: That sounds interesting. Do you _______ _______ a lot?\nB: Yes. I've been to over 30 countries. _______ _______ _______? What do you do?\nA: I am a manager in a restaurant.\nB: Do you work on _______ _______?\nA: No. I travel on weekends. It's a great job!",
   "blanks": [
     { "answer": "you" },
     { "answer": "do" },
@@ -225,7 +225,7 @@
   "audio": "https://res.cloudinary.com/dcz6avkds/video/upload/v1774490209/TFL_Developing_CD2_32_uvqljd.mp3"
 },
 {
-  "gapped_text": "A: _______ _______ help you?\nB: Yes. I can't open the window in my room. _______ _______ get some help?\nA: Certainly. Is there anything else?\nB: Yes. I _______ _______ _______ the air conditioner off.\nA: We can help with that. Is there anything else I can do?\nB: Yes. I _______ _______ _______ to the Internet.\nA: You need a password. I _______ _______ _______ _______ up with it.\nB: Thank you very much!",
+  "gapped_text": "A: _______ _______ help you?\nB: Yes. I can't open the window in my room. _______ _______ get some help?\nA: Certainly. Is there anything else?\nB: Yes. I _______ _______ the air conditioner off.\nA: We can help with that. Is there anything else I can do?\nB: Yes. I _______ _______ to the Internet.\nA: You need a password. I _______ _______ _______ up with it.\nB: Thank you very much!",
   "blanks": [
     { "answer": "Can" },
     { "answer": "I" },
@@ -233,7 +233,6 @@
     { "answer": "I" },
     { "answer": "can't" },
     { "answer": "turn" },
-    { "answer": "off" },
     { "answer": "can't" },
     { "answer": "connect" },
     { "answer": "can" },
@@ -257,7 +256,7 @@
   "audio": "https://res.cloudinary.com/dcz6avkds/video/upload/v1774490212/TFL_Developing_CD2_42_qyqopl.mp3"
 },
 {
-  "gapped_text": "A: Are you afraid of anything?\nB: Yes. I'm afraid of elevators. Once, when I was a kid, I got stuck in _______ _______.\nA: So what do you do when you have to take an elevator?\nB: I try to _______ _______ _______! How about you?\nA: I was afraid of insects when I was a kid.\nB: How did you stop being _______ _______ insects?\nA: When I was in college, I studied insects in a _______ _______. Now, I'm not afraid at all.\nIn fact, I think _______ _______ _______ _______!",
+  "gapped_text": "A: Are you afraid of anything?\nB: Yes. I'm afraid of elevators. Once, when I was a kid, I got stuck in _______ _______.\nA: So what do you do when you have to take an elevator?\nB: I try to _______ _______ _______! How about you?\nA: I was afraid of insects when I was a kid.\nB: How did you stop being _______ _______ insects?\nA: When I was in college, I studied insects in a _______ _______. Now, I'm not afraid at all.\nIn fact, I think _______ _______ _______!",
   "blanks": [
     { "answer": "an" },
     { "answer": "elevator" },
@@ -266,7 +265,7 @@
     { "answer": "stairs" },
     { "answer": "afraid" },
     { "answer": "of" },
-    { "answer": "science" },
+    { "answer": "biology" },
     { "answer": "class" },
     { "answer": "insects" },
     { "answer": "are" },
@@ -301,7 +300,7 @@
   "audio": "https://res.cloudinary.com/dcz6avkds/video/upload/v1774490216/TFL_Developing_CD3_17_tpnn2y.mp3"
 },
 {
-  "gapped_text": "A: Excuse me, where are _______ _______?\nB: Your bags are in the baggage claim area, on carousel 3.\nA: Thanks. Oh, and are there _______ _______ to eat near the baggage claim area?\nB: Yes. There are two cafes and a couple of _______.\nA: Great. How do we get into the city?\nB: There are _______ _______ _______ _______ just outside, after you leave the baggage area.\nA: Thank you so much!",
+  "gapped_text": "A: Excuse me, where are _______ _______?\nB: Your bags are in the baggage claim area, on carousel 3.\nA: Thanks. Oh, and are there _______ _______ to eat near the baggage claim area?\nB: Yes. There are two cafes and a couple of _______.\nA: Great. How do we get into the city?\nB: There are _______ _______ _______ just outside, after you leave the baggage area.\nA: Thank you so much!",
   "blanks": [
     { "answer": "our" },
     { "answer": "suitcases" },
@@ -328,7 +327,7 @@
   "audio": "https://res.cloudinary.com/dcz6avkds/video/upload/v1774490219/TFL_Developing_CD3_27_m0vqde.mp3"
 },
 {
-  "gapped_text": "A: Are you going downtown today?\nB: Yes, but _______ _______ _______ marathon today. There's going to be a lot of traffic.\nA: Yes. _______ _______ _______ several streets blocked off.\nB: And I just heard there's been an accident, too.\nA: It's true. There's been a collision _______ _______ _______ _______.\nB: Wow! So, I guess I'll walk. _______ _______ _______ _______ with my feet today!",
+  "gapped_text": "A: Are you going downtown today?\nB: Yes, but _______ _______ marathon today. There's going to be a lot of traffic.\nA: Yes. _______ _______ several streets blocked off.\nB: And I just heard there's been an accident, too.\nA: It's true. There's been a collision _______ _______ _______.\nB: Wow! So, I guess I'll walk. _______ _______ _______ with my feet today!",
   "blanks": [
     { "answer": "there's" },
     { "answer": "a" },

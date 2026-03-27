@@ -8,7 +8,7 @@
       "4. This is a lovely party, isn't it?",
       "5. This is just great!"
     ],
-    "audio": "meo nè: Level B1+ ,ex 8 page 13 => audio:7 (CD 1 Track 07.mp3) "
+    "audio": "https://res.cloudinary.com/dcz6avkds/video/upload/v1774599488/Track_07_u8ikuk.mp3"
   },
   {
     "id": 2,
@@ -18,6 +18,6 @@
       "3. He didn't come. He didn't, did he?",
       "4. He didn't come. He didn't?"
     ],
-    "audio": "CD 2 17.mp3"
+    "audio": "https://res.cloudinary.com/dcz6avkds/video/upload/v1774599503/17_mae5np.mp3"
   }
 ]

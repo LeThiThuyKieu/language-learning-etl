@@ -106,20 +106,19 @@
     "audio": "https://res.cloudinary.com/dcz6avkds/video/upload/v1774445834/Tactics_for_Listening_Basic_CD1_46_eys4xs.mp3"
   },
   {
-    "gapped_text": "A: Why _______ anyone ever clean up this mess? Have you seen my purse?\nB: _______ _______ _______ usually keep it in the desk drawer?\nA: Yes, but it isn’t there now.\nB: Oh, there _______ _______ _______, on the table.\nA: Oh, great. Thanks. Okay, now. . . do you know where my keys are?\nB: Well, I know _______ _______ on the hook where they belong.\nA: Wait a minute. . . uh, I think I left them in the car. But I _______ _______ _______ where the car is!",
+    "gapped_text": "A: Why _______ anyone ever clean up this mess? Have you seen my purse?\nB: _______ _______ usually keep it in the desk drawer?\nA: Yes, but it isn’t there now.\nB: Oh, there _______ _______, on the table.\nA: Oh, great. Thanks. Okay, now. . . do you know where my keys are?\nB: Well, I know _______ _______ on the hook where they belong.\nA: Wait a minute. . . uh, I think I left them in the car. But I _______ _______ where the car is!",
     "blanks": [
       { "answer": "doesn't" },
       { "answer": "Don't" },
       { "answer": "you" },
       { "answer": "it" },
       { "answer": "is" },
-      { "answer": "on" },
       { "answer": "they" },
       { "answer": "aren't" },
       { "answer": "don't" },
       { "answer": "know" }
     ],
-    "audio": "Thttps://res.cloudinary.com/dcz6avkds/video/upload/v1774445835/Tactics_for_Listening_Basic_CD2_07_dejmfg.mp3"
+    "audio": "https://res.cloudinary.com/dcz6avkds/video/upload/v1774445835/Tactics_for_Listening_Basic_CD2_07_dejmfg.mp3"
   },
   {
     "gapped_text": "A: _______ _______ have a big family, Eva?\nB: Kind of. I have a younger brother and an older sister.\nA: Really? _______ old are they?\nB: Let's see. . . my brother is eighteen and my sister is twenty-five.\nA: Oh. _______ _______ _______ your sister do?\nB: She's a chef.\nA: A chef? What a cool job! How do _______ _______ her food?\nB: I haven't tried it, actually. She lives in California.",
@@ -286,7 +285,7 @@
     "audio": "https://res.cloudinary.com/dcz6avkds/video/upload/v1774487054/Tactics_for_Listening_Basic_CD3_27_xwkxfm.mp3"
   },
   {
-    "gapped_text": "A: Hey Molly, have you met the new guy in our class? _______ _______ right next to me.\nB: No, I haven't. What's he like?\nA: He's really outgoing. He _______ and _______ a lot.\nB: Really? He _______ _______.\nA: Yeah, he is. And he's funny. He _______ _______ _______ every day after class.\nHe's pretty cute, too.\nB: It _______ _______ you're interested in him.\nA: Well, I am. But he already has _______ _______.",
+    "gapped_text": "A: Hey Molly, have you met the new guy in our class? _______ _______ right next to me.\nB: No, I haven't. What's he like?\nA: He's really outgoing. He _______ and _______ a lot.\nB: Really? He _______ _______.\nA: Yeah, he is. And he's funny. He _______ _______ every day after class.\nHe's pretty cute, too.\nB: It _______ _______ you're interested in him.\nA: Well, I am. But he already has _______ _______.",
     "blanks": [
       { "answer": "He" },
       { "answer": "sits" },
@@ -319,7 +318,7 @@
     "audio": "https://res.cloudinary.com/dcz6avkds/video/upload/v1774487054/Tactics_for_Listening_Basic_CD3_39_kupsnp.mp3"
   },
   {
-    "gapped_text": "A: How _______ _______ _______ _______ your leg, Craig?\nB: Oh, I tripped and fell when I was playing soccer.\nA: Ouch. _______ _______ _______ to the hospital?\nB: Yes, I did. My leg really hurt, so I got x-rays.\nA: Really? _______ _______ _______ your leg?\nB: No, it's just a sprain. But I won't be able to play soccer for the rest of the season.\nA: Oh, no. That's too bad.",
+    "gapped_text": "A: How _______ _______ _______ your leg, Craig?\nB: Oh, I tripped and fell when I was playing soccer.\nA: Ouch. _______ _______ _______ to the hospital?\nB: Yes, I did. My leg really hurt, so I got x-rays.\nA: Really? _______ _______ _______ your leg?\nB: No, it's just a sprain. But I won't be able to play soccer for the rest of the season.\nA: Oh, no. That's too bad.",
     "blanks": [
       { "answer": "did" },
       { "answer": "you" },
