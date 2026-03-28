@@ -4856,5 +4856,568 @@
       "D": "cosy"
     },
     "answer": "isolated"
+  },
+  {
+    "question": "Harry works as a traffic ........... .",
+    "options": {
+      "A": "assistant",
+      "B": "warden",
+      "C": "director"
+    },
+    "answer": "warden"
+  },
+  {
+    "question": "Jenny has curly blonde hair and ........... cheeks.",
+    "options": {
+      "A": "pointed",
+      "B": "rosy",
+      "C": "bright"
+    },
+    "answer": "rosy"
+  },
+  {
+    "question": "Teachers need to be ........... with their students.",
+    "options": {
+      "A": "confident",
+      "B": "responsible",
+      "C": "patient"
+    },
+    "answer": "patient"
+  },
+  {
+    "question": "Jane likes eating at ........... restaurants.",
+    "options": {
+      "A": "elegant",
+      "B": "terraced",
+      "C": "corner"
+    },
+    "answer": "elegant"
+  },
+  {
+    "question": "James always thinks of others. He's very ........... .",
+    "options": {
+      "A": "careful",
+      "B": "friendly",
+      "C": "caring"
+    },
+    "answer": "caring"
+  },
+  {
+    "question": "Tony has good manners. He is very ........... .",
+    "options": {
+      "A": "caring",
+      "B": "patient",
+      "C": "polite"
+    },
+    "answer": "polite"
+  },
+  {
+    "question": "We managed to catch a ........... of the president of the company as she was leaving.",
+    "options": {
+      "A": "look",
+      "B": "sight",
+      "C": "glimpse"
+    },
+    "answer": "glimpse"
+  },
+  {
+    "question": "Snakes and crocodiles are ........... .",
+    "options": {
+      "A": "mammals",
+      "B": "reptiles",
+      "C": "species"
+    },
+    "answer": "reptiles"
+  },
+  {
+    "question": "This part of the country has a hot dry ........... .",
+    "options": {
+      "A": "climate",
+      "B": "weather",
+      "C": "temperature"
+    },
+    "answer": "climate"
+  },
+  {
+    "question": "Many species of animals have become ........... .",
+    "options": {
+      "A": "hunted",
+      "B": "dead",
+      "C": "extinct"
+    },
+    "answer": "extinct"
+  },
+  {
+    "question": "Spain is ........... by Portugal and France.",
+    "options": {
+      "A": "edged",
+      "B": "joined",
+      "C": "bordered"
+    },
+    "answer": "bordered"
+  },
+  {
+    "question": "He ran ........... a friend of his on his way to work.",
+    "options": {
+      "A": "into",
+      "B": "out of",
+      "C": "cover"
+    },
+    "answer": "into"
+  },
+  {
+    "question": "He usually ........... the train to work.",
+    "options": {
+      "A": "rides",
+      "B": "travels",
+      "C": "takes"
+    },
+    "answer": "takes"
+  },
+  {
+    "question": "She was very ........... when she heard the bad news.",
+    "options": {
+      "A": "exhausted",
+      "B": "fed up",
+      "C": "upset"
+    },
+    "answer": "upset"
+  },
+  {
+    "question": "We ........... our holiday a month ago.",
+    "options": {
+      "A": "saved",
+      "B": "reserved",
+      "C": "booked"
+    },
+    "answer": "booked"
+  },
+  {
+    "question": "At Christmas we ........... crackers.",
+    "options": {
+      "A": "blow",
+      "B": "watch",
+      "C": "pull"
+    },
+    "answer": "pull"
+  },
+  {
+    "question": "That bag ........... your shoes. You should buy it.",
+    "options": {
+      "A": "suits",
+      "B": "matches",
+      "C": "fits"
+    },
+    "answer": "matches"
+  },
+  {
+    "question": "They decided to break ........... their engagement.",
+    "options": {
+      "A": "up",
+      "B": "down",
+      "C": "off"
+    },
+    "answer": "off"
+  },
+  {
+    "question": "“I've just passed my driving test.” “...........”",
+    "options": {
+      "A": "Well done!",
+      "B": "Get well soon!",
+      "C": "Good luck!"
+    },
+    "answer": "Well done!"
+  },
+  {
+    "question": "I didn't think much ........... the parade.",
+    "options": {
+      "A": "in",
+      "B": "on",
+      "C": "of"
+    },
+    "answer": "of"
+  },
+  {
+    "question": "That dress is on special ........... .",
+    "options": {
+      "A": "offer",
+      "B": "discount",
+      "C": "sale"
+    },
+    "answer": "offer"
+  },
+  {
+    "question": "Ted will look ........... the dog while we're away.",
+    "options": {
+      "A": "forward",
+      "B": "after",
+      "C": "for"
+    },
+    "answer": "after"
+  },
+  {
+    "question": "The new chef has brought ........... lots of changes at the restaurant.",
+    "options": {
+      "A": "up",
+      "B": "back",
+      "C": "about"
+    },
+    "answer": "about"
+  },
+  {
+    "question": "Kelly has been ........... aerobics for years.",
+    "options": {
+      "A": "playing",
+      "B": "doing",
+      "C": "going"
+    },
+    "answer": "doing"
+  },
+  {
+    "question": "How many ........... of garlic should I use?",
+    "options": {
+      "A": "cubes",
+      "B": "pinches",
+      "C": "cloves"
+    },
+    "answer": "cloves"
+  },
+  {
+    "question": "At the end of the meal we asked for the ........... .",
+    "options": {
+      "A": "bill",
+      "B": "menu",
+      "C": "tip"
+    },
+    "answer": "bill"
+  },
+  {
+    "question": "The milk is giving ........... a terrible smell.",
+    "options": {
+      "A": "out",
+      "B": "away",
+      "C": "off"
+    },
+    "answer": "off"
+  },
+  {
+    "question": "I'm afraid I won't be able to come to football practice because I've ........... my ankle.",
+    "options": {
+      "A": "headed",
+      "B": "pulled",
+      "C": "twisted"
+    },
+    "answer": "twisted"
+  },
+  {
+    "question": "Kevin isn't fond of ........... dishes; he doesn't even like salt and pepper on his food.",
+    "options": {
+      "A": "creamy",
+      "B": "spicy",
+      "C": "juicy"
+    },
+    "answer": "spicy"
+  },
+  {
+    "question": "This salad tastes even better when you ........... some fresh herbs on top.",
+    "options": { "A": "chop", "B": "pour", "C": "sprinkle" },
+    "answer": "sprinkle"
+  },
+  {
+    "question": "There's an interesting programme on Channel 4 tonight – it's a ........... about marine life.",
+    "options": {
+      "A": "thriller",
+      "B": "documentary",
+      "C": "performance"
+    },
+    "answer": "documentary"
+  },
+  {
+    "question": "Could you please turn ........... the volume? I'd like to listen to the news.",
+    "options": {
+      "A": "up",
+      "B": "on",
+      "C": "out"
+    },
+    "answer": "up"
+  },
+  {
+    "question": "Make sure you save all your files before you ........... .",
+    "options": {
+      "A": "unplug",
+      "B": "log off",
+      "C": "pull out"
+    },
+    "answer": "log off"
+  },
+  {
+    "question": "EastEnders is my favourite soap ........... .",
+    "options": {
+      "A": "series",
+      "B": "drama",
+      "C": "opera"
+    },
+    "answer": "opera"
+  },
+  {
+    "question": "More and more people use personal ........... to store information.",
+    "options": {
+      "A": "agendas",
+      "B": "organisers",
+      "C": "calculators"
+    },
+    "answer": "organisers"
+  },
+  {
+    "question": "Let's go to the 8 o'clock ........... of the film.",
+    "options": {
+      "A": "showing",
+      "B": "booking",
+      "C": "show"
+    },
+    "answer": "showing"
+  },
+  {
+    "question": "A lot of teenagers like wearing ........... labels.",
+    "options": {
+      "A": "designer",
+      "B": "school",
+      "C": "survey"
+    },
+    "answer": "designer"
+  },
+  {
+    "question": "It's a good book, but the ........... is hard to follow.",
+    "options": {
+      "A": "plot",
+      "B": "setting",
+      "C": "cast"
+    },
+    "answer": "plot"
+  },
+  {
+    "question": "Things are going very well at work at the moment, I think a promotion might even be on the ........... .",
+    "options": { "A": "books", "B": "cards", "C": "letters", "D": "papers" },
+    "answer": "cards"
+  },
+  {
+    "question": "Chris does lots of work for charity. He's always doing something for a good ........... .",
+    "options": { "A": "aim", "B": "example", "C": "cause", "D": "reason" },
+    "answer": "cause"
+  },
+  {
+    "question": "You have to make it ........... to her exactly how you feel.",
+    "options": { "A": "easy", "B": "straight", "C": "clean", "D": "clear" },
+    "answer": "clear"
+  },
+  {
+    "question": "Helen is a lovely girl, but she always has her head in the ........... . She never notices what's going on around her.",
+    "options": { "A": "sky", "B": "stars", "C": "clouds", "D": "air" },
+    "answer": "clouds"
+  },
+  {
+    "question": "It was only a silly argument, but they were both getting very ........... under the collar.",
+    "options": { "A": "hot", "B": "red", "C": "heated", "D": "warm" },
+    "answer": "hot"
+  },
+  {
+    "question": "They couldn't find what they wanted, so they had to build it from ........... .",
+    "options": { "A": "begin", "B": "scrape", "C": "scratch", "D": "first" },
+    "answer": "scratch"
+  },
+  {
+    "question": "Her ........... leaped when she heard the news.",
+    "options": { "A": "head", "B": "heart", "C": "mind", "D": "stomach" },
+    "answer": "heart"
+  },
+  {
+    "question": "She is very pretty, with rosy ........... and big eyes.",
+    "options": { "A": "nose", "B": "mouth", "C": "face", "D": "cheeks" },
+    "answer": "cheeks"
+  },
+  {
+    "question": "My new flat has central ........... , so it's really warm.",
+    "options": { "A": "heating", "B": "system", "C": "wardrobe", "D": "parking" },
+    "answer": "heating"
+  },
+  {
+    "question": "Jane became ........... as she was waiting for Tom to turn up.",
+    "options": { "A": "easy-going", "B": "exhausted", "C": "impatient", "D": "depressed" },
+    "answer": "impatient"
+  },
+  {
+    "question": "Listen! A siren is ........... .",
+    "options": { "A": "barking", "B": "wailing", "C": "crashing", "D": "splashing" },
+    "answer": "wailing"
+  },
+  {
+    "question": "Ann has got frizzy hair and a ........... chin.",
+    "options": { "A": "wide", "B": "pointed", "C": "crooked", "D": "spiky" },
+    "answer": "pointed"
+  },
+  {
+    "question": "Bill has got a wide ........... and wrinkles.",
+    "options": { "A": "forehead", "B": "build", "C": "chin", "D": "face" },
+    "answer": "forehead"
+  },
+  {
+    "question": "Jim has come ........... the flu, so he won't be able to come.",
+    "options": { "A": "down with", "B": "up with", "C": "on with", "D": "in with" },
+    "answer": "down with"
+  },
+  {
+    "question": "He gives private lessons for a small ........... .",
+    "options": { "A": "fee", "B": "money", "C": "payment", "D": "receipt" },
+    "answer": "fee"
+  },
+  {
+    "question": "The old Victorian building has been ........... to its original condition.",
+    "options": { "A": "redecorated", "B": "restored", "C": "refurbished", "D": "renovated" },
+    "answer": "restored"
+  },
+  {
+    "question": "Anita is always willing to ........... an ear when I've got a problem.",
+    "options": { "A": "give", "B": "provide", "C": "offer", "D": "lend" },
+    "answer": "lend"
+  },
+  {
+    "question": "Pete had ........... in his stomach the whole time he was on stage.",
+    "options": { "A": "birds", "B": "butterflies", "C": "flies", "D": "insects" },
+    "answer": "butterflies"
+  },
+  {
+    "question": "He put a lot of ........... into the project.",
+    "options": { "A": "exertion", "B": "sweat", "C": "effort", "D": "struggle" },
+    "answer": "effort"
+  },
+  {
+    "question": "I'll drop you a ........... when I arrive.",
+    "options": { "A": "letter", "B": "line", "C": "note", "D": "memo" },
+    "answer": "line"
+  },
+  {
+    "question": "The rainforest is ........... to many species of birds and animals.",
+    "options": { "A": "place", "B": "house", "C": "home", "D": "hotel" },
+    "answer": "home"
+  },
+  {
+    "question": "It is believed that the forest fires were lit by ........... .",
+    "options": { "A": "smugglers", "B": "shoplifters", "C": "arsonists", "D": "kidnappers" },
+    "answer": "arsonists"
+  },
+  {
+    "question": "He got a £50 ........... for speeding in the centre of town yesterday.",
+    "options": { "A": "sentence", "B": "charge", "C": "arrest", "D": "fine" },
+    "answer": "fine"
+  },
+  {
+    "question": "The battery is flat. We need to ........... it.",
+    "options": { "A": "install", "B": "operate", "C": "recharge", "D": "liquidise" },
+    "answer": "recharge"
+  },
+  {
+    "question": "If you have a ........... muscle, you should rest it.",
+    "options": { "A": "pulled", "B": "strained", "C": "broken", "D": "sore" },
+    "answer": "pulled"
+  },
+  {
+    "question": "If you have ........... , you have a painful muscle contraction.",
+    "options": { "A": "cramp", "B": "indigestion", "C": "insomnia", "D": "sunburn" },
+    "answer": "cramp"
+  },
+  {
+    "question": "He suffers from heart ........... .",
+    "options": { "A": "infection", "B": "attack", "C": "disease", "D": "pain" },
+    "answer": "disease"
+  },
+  {
+    "question": "He was released due to ........... of evidence.",
+    "options": { "A": "need", "B": "lack", "C": "point", "D": "necessity" },
+    "answer": "lack"
+  },
+  {
+    "question": "Your energy level is at its ........... in the early afternoon.",
+    "options": { "A": "top", "B": "high", "C": "peak", "D": "summit" },
+    "answer": "peak"
+  },
+  {
+    "question": "We'll have strawberries and ........... for dessert.",
+    "options": { "A": "butter", "B": "milk", "C": "yogurt", "D": "cream" },
+    "answer": "cream"
+  },
+  {
+    "question": "Milk products are ........... in calcium.",
+    "options": { "A": "rich", "B": "wealthy", "C": "full", "D": "plentiful" },
+    "answer": "rich"
+  },
+  {
+    "question": "His fee is just a drop in the ........... compared to the cost of the whole project.",
+    "options": { "A": "river", "B": "lake", "C": "ocean", "D": "sea" },
+    "answer": "ocean"
+  },
+  {
+    "question": "Keep a(n) ........... out for a parking space.",
+    "options": { "A": "hand", "B": "eye", "C": "nose", "D": "ear" },
+    "answer": "eye"
+  },
+  {
+    "question": "He can't afford a holiday; he's on a ........... budget.",
+    "options": { "A": "wacky", "B": "low", "C": "strong", "D": "tight" },
+    "answer": "tight"
+  },
+  {
+    "question": "Your body needs time to ........... the vitamins and minerals in your food.",
+    "options": { "A": "absorb", "B": "attract", "C": "stock", "D": "keep" },
+    "answer": "absorb"
+  },
+  {
+    "question": "Those old photographs have great ........... value to me.",
+    "options": { "A": "emotional", "B": "sentimental", "C": "expressive", "D": "sensitive" },
+    "answer": "sentimental"
+  },
+  {
+    "question": "Huge waves were ........... on the shore.",
+    "options": { "A": "cracking", "B": "crashing", "C": "jumping", "D": "dropping" },
+    "answer": "crashing"
+  },
+  {
+    "question": "A basketball player must be ........... so he can work with the other members of his team.",
+    "options": { "A": "graceful", "B": "competitive", "C": "courageous", "D": "co-operative" },
+    "answer": "co-operative"
+  },
+  {
+    "question": "The competitors all sing the ........... anthem before the game starts.",
+    "options": { "A": "state", "B": "country", "C": "national", "D": "countryside" },
+    "answer": "national"
+  },
+  {
+    "question": "I'll read about the economy in the ........... section.",
+    "options": { "A": "business", "B": "politics", "C": "health", "D": "education" },
+    "answer": "business"
+  },
+  {
+    "question": "The wind was ........... hard.",
+    "options": { "A": "rolling", "B": "blowing", "C": "rustling", "D": "roaring" },
+    "answer": "blowing"
+  },
+  {
+    "question": "Let's try and catch the waiter's ........... so we can pay the bill.",
+    "options": { "A": "ear", "B": "nose", "C": "hand", "D": "eye" },
+    "answer": "eye"
+  },
+  {
+    "question": "That new game is really second to ........... .",
+    "options": { "A": "nothing", "B": "no", "C": "zero", "D": "none" },
+    "answer": "none"
+  },
+  {
+    "question": "Sports Day is the ........... of the school year.",
+    "options": { "A": "focus", "B": "highlight", "C": "peak", "D": "feature" },
+    "answer": "highlight"
+  },
+  {
+    "question": "We ........... some money to buy a new car.",
+    "options": { "A": "set up", "B": "set to", "C": "set in", "D": "set aside" },
+    "answer": "set aside"
   }
 ]

@@ -1,0 +1,99 @@
+[
+  {
+    "page": 0,
+    "kind": "PAIR",
+    "pairs": [
+      { "left": "21", "right": "twenty-one" },
+      { "left": "22", "right": "twenty-two" },
+      { "left": "33", "right": "thirty-three" },
+      { "left": "44", "right": "forty-four" },
+      { "left": "55", "right": "fifty-five" },
+      { "left": "66", "right": "sixty-six" },
+      { "left": "77", "right": "seventy-seven" },
+      { "left": "88", "right": "eighty-eight" },
+      { "left": "99", "right": "ninety-nine" },
+      { "left": "100", "right": "a hundred" }
+    ]
+  },
+  {
+    "page": 0,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "bricklayer",
+        "right": "A person who builds walls or buildings."
+      },
+      { "left": "astronaut", "right": "A person trained to travel in space." },
+      { "left": "shepherd", "right": "A person who looks after sheep." },
+      { "left": "igloo", "right": "A type of house made from hard snow." },
+      {
+        "left": "soap opera",
+        "right": "A TV series about the lives of a group of characters."
+      },
+      {
+        "left": "spacesuit",
+        "right": "A piece of clothing people wear when they travel in space."
+      },
+      { "left": "wigwam", "right": "A type of tent made from animal skin." },
+      {
+        "left": "wizard",
+        "right": "A man that people believe has got magical powers."
+      },
+      {
+        "left": "cabin cruiser",
+        "right": "A type of boat with a covering over the top."
+      },
+      {
+        "left": "checkout",
+        "right": "The place in a shop where you pay for what you buy."
+      }
+    ]
+  },
+  {
+    "page": 0,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "Space station vacations",
+        "right": "holidays at a space station"
+      },
+      {
+        "left": "Intelligent kitchens",
+        "right": "kitchens with a fridge, cooker, etc that you can programme to do things for you"
+      },
+      {
+        "left": "Solar-powered houses",
+        "right": "houses that use energy from the sun for heat, light, etc"
+      },
+      { "left": "Nutrition pills", "right": "food in the form of a pill" },
+      { "left": "Air cars", "right": "a type of car that flies in the air" },
+      {
+        "left": "Emotional clothes",
+        "right": "clothes that change to suit your mood"
+      }
+    ]
+  },
+  {
+    "page": 0,
+    "kind": "PAIR",
+    "pairs": [
+      {
+        "left": "Coal",
+        "right": "a black substance that you put on the fire (a symbol of good luck at New Year)"
+      },
+      {
+        "left": "Shortbread (shortie)",
+        "right": "a type of biscuit, popular in Scotland"
+      },
+      {
+        "left": "First-footer",
+        "right": "the first person to step into your house after midnight on December 31st (a tall, dark handsome man brings good luck)"
+      },
+      { "left": "Bells", "right": "metal objects that make a ringing sound" },
+      {
+        "left": "Black bun",
+        "right": "a fruit cake that people eat at Hogmanay"
+      }
+    ]
+  }
+]

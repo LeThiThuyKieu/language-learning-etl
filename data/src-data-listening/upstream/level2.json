@@ -49,6 +49,7 @@
     ],
     "audio": "https://res.cloudinary.com/dcz6avkds/video/upload/v1774541024/Track_29_celz4b.mp3"
   },
+<<<<<<< HEAD
 {
   "gapped_text": "Title: _______ _______ _______ \nDirected by: Brian _______\nStarring: Tim _______ as Dave Douglas.\nRobert Downey Jr gives a _______ performance as Dr Kozak.\nAn exciting film for _______.",
   "blanks": [
@@ -77,4 +78,468 @@
   "audio": "https://res.cloudinary.com/dcz6avkds/video/upload/v1774539232/23_s7afqy.mp3"
 }
 
+=======
+  {
+    "gapped_text": "Title: _______ _______ _______ \nDirected by: Brian _______\nStarring: Tim _______ as Dave Douglas.\nRobert Downey Jr gives a _______ performance as Dr Kozak.\nAn exciting film for _______.",
+    "blanks": [
+      { "answer": "The" },
+      { "answer": "Shaggy" },
+      { "answer": "Dog" },
+      { "answer": "Robbins" },
+      { "answer": "Allen" },
+      { "answer": "good" },
+      { "answer": "kids" }
+    ],
+    "audio": "CD 2 - 14.mp3"
+  },
+  {
+    "gapped_text": "TO: Tom\nFROM: _______\nDATE: _______ October\nPLACE: _______ _______\nADDRESS: 7, _______ _______\nTIME: _______ _______",
+    "blanks": [
+      { "answer": "Anna" },
+      { "answer": "31st" },
+      { "answer": "Anna's" },
+      { "answer": "place" },
+      { "answer": "Blackhall" },
+      { "answer": "Road" },
+      { "answer": "8" },
+      { "answer": "o'clock" }
+    ],
+    "audio": "CD 2 - 23.mp3"
+  },
+  {
+    "gapped_text": "At home\n• Recycle everything you can.\n• Grow some of your own food.\n• Plant _______ and bushes in your garden.\nTransport\n• Ride your bike or _______ instead of driving.\n• Use public transport.\n• Drive sensibly: don’t waste petrol.\nAt work\n• Print things on _______ paper.\n• Print or copy on both sides of the paper.\n• Use the _______ instead of the lift.\nShopping\n• Don’t buy food which is wrapped in _______.\n• Buy locally grown food and products.\n• Don’t buy products which come from _______ animals.",
+    "blanks": [
+      { "answer": "trees" },
+      { "answer": "walk" },
+      { "answer": "recycled" },
+      { "answer": "stairs" },
+      { "answer": "plastic" },
+      { "answer": "endangered" }
+    ],
+    "audio": "Sách Pre-Intermediate B1, Student Book page 32, Unit 3, UPI-03-32-3.mp3"
+  },
+  {
+    "gapped_text": "Name: Jane Clarkson\nCompany: Sun Tours\nMeals\nBreakfast: 7:30-9:30am – in _______ _______ _______ -ground floor\nLunch: 12:00-2:00pm restaurant – _______ floor\npacked lunches available – order _______ _______ _______ day before\nDinner: 7:30-9:30pm restaurant – variety of _______ dishes\nPool\nOpening hours: 7am - _______ pm\nSunbeds available\nSnack bar - _______ and snacks",
+    "blanks": [
+      { "answer": "the" },
+      { "answer": "dining" },
+      { "answer": "room" },
+      { "answer": "1st" },
+      { "answer": "before" },
+      { "answer": "7" },
+      { "answer": "the" },
+      { "answer": "international" },
+      { "answer": "7" },
+      { "answer": "dishes" }
+    ],
+    "audio": "Sách Pre-Intermediate B1, Student Book, page 47, UPI-04-47-5.mp3"
+  },
+  {
+    "gapped_text": "Mr & Mrs _______ would like the pleasure of your company at the wedding of their daughter, _______, to Mr Paul Smith on Saturday, _______ June at St Mary’s Church at _______ am and afterwards at a reception at the _______ Hotel \nRSVP no later than 30th _______",
+    "blanks": [
+      { "answer": "Green" },
+      { "answer": "Jane" },
+      { "answer": "14th" },
+      { "answer": "11" },
+      { "answer": "Regent" },
+      { "answer": "May" }
+    ],
+    "audio": "Sách Pre-Intermediate B1, Student Book Unit 6 , page 75, UPI-06-75-6.mp3"
+  },
+  {
+    "gapped_text": "Currently showing\nWhen Harry Met Sally _______ Luke Perry and Alyson Hannigan\nPerformance Times\nMon–Sat 8:00 pm; matinees _______ & Sat 3 pm\nRunning Time 2 hrs _______ mins\nSeating Prices\nStalls £40; Royal Circle £ _______ and £37.50;\nUpper Circle £26 and £19; Gallery £ _______\nSchool Tickets\n£15 for groups of _______ or more valid for Mon/Tues evenings and Wed matinee only",
+    "blanks": [
+      { "answer": "with" },
+      { "answer": "Wednesday" },
+      { "answer": "15" },
+      { "answer": "40" },
+      { "answer": "12" },
+      { "answer": "10" }
+    ],
+    "audio": "Sách Pre-Intermediate B1, Student Book Unit 9 , page 108, UPI-09-108-2.mp3"
+  },
+  {
+    "gapped_text": "How to send a text message\n* Press 'Menu'.\n* Scroll to 'Messages' and _________ 'Select'.\n* Scroll to 'Write Messages' and press 'Select'.\n* Use your keypad to _________ in your message.\n* Press 'Options'.\n* _________ 'Send' and press 'OK'.\n* _________ your friend's phone number and press 'OK' to send.",
+    "blanks": [
+      { "answer": "press" },
+      { "answer": "type" },
+      { "answer": "Select" },
+      { "answer": "Enter" }
+    ],
+    "audio": "Sách Pre-Intermediate B1, Student Book Unit 10 , page 115, UPI-10-115-7.mp3"
+  },
+  {
+    "gapped_text": "A: Hello!\nB: Good morning. I'm calling about the house advertised for rent in Paddington.\nA: Oh yes?\nB: I wonder _________ _________ _________ give me a bit more information, please.\nA: Of course. _________ _________ _________ like to know?\nB: First of all, _________ _________ _________ _________ exactly where the house is situated?\nA: Yes, it's on 15, Bayswater Drive.\nB: And the lounge and dining room – are they separate?\nA: Yes, but they're joined by a sliding glass door.\nB: And do all the bedrooms have fitted wardrobes?\nA: No, only the two largest bedrooms.\nB: One last question. Is the garage large enough for two cars?\nA: Oh, definitely.\nB: It sounds perfect. _________ _________ _________ _________ I could see it?\nA: _________ _________ 6 o'clock this evening?\nB: That's fine — see you then.",
+    "blanks": [
+      { "answer": "if" },
+      { "answer": "you" },
+      { "answer": "could" },
+      { "answer": "What" },
+      { "answer": "would" },
+      { "answer": "you" },
+      { "answer": "could" },
+      { "answer": "you" },
+      { "answer": "tell" },
+      { "answer": "me" },
+      { "answer": "When" },
+      { "answer": "do" },
+      { "answer": "you" },
+      { "answer": "think" },
+      { "answer": "How" },
+      { "answer": "about" }
+    ],
+    "audio": "Sách Intermediate, Student Book, Unit 1 page 8, UpInt-01-08a.mp3"
+  },
+  {
+    "gapped_text": "Main Requirement: big garden\nType of house: _________\nPrice: _________\nWhen built: 1930s\nParking: large double _________\nNumber of bedrooms: _________\nNumber of bathrooms: _________\nExtra features: _________ _________",
+    "blanks": [
+      { "answer": "detached" },
+      { "answer": "£400,000" },
+      { "answer": "garage" },
+      { "answer": "four" },
+      { "answer": "two" },
+      { "answer": "swimming" },
+      { "answer": "pool" }
+    ],
+    "audio": "Sách Intermediate, Student Book, Unit 1 page 14,UpInt-01-36.mp3"
+  },
+  {
+    "gapped_text": "A: How do you _________ it, then?\nB: Well, it's nicely decorated and the garden is lovely, but the kitchen is very _________.\nA: That's true. But it is _________ equipped.\nB: And there are only two bedrooms.\nA: Mmm, yes. But we can use the _________ as another bedroom.\nB: I think it will suit our needs. And it's not so expensive, either.\nA: Okay, then. Let's tell the estate agent that we are definitely _________.",
+    "blanks": [
+      { "answer": "like" },
+      { "answer": "small" },
+      { "answer": "fully" },
+      { "answer": "attic" },
+      { "answer": "interested" }
+    ],
+    "audio": "Sách Intermediate, Student Book, Unit 1 page 15, UpInt-01-38a.mp3"
+  },
+  {
+    "gapped_text": "Jimmy worked in an office\nFrom eight o'clock _________ four\nHis job was satisfying\nBut he _________ for something more\n\nHe was waiting for a sign\nAnd he knew there'd come a time\nWhen a turning point would change his life\nAnd bring a chance for him to shine\n\nJimmy had an old guitar\nPeople _________ to hear him play\nAnd he knew he could be _________\nIf he could only find a _________\n\nHe was waiting for a sign ...\n\nWhen Jimmy played at a party\nHis dream _________ became real\nA _________ producer heard him\nAnd offered him a _________\n\nHe was waiting for a sign ...\n\nJimmy made a record\nIt went straight to _________ one\nHe'd found the life he wanted\nHe'd found his _________ in the sun\n\nHe'd been waiting for a sign ...",
+    "blanks": [
+      { "answer": "till" },
+      { "answer": "longed" },
+      { "answer": "loved" },
+      { "answer": "famous" },
+      { "answer": "way" },
+      { "answer": "life" },
+      { "answer": "record" },
+      { "answer": "deal" },
+      { "answer": "number" },
+      { "answer": "place" }
+    ],
+    "audio": "Sách Intermediate, Student Book, Unit 2 page 37, UpInt-02-T12c.mp3"
+  },
+  {
+    "gapped_text": "Breakaway is offering family _________ _________ at a hotel.\nThe weekend costs _________\nThe hotel was built in the _________ _________\nDon't miss a visit to Snowdonia's many _________\nSnowdonia is a good place to go _________ and rock climbing.\nExercise in the hotel's _________ _________ or the _________ _________\nTry traditional _________ _________ in the restaurant.\nBook before _________ 4th. SPECIAL OFFER\nCall now on 0180 2278954.",
+    "blanks": [
+      { "answer": "weekend" },
+      { "answer": "breaks" },
+      { "answer": "£200" },
+      { "answer": "18th" },
+      { "answer": "century" },
+      { "answer": "attractions" },
+      { "answer": "walking" },
+      { "answer": "swimming" },
+      { "answer": "pool" },
+      { "answer": "fully-equipped" },
+      { "answer": "gym" },
+      { "answer": "Welsh" },
+      { "answer": "dishes" },
+      { "answer": "January" }
+    ],
+    "audio": "Sách Intermediate, Student Book, Unit 3 page 46, UpInt-03-31.mp3"
+  },
+  {
+    "gapped_text": "John McKenzie is an _________ _________ activist.\nJohn is working to raise _________ _________ about the problem of our endangered species.\nWe are wiping out the _________ _________ of many animals.\nWe need to be more careful about the _________ we buy.\nIf we look after the _________, more animals will survive.\nWe should report people who _________ and _________ animals to the police.",
+    "blanks": [
+      { "answer": "animal" },
+      { "answer": "rights" },
+      { "answer": "people's" },
+      { "answer": "awareness" },
+      { "answer": "natural" },
+      { "answer": "habitats" },
+      { "answer": "souvenirs" },
+      { "answer": "environment" },
+      { "answer": "hunt" },
+      { "answer": "kill" }
+    ],
+    "audio": "Sách Intermediate, Student Book, Unit 4 page 60, UpInt-04-33.mp3"
+  },
+  {
+    "gapped_text": "A: _________ _________ _________ how much traffic there is on the roads these days.\nB: _________ _________. It took me two hours to drive into the city centre today.\nA: You know, I've just had a brilliant idea. _________ _________ _________ _________ starting a car pool?\nB: _________ _________ _________ _________! We would save money and help reduce the amount of traffic at the same time!\nA: _________ start right away. Who is going to drive tomorrow?",
+    "blanks": [
+      { "answer": "I" },
+      { "answer": "can't" },
+      { "answer": "believe" },
+      { "answer": "I" },
+      { "answer": "know" },
+      { "answer": "Have" },
+      { "answer": "you" },
+      { "answer": "thought" },
+      { "answer": "about" },
+      { "answer": "That's" },
+      { "answer": "a" },
+      { "answer": "great" },
+      { "answer": "idea" },
+      { "answer": "Let's" }
+    ],
+    "audio": "Sách Intermediate, Student Book, Unit 4 page 61, UpInt-04-37a.mp3"
+  },
+  {
+    "gapped_text": "There's so much pollution\nPoisoning the _________\nThere is so much _________\nWe can see it everywhere\n_________ is disappearing\nWhile everyone stands by\nThe world we love is dying\nAnd we're the _________ why\n\nWhy are we killing our world\nWhy aren't we doing our share\nWe can save our planet\nWe can help it survive\nAll it needs is a little care\n\nIf we all work together\nSomething can be done\nWe need a _________ _________ campaign\nWhich involves everyone\nWe can slow down global _________\nWe can stop the acid rain\nWe can heal our _________\nWe can help it live again\n\nWhy are we killing our world ...\n\nIf we don't act quickly\nOur world will soon be dead\nWe must leave our _________ at home\nAnd use bicycles instead\nWe must stop using chemicals\nAnd _________ fossil fuels\nWe must recycle all our _________\nIt's so easy to do\n\nWe must stop killing our world\nWe must start doing our share ...",
+    "blanks": [
+      { "answer": "air" },
+      { "answer": "litter" },
+      { "answer": "Wildlife" },
+      { "answer": "reason" },
+      { "answer": "clean" },
+      { "answer": "up" },
+      { "answer": "warming" },
+      { "answer": "planet" },
+      { "answer": "cars" },
+      { "answer": "burning" },
+      { "answer": "waste" }
+    ],
+    "audio": "Sách Intermediate, Student Book, Unit 4 page 69, UpInt-04-T12.mp3"
+  },
+  {
+    "gapped_text": "A: Good afternoon. Meadows Surgery. _________ _________ _________ _________?\nB: Oh yes, I'd like to make an appointment with Doctor Michaels, please.\nA: I'm afraid Dr Michaels is on holiday at the moment. _________ _________ _________ _________ _________ _________ _________ _________?\nB: Erm ... yes, alright. That would be fine.\nA: Right. The first available appointment is on Thursday at 10 o'clock. _________ _________ _________ _________?\nB: Yes, that should be okay.\nA: Good. _________ _________ _________ _________ _________ _________, _________?\nB: Tina, Tina Wilcox.\nA: _________ _________ _________ _________ _________ _________?\nB: I've been having trouble sleeping lately.\nA: Right then, we'll see you on Thursday at 10 o'clock.\nB: Thank you. Goodbye.",
+    "blanks": [
+      { "answer": "Can" },
+      { "answer": "I" },
+      { "answer": "help" },
+      { "answer": "you" },
+      { "answer": "Would" },
+      { "answer": "you" },
+      { "answer": "like" },
+      { "answer": "to" },
+      { "answer": "see" },
+      { "answer": "Dr" },
+      { "answer": "Jones" },
+      { "answer": "instead" },
+      { "answer": "Does" },
+      { "answer": "that" },
+      { "answer": "suit" },
+      { "answer": "you" },
+      { "answer": "Can" },
+      { "answer": "I" },
+      { "answer": "take" },
+      { "answer": "your" },
+      { "answer": "name" },
+      { "answer": "please" },
+      { "answer": "What" },
+      { "answer": "seems" },
+      { "answer": "to" },
+      { "answer": "be" },
+      { "answer": "the" },
+      { "answer": "problem" }
+    ],
+    "audio": "Sách Intermediate, Student Book, Unit 5 page 79,UpInt-05-39a.mp3"
+  },
+  {
+    "gapped_text": "A: Are you okay, Betty? You look a bit _________.\nB: Actually, I feel terrible.\nA: Oh! What's wrong?\nB: I'm burning up and my whole body _________, too.\nA: Sounds to me like _________ _________. If I were you, I would go to bed.",
+    "blanks": [
+      { "answer": "pale" },
+      { "answer": "aches" },
+      { "answer": "the" },
+      { "answer": "flu" }
+    ],
+    "audio": "Sách Intermediate, Student Book, Unit 5 page 79,UpInt-05-40a.mp3"
+  },
+  {
+    "gapped_text": "Always lock your _________ and _________.\nPut all your _________ _________ in a safe.\nLeave a _________ on in the living room or bedroom while you are away.\nThe best thing is to get a _________ _________ installed professionally.\nAsk your _________ to check your house for you when you go on holiday.\nNeighbourhood _________ schemes can help to prevent burglaries.\nGet a _________ _________ to protect your home from fire.",
+    "blanks": [
+      { "answer": "doors" },
+      { "answer": "windows" },
+      { "answer": "valuable" },
+      { "answer": "jewellery" },
+      { "answer": "light" },
+      { "answer": "burglar" },
+      { "answer": "alarm" },
+      { "answer": "neighbours" },
+      { "answer": "watch" },
+      { "answer": "smoke" },
+      { "answer": "alarm" }
+    ],
+    "audio": "Sách Intermediate, Student Book, Unit 6 page 92,UpInt-06-33.mp3"
+  },
+  {
+    "gapped_text": "A: What's the problem, Judy?\nB: I'm trying to send an e-mail, but I can't do it.\nA: Here, let me see. Well, _________ you have to click on \"Create mail\".\nB: Okay, I've done that.\nA: _________ you have to type your friend's e-mail address in the box marked \"To\".\nB: All right. I've got her address here. Now what?\nA: _________ just start typing in the box below. _________, when you've finished, just click on the \"Send\" button at the top.\nB: Is that it? I thought it'd be more difficult than that.",
+    "blanks": [
+      { "answer": "first" },
+      { "answer": "Then" },
+      { "answer": "Now" },
+      { "answer": "Finally" }
+    ],
+    "audio": "Sách Intermediate, Student Book, Unit 6 page 93,UpInt-06-40a.mp3"
+  },
+  {
+    "gapped_text": "Schools should use _________ in the classroom as students will need computer _________ when they are looking for a _________. (a)\n\nComputers use _________, cartoons and _________ _________ to help students understand the material. Students will think classes are more like a _________ rather than a lesson. (b)\n\nTechniques for the _________ of the future can be taught in the computer lab. Students can learn to create _________ and how to use computer graphics. (c)",
+    "blanks": [
+      { "answer": "computers" },
+      { "answer": "skills" },
+      { "answer": "job" },
+      { "answer": "films" },
+      { "answer": "sound" },
+      { "answer": "effects" },
+      { "answer": "game" },
+      { "answer": "art" },
+      { "answer": "special" }
+    ],
+    "audio": "Sách Intermediate, Student Book, Unit 6 page 97,UpInt-06-52.mp3"
+  },
+  {
+    "gapped_text": "You know someone is watching\nAlthough they are discreet\nYou can feel the _________ upon you\nAs you're walking down the street\nYou don't know where they're _________.\nOr just how much they know.\nBut you know that they can see you.\nNo _________ where you go\n\nWherever you go\nWhatever you say or do\nAlways remember\nBig Brother is watching you\n\nThere are cameras in the _________ _________\nThere are cameras in the shops\nBig Brother has eyes everywhere\nThe watching never _________\nThey know about your every move\nAnd what you do each day\nThey're recording every _________ you take\nAnd every _________ you say\n\nWherever you go ...\n\nThey know how you spend your money\nThey know what you like to _________\nThey know exactly where you are\nThey know exactly who you meet\nThere's no use trying to _________\nThey will find you anyway\nYou are under observation\nEvery _________, every day\n\nWherever you go ...",
+    "blanks": [
+      { "answer": "eyes" },
+      { "answer": "hiding" },
+      { "answer": "matter" },
+      { "answer": "car" },
+      { "answer": "parks" },
+      { "answer": "stops" },
+      { "answer": "breath" },
+      { "answer": "word" },
+      { "answer": "eat" },
+      { "answer": "hide" },
+      { "answer": "moment" }
+    ],
+    "audio": "Sách Intermediate, Student Book, Unit 6 page 101,UpInt-06-T12.mp3"
+  },
+  {
+    "gapped_text": "Gibson's Mall\nFacilities:\n• over 100 free _________ spaces,\n• a roof-garden _________ shop,\n• a gas station\n• an indoor _________ area for children\n\nStores:\nKay's _________, Baxter's Hardware Store, Carter's _________, dress stores, _________ stores, shoe stores, boutiques, bookstores, a deli, a photoshop, a _________ salon and much more\n\nOpening hours:\nMonday to Saturday\n_________ am - _________ pm\nSunday 10 am - _________ pm",
+    "blanks": [
+      { "answer": "parking" },
+      { "answer": "coffee" },
+      { "answer": "play" },
+      { "answer": "Supermarket" },
+      { "answer": "Chemist's" },
+      { "answer": "toy" },
+      { "answer": "hair" },
+      { "answer": "9" },
+      { "answer": "9" },
+      { "answer": "6" }
+    ],
+    "audio": "Sách Intermediate, Student Book, Unit 7 page 110,UpInt-07-28.mp3"
+  },
+  {
+    "gapped_text": "A: Hello. _________ _________ _________ _________?\nB: Yes, can I try these on, please?\nA: Of course. The fitting rooms are over there.\nB: Thank you.\nA: What do you think?\nB: Actually, they're a bit short. _________ _________ _________ _________ the next size up, please?\nA: Certainly. Here you are. ... Are they any better?\nB: Yes, they fit nicely. _________ _________ _________ _________?\nA: They're £35.\nB: Okay. I'll take them.\nA: Thank you. _________ _________ _________ _________ _________ _________?\nB: In cash. Here you are.\nA: Thank you very much. Your receipt is in the bag.",
+    "blanks": [
+      { "answer": "Can" },
+      { "answer": "I" },
+      { "answer": "help" },
+      { "answer": "you" },
+      { "answer": "Could" },
+      { "answer": "you" },
+      { "answer": "get" },
+      { "answer": "me" },
+      { "answer": "How" },
+      { "answer": "much" },
+      { "answer": "do" },
+      { "answer": "they" },
+      { "answer": "cost" },
+      { "answer": "How" },
+      { "answer": "would" },
+      { "answer": "you" },
+      { "answer": "like" },
+      { "answer": "to" },
+      { "answer": "pay" }
+    ],
+    "audio": "Sách Intermediate, Student Book, Unit 7 page 111,UpInt-07-36a.mp3"
+  },
+  {
+    "gapped_text": "Organic food is produced without the use of _________.\nDiane's first introduction to organic food was as a _________.\nHer grandmother used _________ fertilizers on her fruit and vegetables.\n_________ products can also be organic.\nA lot of _________ people go to the restaurant.\nLater in the day, there is a different _________.\nIn the summer the café has _________.\nPeople are realising that organic food tastes _________.\nThe _________ also benefits from organic food.\nThe chemicals used in fertilizers and pesticides _________ the soil.",
+    "blanks": [
+      { "answer": "chemicals" },
+      { "answer": "teenager" },
+      { "answer": "natural" },
+      { "answer": "Dairy" },
+      { "answer": "business" },
+      { "answer": "menu" },
+      { "answer": "barbecues" },
+      { "answer": "better" },
+      { "answer": "environment" },
+      { "answer": "poison" }
+    ],
+    "audio": "Sách Intermediate, Student Book, page 131,UpInt-08-T08.mp3"
+  },
+  {
+    "gapped_text": "Eat a _________ breakfast\nBefore you start your day\n_________ is what you need\nTo help you work and play\n\nYou've got to be food wise\nAnd watch what's on your plate\nThe right food at the right time\nCan keep you feeling great.\n\nSnacking burns off _________, so\nIt can be good for you\nBut choose foods that are healthy\nA _________ bar won't do!\n\nYou've got to be food wise ...\n\nWhen it comes to lunchtime\nGo for something _________\nA salad or a _________\nWill make you feel just right\n\nYou've got to be food wise ...\n\nA good _________ in the evening\nWill make your day complete\nWith vegetables and _________\nA tasty evening treat\n\nYou've got to be food wise ...",
+    "blanks": [
+      { "answer": "healthy" },
+      { "answer": "Energy" },
+      { "answer": "fat" },
+      { "answer": "chocolate" },
+      { "answer": "light" },
+      { "answer": "sandwich" },
+      { "answer": "meal" },
+      { "answer": "spices" }
+    ],
+    "audio": "Sách Intermediate, Student Book,Unit 8, page 133,UpInt-08-T12.mp3"
+  },
+  {
+    "gapped_text": "NORTHWOODS TO CAPITOL TOUR\n\nThe tour begins on _________ _________ and finishes on _________ _________. Altogether _________ people will take part. Participants will cycle along two-lane _________. The tour will pass through _________ and _________. The tour is for riders of _________ ability. There will be _________ days of cycling altogether. The tour will cost _________ for each person. The participants will sleep in a _________.",
+    "blanks": [
+      { "answer": "June" },
+      { "answer": "22nd" },
+      { "answer": "June" },
+      { "answer": "30th" },
+      { "answer": "300" },
+      { "answer": "roads" },
+      { "answer": "hills" },
+      { "answer": "forests" },
+      { "answer": "average" },
+      { "answer": "six" },
+      { "answer": "£205" },
+      { "answer": "tent" }
+    ],
+    "audio": "Sách Intermediate, Student Book,Unit 9, page 142,UpInt-09-29a.mp3"
+  },
+  {
+    "gapped_text": "Safety Instructions for Natural Disasters\nEARTHQUAKE\n• Protect yourself under a _________ or _________.\n• Be sure to cover _________ _________.\n• Carry a _________ with you.\nHURRICANE\n• Board up all the _________.\n• Take shelter in the _________.\n• Keep supplies such as _________, bottled water and tinned food.\nFLOOD\n• Wear clothing that is _________.\n• Climb onto your _________ and wait to be rescued.",
+    "blanks": [
+      { "answer": "table" },
+      { "answer": "bed" },
+      { "answer": "your" },
+      { "answer": "head" },
+      { "answer": "whistle" },
+      { "answer": "windows" },
+      { "answer": "basement" },
+      { "answer": "candles" },
+      { "answer": "waterproof" },
+      { "answer": "roof" }
+    ],
+    "audio": "Sách Intermediate, Student Book,Unit 10, page 156,UpInt-10-34.mp3"
+  },
+  {
+    "gapped_text": "A: Hi, Danny. I'm calling about going to the cinema tomorrow night. _________ _________ I can't make it.\nB: Oh no. What's _________ _________?\nA: Well, to be honest I'd forgotten that I promised I would babysit for my sister.\nB: I see. Well, _________ time, then.\nA: Yeah. _________ _________ _________ Friday?\nB: No problem.",
+    "blanks": [
+      { "answer": "I'm" },
+      { "answer": "afraid" },
+      { "answer": "the" },
+      { "answer": "matter" },
+      { "answer": "another" },
+      { "answer": "How" },
+      { "answer": "about" },
+      { "answer": "next" }
+    ],
+    "audio": "Sách Intermediate, Student Book,Unit 10, page 157,UpInt-10-39a.mp3"
+  },
+  {
+    "gapped_text": "SPREADING THE NEWS\n\nI've got the _________ so bad\nThat I want the world to see\nI'm going to tell you all about it\nAre you _________ to me?\n\nI'm spreading the news\nThat I've got the blues\nThere's so many ways to tell you all\nThat I can pick and choose\nWhich method to use\nWhen I'm spreading the news\n\nYou can read it in the _________\nOr in a _________\nYou can see it in a _________\nOn your TV screen\n\nI'm spreading the news ...\n\nI'm going to send the _________ an e-mail\nTo let everybody know\nThen I'm going to give an _________\nOn the _________\n\nI'm spreading the news ...\n\nI've got to find a way\nTo make the world sit up and look\nI'm going to _________ my troubles\nIn an electronic _________\n\nI'm spreading the news ...",
+    "blanks": [
+      { "answer": "blues" },
+      { "answer": "listening" },
+      { "answer": "paper" },
+      { "answer": "magazine" },
+      { "answer": "newsflash" },
+      { "answer": "world" },
+      { "answer": "interview" },
+      { "answer": "radio" },
+      { "answer": "write" },
+      { "answer": "book" }
+    ],
+    "audio": "Sách Intermediate, Student Book,Unit 10, page 165,UpInt-10-T12.mp3"
+  }
+>>>>>>> 0fc4fe9e7c35e8e843b48260500b9ef875313e03
 ]
