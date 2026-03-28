@@ -2887,5 +2887,239 @@
       "C": "satellite"
     },
     "answer": "satellite"
+  },
+  {
+    "question": "Janet is a nurse and works at St. Mary's ........... .",
+    "options": {
+      "A": "hospital",
+      "B": "hotel",
+      "C": "post office"
+    },
+    "answer": "hospital"
+  },
+  {
+    "question": "There is a double ........... in the kitchen.",
+    "options": {
+      "A": "coffee table",
+      "B": "bed",
+      "C": "sink"
+    },
+    "answer": "sink"
+  },
+  {
+    "question": "My dad is a teacher. He works in a ........... .",
+    "options": {
+      "A": "theatre",
+      "B": "garage",
+      "C": "school"
+    },
+    "answer": "school"
+  },
+  {
+    "question": "Can you get me a kilo of meat and some sausages at the ........... ?",
+    "options": {
+      "A": "butcher's",
+      "B": "chemist's",
+      "C": "baker's"
+    },
+    "answer": "butcher's"
+  },
+  {
+    "question": "There are two bed-side tables and a ........... in the bedroom.",
+    "options": {
+      "A": "dressing table",
+      "B": "sofa",
+      "C": "microwave"
+    },
+    "answer": "dressing table"
+  },
+  {
+    "question": "We eat at the Chinese ........... in Maple Street every month.",
+    "options": {
+      "A": "supermarket",
+      "B": "greengrocer's",
+      "C": "restaurant"
+    },
+    "answer": "restaurant"
+  },
+  {
+    "question": "A ........... travels a lot.",
+    "options": {
+      "A": "shop assistant",
+      "B": "pilot",
+      "C": "waiter"
+    },
+    "answer": "pilot"
+  },
+  {
+    "question": "Firefighters need to be ........... .",
+    "options": {
+      "A": "patient",
+      "B": "creative",
+      "C": "brave"
+    },
+    "answer": "brave"
+  },
+  {
+    "question": "........... always wear a uniform.",
+    "options": {
+      "A": "Nurses",
+      "B": "Graphic designers",
+      "C": "Gardeners"
+    },
+    "answer": "Nurses"
+  },
+  {
+    "question": "She enjoys her job although it is ........... .",
+    "options": {
+      "A": "stressful",
+      "B": "exciting",
+      "C": "rewarding"
+    },
+    "answer": "stressful"
+  },
+  {
+    "question": "He ........... work early in the morning.",
+    "options": {
+      "A": "likes",
+      "B": "uses",
+      "C": "starts"
+    },
+    "answer": "starts"
+  },
+  {
+    "question": "He doesn't like his job; he finds it ........... .",
+    "options": {
+      "A": "rewarding",
+      "B": "exciting",
+      "C": "boring"
+    },
+    "answer": "boring"
+  },
+  {
+    "question": "Receptionists must be very ........... .",
+    "options": {
+      "A": "physically fit",
+      "B": "polite",
+      "C": "imaginative"
+    },
+    "answer": "polite"
+  },
+  {
+    "question": "Mechanics work with their ........... .",
+    "options": {
+      "A": "hands",
+      "B": "feet",
+      "C": "family"
+    },
+    "answer": "hands"
+  },
+  {
+    "question": "Nurses normally work ........... .",
+    "options": {
+      "A": "part time",
+      "B": "hours",
+      "C": "shifts"
+    },
+    "answer": "shifts"
+  },
+  {
+    "question": "Writers must be ........... .",
+    "options": {
+      "A": "creative",
+      "B": "polite",
+      "C": "friendly"
+    },
+    "answer": "creative"
+  },
+  {
+    "question": "An icon should appear on the ........... screen when you press 'play' on the iPod.",
+    "options": {
+      "A": "display",
+      "B": "stand",
+      "C": "face"
+    },
+    "answer": "display"
+  },
+  {
+    "question": "........... your rubbish before you take it to the recycling centre.",
+    "options": {
+      "A": "Throw",
+      "B": "Separate",
+      "C": "Move"
+    },
+    "answer": "Separate"
+  },
+  {
+    "question": "Use your ........... to click on the icons.",
+    "options": {
+      "A": "tower",
+      "B": "keyboard",
+      "C": "mouse"
+    },
+    "answer": "mouse"
+  },
+  {
+    "question": "Pollution ........... the environment.",
+    "options": {
+      "A": "blames",
+      "B": "harms",
+      "C": "stops"
+    },
+    "answer": "harms"
+  },
+  {
+    "question": "The ghost smiled at us, then it ........... .",
+    "options": {
+      "A": "disappeared",
+      "B": "burnt",
+      "C": "lost"
+    },
+    "answer": "disappeared"
+  },
+  {
+    "question": "She often shops ........... .",
+    "options": {
+      "A": "display",
+      "B": "remote",
+      "C": "online"
+    },
+    "answer": "online"
+  },
+  {
+    "question": "Fish are ........... out.",
+    "options": {
+      "A": "dying",
+      "B": "separating",
+      "C": "helping"
+    },
+    "answer": "dying"
+  },
+  {
+    "question": "The vacuum cleaner was ........... by H Booth.",
+    "options": {
+      "A": "developed",
+      "B": "launched",
+      "C": "invented"
+    },
+    "answer": "invented"
+  },
+  {
+    "question": "This house ........... me the creeps.",
+    "options": {
+      "A": "gives",
+      "B": "makes",
+      "C": "does"
+    },
+    "answer": "gives"
+  },
+  {
+    "question": "It was ........... cold for a spring evening.",
+    "options": {
+      "A": "wintry",
+      "B": "pleasantly",
+      "C": "bitterly"
+    },
+    "answer": "bitterly"
   }
 ]

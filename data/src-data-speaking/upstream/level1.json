@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "sentences": [
+      "10 ten",
+      "11 eleven",
+      "12 twelve",
+      "13 thirteen",
+      "14 fourteen",
+      "15 fifteen",
+      "16 sixteen",
+      "17 seventeen",
+      "18 eighteen",
+      "19 nineteen",
+      "20 twenty"
+    ],
+    "audio": "Sách Beginner A1, Student Book - Unit 1-6 , U1-0Starter-04.mp3"
+  },
+  {
+    "id": 2,
+    "sentences": ["Italy", "Italian", "Brazil"],
+    "audio": "Sách Beginner A1, Student Book - Unit 1-6 , U1-01c-4.mp3"
+  },
+  {
+    "id": 3,
+    "sentences": [
+      "1. I can dance.",
+      "2. Can you ski? Yes, I can.",
+      "3. No, I can't. I can't play tennis."
+    ],
+    "audio": "Sách Beginner A1, Student Book - Unit 1-6 , U1-02c-2.mp3"
+  },
+  {
+    "id": 5,
+    "sentences": [
+      "A: Good morning, how can I help you?",
+      "B: Oh, hello. I need a card for my mobile phone.",
+      "A: Can you post these letters for me, please?",
+      "B: Sure, no problem."
+    ],
+    "audio": "Sách Beginner A1, Student Book - Unit 1-6 , U1-02c-6.mp3"
+  },
+  {
+    "id": 6,
+    "sentences": [
+      "a slice of bread",
+      "a packet of flour",
+      "a jar of mayonnaise",
+      "a bottle of water"
+    ],
+    "audio": "Sách Beginner A1, Student Book - Unit 1-6 , U1-05b-3.mp3"
+  },
+  {
+    "id": 7,
+    "sentences": ["Gary's buying shoes and Gail's looking at the gloves"],
+    "audio": "Sách Beginner A1, Student Book - Unit 1-6 , U1-06c-2.mp3"
+  },
+  {
+    "id": 8,
+    "sentences": ["help", "learn", "elephant", "birth", "work", "trek"],
+    "audio": "Sách Beginner A1, Student Book - Unit 7-12 , U1-09b-5.mp3"
+  },
+  {
+    "id": 9,
+    "sentences": [
+      "ski",
+      "swim",
+      "bill",
+      "sleep",
+      "drink",
+      "eat",
+      "see",
+      "pick"
+    ],
+    "audio": "Sách Beginner A1, Student Book - Unit 7-12 , U1-10b-3.mp3"
+  },
+  {
+    "id": 10,
+    "sentences": [
+      "bank clerk",
+      "waiter",
+      "lawyer",
+      "bus driver",
+      "security guard",
+      "shop assistant",
+      "writer",
+      "hairdresser",
+      "bodyguard",
+      "mechanic",
+      "nurse",
+      "journalist",
+      "pilot",
+      "secretary",
+      "receptionist",
+      "firefighter",
+      "graphic designer",
+      "teacher"
+    ],
+    "audio": "Sách Elementary A2, Student Book - Unit 1-5 , UE-01a-5.mp3"
+  },
+  {
+    "id": 11,
+    "sentences": ["liked", "wanted", "hated", "walked", "looked", "moved"],
+    "audio": "Sách Elementary A2, Student Book - Unit 1-5 , UE-02a-8.mp3"
+  },
+  {
+    "id": 12,
+    "sentences": [
+      "How was your weekend?",
+      "Well, nothing special.",
+      "Oh, I had a great time!",
+      "I watched a re-enactment of the battle!",
+      "You're kidding!",
+      "What was it like?",
+      "Oh, you've got to see it!",
+      "Didn't you know that?"
+    ],
+    "audio": "Sách Elementary A2, Student Book - Unit 1-5 , UE-02b-2a.mp3"
+  },
+  {
+    "id": 13,
+    "sentences": ["whether", "arm", "sea", "where"],
+    "audio": "Sách Elementary A2, Student Book - Unit 1-5 , UE-04a-9.mp3"
+  },
+  {
+    "id": 17,
+    "sentences": [
+      "Is it really?",
+      "I had no idea!",
+      "I didn't know that!",
+      "Really?",
+      "Wow! That’s amazing!"
+    ],
+    "audio": "Sách Elementary A2, Student Book - Unit 1-5 , UE-04b-11.mp3"
+  },
+  {
+    "id": 18,
+    "sentences": [
+      "blood, flood, love, brother, mother, other, enough, rough, tough, money, some"
+    ],
+    "audio": "Sách Elementary A2, Student Book - Unit 1-5 , UE-05a-8.mp3"
+  },
+  {
+    "id": 19,
+    "sentences": [
+      "1. If you eat less, you'll lose weight.",
+      "2. If I see Ann, I'll tell her.",
+      "3. If you exercise, you'll feel better."
+    ],
+    "audio": "Sách Elementary A2, Student Book - Unit 6-10 , UE-06c-7.mp3"
+  }
+]
