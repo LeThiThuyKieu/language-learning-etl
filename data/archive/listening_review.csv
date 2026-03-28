@@ -11,31 +11,8 @@ B: That will be fine. _______ _______ _______ _______ _______?
 A: An hour. Here are your tickets. That's £10, please.
 B: Here you are.
 A: Thank you. Enjoy the tour!",,1:Can | 2:I | 3:help | 4:you? | 5:How | 6:many | 7:people | 8:are | 9:you | 10:booking | 11:for? | 12:When | 13:would | 14:you | 15:like | 16:to | 17:go? | 18:Is | 19:there | 20:a | 21:tour | 22:at | 23:3 | 24:o'clock? | 25:How | 26:long | 27:does | 28:it | 29:last?,https://res.cloudinary.com/dcz6avkds/video/upload/v1774541024/Track_29_celz4b.mp3,medium,,,,,,,
-level3.json#9,upstream,"ANSWER_COUNT_MISMATCH(gaps:25,answers:24)","1. How does that _______ _______ ?
-2. Something's _______ _______ .
-3. I'm afraid I can't _______ _______ .
-4. That's a _______ .
-5. Thanks for _______ _______ _______ .
-6. I can _______ _______ _______ _______ at 11.30.
-7. I'm afraid he's _______ _______ today.
-8. I would like to _______ _______ _______ to see the manager.
-9. I _______ _______ _______ with Dr Robson.
-10. Can we _______ _______ _______ to sometime tomorrow?",,1:suit | 2:you | 3:come | 4:up | 5:make | 6:it | 7:shame | 8:letting | 9:me | 10:know | 11:fit | 12:you | 13:in | 14:booked | 15:solid | 16:make | 17:an | 18:appointment | 19:have | 20:an | 21:appointment | 22:move | 23:the | 24:appointment,https://res.cloudinary.com/dcz6avkds/video/upload/v1774598342/03_Unit_5._Ex._19a_p.105_htkdgl.mp3,hard,,,,,,,
-level3.json#10,upstream,"ANSWER_COUNT_MISMATCH(gaps:21,answers:20)","Sean Flint reports that the tradition of psychic healing dates back to _______ _______ _______ _______ _______ .
-The miraculous cures wrought by psychic surgeons brought _______ _______ _______ to sufferers and their families.
-There is a general misconception that faith healers _______ _______ for their work.
-A man in California was charged with posing as a doctor and the illegal _______ _______ _______ .
-Cotton balls are used to generate the illusion of _______ when fake operations are being performed.
-The rumours surrounding the efficacy of psychic surgeons are spread by disreputable _______ and word of mouth.
-_______ _______ are brought on by extended periods of stress.
-Often _______ _______ _______ is ever discovered for persistent pain in people suffering from psychosomatic illnesses.
-The fallacy concerning miracle cures is also _______ by the people who attribute their return to health to psychic surgeons.",,1:ancient | 2:or | 3:prehistoric | 4:times | 5:peace | 6:of | 7:mind | 8:don't | 9:charge | 10:practice | 11:of | 12:medicine | 13:blood | 14:agencies | 15:Psychosomatic | 16:illnesses | 17:no | 18:underlying | 19:cause | 20:propagated,https://res.cloudinary.com/dcz6avkds/video/upload/v1774598343/04_Unit_5._Ex._20b_p.106_dgcxr6.mp3,hard,,,,,,,
-level3.json#11,upstream,"ANSWER_COUNT_MISMATCH(gaps:19,answers:18)","Jonathan states that ""A Love Supreme"" and some other albums he listened to in his childhood were to him the _______ _______ _______ _______ .
-In his music, John Coltrane works with some very complicated _______ _______ , but one doesn't have to understand those in order to appreciate it.
-According to Jonathan, Coltrane did not care about _______ _______ when he played music.
-Jonathan says that some people who do not normally listen to jazz, will be able to _______ to it if they are not made aware that it is actually free jazz.
-The music Jonathan wrote for the theatrical play aims to place the listener in a _______ _______ _______ .
-Jonathan went to the play's rehearsals and even watched videos of the rehearsals to ensure that there was _______ between his composition and the play.
-The reason Jonathan gives for never being able to shake off Coltrane's influence is because music is part of _______ _______ .
-Four out of the twelve pieces on Jonathan's new album are _______ _______ .
-Jonathan has not changed his style much and is still _______ _______ playing easy-going jazz.",,1:definition | 2:of | 3:music | 4:musical | 5:concepts | 6:commercial | 7:issues | 8:relate | 9:state | 10:of | 11:uncertainty | 12:compatibility | 13:his | 14:identity | 15:live | 16:recordings | 17:committed | 18:to,https://res.cloudinary.com/dcz6avkds/video/upload/v1774598343/14_Unit_6._Ex._27b_p.126_bgrs5x.mp3,hard,,,,,,,
+level3.json,upstream,"JSON_PARSE_ERROR:Unexpected token '/', ...""
+  },
+  //
+  {
+ ""... is not valid JSON",,,,,hard,,,,,,,

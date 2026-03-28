@@ -1,20 +1,28 @@
 import fs from "fs";
 import path from "path";
 
+// Kiểu độ khó
 type Difficulty = "easy" | "medium" | "hard";
+
+// Mode chạy (lọc nguồn)
 type SourceMode = "statics" | "upstream" | "both";
+
+// Folder nguồn
 type SourceFolder = "statics" | "upstream";
 
+// 1 ô trống
 type BlankItem = {
   answer?: string;
 };
 
+// 1 item trong JSON
 type ListeningItem = {
   gapped_text?: string;
   blanks?: BlankItem[];
   audio?: string;
 };
 
+// Dòng output chính
 type OutputRow = {
   gapped_text: string;
   answer: string;
@@ -22,12 +30,14 @@ type OutputRow = {
   difficulty: Difficulty;
 };
 
+// File input
 type InputFile = {
   mode: SourceFolder;
   filePath: string;
   fileName: string;
 };
 
+// Lưu audio đã gặp để detect duplicate
 type AudioSeenRecord = {
   source_file: string;
   mode: SourceFolder;
@@ -35,6 +45,7 @@ type AudioSeenRecord = {
   difficulty: Difficulty;
 };
 
+// Dòng review (log lỗi)
 type ReviewRow = {
   source_file: string;
   mode: SourceFolder;
@@ -53,14 +64,17 @@ type ReviewRow = {
   conflict_with_difficulty: string;
 };
 
+// Đường dẫn
 const BASE_INPUT_DIR = path.resolve(process.cwd(), "data/src-data-listening");
 const STATICS_DIR = path.join(BASE_INPUT_DIR, "statics");
 const UPSTREAM_DIR = path.join(BASE_INPUT_DIR, "upstream");
 const OUTPUT_FILE = path.resolve(process.cwd(), "data/archive/listening_raw_from_json.csv");
 const REVIEW_FILE = path.resolve(process.cwd(), "data/archive/listening_review.csv");
 
+// Mode hợp lệ
 const ALLOWED_SOURCE_MODES: SourceMode[] = ["statics", "upstream", "both"];
 
+// Escape CSV (tránh lỗi dấu ", , newline)
 function csvEscape(value: string): string {
   if (/[",\n\r]/.test(value)) {
     return `"${value.replace(/"/g, '""')}"`;
@@ -68,14 +82,17 @@ function csvEscape(value: string): string {
   return value;
 }
 
+// Chuyển newline thật thành \n
 function toLiteralNewline(value: string): string {
   return value.replace(/\r\n/g, "\n").replace(/\n/g, "\\n");
 }
 
+// Chuẩn hóa text cơ bản
 function normalizeText(value: string): string {
   return value.replace(/\r\n/g, "\n").trim();
 }
 
+// Chuẩn hóa để so sánh (xóa space dư)
 function normalizeForCompare(value: string): string {
   return value
     .replace(/\r\n/g, "\n")
@@ -84,6 +101,7 @@ function normalizeForCompare(value: string): string {
     .trim();
 }
 
+// Đánh số gap: ______ -> ______(1)
 function numberGaps(gappedText: string): string {
   let index = 0;
   return gappedText.replace(/_{2,}/g, () => {
@@ -92,6 +110,7 @@ function numberGaps(gappedText: string): string {
   });
 }
 
+// Build full text bằng cách thay gap bằng đáp án
 function buildFullText(gappedText: string, answers: string[]): string {
   let answerIndex = 0;
   return gappedText.replace(/_{2,}/g, () => {
@@ -101,15 +120,18 @@ function buildFullText(gappedText: string, answers: string[]): string {
   });
 }
 
+// Gộp đáp án thành chuỗi: 1:a | 2:b
 function flattenAnswers(answers: string[]): string {
   return answers.map((ans, i) => `${i + 1}:${ans}`).join(" | ");
 }
 
+// Đếm số gap
 function countGaps(gappedText: string): number {
   const matches = gappedText.match(/_{2,}/g);
   return matches ? matches.length : 0;
 }
 
+// Suy ra difficulty từ tên file
 function inferDifficultyFromFileName(fileName: string): Difficulty | null {
   const lower = fileName.toLowerCase();
   if (lower.includes("basic") || lower.includes("level1")) return "easy";
@@ -118,6 +140,7 @@ function inferDifficultyFromFileName(fileName: string): Difficulty | null {
   return null;
 }
 
+// Lấy mode từ CLI
 function resolveSourceMode(): SourceMode {
   const mode = String(process.argv[2] || "both").trim().toLowerCase() as SourceMode;
   if (ALLOWED_SOURCE_MODES.includes(mode)) {
@@ -128,12 +151,14 @@ function resolveSourceMode(): SourceMode {
   return "both";
 }
 
+// Lấy folder theo mode
 function getSelectedInputDirs(mode: SourceMode): string[] {
   if (mode === "statics") return [STATICS_DIR];
   if (mode === "upstream") return [UPSTREAM_DIR];
   return [STATICS_DIR, UPSTREAM_DIR];
 }
 
+// Lấy source + mode
 function getSelectedInputSources(mode: SourceMode): Array<{ mode: SourceFolder; dir: string }> {
   if (mode === "statics") return [{ mode: "statics", dir: STATICS_DIR }];
   if (mode === "upstream") return [{ mode: "upstream", dir: UPSTREAM_DIR }];
@@ -143,6 +168,7 @@ function getSelectedInputSources(mode: SourceMode): Array<{ mode: SourceFolder; 
   ];
 }
 
+// Đọc JSON an toàn
 function safeReadJsonArray(filePath: string): { ok: true; data: unknown[] } | { ok: false; error: string } {
   try {
     const raw = fs.readFileSync(filePath, "utf8");
@@ -156,6 +182,7 @@ function safeReadJsonArray(filePath: string): { ok: true; data: unknown[] } | { 
   }
 }
 
+// Tạo dòng review mặc định
 function buildBaseReviewRow(params: {
   source_file: string;
   mode: SourceFolder;
@@ -178,6 +205,7 @@ function buildBaseReviewRow(params: {
   };
 }
 
+// Lấy danh sách file JSON
 function collectInputFiles(mode: SourceMode): InputFile[] {
   const selectedSources = getSelectedInputSources(mode);
   const files: InputFile[] = [];
@@ -206,6 +234,7 @@ function collectInputFiles(mode: SourceMode): InputFile[] {
   return files;
 }
 
+// Ghi file CSV chính
 function writeCsv(rows: OutputRow[], outputPath: string): void {
   fs.mkdirSync(path.dirname(outputPath), { recursive: true });
 
@@ -220,6 +249,7 @@ function writeCsv(rows: OutputRow[], outputPath: string): void {
   fs.writeFileSync(outputPath, content, "utf-8");
 }
 
+// Ghi file review (log lỗi)
 function writeReviewCsv(filePath: string, rows: ReviewRow[]): void {
   fs.mkdirSync(path.dirname(filePath), { recursive: true });
 
@@ -269,17 +299,30 @@ function writeReviewCsv(filePath: string, rows: ReviewRow[]): void {
   fs.writeFileSync(filePath, content, "utf8");
 }
 
+  // Hàm main xử lý toàn bộ pipeline
 function main(): void {
+  // Lấy mode (statics | upstream | both)
   const sourceMode = resolveSourceMode();
+
+  // Lấy danh sách file input
   const inputFiles = collectInputFiles(sourceMode);
 
+  // Mảng chứa dữ liệu output hợp lệ
   const allRows: OutputRow[] = [];
+
+  // Mảng chứa các lỗi / dữ liệu cần review
   const reviewRows: ReviewRow[] = [];
 
+  // Set dùng để loại duplicate dòng chính
   const seenMainKey = new Set<string>();
+
+  // Map: audio -> lần xuất hiện đầu tiên (để detect conflict)
   const audioToFirstSeen = new Map<string, AudioSeenRecord>();
+
+  // Tránh log duplicate conflict nhiều lần
   const reportedAudioConflicts = new Set<string>();
 
+  // Kiểm tra folder có tồn tại không
   const selectedDirs = getSelectedInputDirs(sourceMode);
   for (const dir of selectedDirs) {
     if (!fs.existsSync(dir)) {
@@ -299,11 +342,16 @@ function main(): void {
     }
   }
 
+  // Duyệt từng file JSON
   for (const input of inputFiles) {
     const loaded = safeReadJsonArray(input.filePath);
+
+    // Suy ra độ khó từ tên file
     const difficulty = inferDifficultyFromFileName(input.fileName);
+
     const sourceModeTag = input.mode;
 
+    // Nếu không xác định được difficulty → log lỗi
     if (!difficulty) {
       reviewRows.push(
         buildBaseReviewRow({
@@ -320,6 +368,7 @@ function main(): void {
       continue;
     }
 
+    // Nếu lỗi JSON
     if (!loaded.ok) {
       reviewRows.push(
         buildBaseReviewRow({
@@ -338,8 +387,11 @@ function main(): void {
 
     let acceptedRows = 0;
 
+    // Duyệt từng item trong file
     loaded.data.forEach((rawItem, index) => {
       const sourceTag = `${input.fileName}#${index + 1}`;
+
+      // Kiểm tra item hợp lệ
       if (!rawItem || typeof rawItem !== "object") {
         reviewRows.push(
           buildBaseReviewRow({
@@ -357,14 +409,21 @@ function main(): void {
       }
 
       const item = rawItem as ListeningItem;
+
+      // Chuẩn hóa gapped_text
       const originalGappedText = normalizeText(String(item.gapped_text || ""));
 
+      // Lấy danh sách đáp án
       const answers = (Array.isArray(item.blanks) ? item.blanks : [])
         .map((blank) => String(blank?.answer || "").trim())
         .filter((ans) => ans.length > 0);
 
       const answerText = flattenAnswers(answers);
+
+      // Chuẩn hóa audio
       const audio = normalizeForCompare(String(item.audio || ""));
+
+      // Validate từng trường
 
       if (!originalGappedText) {
         reviewRows.push(
@@ -414,6 +473,7 @@ function main(): void {
         return;
       }
 
+      // Check số gap vs số answer
       const gapCount = countGaps(originalGappedText);
       if (gapCount !== answers.length) {
         reviewRows.push(
@@ -431,12 +491,14 @@ function main(): void {
         return;
       }
 
+      // Xử lý dữ liệu hợp lệ
       const gappedWithNumber = numberGaps(originalGappedText);
       const fullText = buildFullText(originalGappedText, answers);
 
       const normalizedFullText = normalizeForCompare(fullText);
       const firstSeen = audioToFirstSeen.get(audio);
 
+      // Detect audio trùng nhưng nội dung khác
       if (firstSeen && firstSeen.full_text !== normalizedFullText) {
         const pairKeySorted = [firstSeen.source_file, sourceTag].sort().join(" <-> ");
         const conflictKey = `${audio} || ${pairKeySorted}`;
@@ -444,6 +506,7 @@ function main(): void {
         if (!reportedAudioConflicts.has(conflictKey)) {
           reportedAudioConflicts.add(conflictKey);
 
+          // Ghi log conflict 2 chiều
           reviewRows.push({
             source_file: sourceTag,
             mode: sourceModeTag,
@@ -484,6 +547,7 @@ function main(): void {
         return;
       }
 
+      // Lưu audio lần đầu
       if (!firstSeen) {
         audioToFirstSeen.set(audio, {
           source_file: sourceTag,
@@ -493,12 +557,16 @@ function main(): void {
         });
       }
 
+      // Key để dedupe
       const dedupeKey = `${normalizeForCompare(gappedWithNumber)}||${normalizedFullText}||${normalizeForCompare(answerText)}||${audio}||${difficulty}`;
+
       if (seenMainKey.has(dedupeKey)) {
         return;
       }
+
       seenMainKey.add(dedupeKey);
 
+      // Thêm vào output
       allRows.push({
         gapped_text: toLiteralNewline(gappedWithNumber),
         answer: answerText,
@@ -512,9 +580,11 @@ function main(): void {
     console.log(`Processed ${input.filePath}: ${acceptedRows} rows`);
   }
 
+  // Ghi file CSV
   writeCsv(allRows, OUTPUT_FILE);
   writeReviewCsv(REVIEW_FILE, reviewRows);
 
+  // Thống kê lỗi
   const audioConflictRows = reviewRows.filter(
     (row) => row.reason === "AUDIO_DUPLICATED_WITH_DIFFERENT_FULL_TEXT",
   );
@@ -529,6 +599,7 @@ function main(): void {
   const audioConflictIssueCount = audioConflictPairKeys.size;
   const nonAudioConflictIssueCount = reviewRows.length - audioConflictRows.length;
   const totalReviewIssues = nonAudioConflictIssueCount + audioConflictIssueCount;
+
   const reviewReasonCounts = new Map<string, number>();
 
   for (const row of reviewRows) {
@@ -540,6 +611,7 @@ function main(): void {
     a[0].localeCompare(b[0]),
   );
 
+  // Log kết quả
   console.log(`Done. mode=${sourceMode}`);
   console.log(`Main rows: ${allRows.length} -> ${OUTPUT_FILE}`);
   console.log(`Review rows: ${reviewRows.length} -> ${REVIEW_FILE}`);
