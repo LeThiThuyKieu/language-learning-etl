@@ -24,5 +24,19 @@
         "right": "make someone very angry"
       }
     ]
+  },
+  {
+    "page": 0,
+    "kind": "PAIR",
+    "pairs": [
+      { "left": "wash", "right": "the dishes" },
+      { "left": "dust", "right": "the furniture" },
+      { "left": "make", "right": "the beds" },
+      { "left": "iron", "right": "the clothes" },
+      { "left": "vacuum", "right": "the carpets" },
+      { "left": "clean", "right": "the windows" },
+      { "left": "mop", "right": "the floors" },
+      { "left": "mow", "right": "the lawn" }
+    ]
   }
 ]
