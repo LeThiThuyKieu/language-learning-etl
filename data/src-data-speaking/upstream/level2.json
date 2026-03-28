@@ -18,10 +18,7 @@
       "3. He didn't come. He didn't, did he?",
       "4. He didn't come. He didn't?"
     ],
-<<<<<<< HEAD
     "audio": "https://res.cloudinary.com/dcz6avkds/video/upload/v1774599503/17_mae5np.mp3"
-=======
-    "audio": "CD 2 17.mp3"
   },
   {
     "id": 3,
@@ -210,6 +207,5 @@
       "5. If only I hadn't missed the penalty."
     ],
     "audio": "Sách Intermediate, Student Book Unit 9, page 143, UpInt-09-35.mp3"
->>>>>>> 0fc4fe9e7c35e8e843b48260500b9ef875313e03
   }
 ]
