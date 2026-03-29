@@ -14,12 +14,12 @@
       "19 nineteen",
       "20 twenty"
     ],
-    "audio": "Sách Beginner A1, Student Book - Unit 1-6 , U1-0Starter-04.mp3"
+    "audio": "https://res.cloudinary.com/dcz6avkds/video/upload/v1774755968/U1-0Starter-04_h25d8b.mp3"
   },
   {
     "id": 2,
     "sentences": ["Italy", "Italian", "Brazil"],
-    "audio": "Sách Beginner A1, Student Book - Unit 1-6 , U1-01c-4.mp3"
+    "audio": "https://res.cloudinary.com/dcz6avkds/video/upload/v1774755959/U1-01c-4_dtjt1m.mp3"
   },
   {
     "id": 3,
@@ -28,7 +28,7 @@
       "2. Can you ski? Yes, I can.",
       "3. No, I can't. I can't play tennis."
     ],
-    "audio": "Sách Beginner A1, Student Book - Unit 1-6 , U1-02c-2.mp3"
+    "audio": "https://res.cloudinary.com/dcz6avkds/video/upload/v1774755971/U1-02c-2_tdq3lm.mp3"
   },
   {
     "id": 5,
@@ -38,7 +38,7 @@
       "A: Can you post these letters for me, please?",
       "B: Sure, no problem."
     ],
-    "audio": "Sách Beginner A1, Student Book - Unit 1-6 , U1-02c-6.mp3"
+    "audio": "https://res.cloudinary.com/dcz6avkds/video/upload/v1774755974/U1-02c-6_fz9ycw.mp3"
   },
   {
     "id": 6,
@@ -48,17 +48,17 @@
       "a jar of mayonnaise",
       "a bottle of water"
     ],
-    "audio": "Sách Beginner A1, Student Book - Unit 1-6 , U1-05b-3.mp3"
+    "audio": "https://res.cloudinary.com/dcz6avkds/video/upload/v1774755962/U1-05b-3_hhqz8b.mp3"
   },
   {
     "id": 7,
     "sentences": ["Gary's buying shoes and Gail's looking at the gloves"],
-    "audio": "Sách Beginner A1, Student Book - Unit 1-6 , U1-06c-2.mp3"
+    "audio": "https://res.cloudinary.com/dcz6avkds/video/upload/v1774755965/U1-06c-2_wejv4v.mp3"
   },
   {
     "id": 8,
     "sentences": ["help", "learn", "elephant", "birth", "work", "trek"],
-    "audio": "Sách Beginner A1, Student Book - Unit 7-12 , U1-09b-5.mp3"
+    "audio": "https://res.cloudinary.com/dcz6avkds/video/upload/v1774756294/U1-09b-5_em4dnc.mp3"
   },
   {
     "id": 9,
@@ -72,7 +72,7 @@
       "see",
       "pick"
     ],
-    "audio": "Sách Beginner A1, Student Book - Unit 7-12 , U1-10b-3.mp3"
+    "audio": "https://res.cloudinary.com/dcz6avkds/video/upload/v1774756296/U1-10b-3_mxb85y.mp3"
   },
   {
     "id": 10,
@@ -96,12 +96,12 @@
       "graphic designer",
       "teacher"
     ],
-    "audio": "Sách Elementary A2, Student Book - Unit 1-5 , UE-01a-5.mp3"
+    "audio": "https://res.cloudinary.com/dcz6avkds/video/upload/v1774756518/UE-01a-5_f5iqk1.mp3"
   },
   {
     "id": 11,
     "sentences": ["liked", "wanted", "hated", "walked", "looked", "moved"],
-    "audio": "Sách Elementary A2, Student Book - Unit 1-5 , UE-02a-8.mp3"
+    "audio": "https://res.cloudinary.com/dcz6avkds/video/upload/v1774756519/UE-02a-8_zckgqo.mp3"
   },
   {
     "id": 12,
@@ -115,12 +115,12 @@
       "Oh, you've got to see it!",
       "Didn't you know that?"
     ],
-    "audio": "Sách Elementary A2, Student Book - Unit 1-5 , UE-02b-2a.mp3"
+    "audio": "https://res.cloudinary.com/dcz6avkds/video/upload/v1774756523/UE-02b-2a_vonyca.mp3"
   },
   {
     "id": 13,
     "sentences": ["whether", "arm", "sea", "where"],
-    "audio": "Sách Elementary A2, Student Book - Unit 1-5 , UE-04a-9.mp3"
+    "audio": "https://res.cloudinary.com/dcz6avkds/video/upload/v1774756535/UE-04a-9_fxxur5.mp3"
   },
   {
     "id": 17,
@@ -131,14 +131,14 @@
       "Really?",
       "Wow! That’s amazing!"
     ],
-    "audio": "Sách Elementary A2, Student Book - Unit 1-5 , UE-04b-11.mp3"
+    "audio": "https://res.cloudinary.com/dcz6avkds/video/upload/v1774756528/UE-04b-11_rwckil.mp3"
   },
   {
     "id": 18,
     "sentences": [
       "blood, flood, love, brother, mother, other, enough, rough, tough, money, some"
     ],
-    "audio": "Sách Elementary A2, Student Book - Unit 1-5 , UE-05a-8.mp3"
+    "audio": "https://res.cloudinary.com/dcz6avkds/video/upload/v1774756531/UE-05a-8_vlblor.mp3"
   },
   {
     "id": 19,
@@ -147,6 +147,6 @@
       "2. If I see Ann, I'll tell her.",
       "3. If you exercise, you'll feel better."
     ],
-    "audio": "Sách Elementary A2, Student Book - Unit 6-10 , UE-06c-7.mp3"
+    "audio": "https://res.cloudinary.com/dcz6avkds/video/upload/v1774756540/UE-06c-7_fv4pqd.mp3"
   }
 ]
