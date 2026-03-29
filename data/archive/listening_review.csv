@@ -1,0 +1,18 @@
+source_file,mode,reason,gapped_text,full_text,answer,audio,difficulty,conflict_with_source_file,conflict_with_mode,conflict_with_gapped_text,conflict_with_full_text,conflict_with_answer,conflict_with_audio,conflict_with_difficulty
+level1.json,upstream,JSON_PARSE_ERROR:Unexpected end of JSON input,,,,,easy,,,,,,,
+level2.json#2,upstream,"ANSWER_COUNT_MISMATCH(gaps:31,answers:29)","A: Good morning. _______ _______ _______ _______?
+B: Yes – I'd like to book some tickets for the city tour, please.
+A: Certainly. _______ _______ _______ _______ _______ _______ _______ _______?
+B: Just two adults – my friend and myself.
+A: _______ _______ _______ _______ _______ _______? We have one starting in ten minutes.
+B: Actually, we want to go this afternoon. _______ _______ _______ _______ _______ _______ _______ _______?
+A: No, but there's one at 3:15.
+B: That will be fine. _______ _______ _______ _______ _______?
+A: An hour. Here are your tickets. That's £10, please.
+B: Here you are.
+A: Thank you. Enjoy the tour!",,1:Can | 2:I | 3:help | 4:you? | 5:How | 6:many | 7:people | 8:are | 9:you | 10:booking | 11:for? | 12:When | 13:would | 14:you | 15:like | 16:to | 17:go? | 18:Is | 19:there | 20:a | 21:tour | 22:at | 23:3 | 24:o'clock? | 25:How | 26:long | 27:does | 28:it | 29:last?,https://res.cloudinary.com/dcz6avkds/video/upload/v1774541024/Track_29_celz4b.mp3,medium,,,,,,,
+level3.json,upstream,"JSON_PARSE_ERROR:Unexpected token '/', ...""
+  },
+  //
+  {
+ ""... is not valid JSON",,,,,hard,,,,,,,
