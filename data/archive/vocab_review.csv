@@ -1,0 +1,6 @@
+# REVIEW_REASON_GUIDE
+# MISSING_OPTIONS: Cau hoi khong co options hop le
+# ANSWER_NOT_IN_OPTIONS: Dap an khong nam trong danh sach options
+# === KHONG_CO_CAU_NAO_CAN_REVIEW ===: Khong co dong nao can review
+source_file,sentence,answer,options,difficulty,reason
+,,,,medium,=== KHONG_CO_CAU_NAO_CAN_REVIEW ===

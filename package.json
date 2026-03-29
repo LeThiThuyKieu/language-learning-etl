@@ -18,10 +18,11 @@
     "report-statistic": "ts-node src/statistic/report-statistic.ts",
     "test-destination-vocab": "ts-node src/test-destination-vocab.ts",
     "ocr-destination": "ts-node src/ocr-destination-pdf.ts",
-    "extract-matching-to-csv":"ts-node src/vocab_matching/extract-matching-to-csv.ts",
-    "extract-vocab-to-csv":"ts-node src/vocab_matching/extract-vocab-to-csv.ts",
-    "extract-listening-to-csv":"ts-node src/listening/extract-listening-to-csv.ts",
-    "extract-speaking-to-csv":"ts-node src/speaking/extract-speaking-to-csv.ts"
+    "extract-matching":"ts-node src/vocab_matching/extract-matching-to-csv.ts",
+    "extract-vocab":"ts-node src/vocab_matching/extract-vocab-to-csv.ts",
+    "extract-listening":"ts-node src/listening/extract-listening-to-csv.ts",
+    "extract-speaking":"ts-node src/speaking/extract-speaking-to-csv.ts",
+    "extract-all":"npm run extract-matching && npm run extract-vocab && npm run extract-listening && npm run extract-speaking"
   },
   "keywords": [],
   "author": "",

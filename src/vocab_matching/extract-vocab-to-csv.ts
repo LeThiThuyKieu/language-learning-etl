@@ -3,6 +3,14 @@ import * as path from "path";
 import { fileURLToPath } from "url";
 
 type OutputDifficulty = "easy" | "medium" | "hard";
+type SourceMode = "destination" | "upstream" | "both";
+type SourceFolder = "destination" | "upstream";
+
+type InputFile = {
+  mode: SourceFolder;
+  filePath: string;
+  fileName: string;
+};
 
 type VocabQuestion = {
   question: string;
@@ -36,23 +44,21 @@ type DuplicateRow = {
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const DEFAULT_INPUT_JSON_DIR = path.resolve(__dirname, "../../data/destination_text_vocab");
+const DEFAULT_INPUT_ROOT = path.resolve(__dirname, "../../data/src-data-vocab");
+const DESTINATION_DIR = path.join(DEFAULT_INPUT_ROOT, "destination");
+const UPSTREAM_DIR = path.join(DEFAULT_INPUT_ROOT, "upstream");
 const DEFAULT_OUTPUT_DIR = path.resolve(__dirname, "../../data/archive");
-const DEFAULT_OUTPUT_CSV = path.resolve(DEFAULT_OUTPUT_DIR, "vocab_raw_from_destination.csv");
-const DEFAULT_REVIEW_CSV = path.resolve(
-  DEFAULT_OUTPUT_DIR,
-  "vocab_raw_from_destination_review.csv",
-);
-const DEFAULT_DUPLICATE_CSV = path.resolve(
-  DEFAULT_OUTPUT_DIR,
-  "vocab_raw_from_destination_duplicates.csv",
-);
+const DEFAULT_OUTPUT_CSV = path.resolve(DEFAULT_OUTPUT_DIR, "vocab_raw.csv");
+const DEFAULT_REVIEW_CSV = path.resolve(DEFAULT_OUTPUT_DIR, "vocab_review.csv");
+const DEFAULT_DUPLICATE_CSV = path.resolve(DEFAULT_OUTPUT_DIR, "vocab_duplicates.csv");
+
+const ALLOWED_SOURCE_MODES: SourceMode[] = ["destination", "upstream", "both"];
 
 function mapDifficultyFromName(fileName: string): OutputDifficulty {
   const lower = fileName.toLowerCase();
-  if (lower.includes("b1")) return "easy";
-  if (lower.includes("b2")) return "medium";
-  if (lower.includes("c1") || lower.includes("c2")) return "hard";
+  if (lower.includes("b1") || lower.includes("level1")) return "easy";
+  if (lower.includes("b2") || lower.includes("level2")) return "medium";
+  if (lower.includes("c1") || lower.includes("c2") || lower.includes("level3")) return "hard";
   return "medium";
 }
 
@@ -92,6 +98,96 @@ function parseQuestions(jsonPath: string): VocabQuestion[] {
   return out;
 }
 
+function resolveCli(): {
+  sourceMode: SourceMode;
+  inputRoot: string;
+  outputCsv: string;
+  reviewCsv: string;
+  duplicateCsv: string;
+} {
+  const arg1 = process.argv[2];
+  const normalizedArg1 = String(arg1 || "").trim().toLowerCase();
+
+  // Backward compatible:
+  // - If argv[2] is mode -> [mode] [inputRoot] [output] [review] [duplicate]
+  // - Otherwise argv[2] is inputRoot -> [inputRoot] [output] [review] [duplicate]
+  const isModeArg = ALLOWED_SOURCE_MODES.includes(normalizedArg1 as SourceMode);
+  const sourceMode: SourceMode = isModeArg ? (normalizedArg1 as SourceMode) : "both";
+
+  const inputRoot = isModeArg
+    ? process.argv[3]
+      ? path.resolve(process.argv[3])
+      : DEFAULT_INPUT_ROOT
+    : process.argv[2]
+      ? path.resolve(process.argv[2])
+      : DEFAULT_INPUT_ROOT;
+
+  const outputCsv = isModeArg
+    ? process.argv[4]
+      ? path.resolve(process.argv[4])
+      : DEFAULT_OUTPUT_CSV
+    : process.argv[3]
+      ? path.resolve(process.argv[3])
+      : DEFAULT_OUTPUT_CSV;
+
+  const reviewCsv = isModeArg
+    ? process.argv[5]
+      ? path.resolve(process.argv[5])
+      : DEFAULT_REVIEW_CSV
+    : process.argv[4]
+      ? path.resolve(process.argv[4])
+      : DEFAULT_REVIEW_CSV;
+
+  const duplicateCsv = isModeArg
+    ? process.argv[6]
+      ? path.resolve(process.argv[6])
+      : DEFAULT_DUPLICATE_CSV
+    : process.argv[5]
+      ? path.resolve(process.argv[5])
+      : DEFAULT_DUPLICATE_CSV;
+
+  return { sourceMode, inputRoot, outputCsv, reviewCsv, duplicateCsv };
+}
+
+function getSelectedSources(sourceMode: SourceMode, inputRoot: string): Array<{ mode: SourceFolder; dir: string }> {
+  const destinationDir = path.join(inputRoot, "destination");
+  const upstreamDir = path.join(inputRoot, "upstream");
+
+  if (sourceMode === "destination") return [{ mode: "destination", dir: destinationDir }];
+  if (sourceMode === "upstream") return [{ mode: "upstream", dir: upstreamDir }];
+  return [
+    { mode: "destination", dir: destinationDir },
+    { mode: "upstream", dir: upstreamDir },
+  ];
+}
+
+function collectInputFiles(sourceMode: SourceMode, inputRoot: string): InputFile[] {
+  const files: InputFile[] = [];
+  const sources = getSelectedSources(sourceMode, inputRoot);
+
+  for (const source of sources) {
+    if (!fs.existsSync(source.dir)) {
+      console.warn(`Skip missing folder: ${source.dir}`);
+      continue;
+    }
+
+    const jsonFiles = fs
+      .readdirSync(source.dir)
+      .filter((x) => x.toLowerCase().endsWith(".json"))
+      .sort((a, b) => a.localeCompare(b));
+
+    for (const fileName of jsonFiles) {
+      files.push({
+        mode: source.mode,
+        filePath: path.join(source.dir, fileName),
+        fileName,
+      });
+    }
+  }
+
+  return files;
+}
+
 function extractOptions(options: unknown): string[] {
   if (Array.isArray(options)) {
     return options
@@ -124,36 +220,39 @@ function summarizeByDifficulty(
   return summary;
 }
 
+function buildReviewCommentLines(): string[] {
+  return [
+    "# REVIEW_REASON_GUIDE",
+    "# MISSING_OPTIONS: Cau hoi khong co options hop le",
+    "# ANSWER_NOT_IN_OPTIONS: Dap an khong nam trong danh sach options",
+    "# === KHONG_CO_CAU_NAO_CAN_REVIEW ===: Khong co dong nao can review",
+  ];
+}
+
+function buildDuplicateCommentLines(): string[] {
+  return [
+    "# DUPLICATE_GUIDE",
+    "# Ghi lai cac dong bi loai do trung sentence",
+    "# === KHONG_CO_DONG_TRUNG ===: Khong co dong duplicate",
+  ];
+}
+
 function run(): Promise<void> {
   return (async () => {
-    const inputJsonDir = process.argv[2]
-      ? path.resolve(process.argv[2])
-      : DEFAULT_INPUT_JSON_DIR;
-    const outputCsv = process.argv[3]
-      ? path.resolve(process.argv[3])
-      : DEFAULT_OUTPUT_CSV;
-    const reviewCsv = process.argv[4]
-      ? path.resolve(process.argv[4])
-      : DEFAULT_REVIEW_CSV;
-    const duplicateCsv = process.argv[5]
-      ? path.resolve(process.argv[5])
-      : DEFAULT_DUPLICATE_CSV;
+    const { sourceMode, inputRoot, outputCsv, reviewCsv, duplicateCsv } = resolveCli();
 
-    if (!fs.existsSync(inputJsonDir)) {
-      throw new Error(`JSON input folder not found: ${inputJsonDir}`);
+    if (!fs.existsSync(inputRoot)) {
+      throw new Error(`JSON input root not found: ${inputRoot}`);
     }
 
     fs.mkdirSync(path.dirname(outputCsv), { recursive: true });
     fs.mkdirSync(path.dirname(reviewCsv), { recursive: true });
     fs.mkdirSync(path.dirname(duplicateCsv), { recursive: true });
 
-    const jsonFiles = fs
-      .readdirSync(inputJsonDir)
-      .filter((x) => x.toLowerCase().endsWith(".json"))
-      .sort((a, b) => a.localeCompare(b));
+    const inputFiles = collectInputFiles(sourceMode, inputRoot);
 
-    if (jsonFiles.length === 0) {
-      throw new Error(`No JSON files found in: ${inputJsonDir}`);
+    if (inputFiles.length === 0) {
+      throw new Error(`No JSON files found for mode='${sourceMode}' in root: ${inputRoot}`);
     }
 
     const mainRows: MainRow[] = [];
@@ -161,13 +260,13 @@ function run(): Promise<void> {
     const duplicateRows: DuplicateRow[] = [];
     const seenSentenceKeys = new Set<string>();
 
-    for (const jsonFileName of jsonFiles) {
-      const jsonPath = path.join(inputJsonDir, jsonFileName);
-      const difficulty = mapDifficultyFromName(jsonFileName);
+    for (const inputFile of inputFiles) {
+      const difficulty = mapDifficultyFromName(inputFile.fileName);
+      const sourceFileTag = `${inputFile.mode}/${inputFile.fileName}`;
 
-      console.log(`Processing ${jsonFileName} (${difficulty})`);
+      console.log(`Processing ${sourceFileTag} (${difficulty})`);
 
-      const questions = parseQuestions(jsonPath);
+      const questions = parseQuestions(inputFile.filePath);
 
       for (const q of questions) {
         const sentence = normalizeSpace(q.question);
@@ -176,7 +275,7 @@ function run(): Promise<void> {
 
         if (options.length === 0) {
           reviewRows.push({
-            source_file: jsonFileName,
+            source_file: sourceFileTag,
             sentence,
             answer,
             options: "",
@@ -188,7 +287,7 @@ function run(): Promise<void> {
 
         if (!options.includes(answer)) {
           reviewRows.push({
-            source_file: jsonFileName,
+            source_file: sourceFileTag,
             sentence,
             answer,
             options: options.join("|"),
@@ -201,7 +300,7 @@ function run(): Promise<void> {
         const sentenceKey = sentence.toLowerCase();
         if (seenSentenceKeys.has(sentenceKey)) {
           duplicateRows.push({
-            source_file: jsonFileName,
+            source_file: sourceFileTag,
             sentence,
             answer,
             difficulty,
@@ -233,40 +332,43 @@ function run(): Promise<void> {
       "difficulty",
       "reason",
     ].join(",");
-    const reviewBody = reviewRows
-      .map((r) => {
-        return [
-          r.source_file,
-          r.sentence,
-          r.answer,
-          r.options,
-          r.difficulty,
-          r.reason,
-        ]
-          .map(csvEscape)
-          .join(",");
-      })
-      .join("\n");
-    if (reviewRows.length > 0) {
-      fs.writeFileSync(reviewCsv, `${reviewHeader}\n${reviewBody}\n`, "utf8");
-    } else if (fs.existsSync(reviewCsv)) {
-      fs.unlinkSync(reviewCsv);
-    }
+    const reviewComment = buildReviewCommentLines().join("\n");
+    const reviewBodyRows =
+      reviewRows.length > 0
+        ? reviewRows.map((r) => {
+            return [
+              r.source_file,
+              r.sentence,
+              r.answer,
+              r.options,
+              r.difficulty,
+              r.reason,
+            ]
+              .map(csvEscape)
+              .join(",");
+          })
+        : [["", "", "", "", "medium", "=== KHONG_CO_CAU_NAO_CAN_REVIEW ==="].map(csvEscape).join(",")];
+
+    const reviewBody = reviewBodyRows.join("\n");
+    const reviewContent = reviewBody
+      ? `${reviewComment}\n${reviewHeader}\n${reviewBody}\n`
+      : `${reviewComment}\n${reviewHeader}\n`;
+    fs.writeFileSync(reviewCsv, reviewContent, "utf8");
 
     const duplicateHeader = ["source_file", "sentence", "answer", "difficulty"].join(",");
-    const duplicateBody = duplicateRows
-      .map((r) => {
-        return [r.source_file, r.sentence, r.answer, r.difficulty].map(csvEscape).join(",");
-      })
-      .join("\n");
-    fs.writeFileSync(duplicateCsv, `${duplicateHeader}\n${duplicateBody}\n`, "utf8");
+    const duplicateComment = buildDuplicateCommentLines().join("\n");
+    const duplicateBodyRows =
+      duplicateRows.length > 0
+        ? duplicateRows.map((r) => {
+            return [r.source_file, r.sentence, r.answer, r.difficulty].map(csvEscape).join(",");
+          })
+        : [["", "=== KHONG_CO_DONG_TRUNG ===", "", "medium"].map(csvEscape).join(",")];
+    const duplicateBody = duplicateBodyRows.join("\n");
+    fs.writeFileSync(duplicateCsv, `${duplicateComment}\n${duplicateHeader}\n${duplicateBody}\n`, "utf8");
 
+    console.log(`Done. mode=${sourceMode}`);
     console.log(`Done. main_rows=${mainRows.length} -> ${outputCsv}`);
-    if (reviewRows.length > 0) {
-      console.log(`Done. review_rows=${reviewRows.length} -> ${reviewCsv}`);
-    } else {
-      console.log(`Done. review_rows=0 -> deleted review file: ${reviewCsv}`);
-    }
+    console.log(`Done. review_rows=${reviewRows.length} -> ${reviewCsv}`);
     console.log(`Done. duplicate_rows=${duplicateRows.length} -> ${duplicateCsv}`);
 
     const mainByDifficulty = summarizeByDifficulty(mainRows);

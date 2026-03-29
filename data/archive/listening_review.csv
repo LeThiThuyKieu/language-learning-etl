@@ -1,5 +1,18 @@
+# REVIEW_REASON_GUIDE
+# SOURCE_DIR_NOT_FOUND: Khong tim thay folder nguon
+# UNMAPPED_DIFFICULTY: Khong map duoc difficulty tu ten file
+# ROOT_NOT_ARRAY / JSON_PARSE_ERROR:*: Loi dinh dang JSON
+# ITEM_NOT_OBJECT: Phan tu khong phai object
+# MISSING_GAPPED_TEXT: Thieu gapped_text
+# MISSING_AUDIO: Thieu audio
+# AUDIO_NOT_CLOUDINARY: Audio khong phai link cloudinary
+# AUDIO_NOT_MP3: Audio khong co duoi .mp3
+# AUDIO_NOT_CLOUDINARY_AND_NOT_MP3: Audio vua khong cloudinary vua khong .mp3
+# MISSING_ANSWERS: Thieu danh sach dap an
+# ANSWER_COUNT_MISMATCH(gaps:X,answers:Y): So gap va so answer khong khop
+# AUDIO_DUPLICATED_WITH_DIFFERENT_FULL_TEXT: Trung audio nhung full_text khac nhau
+# === KHONG_CO_CAU_NAO_CAN_REVIEW ===: Khong co dong nao can review
 source_file,mode,reason,gapped_text,full_text,answer,audio,difficulty,conflict_with_source_file,conflict_with_mode,conflict_with_gapped_text,conflict_with_full_text,conflict_with_answer,conflict_with_audio,conflict_with_difficulty
-level1.json,upstream,JSON_PARSE_ERROR:Unexpected end of JSON input,,,,,easy,,,,,,,
 level2.json#2,upstream,"ANSWER_COUNT_MISMATCH(gaps:31,answers:29)","A: Good morning. _______ _______ _______ _______?
 B: Yes – I'd like to book some tickets for the city tour, please.
 A: Certainly. _______ _______ _______ _______ _______ _______ _______ _______?
@@ -11,8 +24,66 @@ B: That will be fine. _______ _______ _______ _______ _______?
 A: An hour. Here are your tickets. That's £10, please.
 B: Here you are.
 A: Thank you. Enjoy the tour!",,1:Can | 2:I | 3:help | 4:you? | 5:How | 6:many | 7:people | 8:are | 9:you | 10:booking | 11:for? | 12:When | 13:would | 14:you | 15:like | 16:to | 17:go? | 18:Is | 19:there | 20:a | 21:tour | 22:at | 23:3 | 24:o'clock? | 25:How | 26:long | 27:does | 28:it | 29:last?,https://res.cloudinary.com/dcz6avkds/video/upload/v1774541024/Track_29_celz4b.mp3,medium,,,,,,,
-level3.json,upstream,"JSON_PARSE_ERROR:Unexpected token '/', ...""
-  },
-  //
-  {
- ""... is not valid JSON",,,,,hard,,,,,,,
+level2.json#18,upstream,"ANSWER_COUNT_MISMATCH(gaps:29,answers:28)","A: Good afternoon. Meadows Surgery. _________ _________ _________ _________?
+B: Oh yes, I'd like to make an appointment with Doctor Michaels, please.
+A: I'm afraid Dr Michaels is on holiday at the moment. _________ _________ _________ _________ _________ _________ _________ _________?
+B: Erm ... yes, alright. That would be fine.
+A: Right. The first available appointment is on Thursday at 10 o'clock. _________ _________ _________ _________?
+B: Yes, that should be okay.
+A: Good. _________ _________ _________ _________ _________ _________, _________?
+B: Tina, Tina Wilcox.
+A: _________ _________ _________ _________ _________ _________?
+B: I've been having trouble sleeping lately.
+A: Right then, we'll see you on Thursday at 10 o'clock.
+B: Thank you. Goodbye.",,1:Can | 2:I | 3:help | 4:you | 5:Would | 6:you | 7:like | 8:to | 9:see | 10:Dr | 11:Jones | 12:instead | 13:Does | 14:that | 15:suit | 16:you | 17:Can | 18:I | 19:take | 20:your | 21:name | 22:please | 23:What | 24:seems | 25:to | 26:be | 27:the | 28:problem,https://res.cloudinary.com/dcz6avkds/video/upload/v1774712193/UpInt-05-39a_egqlfr.mp3,medium,,,,,,,
+level2.json#25,upstream,"ANSWER_COUNT_MISMATCH(gaps:18,answers:19)","A: Hello. _________ _________ _________ _________?
+B: Yes, can I try these on, please?
+A: Of course. The fitting rooms are over there.
+B: Thank you.
+A: What do you think?
+B: Actually, they're a bit short. _________ _________ _________ _________ the next size up, please?
+A: Certainly. Here you are. ... Are they any better?
+B: Yes, they fit nicely. _________ _________ _________ _________?
+A: They're £35.
+B: Okay. I'll take them.
+A: Thank you. _________ _________ _________ _________ _________ _________?
+B: In cash. Here you are.
+A: Thank you very much. Your receipt is in the bag.",,1:Can | 2:I | 3:help | 4:you | 5:Could | 6:you | 7:get | 8:me | 9:How | 10:much | 11:do | 12:they | 13:cost | 14:How | 15:would | 16:you | 17:like | 18:to | 19:pay,https://res.cloudinary.com/dcz6avkds/video/upload/v1774712253/UpInt-07-36a_rc6xxr.mp3,medium,,,,,,,
+level3.json#9,upstream,"ANSWER_COUNT_MISMATCH(gaps:25,answers:24)","1. How does that _______ _______ ?
+2. Something's _______ _______ .
+3. I'm afraid I can't _______ _______ .
+4. That's a _______ .
+5. Thanks for _______ _______ _______ .
+6. I can _______ _______ _______ _______ at 11.30.
+7. I'm afraid he's _______ _______ today.
+8. I would like to _______ _______ _______ to see the manager.
+9. I _______ _______ _______ with Dr Robson.
+10. Can we _______ _______ _______ to sometime tomorrow?",,1:suit | 2:you | 3:come | 4:up | 5:make | 6:it | 7:shame | 8:letting | 9:me | 10:know | 11:fit | 12:you | 13:in | 14:booked | 15:solid | 16:make | 17:an | 18:appointment | 19:have | 20:an | 21:appointment | 22:move | 23:the | 24:appointment,https://res.cloudinary.com/dcz6avkds/video/upload/v1774598342/03_Unit_5._Ex._19a_p.105_htkdgl.mp3,hard,,,,,,,
+level3.json#10,upstream,"ANSWER_COUNT_MISMATCH(gaps:21,answers:20)","Sean Flint reports that the tradition of psychic healing dates back to _______ _______ _______ _______ _______ .
+The miraculous cures wrought by psychic surgeons brought _______ _______ _______ to sufferers and their families.
+There is a general misconception that faith healers _______ _______ for their work.
+A man in California was charged with posing as a doctor and the illegal _______ _______ _______ .
+Cotton balls are used to generate the illusion of _______ when fake operations are being performed.
+The rumours surrounding the efficacy of psychic surgeons are spread by disreputable _______ and word of mouth.
+_______ _______ are brought on by extended periods of stress.
+Often _______ _______ _______ is ever discovered for persistent pain in people suffering from psychosomatic illnesses.
+The fallacy concerning miracle cures is also _______ by the people who attribute their return to health to psychic surgeons.",,1:ancient | 2:or | 3:prehistoric | 4:times | 5:peace | 6:of | 7:mind | 8:don't | 9:charge | 10:practice | 11:of | 12:medicine | 13:blood | 14:agencies | 15:Psychosomatic | 16:illnesses | 17:no | 18:underlying | 19:cause | 20:propagated,https://res.cloudinary.com/dcz6avkds/video/upload/v1774598343/04_Unit_5._Ex._20b_p.106_dgcxr6.mp3,hard,,,,,,,
+level3.json#11,upstream,"ANSWER_COUNT_MISMATCH(gaps:19,answers:18)","Jonathan states that ""A Love Supreme"" and some other albums he listened to in his childhood were to him the _______ _______ _______ _______ .
+In his music, John Coltrane works with some very complicated _______ _______ , but one doesn't have to understand those in order to appreciate it.
+According to Jonathan, Coltrane did not care about _______ _______ when he played music.
+Jonathan says that some people who do not normally listen to jazz, will be able to _______ to it if they are not made aware that it is actually free jazz.
+The music Jonathan wrote for the theatrical play aims to place the listener in a _______ _______ _______ .
+Jonathan went to the play's rehearsals and even watched videos of the rehearsals to ensure that there was _______ between his composition and the play.
+The reason Jonathan gives for never being able to shake off Coltrane's influence is because music is part of _______ _______ .
+Four out of the twelve pieces on Jonathan's new album are _______ _______ .
+Jonathan has not changed his style much and is still _______ _______ playing easy-going jazz.",,1:definition | 2:of | 3:music | 4:musical | 5:concepts | 6:commercial | 7:issues | 8:relate | 9:state | 10:of | 11:uncertainty | 12:compatibility | 13:his | 14:identity | 15:live | 16:recordings | 17:committed | 18:to,https://res.cloudinary.com/dcz6avkds/video/upload/v1774598343/14_Unit_6._Ex._27b_p.126_bgrs5x.mp3,hard,,,,,,,
+level3.json#31,upstream,AUDIO_NOT_MP3,"The positive effects of exercise are negated by our _______ _______
+The worst problems are caused by exercising _______ _______
+The effectiveness of our _______ _______ is not boosted as it should be.
+We are particularly vulnerable to disease for _______ hours after exercise.
+Strenuous exercise can stimulate production of a damaging _______ in the body.
+
+Prevention
+Control exercise level: aim to keep your heart beat to about _______ _______ _______ of its fastest speed.
+You should not exercise for more than _______ _______ at a time.
+It's important to _______ for 24 hours after exercise.",,1:workout | 2:habits | 3:too | 4:hard | 5:immune | 6:system | 7:twenty-four | 8:stress | 9:hormone | 10:70 | 11:per | 12:cent | 13:one | 14:hour | 15:rest,https://res.cloudinary.com/dcz6avkds/video/upload/v1774627991/03_Track_3_f4zvkb.mp3 - 152,hard,,,,,,,
