@@ -1,0 +1,8 @@
+# REVIEW_REASON_GUIDE
+# SOURCE_NOT_FOUND: Khong tim thay folder nguon
+# ROOT_NOT_ARRAY / JSON_PARSE_ERROR:*: Loi dinh dang JSON
+# ITEM_PAIRS_NOT_ARRAY: Item khong co mang pairs hop le
+# MISSING_LEFT_OR_RIGHT: Cap pair thieu left hoac right
+# === KHONG_CO_CAU_NAO_CAN_REVIEW ===: Khong co dong nao can review
+source_file,mode,reason,sentence_left,sentence_right,difficulty
+"","","=== KHONG_CO_CAU_NAO_CAN_REVIEW ===","","","medium"

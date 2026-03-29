@@ -1,3 +1,12 @@
+# REVIEW_REASON_GUIDE
+# SOURCE_NOT_FOUND: Khong tim thay folder nguon
+# ROOT_NOT_ARRAY / JSON_PARSE_ERROR:*: Loi dinh dang JSON
+# EMPTY_SENTENCES: Khong co sentence hop le
+# MISSING_AUDIO: Thieu audio
+# AUDIO_NOT_CLOUDINARY: Audio khong phai link cloudinary
+# AUDIO_NOT_MP3: Audio khong co duoi .mp3
+# AUDIO_NOT_CLOUDINARY_AND_NOT_MP3: Audio vua khong cloudinary vua khong .mp3
+# AUDIO_CONFLICT: Trung audio nhung noi dung sentences khac nhau
+# === KHONG_CO_CAU_NAO_CAN_REVIEW ===: Khong co dong nao can review
 source_file,mode,reason,sentences,audio,difficulty,conflict_with_source_file,conflict_with_mode,conflict_with_sentences,conflict_with_audio,conflict_with_difficulty
-level1.json,upstream,JSON_PARSE_ERROR:Unexpected end of JSON input,,,easy,,,,,
 level3.json,upstream,JSON_PARSE_ERROR:Unexpected end of JSON input,,,hard,,,,,

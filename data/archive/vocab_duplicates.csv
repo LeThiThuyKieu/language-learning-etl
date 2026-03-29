@@ -1,0 +1,100 @@
+# DUPLICATE_GUIDE
+# Ghi lai cac dong bi loai do trung sentence
+# === KHONG_CO_DONG_TRUNG ===: Khong co dong duplicate
+source_file,sentence,answer,difficulty
+destination/38. Destination B1.choose-correct-answer-final.json,You should take ............................ a sport and then you would get more exercise.,up,easy
+destination/38. Destination B1.choose-correct-answer-final.json,I'm trying to work! Could you please turn your music ............................?,down,easy
+destination/38. Destination B1.choose-correct-answer-final.json,Just ask and I'm sure the other children will let you join ............................ .,in,easy
+destination/38. Destination B1.choose-correct-answer-final.json,The referee sent David ............................ for arguing with him.,off,easy
+destination/38. Destination B1.choose-correct-answer-final.json,This is my favourite song! Turn it ............................!,up,easy
+destination/38. Destination B1.choose-correct-answer-final.json,"A mobile phone rang, but the musician just carried ............................ playing.",on,easy
+destination/38. Destination B1.choose-correct-answer-final.json,We can't afford to eat ............................ very often.,out,easy
+destination/38. Destination B1.choose-correct-answer-final.json,I've decided to become a vegetarian and give ............................ meat.,up,easy
+destination/38. Destination B1.choose-correct-answer-final.json,"When you rang, I ............................ my bike.",was cleaning,easy
+destination/38. Destination B1.choose-correct-answer-final.json,"At my last basketball club, we ............................ every Saturday for three hours.",used to train,easy
+destination/38. Destination B1.choose-correct-answer-final.json,I really ............................ the meal we had at your house last Tuesday.,liked,easy
+destination/38. Destination B1.choose-correct-answer-final.json,We ............................ to the beach every day when we were on holiday.,went,easy
+destination/38. Destination B1.choose-correct-answer-final.json,I broke my leg when Tony and I ............................ for the school sports day.,were practising,easy
+destination/38. Destination B1.choose-correct-answer-final.json,"Leon never ............................ about it, but he was once a world champion skier.",talks,easy
+destination/38. Destination B1.choose-correct-answer-final.json,"I ............................ like golf, but now I really like it.",didn't use to,easy
+destination/38. Destination B1.choose-correct-answer-final.json,Denise ............................ at the stadium until she finds a better job.,is working,easy
+destination/38. Destination C1_C2.choose-correct-answer-final.json,"He tried to deny ............................ the money, but no one believed him.",taking,hard
+destination/38. Destination C1_C2.choose-correct-answer-final.json,I hope ............................ a pilot when I grow up.,to become,hard
+destination/38. Destination C1_C2.choose-correct-answer-final.json,Do you remember ............................ to Germany when you were two years old?,going,hard
+destination/38. Destination C1_C2.choose-correct-answer-final.json,You can make the dog ............................ to you by shouting 'come'.,come,hard
+destination/38. Destination C1_C2.choose-correct-answer-final.json,There's no answer at the office. Let's try ............................ Roger's mobile.,calling,hard
+upstream/level1.json,I want to be a ........ so I can fly all over the world.,pilot,easy
+upstream/level1.json,I want to be a ........ so I can fly all over the world.,pilot,easy
+upstream/level1.json,The baby can't walk down the ........ alone. Help him.,staircase,easy
+upstream/level1.json,In the living room there is a big ........ and two armchairs.,sofa,easy
+upstream/level1.json,What's wrong with the dog? I think I should take him to a ........ .,vet,easy
+upstream/level1.json,I want to be a ........ because I like delivering letters.,postman,easy
+upstream/level1.json,"Can you tell me where the ........ is, please? I'd like to buy some aspirins.",chemist's,easy
+upstream/level1.json,Haggis is a ........ Scottish dish.,traditional,easy
+upstream/level1.json,They live in a two-bedroom ........ in the centre of London.,flat,easy
+upstream/level1.json,London is a very ........ city with lots of cars in the streets.,busy,easy
+upstream/level1.json,John is a ........ for Channel 4.,reporter,easy
+upstream/level1.json,"Can you go to the ........ and buy me a newspaper, please?",newsagent's,easy
+upstream/level1.json,Look at Gary! He ........!,is swimming,easy
+upstream/level2.json,We ran ............ milk and had to drink our coffee black.,out of,medium
+upstream/level2.json,The Eiffel Tower is one of the most interesting ............ in Paris.,landmarks,medium
+upstream/level2.json,Greece has a very pleasant ............ .,climate,medium
+upstream/level2.json,Dogs and cats are ............ animals.,domestic,medium
+upstream/level2.json,My friend Judy has been staying with me ............ September.,since,medium
+upstream/level2.json,Many species of fish have become ............ because of overfishing.,extinct,medium
+upstream/level2.json,I ............ love ice cream when I was a child.,used to,medium
+upstream/level2.json,We managed to catch a ............ of the Queen as she rode past in her carriage.,glimpse,medium
+upstream/level2.json,Have you ............ eaten frogs legs? They're delicious.,ever,medium
+upstream/level2.json,Sue was terribly ............ because she crashed her friend's car.,upset,medium
+upstream/level2.json,Cats and dogs are ............ animals.,domestic,medium
+upstream/level2.json,Judy never lies. She is very ............ .,honest,medium
+upstream/level2.json,Thomas is very tall and has a ............ nose.,straight,medium
+upstream/level2.json,The teacher got ............ with the students because they made too much noise.,upset,medium
+upstream/level2.json,Robert smiles a lot. He is ............ .,cheerful,medium
+upstream/level2.json,Jacob is very tall and ............ .,well-built,medium
+upstream/level2.json,The wizard is evil and ............ .,greedy,medium
+upstream/level2.json,Elizabeth is short with ............ black hair.,curly,medium
+upstream/level2.json,Adrian never talks to anyone. He is ............ .,unfriendly,medium
+upstream/level2.json,It is important for everyone to have a(n) ............ lifestyle.,healthy,medium
+upstream/level2.json,A good teacher is always ............ with students.,patient,medium
+upstream/level2.json,Claire is very ............ . She always tells the truth.,honest,medium
+upstream/level2.json,A good leader should be ............ and not get angry or upset.,calm,medium
+upstream/level2.json,Living in this town is great because there are a lot of ............ facilities.,local,medium
+upstream/level2.json,Frank is a very ............ person. He likes to look after people.,caring,medium
+upstream/level2.json,Cats and dogs are ............ animals.,domestic,medium
+upstream/level2.json,Ireland has a very mild ............ .,climate,medium
+upstream/level2.json,Tower Bridge is one of the most important ............ in London.,landmarks,medium
+upstream/level2.json,There is a tennis ............ in the sports club.,court,medium
+upstream/level2.json,The children are watching a ............ about life in Africa.,documentary,medium
+upstream/level2.json,We are doing a ............ to find out what teenagers like to do in their free time.,survey,medium
+upstream/level2.json,Monkeys and goats are ............ .,mammals,medium
+upstream/level2.json,It is important for everyone to have a(n) ............ lifestyle.,healthy,medium
+upstream/level2.json,A good teacher is always ............ with students.,patient,medium
+upstream/level2.json,Claire is very ............ . She always tells the truth.,honest,medium
+upstream/level2.json,A good leader should be ............ and not get angry or upset.,calm,medium
+upstream/level2.json,Living in this town is great because there are a lot of ............ facilities.,local,medium
+upstream/level2.json,Frank is a very ............ person. He likes to look after people.,caring,medium
+upstream/level2.json,Cats and dogs are ............ animals.,domestic,medium
+upstream/level2.json,Some types of shark will become ............ if we don’t protect them.,extinct,medium
+upstream/level2.json,Ireland has a very mild ............ .,climate,medium
+upstream/level2.json,Tower Bridge is one of the most important ............ in London.,landmarks,medium
+upstream/level2.json,James bought a leather jacket from a ............ shop.,second-hand,medium
+upstream/level2.json,My mother made chicken with a ............ sauce for dinner last night.,spicy,medium
+upstream/level2.json,There is a tennis ............ in the sports club.,court,medium
+upstream/level2.json,We watched a news ............ about the bank robbery.,report,medium
+upstream/level2.json,The children are watching a ............ about life in Africa.,documentary,medium
+upstream/level2.json,We are doing a ............ to find out what teenagers like to do in their free time.,survey,medium
+upstream/level2.json,Monkeys and goats are ............ .,mammals,medium
+upstream/level2.json,Video phones are the latest ............ among British teenagers.,craze,medium
+upstream/level2.json,Most teenagers love wearing designer ............ .,labels,medium
+upstream/level2.json,............ is a quick and easy way to keep in touch.,Texting,medium
+upstream/level2.json,Lucy always carries a ............ so that she can do sums easily.,pocket calculator,medium
+upstream/level2.json,............ found that 98 per cent of British kids like listening to music.,Researchers,medium
+upstream/level2.json,Use the remote ............ to change the TV channel.,control,medium
+upstream/level2.json,We can .......... a wildlife habitat by making a pond.,create,medium
+upstream/level2.json,A lot of people are still dying of .......... .,starvation,medium
+upstream/level2.json,Her sister is very .......... . She writes poems.,creative,medium
+upstream/level2.json,A lot of animals are in .......... of extinction.,danger,medium
+upstream/level2.json,Many plants and animals are .......... species.,endangered,medium
+upstream/level2.json,Why don't we send a letter to the .......... newspapers?,local,medium
+upstream/level2.json,I can't afford to go to the theatre. I'm on a .......... budget.,tight,medium

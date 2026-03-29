@@ -1,0 +1,5 @@
+# DUPLICATE_GUIDE
+# EXACT_DUPLICATE_ROW: Dong bi bo qua do trung hoan toan key dedupe
+# === KHONG_CO_DONG_TRUNG ===: Khong co dong duplicate
+source_file,mode,reason,gapped_text,answer,audio,difficulty,conflict_with_source_file,conflict_with_mode
+,,=== KHONG_CO_DONG_TRUNG ===,,,,medium,,

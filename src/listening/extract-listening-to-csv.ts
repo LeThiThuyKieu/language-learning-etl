@@ -64,12 +64,30 @@ type ReviewRow = {
   conflict_with_difficulty: string;
 };
 
+type DuplicateRow = {
+  source_file: string;
+  mode: SourceFolder;
+  reason: string;
+  gapped_text: string;
+  answer: string;
+  audio: string;
+  difficulty: Difficulty;
+  conflict_with_source_file: string;
+  conflict_with_mode: string;
+};
+
+type MainSeenRecord = {
+  source_file: string;
+  mode: SourceFolder;
+};
+
 // Đường dẫn
 const BASE_INPUT_DIR = path.resolve(process.cwd(), "data/src-data-listening");
 const STATICS_DIR = path.join(BASE_INPUT_DIR, "statics");
 const UPSTREAM_DIR = path.join(BASE_INPUT_DIR, "upstream");
-const OUTPUT_FILE = path.resolve(process.cwd(), "data/archive/listening_raw_from_json.csv");
+const OUTPUT_FILE = path.resolve(process.cwd(), "data/archive/listening_raw.csv");
 const REVIEW_FILE = path.resolve(process.cwd(), "data/archive/listening_review.csv");
+const DUPLICATE_FILE = path.resolve(process.cwd(), "data/archive/listening_duplicates.csv");
 
 // Mode hợp lệ
 const ALLOWED_SOURCE_MODES: SourceMode[] = ["statics", "upstream", "both"];
@@ -99,6 +117,34 @@ function normalizeForCompare(value: string): string {
     .replace(/\u00a0/g, " ")
     .replace(/[ \t]+/g, " ")
     .trim();
+}
+
+function isCloudinaryUrl(value: string): boolean {
+  try {
+    const url = new URL(value);
+    return url.hostname.toLowerCase().includes("cloudinary.com");
+  } catch {
+    return false;
+  }
+}
+
+function isMp3Url(value: string): boolean {
+  try {
+    const url = new URL(value);
+    return url.pathname.toLowerCase().endsWith(".mp3");
+  } catch {
+    return value.toLowerCase().split("?")[0].endsWith(".mp3");
+  }
+}
+
+function validateAudio(audio: string): string | null {
+  const cloudinary = isCloudinaryUrl(audio);
+  const mp3 = isMp3Url(audio);
+
+  if (!cloudinary && !mp3) return "AUDIO_NOT_CLOUDINARY_AND_NOT_MP3";
+  if (!cloudinary) return "AUDIO_NOT_CLOUDINARY";
+  if (!mp3) return "AUDIO_NOT_MP3";
+  return null;
 }
 
 // Đánh số gap: ______ -> ______(1)
@@ -253,6 +299,23 @@ function writeCsv(rows: OutputRow[], outputPath: string): void {
 function writeReviewCsv(filePath: string, rows: ReviewRow[]): void {
   fs.mkdirSync(path.dirname(filePath), { recursive: true });
 
+  const reviewCommentLines = [
+    "# REVIEW_REASON_GUIDE",
+    "# SOURCE_DIR_NOT_FOUND: Khong tim thay folder nguon",
+    "# UNMAPPED_DIFFICULTY: Khong map duoc difficulty tu ten file",
+    "# ROOT_NOT_ARRAY / JSON_PARSE_ERROR:*: Loi dinh dang JSON",
+    "# ITEM_NOT_OBJECT: Phan tu khong phai object",
+    "# MISSING_GAPPED_TEXT: Thieu gapped_text",
+    "# MISSING_AUDIO: Thieu audio",
+    "# AUDIO_NOT_CLOUDINARY: Audio khong phai link cloudinary",
+    "# AUDIO_NOT_MP3: Audio khong co duoi .mp3",
+    "# AUDIO_NOT_CLOUDINARY_AND_NOT_MP3: Audio vua khong cloudinary vua khong .mp3",
+    "# MISSING_ANSWERS: Thieu danh sach dap an",
+    "# ANSWER_COUNT_MISMATCH(gaps:X,answers:Y): So gap va so answer khong khop",
+    "# AUDIO_DUPLICATED_WITH_DIFFERENT_FULL_TEXT: Trung audio nhung full_text khac nhau",
+    "# === KHONG_CO_CAU_NAO_CAN_REVIEW ===: Khong co dong nao can review",
+  ];
+
   const header = [
     "source_file",
     "mode",
@@ -271,31 +334,99 @@ function writeReviewCsv(filePath: string, rows: ReviewRow[]): void {
     "conflict_with_difficulty",
   ].join(",");
 
-  const body = rows
-    .map((row) =>
-      [
-        row.source_file,
-        row.mode,
-        row.reason,
-        row.gapped_text,
-        row.full_text,
-        row.answer,
-        row.audio,
-        row.difficulty,
-        row.conflict_with_source_file,
-        row.conflict_with_mode,
-        row.conflict_with_gapped_text,
-        row.conflict_with_full_text,
-        row.conflict_with_answer,
-        row.conflict_with_audio,
-        row.conflict_with_difficulty,
-      ]
-        .map(csvEscape)
-        .join(","),
-    )
-    .join("\n");
+  const bodyRows =
+    rows.length > 0
+      ? rows.map((row) =>
+          [
+            row.source_file,
+            row.mode,
+            row.reason,
+            row.gapped_text,
+            row.full_text,
+            row.answer,
+            row.audio,
+            row.difficulty,
+            row.conflict_with_source_file,
+            row.conflict_with_mode,
+            row.conflict_with_gapped_text,
+            row.conflict_with_full_text,
+            row.conflict_with_answer,
+            row.conflict_with_audio,
+            row.conflict_with_difficulty,
+          ]
+            .map(csvEscape)
+            .join(","),
+        )
+      : [
+          [
+            "",
+            "",
+            "=== KHONG_CO_CAU_NAO_CAN_REVIEW ===",
+            "",
+            "",
+            "",
+            "",
+            "medium",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+          ]
+            .map(csvEscape)
+            .join(","),
+        ];
 
-  const content = body ? `${header}\n${body}\n` : `${header}\n`;
+  const body = bodyRows.join("\n");
+
+  const comment = reviewCommentLines.join("\n");
+  const content = `${comment}\n${header}\n${body}\n`;
+  fs.writeFileSync(filePath, content, "utf8");
+}
+
+function writeDuplicateCsv(filePath: string, rows: DuplicateRow[]): void {
+  fs.mkdirSync(path.dirname(filePath), { recursive: true });
+
+  const commentLines = [
+    "# DUPLICATE_GUIDE",
+    "# EXACT_DUPLICATE_ROW: Dong bi bo qua do trung hoan toan key dedupe",
+    "# === KHONG_CO_DONG_TRUNG ===: Khong co dong duplicate",
+  ];
+
+  const header = [
+    "source_file",
+    "mode",
+    "reason",
+    "gapped_text",
+    "answer",
+    "audio",
+    "difficulty",
+    "conflict_with_source_file",
+    "conflict_with_mode",
+  ].join(",");
+
+  const bodyRows =
+    rows.length > 0
+      ? rows.map((row) =>
+          [
+            row.source_file,
+            row.mode,
+            row.reason,
+            row.gapped_text,
+            row.answer,
+            row.audio,
+            row.difficulty,
+            row.conflict_with_source_file,
+            row.conflict_with_mode,
+          ]
+            .map(csvEscape)
+            .join(","),
+        )
+      : [["", "", "=== KHONG_CO_DONG_TRUNG ===", "", "", "", "medium", "", ""].map(csvEscape).join(",")];
+
+  const content = `${commentLines.join("\n")}\n${header}\n${bodyRows.join("\n")}\n`;
   fs.writeFileSync(filePath, content, "utf8");
 }
 
@@ -313,8 +444,11 @@ function main(): void {
   // Mảng chứa các lỗi / dữ liệu cần review
   const reviewRows: ReviewRow[] = [];
 
-  // Set dùng để loại duplicate dòng chính
-  const seenMainKey = new Set<string>();
+  // Mảng chứa duplicate (khong phai loi)
+  const duplicateRows: DuplicateRow[] = [];
+
+  // Map dùng để loại duplicate dòng chính và lưu dòng đầu tiên
+  const seenMainKey = new Map<string, MainSeenRecord>();
 
   // Map: audio -> lần xuất hiện đầu tiên (để detect conflict)
   const audioToFirstSeen = new Map<string, AudioSeenRecord>();
@@ -457,6 +591,23 @@ function main(): void {
         return;
       }
 
+      const audioError = validateAudio(audio);
+      if (audioError) {
+        reviewRows.push(
+          buildBaseReviewRow({
+            source_file: sourceTag,
+            mode: sourceModeTag,
+            reason: audioError,
+            gapped_text: originalGappedText,
+            full_text: "",
+            answer: answerText,
+            audio,
+            difficulty,
+          }),
+        );
+        return;
+      }
+
       if (answers.length === 0) {
         reviewRows.push(
           buildBaseReviewRow({
@@ -560,11 +711,26 @@ function main(): void {
       // Key để dedupe
       const dedupeKey = `${normalizeForCompare(gappedWithNumber)}||${normalizedFullText}||${normalizeForCompare(answerText)}||${audio}||${difficulty}`;
 
-      if (seenMainKey.has(dedupeKey)) {
+      const firstMainSeen = seenMainKey.get(dedupeKey);
+      if (firstMainSeen) {
+        duplicateRows.push({
+          source_file: sourceTag,
+          mode: sourceModeTag,
+          reason: "EXACT_DUPLICATE_ROW",
+          gapped_text: toLiteralNewline(gappedWithNumber),
+          answer: answerText,
+          audio,
+          difficulty,
+          conflict_with_source_file: firstMainSeen.source_file,
+          conflict_with_mode: firstMainSeen.mode,
+        });
         return;
       }
 
-      seenMainKey.add(dedupeKey);
+      seenMainKey.set(dedupeKey, {
+        source_file: sourceTag,
+        mode: sourceModeTag,
+      });
 
       // Thêm vào output
       allRows.push({
@@ -583,6 +749,7 @@ function main(): void {
   // Ghi file CSV
   writeCsv(allRows, OUTPUT_FILE);
   writeReviewCsv(REVIEW_FILE, reviewRows);
+  writeDuplicateCsv(DUPLICATE_FILE, duplicateRows);
 
   // Thống kê lỗi
   const audioConflictRows = reviewRows.filter(
@@ -615,6 +782,7 @@ function main(): void {
   console.log(`Done. mode=${sourceMode}`);
   console.log(`Main rows: ${allRows.length} -> ${OUTPUT_FILE}`);
   console.log(`Review rows: ${reviewRows.length} -> ${REVIEW_FILE}`);
+  console.log(`Duplicate rows: ${duplicateRows.length} -> ${DUPLICATE_FILE}`);
   console.log(`Review issues: ${totalReviewIssues}`);
   console.log(`Questions need review: ${totalReviewIssues}`);
   console.log(`All error rows: ${reviewRows.length}`);
