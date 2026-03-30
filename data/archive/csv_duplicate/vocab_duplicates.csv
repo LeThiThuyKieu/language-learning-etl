@@ -1,3 +1,4 @@
+//File này ghi lại các dòng bị trùng của file json vocab khi duyệt vào csv
 # DUPLICATE_GUIDE
 # Ghi lai cac dong bi loai do trung sentence
 # === KHONG_CO_DONG_TRUNG ===: Khong co dong duplicate

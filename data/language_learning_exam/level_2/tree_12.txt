@@ -3,173 +3,169 @@ TREE 12
 
 NODE VOCAB
 
-Q1: Did you read that ............ of the new Lloyd-Rice musical? It said it was awful!
-A. criticism
-B. review
-C. report
-D. summary
-Answer: B
-
-Q2: Shona could ............ before she learnt to talk properly!
-A. sing
-B. have to sing
-C. have sung
-D. be singing
+Q1: We're really looking ............ to seeing you both next weekend.
+A. forward
+B. in front
+C. ahead
+D. in advance
 Answer: A
 
-Q3: Hugh was quite worried because he hadn't ............ for the test.
-A. read
-B. studied
-C. examined
-D. learned
-Answer: B
-
-Q4: Anybody found stealing from this shop will be ............ .
-A. prosecuted
-B. persuaded
-C. provoked
-D. persecuted
-Answer: A
-
-Q5: Police blamed the robberies ............ a local gang.
-A. with
-B. on
-C. for
-D. to
-Answer: B
-
-Q6: Do you think you could pass that book ............ to me, please?
-A. over
-B. in
-C. through
-D. under
-Answer: A
-
-Q7: My teeth were a little yellow so I ............ by the dentist.
-A. was cleaned them
-B. have them cleaned
-C. had cleaned them
-D. had them cleaned
-Answer: D
-
-Q8: It was the first time we ............ to a Mexican restaurant.
-A. have been
-B. had been
-C. went
-D. go
-Answer: B
-
-Q9: Being the conductor of a large ............ is an extremely demanding job. You have to make sure about a hundred musicians are playing in time.
-A. company
-B. group
-C. band
-D. orchestra
-Answer: D
-
-Q10: More and more people are living into ............ age and it's a serious social problem.
-A. ancient
-B. high
-C. old
-D. far
+Q2: Oh, no! We've got a double maths ............ next!
+A. subject
+B. interval
+C. lesson
+D. task
 Answer: C
+
+Q3: ............ is Ken's job?
+A. What
+B. When
+C. Who
+Answer: A
+
+Q4: I’ve been living here ............ three years.
+A. during
+B. for
+C. since
+Answer: B
+
+Q5: Don't .......... your fingers on the desk! It's so annoying.
+A. frown
+B. drum
+C. wrinkle
+D. clench
+Answer: B
+
+Q6: We've only got ............ milk left so get some when you go shopping.
+A. few
+B. a few
+C. a little
+D. little
+Answer: C
+
+Q7: The doctor ............ the cut on my knee and said it had completely healed up.
+A. examined
+B. investigated
+C. looked into
+D. researched
+Answer: A
+
+Q8: More and more people are living into ............ age and it's a serious social problem.
+A. old
+B. far
+C. ancient
+D. high
+Answer: A
+
+Q9: Just ask them if you can play and I'm sure they'll let you ............ .
+A. take to
+B. go off
+C. join in
+D. take up
+Answer: C
+
+Q10: I ran ............ my uncle Jim at the supermarket this morning.
+A. over
+B. into
+C. out of
+Answer: B
 
 
 
 NODE LISTENING
 
-Q1: Shuttles were originally passed back and forth by ___ .
-Answer: hand
-
-Q2: Saltwater crocodiles ___ in the wet season , when water levels are at their highest .
-Answer: mate
-
-Q3: The greater roadrunner nests on a platform of ___ low in a cactus or a bush and lays three to six eggs , which hatch in 20 days .
-Answer: sticks
-
-Q4: The idiom is based on the honor shown to ___ in Hinduism .
-Answer: cows
-
-Q5: Stotting makes a prey animal more ___ , and uses up time and energy that could be spent on escaping from the predator .
-Answer: visible
-
-Q6: The least skipper can be ___ in damp or wet habitats with tall grasses .
-Answer: found
-
-Q7: When writing ___ amounts the location of the symbol varies by currency .
-Answer: currency
-
-Q8: The tower is situated at the ___ side of the place , where the land walls of the city join the sea walls .
-Answer: southern
-
-Q9: In the Gregorian calendar , 303 out of every 400 ___ are common years .
-Answer: years
-
-Q10: There are two ___ of the anthem : a long and a short one .
-Answer: versions
+Q1: A: Excuse me, _______(1) _______(2) _______(3) that bag in the overhead compartment?
+B: I'm afraid it's a bit heavy. Would you help me?
+A: Sure. _______(4) _______(5) _______(6).
+B: Thanks.
+A: Oh, and we're taking off soon. _______(7) _______(8) turn off your cell phone, please?
+And _______(9) _______(10) _______(11) your seat back forward, too?
+B: No problem. Thanks for your help.
+Answer: 1:could | 2:you | 3:put | 4:There | 5:you | 6:go | 7:Could | 8:you | 9:would | 10:you | 11:put
 
 
 
 NODE SPEAKING
 
-1. The temple is famous for the approximately 25,000 black rats that live , and are revered , in the temple .
-2. The idea behind all property law is property .
-3. Urinary tract infections may affect 10 % of people during childhood .
-4. The permanent collection consists of more than 35,000 works of art .
-5. Japan has had more than one system for designating years .
-6. 't Hooft is most famous for his contributions to the development of gauge theories in particle physics .
-7. Some moths are farmed for their economic value .
-8. Since metals are good conductors of electricity , they are valuable in electrical tools and for carrying an electric current over long distances with little energy loss .
-9. The first event on the para-alpine program is the downhill .
-10. In many jurisdictions no formalities are necessary to start an association .
+Q1: [Speaking] 1. Could you put your seat back up, please?
+2. Could you fill out the form?
+3. Would you bring me a new one?
+4. Would you give me a hand?
+
+
 
 
 NODE MATCHING
 
-1. If you could make -> out the cheque to Peardrop Limited, that would be fine.
-2. Andy is -> not old enough to drive a car.
-3. wage(s) -> a regular amount of money that you earn for working
-4. relationship -> the way in which two or more people or groups behave towards each other
-5. I put a lot of effort -> into writing this report.
-6. run over -> hit with a car
+1. sail through -> do something or deal with something very easily
+2. run over -> hit with a car
+3. bonus -> extra money that you are paid in addition to your usual salary
+4. kind -> behaving in a way that shows you care about other people and want to help them
+5. I'm quite busy so I've got -> very little time to talk to you now.
+6. I never wanted a mortgage but I'm coming -> round to the idea now.
 7. menu -> a list of the food that is available in a restaurant
-8. arrive -> to reach a place
-9. hand out -> give things to people in a group
-10. We'd love you to come -> round for dinner sometime.
+8. announcer -> someone whose job is to give information about television or radio programmes between other programmes
+9. Trying to get information from him is like getting blood out of a stone! -> very difficult
+10. I put a lot of effort -> into writing this report.
 
 
 NODE REVIEW
 
-Q1: Do you think you could pass that book ............ to me, please?
-A. under
-B. through
-C. over
-D. in
+Q1: That's the woman ............ son works as a DJ on the radio.
+A. who
+B. which
+C. whose
 Answer: C
 
-Q2: When writing ___ amounts the location of the symbol varies by currency .
-Answer: currency
+Q2: ............ write with your left hand when you broke your arm?
+A. Must you
+B. Needed you to
+C. Did you have to
+D. Did you had to
+Answer: C
 
-3. wage(s) -> a regular amount of money that you earn for working
-4. hand out -> give things to people in a group
-Q5: There are two ___ of the anthem : a long and a short one .
-Answer: versions
-
-Q6: Being the conductor of a large ............ is an extremely demanding job. You have to make sure about a hundred musicians are playing in time.
-A. group
-B. band
-C. company
-D. orchestra
+Q3: The problem with most fizzy drinks is that they're ............ sugar.
+A. full up
+B. filled up with
+C. filled with
+D. full of
 Answer: D
 
-7. The permanent collection consists of more than 35,000 works of art .
-Q8: My teeth were a little yellow so I ............ by the dentist.
-A. had them cleaned
-B. have them cleaned
-C. had cleaned them
-D. was cleaned them
-Answer: A
+Q4: Ted will look ........... the dog while we're away.
+A. for
+B. after
+C. forward
+Answer: B
 
-9. We'd love you to come -> round for dinner sometime.
-10. Some moths are farmed for their economic value .
+Q5: Last year, winter started so
+Answer: suddenly that many people were taken by surprise.
+
+Q6: The policewoman started to take
+Answer: down everything I was saying and I knew I was in serious trouble.
+
+Q7: grow out of
+Answer: develop from; become too big for
+
+Q8: enjoy
+Answer: to get pleasure from something
+
+Q9: A: Are you going downtown today?
+B: Yes, but _______(1) _______(2) marathon today. There's going to be a lot of traffic.
+A: Yes. _______(3) _______(4) several streets blocked off.
+B: And I just heard there's been an accident, too.
+A: It's true. There's been a collision _______(5) _______(6) _______(7).
+B: Wow! So, I guess I'll walk. _______(8) _______(9) _______(10) with my feet today!
+Answer: 1:there's | 2:a | 3:There | 4:are | 5:between | 6:two | 7:buses | 8:There's | 9:no | 10:problem
+
+Q10: [Speaking] 1. Come on!
+2. For goodness’ sake!
+3. Finally, we’ll be off soon.
+4. Oh no, not again!
+5. Don’t be long.
+6. What is it now?
+7. That’s it!
+8. I’ve had enough!
+
+
 
 

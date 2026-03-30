@@ -3,164 +3,163 @@ TREE 1
 
 NODE VOCAB
 
-Q1: I wish I ............................ to buy a lottery ticket last night.
-A. had remembered
-B. remembered
-C. remember
-Answer: A
+Q1: The last time the volcano ...... was in 1980.
+A. spread
+B. erupted
+C. exploded
+Answer: C
 
-Q2: Apparently, it's the largest computer store in ............................ .
-A. Europe
-B. an Europe
-C. a Europe
-D. the Europe
-Answer: A
+Q2: Every child has the right to free education in a ............ school.
+A. boarding
+B. public
+C. private
+D. state
+Answer: D
 
-Q3: I'd definitely advise ............................ getting a snake for a pet.
-A. from
-B. against
-C. without
-Answer: B
-
-Q4: I didn't read the message carefully. I just glanced ............................ it.
-A. at
+Q3: Are you scared ............................ snakes?
+A. with
 B. on
-C. to
-D. with
-Answer: A
-
-Q5: We should all recycle ............................ so that it can be used again.
-A. a paper
-B. paper
-Answer: B
-
-Q6: I read about the accident ............................ the Internet.
-A. at
-B. to
-C. in
-D. on
+C. for
+D. of
 Answer: D
 
-Q7: I wonder if you know where ............................
-A. the post office is.
-B. the post office is?
-C. is the post office.
-D. is the post office?
+Q4: She dyed her hair red because it's the latest ............ .
+A. shoot
+B. style
+C. trend
+D. show
+Answer: C
+
+Q5: I am ............ by science fiction films.
+A. fascinated
+B. fascinating
+C. fascinate
 Answer: A
 
-Q8: You should take ............................ a sport and then you would get more exercise.
-A. up
-B. off
-C. down
+Q6: They ............................ have seen the play last night as they went to a football match instead.
+A. can't
+B. might
+C. must
+D. could
 Answer: A
 
-Q9: Simon ............................ stand at the front of the class because he wouldn't stop talking.
-A. has made
-B. was made
-C. made to
-D. was made to
+Q7: ............................ up your shoelaces or you might trip over them.
+A. Set
+B. Make
+C. Put
+D. Do
 Answer: D
 
-Q10: I don't have a job ............................ the moment.
-A. of
-B. at
-C. in
-D. on
-Answer: B
+Q8: If you eat lots of fast food, you can ............ on weight.
+A. put
+B. get
+C. take
+Answer: A
+
+Q9: You need a well-......... diet to lead a healthy lifestyle.
+A. preserved
+B. mannered
+C. informed
+D. balanced
+Answer: D
+
+Q10: She asked me ............ I wanted another piece of cake.
+A. if
+B. where
+C. that
+Answer: A
 
 
 
 NODE LISTENING
 
-Q1: A man dressed as a policeman was asking ___ .
-Answer: questions
-
-Q2: This system is found in other ___ as well .
-Answer: fish
-
-Q3: There is a ___ coming .
-Answer: storm
-
-Q4: I ' d like you to ___ my parents .
-Answer: meet
-
-Q5: The movie ' s ___ was released on October 10 , 2006 .
-Answer: dvd
-
-Q6: Their first world tour took ___ in October 1998 .
-Answer: place
-
-Q7: He ' s my ___ brother .
-Answer: big
-
-Q8: I felt sad after watching that ___ .
-Answer: movie
-
-Q9: The quarter has a ___ 19,921 and an area of 2.46 km
-Answer: population
-
-Q10: His grandfather retired ___ year .
-Answer: last
+Q1: Hollingsworth Secondary School, Colchester, _______(1) Qualified teacher required to teach science to pupils from year 7 to _______(2) . The school is well-known for its motivated pupils, highly-qualified staff and excellent _______(3) . Permanent _______(4) -time position. Available from September or _______(5) . For an application form and further details call _______(6) 129458.
+Answer: 1:Essex | 2:eleven | 3:facilities | 4:full | 5:January | 6:01621
 
 
 
 NODE SPEAKING
 
-1. I wish we could have gone to the movies .
-2. I could n't do it even if I tried .
-3. He died on October 2 , 2005 in New York City , U.S.
-4. McAlpine died on 4 March 2018 at the age of 81 .
-5. This award was first given for films released in 1934 .
-6. At the beginning of the 19th century , the building was used as a restaurant .
-7. His wife is Vietnamese .
-8. Ullsten died on 28 May 2018 at the age of 86 .
-9. Until the mid-19th century , Mexico was the biggest producer of vanilla .
-10. The train stopped suddenly .
+Q1: [Speaking] help
+learn
+elephant
+birth
+work
+trek
+
+
 
 
 NODE MATCHING
 
-1. experience -> knowledge and skill that you get by doing a particular job or activity
-2. I'll just put -> these things away and then I'll be ready.
-3. shut up -> stop talking, stop making a noise
-4. complicated -> difficult to do, deal with, or understand
-5. There was a sign saying 'Keep -> Out' on the gate.
-6. accident -> something that happens without being planned
-7. broadcast -> to send out messages or programmes to be received by radios or televisions
-8. vote -> to decide something, or to choose a representative or winner, by officially stating your choice, for example in an election
-9. grateful -> the feeling that you want to thank someone because they have given you something or done something for you
-10. laptop -> a small computer that you can carry with you
+1. accommodation -> a place for someone to stay, live, or work in
+2. hardware -> computer equipment
+3. Our new neighbours moved -> in next door today.
+4. single -> not married, or not in a romantic relationship or divorced.
+5. get on (with) -> have a good relationship (with)
+6. convince -> to make someone believe that something is true; to persuade someone to do something
+7. sudden -> happening very quickly and without any sign that it is going to happen
+8. react -> to behave in a particular way because of things that are happening around you or things that other people are doing to you
+9. manager -> someone whose job is to organise and control the work of a business, a department, or the people who work there
+10. team -> a group of people who play a sport or game against another group
 
 
 NODE REVIEW
 
-Q1: I'd definitely advise ............................ getting a snake for a pet.
-A. without
-B. from
-C. against
-Answer: C
+Q1: You can ............ the microphone into your TV or stereo.
+A. store
+B. plug
+C. adjust
+Answer: B
 
-Q2: We should all recycle ............................ so that it can be used again.
-A. paper
-B. a paper
+Q2: Nurses need to be ............ because they look after people who are ill.
+A. imaginative
+B. caring
+C. relaxed
+Answer: B
+
+Q3: Jo has just spilt some hot coffee and ............ her leg.
+A. scalded
+B. grazed
+C. twisted
 Answer: A
 
-Q3: I wish I ............................ to buy a lottery ticket last night.
-A. had remembered
-B. remember
-C. remembered
-Answer: A
+Q4: Emily is physically fit. She ............ in the gym every day.
+A. puts out
+B. works out
+C. tries out
+Answer: B
 
-4. This award was first given for films released in 1934 .
-5. There was a sign saying 'Keep -> Out' on the gate.
-6. complicated -> difficult to do, deal with, or understand
-Q7: The movie ' s ___ was released on October 10 , 2006 .
-Answer: dvd
+Q5: report
+Answer: a spoken or written description of a particular subject, situation, or event
 
-8. broadcast -> to send out messages or programmes to be received by radios or televisions
-9. laptop -> a small computer that you can carry with you
-Q10: I felt sad after watching that ___ .
-Answer: movie
+Q6: turn over
+Answer: turn sth so the other side is towards you
+
+Q7: patient
+Answer: someone who is patient is able to wait for a long time or deal with a difficult situation without becoming angry or upset
+
+Q8: climate
+Answer: the climate of a country or region is the type of weather it has
+
+Q9: A: My job is so boring. I really don't like being a _______(1). 
+B: Really? Maybe you should try something new. 
+A: I don't know. I've always wanted to be an _______(2), but I'd have to go back to school. 
+B: So do it! 
+A: I can't. I need to _______(3) _______(4), so I can't quit my job. 
+B: Could you work part time in an _______(5) and also take _______(6)? 
+A: Well, maybe. I'll think about it.
+Answer: 1:receptionist | 2:architect | 3:make | 4:money | 5:office | 6:classes
+
+Q10: [Speaking] How was your weekend?
+Well, nothing special.
+Oh, I had a great time!
+I watched a re-enactment of the battle!
+You're kidding!
+What was it like?
+Oh, you've got to see it!
+Didn't you know that?
+
 
 
 

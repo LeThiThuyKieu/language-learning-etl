@@ -1,0 +1,1845 @@
+sentence,options,answer,difficulty,question_type
+carry on,MATCHING_PAIR,continue,easy,MATCHING
+eat out,MATCHING_PAIR,eat at a restaurant,easy,MATCHING
+give up,MATCHING_PAIR,stop doing sth you do regularly,easy,MATCHING
+join in,MATCHING_PAIR,"participate, take part",easy,MATCHING
+send off,MATCHING_PAIR,"make a player leave a game (eg, football)",easy,MATCHING
+take up,MATCHING_PAIR,"start (a hobby, sport, etc)",easy,MATCHING
+turn down,MATCHING_PAIR,lower the volume of,easy,MATCHING
+turn up,MATCHING_PAIR,increase the volume of,easy,MATCHING
+I waited outside the tennis club for,MATCHING_PAIR,"a long time, but George didn't appear.",easy,MATCHING
+"When you rang, I was in",MATCHING_PAIR,the middle of cleaning my football boots.,easy,MATCHING
+We finally got to the stadium just in,MATCHING_PAIR,time to see the match start.,easy,MATCHING
+I just play football for,MATCHING_PAIR,"fun, and I don't want to do it as a job.",easy,MATCHING
+I loved that film and when it comes out,MATCHING_PAIR,"on DVD, I'll definitely get it.",easy,MATCHING
+It's great to appear on,MATCHING_PAIR,"stage, with all the audience clapping.",easy,MATCHING
+cross out,MATCHING_PAIR,draw a line through sth written,easy,MATCHING
+look up,MATCHING_PAIR,"try to find information in a book, etc",easy,MATCHING
+point out,MATCHING_PAIR,tell sb important information,easy,MATCHING
+read out,MATCHING_PAIR,say sth out loud which you are reading,easy,MATCHING
+rip up,MATCHING_PAIR,tear into pieces,easy,MATCHING
+rub out,MATCHING_PAIR,remove with a rubber,easy,MATCHING
+turn over,MATCHING_PAIR,turn sth so the other side is towards you,easy,MATCHING
+write down,MATCHING_PAIR,write information on a piece of paper,easy,MATCHING
+get in(to),MATCHING_PAIR,enter a car,easy,MATCHING
+get off,MATCHING_PAIR,leave a bus/train/etc,easy,MATCHING
+get on(to),MATCHING_PAIR,enter a bus/train/etc,easy,MATCHING
+get out (of),MATCHING_PAIR,leave a car/building/room/etc,easy,MATCHING
+go away,MATCHING_PAIR,leave a place/sb,easy,MATCHING
+go back (to),MATCHING_PAIR,return (to),easy,MATCHING
+set off,MATCHING_PAIR,start a journey,easy,MATCHING
+take off,MATCHING_PAIR,leave the ground,easy,MATCHING
+As the plane took,MATCHING_PAIR,"off, I held my mum's hand tightly.",easy,MATCHING
+"The door is open, so you can get",MATCHING_PAIR,"in the car, if you like.",easy,MATCHING
+We were in a hurry and when we got,MATCHING_PAIR,"on the bus, I realised I didn't have a ticket.",easy,MATCHING
+The man selling the tickets told us to go,MATCHING_PAIR,away and come back again later.,easy,MATCHING
+It was raining when we set,MATCHING_PAIR,"off on our walk, but it soon stopped.",easy,MATCHING
+We loved the hotel so we went,MATCHING_PAIR,back there the following year.,easy,MATCHING
+Ray fell as he was getting,MATCHING_PAIR,off the bus and couldn't walk properly.,easy,MATCHING
+The taxi driver asked us to get,MATCHING_PAIR,out on the right because it was safer.,easy,MATCHING
+bring up,MATCHING_PAIR,take care of a child until he or she becomes an adult,easy,MATCHING
+fall out (with),MATCHING_PAIR,have an argument with sb and stop being friends,easy,MATCHING
+get on (with),MATCHING_PAIR,have a good relationship (with),easy,MATCHING
+go out with,MATCHING_PAIR,be the boyfriend/girlfriend of,easy,MATCHING
+grow up,MATCHING_PAIR,become older (for children),easy,MATCHING
+let down,MATCHING_PAIR,disappoint,easy,MATCHING
+look after,MATCHING_PAIR,take care of,easy,MATCHING
+split up,MATCHING_PAIR,end a relationship,easy,MATCHING
+add up,MATCHING_PAIR,find the total of,easy,MATCHING
+come back (from),MATCHING_PAIR,return (from),easy,MATCHING
+give away,MATCHING_PAIR,give sth free of charge,easy,MATCHING
+hurry up,MATCHING_PAIR,do sth more quickly,easy,MATCHING
+pay back,MATCHING_PAIR,return money (to sb),easy,MATCHING
+save up (for),MATCHING_PAIR,save money (for a specific purpose),easy,MATCHING
+take back,MATCHING_PAIR,return sth to the place it came from,easy,MATCHING
+take down,MATCHING_PAIR,remove (from a high place),easy,MATCHING
+break down,MATCHING_PAIR,"stop working (for a machine, etc)",easy,MATCHING
+come across,MATCHING_PAIR,find sth by chance,easy,MATCHING
+find out,MATCHING_PAIR,"discover information, etc",easy,MATCHING
+make up,MATCHING_PAIR,"invent an explanation, excuse, etc",easy,MATCHING
+pull off,MATCHING_PAIR,break by pulling,easy,MATCHING
+throw away,MATCHING_PAIR,put sth in a rubbish bin,easy,MATCHING
+turn off,MATCHING_PAIR,stop a machine working,easy,MATCHING
+turn on,MATCHING_PAIR,start a machine working,easy,MATCHING
+What's the difference,MATCHING_PAIR,between H20 and H2S04?,easy,MATCHING
+This box is full,MATCHING_PAIR,of old camping equipment.,easy,MATCHING
+This resulted,MATCHING_PAIR,in us having to call the fire brigade.,easy,MATCHING
+Connect this cable,MATCHING_PAIR,to that piece of equipment over there.,easy,MATCHING
+I've had an idea,MATCHING_PAIR,about how to do this experiment.,easy,MATCHING
+Could you fill this bottle,MATCHING_PAIR,with water?,easy,MATCHING
+There's a lot of washing-up; I think we should,MATCHING_PAIR,offer to do it.,easy,MATCHING
+It's getting quite late and we ought,MATCHING_PAIR,to think about getting a taxi.,easy,MATCHING
+"I don't have much money, but you can",MATCHING_PAIR,borrow some if you need it.,easy,MATCHING
+It's amazing that Andrew could,MATCHING_PAIR,walk when he was just six months,easy,MATCHING
+Passengers travelling in first class may,MATCHING_PAIR,wait for their flight in the VIP area.,easy,MATCHING
+'Someone is at the door. It must be Mrs Johnson from next door.',MATCHING_PAIR,I'm almost certain.,easy,MATCHING
+'Lena might not know where the cinema is.',MATCHING_PAIR,Maybe/ Perhaps.,easy,MATCHING
+'Dad should know what the capital of New Zealand is.',MATCHING_PAIR,It's probable.,easy,MATCHING
+'Greg can't be in the final! He's a terrible player!',MATCHING_PAIR,I'm almost certain.,easy,MATCHING
+'The dog is wet. It must be raining outside.',MATCHING_PAIR,I'm almost certain.,easy,MATCHING
+'We may go to the Canary Islands for Easter.',MATCHING_PAIR,Maybe/ Perhaps.,easy,MATCHING
+'Ken must like that film. He's seen it six times!',MATCHING_PAIR,I'm almost certain.,easy,MATCHING
+'Barry ought to be able to cook Chinese food. He lived there for two years.',MATCHING_PAIR,It's probable.,easy,MATCHING
+call back,MATCHING_PAIR,ring again on the phone,easy,MATCHING
+come out,MATCHING_PAIR,be published,easy,MATCHING
+cut off,MATCHING_PAIR,"disconnect (phone, electricity, etc)",easy,MATCHING
+fill in,MATCHING_PAIR,"add information in the spaces on a form, etc",easy,MATCHING
+hang up,MATCHING_PAIR,put the receiver down to end a phone call,easy,MATCHING
+log off,MATCHING_PAIR,disconnect from the Internet/a website,easy,MATCHING
+log on(to),MATCHING_PAIR,connect to the Internet/a website,easy,MATCHING
+print out,MATCHING_PAIR,make a paper copy of sth on a computer,easy,MATCHING
+I think I'm going to take,MATCHING_PAIR,"up a musical instrument, maybe the violin.",easy,MATCHING
+As our plane took,MATCHING_PAIR,"off, I held my dad's hand tightly.",easy,MATCHING
+Mr and Mrs Davies have split,MATCHING_PAIR,up after more than twenty years together.,easy,MATCHING
+I hope we manage to find,MATCHING_PAIR,out where the concert is going to happen.,easy,MATCHING
+I often had to look,MATCHING_PAIR,after my younger sister when she was small.,easy,MATCHING
+You should turn,MATCHING_PAIR,off the TV and find something else to do.,easy,MATCHING
+I've fallen,MATCHING_PAIR,out with Kelly because she hurt my feelings.,easy,MATCHING
+My grandmother brought,MATCHING_PAIR,up me and my brother because my parents worked.,easy,MATCHING
+"You live in a village,",MATCHING_PAIR,don't you?,easy,MATCHING
+"You're not fifteen years old,",MATCHING_PAIR,are you?,easy,MATCHING
+"Carol has a maths test tomorrow,",MATCHING_PAIR,doesn't she?,easy,MATCHING
+"They were having lunch at the time,",MATCHING_PAIR,weren't they?,easy,MATCHING
+"You've been to France,",MATCHING_PAIR,haven't you?,easy,MATCHING
+"I'm not the only one,",MATCHING_PAIR,am I?,easy,MATCHING
+"They all passed the test,",MATCHING_PAIR,didn't they?,easy,MATCHING
+"You haven't seen Linda anywhere,",MATCHING_PAIR,have you?,easy,MATCHING
+"She won't tell anyone else,",MATCHING_PAIR,will she?,easy,MATCHING
+"This is the right DVD,",MATCHING_PAIR,isn't it?,easy,MATCHING
+break in(to),MATCHING_PAIR,enter illegally,easy,MATCHING
+catch up (with),MATCHING_PAIR,reach the same point/level as,easy,MATCHING
+get away with,MATCHING_PAIR,escape punishment for,easy,MATCHING
+get up,MATCHING_PAIR,leave your bed,easy,MATCHING
+move in,MATCHING_PAIR,"start living in a new house, etc",easy,MATCHING
+put away,MATCHING_PAIR,return sth to where it belongs,easy,MATCHING
+wake up,MATCHING_PAIR,stop being asleep,easy,MATCHING
+wash up,MATCHING_PAIR,"wash plates, cups, cutlery, etc",easy,MATCHING
+beginning,MATCHING_PAIR,in the beginning,easy,MATCHING
+Someone has broken,MATCHING_PAIR,into my car and stolen the CD player.,easy,MATCHING
+I missed a few lessons but I'm catching,MATCHING_PAIR,up with the rest of the class quite quickly.,easy,MATCHING
+You'll never get,MATCHING_PAIR,away with this!,easy,MATCHING
+I didn't want to get,MATCHING_PAIR,up when the alarm clock rang this morning.,easy,MATCHING
+Our new neighbours moved,MATCHING_PAIR,in next door today.,easy,MATCHING
+Do you want me to help you put,MATCHING_PAIR,all these clothes away?,easy,MATCHING
+When I woke,MATCHING_PAIR,"up, I realised I was late for school.",easy,MATCHING
+You're going to wash,MATCHING_PAIR,"those plates up, aren't you?",easy,MATCHING
+Someone broke,MATCHING_PAIR,into our neighbour's house yesterday:,easy,MATCHING
+I'll just put,MATCHING_PAIR,these things away and then I'll be ready.,easy,MATCHING
+Mum always wakes me,MATCHING_PAIR,up at half past seven.,easy,MATCHING
+If you wash these plates,MATCHING_PAIR,"up, I'll start cooking dinner.",easy,MATCHING
+"The flat is empty, so you can move",MATCHING_PAIR,in whenever you like.,easy,MATCHING
+If you don't get,MATCHING_PAIR,"up soon, you'll be late for school.",easy,MATCHING
+call off,MATCHING_PAIR,cancel,easy,MATCHING
+give back,MATCHING_PAIR,return sth you have taken/borrowed,easy,MATCHING
+go on,MATCHING_PAIR,happen,easy,MATCHING
+put off,MATCHING_PAIR,delay to a later time,easy,MATCHING
+set up,MATCHING_PAIR,"start (a business, organisation, etc)",easy,MATCHING
+stay up,MATCHING_PAIR,go to bed late,easy,MATCHING
+take away,MATCHING_PAIR,remove,easy,MATCHING
+take over,MATCHING_PAIR,"take control of (a business, etc)",easy,MATCHING
+I'm afraid we're not looking for new workers at,MATCHING_PAIR,"the moment, but you could try again next month.",easy,MATCHING
+They said on the news that bus drivers are on,MATCHING_PAIR,"strike, so you might need to take a taxi to work.",easy,MATCHING
+"In his new job, Paul is away travelling on",MATCHING_PAIR,business a lot of the time so he's never at home for long.,easy,MATCHING
+I was quite nervous the first time I was in,MATCHING_PAIR,charge of the whole department.,easy,MATCHING
+Anne works as a security guard and she's on,MATCHING_PAIR,duty for about eight hours every night.,easy,MATCHING
+My boss said that if I wasn't on,MATCHING_PAIR,time for work more often I would lose my job.,easy,MATCHING
+Mr Robinson is responsible,MATCHING_PAIR,for interviewing people applying for jobs.,easy,MATCHING
+We need to inform everyone,MATCHING_PAIR,about the new time of the meeting.,easy,MATCHING
+Trisha seems to be fed up,MATCHING_PAIR,with her job and is thinking of finding a new one.,easy,MATCHING
+Your salary depends,MATCHING_PAIR,on how long you've been working here.,easy,MATCHING
+I would love to work,MATCHING_PAIR,"as a racing driver, or maybe a car mechanic.",easy,MATCHING
+"During the meeting, the manager referred",MATCHING_PAIR,to last year as 'a disaster'.,easy,MATCHING
+"I'm a swimming instructor, which is a kind",MATCHING_PAIR,"of teacher, I suppose.",easy,MATCHING
+It's important when you apply,MATCHING_PAIR,for a job to make a good impression.,easy,MATCHING
+cut down (on),MATCHING_PAIR,"do less of sth(smoking, etc)",easy,MATCHING
+fall down,MATCHING_PAIR,trip and fall,easy,MATCHING
+get over,MATCHING_PAIR,"recover from(an illness, etc)",easy,MATCHING
+go off,MATCHING_PAIR,no longer be fresh,easy,MATCHING
+lie down,MATCHING_PAIR,"start lying(on a bed, etc)",easy,MATCHING
+put on,MATCHING_PAIR,gain(weight),easy,MATCHING
+sit down,MATCHING_PAIR,(start to) sit,easy,MATCHING
+stand up,MATCHING_PAIR,(start to) stand,easy,MATCHING
+do up,MATCHING_PAIR,button/zip up a piece of clothing,easy,MATCHING
+fill up,MATCHING_PAIR,make sth completely full,easy,MATCHING
+have on,MATCHING_PAIR,wear (a piece of clothing),easy,MATCHING
+leave out,MATCHING_PAIR,not include,easy,MATCHING
+try on,MATCHING_PAIR,put on (a piece of clothing) to see how it looks and if it fits,easy,MATCHING
+She described the picture she was painting,MATCHING_PAIR,"as modern, but it looked quite old-fashioned to me.",easy,MATCHING
+"My sister's an architect, so she's involved",MATCHING_PAIR,in designing buildings.,easy,MATCHING
+"I like Picasso's paintings, but I'm not familiar",MATCHING_PAIR,with his sculptures.,easy,MATCHING
+I tried to explain how to use oil paints,MATCHING_PAIR,"to Martin, but he didn't understand.",easy,MATCHING
+They had to remove one of the paintings,MATCHING_PAIR,from the exhibition because it was damaged.,easy,MATCHING
+Vincent Van Gogh has had an influence,MATCHING_PAIR,on many other painters.,easy,MATCHING
+Darren drew a picture,MATCHING_PAIR,of a horse and it was brilliant.,easy,MATCHING
+Adding flowers to my picture changed it,MATCHING_PAIR,from a winter scene into a spring scene.,easy,MATCHING
+I've never driven,MATCHING_PAIR,a tractor.,easy,MATCHING
+We're going to have,MATCHING_PAIR,a party on Saturday,easy,MATCHING
+Don't close,MATCHING_PAIR,the window!,easy,MATCHING
+Have you invited,MATCHING_PAIR,lots of people?,easy,MATCHING
+Of course you can borrow,MATCHING_PAIR,some money.,easy,MATCHING
+Clare has drawn,MATCHING_PAIR,a lovely picture.,easy,MATCHING
+blow up,MATCHING_PAIR,explode,easy,MATCHING
+build up,MATCHING_PAIR,increase,easy,MATCHING
+clear up,MATCHING_PAIR,tidy,easy,MATCHING
+go out,MATCHING_PAIR,stop burning,easy,MATCHING
+keep out,MATCHING_PAIR,prevent from entering,easy,MATCHING
+put down,MATCHING_PAIR,stop holding,easy,MATCHING
+put out,MATCHING_PAIR,make something stop burning,easy,MATCHING
+put up,MATCHING_PAIR,"put something on a wall (eg, a picture)",easy,MATCHING
+They're going to blow,MATCHING_PAIR,up the old bridge with dynamite.,easy,MATCHING
+Let's clear,MATCHING_PAIR,up this rubbish and put it in the bin.,easy,MATCHING
+I'm going to put,MATCHING_PAIR,up a sign to tell people not to drop any litter.,easy,MATCHING
+There was a sign saying 'Keep,MATCHING_PAIR,Out' on the gate.,easy,MATCHING
+How long did it take to put,MATCHING_PAIR,out the forest fire?,easy,MATCHING
+I'll just put this box,MATCHING_PAIR,down and then I'll help you with the tent.,easy,MATCHING
+The traffic has built,MATCHING_PAIR,up a lot round here over recent years.,easy,MATCHING
+The fire will go,MATCHING_PAIR,out unless we put some more wood on.,easy,MATCHING
+calm down,MATCHING_PAIR,become/make calmer,easy,MATCHING
+cheer up,MATCHING_PAIR,become/make happier,easy,MATCHING
+come on,MATCHING_PAIR,be quicker,easy,MATCHING
+hang on,MATCHING_PAIR,wait,easy,MATCHING
+run away (from),MATCHING_PAIR,escape by running,easy,MATCHING
+shut up,MATCHING_PAIR,"stop talking, stop making a noise",easy,MATCHING
+speak up,MATCHING_PAIR,talk more loudly so sb can hear you,easy,MATCHING
+Alice seems a bit depressed.,MATCHING_PAIR,Maybe she's had some bad news.,easy,MATCHING
+Mary is very polite.,MATCHING_PAIR,"Yes, she always says thank you.",easy,MATCHING
+Diane seems like a calm person.,MATCHING_PAIR,"Oh, yes. Nothing ever upsets her.",easy,MATCHING
+Gemma seems a bit bad-tempered today.,MATCHING_PAIR,Yes. She's definitely angry about something.,easy,MATCHING
+Megan is amusing.,MATCHING_PAIR,I know. She always makes me laugh.,easy,MATCHING
+Janice looks glad about something.,MATCHING_PAIR,I think it's because she's won some money.,easy,MATCHING
+Nina was hurt by what you said.,MATCHING_PAIR,"Well, maybe I should apologise, then.",easy,MATCHING
+pick up,MATCHING_PAIR,"lift something from the floor, a table, etc",easy,MATCHING
+put back,MATCHING_PAIR,return something to where it was,easy,MATCHING
+sort out,MATCHING_PAIR,solve a problem,easy,MATCHING
+watch out,MATCHING_PAIR,be careful,easy,MATCHING
+work out,MATCHING_PAIR,"find the solution to a problem, etc",easy,MATCHING
+Jim doesn't believe,MATCHING_PAIR,in ghosts.,easy,MATCHING
+I completely agree,MATCHING_PAIR,with you.,easy,MATCHING
+I've written,MATCHING_PAIR,to Tara.,easy,MATCHING
+My dad doesn't approve,MATCHING_PAIR,of people smoking.,easy,MATCHING
+I've got no idea what happened,MATCHING_PAIR,about that at all.,easy,MATCHING
+You can always rely,MATCHING_PAIR,on Craig.,easy,MATCHING
+beat,MATCHING_PAIR,"to defeat someone in a game, competition, election, or battle",easy,MATCHING
+board game,MATCHING_PAIR,any game in which you move objects around on a special board,easy,MATCHING
+captain,MATCHING_PAIR,the person who is in charge of a team or organisation,easy,MATCHING
+challenge,MATCHING_PAIR,to invite someone to compete or fight,easy,MATCHING
+champion,MATCHING_PAIR,"someone who has won an important competition, especially in sport",easy,MATCHING
+cheat,MATCHING_PAIR,"to behave dishonestly, or to not obey rules",easy,MATCHING
+classical music,MATCHING_PAIR,serious music that is played on instruments such as the piano and the violin,easy,MATCHING
+club,MATCHING_PAIR,"an organisation for people who take part in a particular activity, or the building that they use",easy,MATCHING
+coach,MATCHING_PAIR,someone who trains a sports player or team,easy,MATCHING
+competition,MATCHING_PAIR,an organised event in which people try to win prizes by being better than other people,easy,MATCHING
+concert,MATCHING_PAIR,"an event at which an orchestra, band, or musician plays or sings in front of an audience",easy,MATCHING
+defeat,MATCHING_PAIR,to win against someone,easy,MATCHING
+entertaining,MATCHING_PAIR,enjoyable or interesting,easy,MATCHING
+folk music,MATCHING_PAIR,"traditional music from a particular country or region, or music played in a traditional style",easy,MATCHING
+group,MATCHING_PAIR,a small set of musicians who play pop music,easy,MATCHING
+gym,MATCHING_PAIR,a room or club with equipment for doing physical exercises,easy,MATCHING
+have fun,MATCHING_PAIR,get enjoyment from an activity that is not important or serious,easy,MATCHING
+interest,MATCHING_PAIR,to make someone want to know about or take part in something,easy,MATCHING
+member,MATCHING_PAIR,someone who belongs to a group or an organisation: a trade union member,easy,MATCHING
+opponent,MATCHING_PAIR,someone who is competing against you,easy,MATCHING
+organise,MATCHING_PAIR,to prepare or arrange an activity or event,easy,MATCHING
+pleasure,MATCHING_PAIR,"a feeling of happiness, enjoyment, or satisfaction",easy,MATCHING
+referee,MATCHING_PAIR,someone whose job is to make sure that players in a game obey the rules,easy,MATCHING
+fail,MATCHING_PAIR,to be unsuccessful in something,easy,MATCHING
+guess,MATCHING_PAIR,"to say or decide what you think is true, without being certain about it",easy,MATCHING
+hesitate,MATCHING_PAIR,to pause before doing something because you are nervous or not certain about it,easy,MATCHING
+instruction,MATCHING_PAIR,"a statement of something that must be done, or an explanation of how to do or use something",easy,MATCHING
+make progress,MATCHING_PAIR,to develop or improve,easy,MATCHING
+make sure,MATCHING_PAIR,"to check something, so that you can be sure about it",easy,MATCHING
+support,MATCHING_PAIR,"help that you give to a particular idea, organisation, etc",easy,MATCHING
+team,MATCHING_PAIR,a group of people who play a sport or game against another group,easy,MATCHING
+train,MATCHING_PAIR,to practise a sport regularly before a match or competition,easy,MATCHING
+video game,MATCHING_PAIR,a game in which players use electronic controls to move images on a television or computer screen,easy,MATCHING
+achieve,MATCHING_PAIR,to succeed in doing or having something,easy,MATCHING
+brain,MATCHING_PAIR,"the organ inside your head that allows you to think and feel, and controls your body",easy,MATCHING
+clever,MATCHING_PAIR,good at learning or understanding things,easy,MATCHING
+concentrate,MATCHING_PAIR,to give all your attention to the thing that you are doing,easy,MATCHING
+consider,MATCHING_PAIR,to think about something carefully before you make a decision,easy,MATCHING
+course,MATCHING_PAIR,a series of lessons in an academic subject or a practical skill,easy,MATCHING
+degree,MATCHING_PAIR,"a course of study at university, or the qualification that you get after completing the course",easy,MATCHING
+experience,MATCHING_PAIR,knowledge and skill that you get by doing a particular job or activity,easy,MATCHING
+expert,MATCHING_PAIR,someone who has a particular skill or knows a lot about a particular subject,easy,MATCHING
+risk,MATCHING_PAIR,the possibility that something unpleasant or dangerous might happen,easy,MATCHING
+score,MATCHING_PAIR,to get a point in a game or sport,easy,MATCHING
+mark,MATCHING_PAIR,to judge the quality of a student's work and write a mark on it,easy,MATCHING
+mental,MATCHING_PAIR,"existing in the mind, or relating to the mind",easy,MATCHING
+pass,MATCHING_PAIR,to be successful in an examination or test,easy,MATCHING
+qualification,MATCHING_PAIR,something such as a degree or a diploma that you get when you successfully finish a course of study,easy,MATCHING
+remind,MATCHING_PAIR,to help someone to remember something,easy,MATCHING
+report,MATCHING_PAIR,"a spoken or written description of a particular subject, situation, or event",easy,MATCHING
+revise,MATCHING_PAIR,to study your notes and information again in order to prepare for an examination,easy,MATCHING
+search,MATCHING_PAIR,to try to find something or someone by looking carefully,easy,MATCHING
+skill,MATCHING_PAIR,"the ability to do something well, usually as a result of experience and training",easy,MATCHING
+smart,MATCHING_PAIR,intelligent,easy,MATCHING
+subject,MATCHING_PAIR,"something that you learn or teach at a school, for example English, mathematics, or biology",easy,MATCHING
+take an exam,MATCHING_PAIR,to have an important test,easy,MATCHING
+talented,MATCHING_PAIR,very good at something,easy,MATCHING
+term,MATCHING_PAIR,one of the periods of time that the year is divided into for students,easy,MATCHING
+wonder,MATCHING_PAIR,to think about something because you want to know more facts,easy,MATCHING
+abroad,MATCHING_PAIR,in or to a foreign country,easy,MATCHING
+accommodation,MATCHING_PAIR,"a place for someone to stay, live, or work in",easy,MATCHING
+book,MATCHING_PAIR,to arrange to have or use something at a particular time in the future,easy,MATCHING
+break,MATCHING_PAIR,a period of time when you are not working and can rest or enjoy yourself,easy,MATCHING
+cancel,MATCHING_PAIR,to say that something that has been arranged will not now happen,easy,MATCHING
+catch,MATCHING_PAIR,"to get on a train, bus, plane, or boat that is travelling somewhere",easy,MATCHING
+convenient,MATCHING_PAIR,"easy for you to do, or suitable for your needs",easy,MATCHING
+crash,MATCHING_PAIR,"if a vehicle crashes, or if someone crashes it, it hits something",easy,MATCHING
+crowded,MATCHING_PAIR,containing a lot of people or things,easy,MATCHING
+cruise,MATCHING_PAIR,"a journey on a ship for pleasure, often visiting a series of places",easy,MATCHING
+delay,MATCHING_PAIR,to do something later than is planned or expected,easy,MATCHING
+destination,MATCHING_PAIR,the place where someone or something is going,easy,MATCHING
+ferry,MATCHING_PAIR,a boat that makes short regular journeys between two or more places,easy,MATCHING
+flight,MATCHING_PAIR,a journey in a plane,easy,MATCHING
+foreign,MATCHING_PAIR,"from another country, or in another country",easy,MATCHING
+harbour,MATCHING_PAIR,an area of water next to the land where boats can stop,easy,MATCHING
+journey,MATCHING_PAIR,"an occasion when you travel from one place to another, especially over a long distance",easy,MATCHING
+luggage,MATCHING_PAIR,bags and suitcases that you take on a journey,easy,MATCHING
+nearby,MATCHING_PAIR,a nearby place is not far away,easy,MATCHING
+pack,MATCHING_PAIR,"to put your things into a bag, case, or box so that you can take or send them somewhere",easy,MATCHING
+passport,MATCHING_PAIR,an official document that contains your photograph and shows which country you are a citizen of,easy,MATCHING
+platform,MATCHING_PAIR,an area next to a railway track where passengers get onto and off trains,easy,MATCHING
+public transport,MATCHING_PAIR,the system that is used for travelling or for moving goods from one place to another,easy,MATCHING
+reach,MATCHING_PAIR,to arrive somewhere,easy,MATCHING
+resort,MATCHING_PAIR,a place where people go for a holiday,easy,MATCHING
+souvenir,MATCHING_PAIR,something that you buy to remind you of a place that you visited on holiday or of a special event,easy,MATCHING
+traffic,MATCHING_PAIR,the vehicles that are travelling in an area at a particular time,easy,MATCHING
+trip,MATCHING_PAIR,an occasion when you go somewhere and come back again,easy,MATCHING
+vehicle,MATCHING_PAIR,"a machine that you travel in or on, especially one with an engine that travels on roads, for example a car, bus, etc",easy,MATCHING
+apologise,MATCHING_PAIR,to tell someone that you are sorry for doing something wrong,easy,MATCHING
+boyfriend,MATCHING_PAIR,a man or boy that you are having a romantic relationship with,easy,MATCHING
+close,MATCHING_PAIR,connected by shared feelings such as love and respect,easy,MATCHING
+confident,MATCHING_PAIR,certain about your abilities and not nervous or frightened,easy,MATCHING
+cool,MATCHING_PAIR,"a cool person is one that you like or admire, or is very fashionable",easy,MATCHING
+couple,MATCHING_PAIR,"two people who are married to each other, or who have a romantic relationship with each other",easy,MATCHING
+decorate,MATCHING_PAIR,to put new paint or paper on the walls of a room,easy,MATCHING
+defend,MATCHING_PAIR,to say things to support someone or something,easy,MATCHING
+divorced,MATCHING_PAIR,no longer married because your marriage has been legally ended,easy,MATCHING
+flat,MATCHING_PAIR,"a set of rooms for living in, usually on one floor of a large building",easy,MATCHING
+generous,MATCHING_PAIR,giving people more of your time or money than is usual or expected,easy,MATCHING
+girlfriend,MATCHING_PAIR,a girl or woman that you are having a romantic relationship with,easy,MATCHING
+grateful,MATCHING_PAIR,the feeling that you want to thank someone because they have given you something or done something for you,easy,MATCHING
+guest,MATCHING_PAIR,someone that you have invited to your home or your party,easy,MATCHING
+independent,MATCHING_PAIR,not depending on other people,easy,MATCHING
+introduce,MATCHING_PAIR,to tell someone another person's name when they meet for the first time,easy,MATCHING
+loving,MATCHING_PAIR,feeling or showing love,easy,MATCHING
+loyal,MATCHING_PAIR,"someone who is loyal continues to support a person or organisation, or idea in difficult",easy,MATCHING
+mood,MATCHING_PAIR,"the way that someone is feeling, or the way that a group of people is feeling at a particular time",easy,MATCHING
+neighbourhood,MATCHING_PAIR,a particular area of a town,easy,MATCHING
+ordinary,MATCHING_PAIR,"normal or average, and not unusual or special",easy,MATCHING
+patient,MATCHING_PAIR,someone who is patient is able to wait for a long time or deal with a difficult situation without becoming angry or upset,easy,MATCHING
+private,MATCHING_PAIR,a private person does not talk to other people about their personal life or feelings,easy,MATCHING
+recognise,MATCHING_PAIR,"to know someone or something because you have seen, heard, or met them before",easy,MATCHING
+relation,MATCHING_PAIR,a member of your family,easy,MATCHING
+rent,MATCHING_PAIR,"to pay money regularly to use a house, room, office, etc that belongs to someone else",easy,MATCHING
+respect,MATCHING_PAIR,to treat someone in a way that shows that you think they are important and should be admired,easy,MATCHING
+single,MATCHING_PAIR,"not married, or not in a romantic relationship or divorced.",easy,MATCHING
+stranger,MATCHING_PAIR,someone who you do not know stranger.,easy,MATCHING
+trust,MATCHING_PAIR,"to believe that someone or something is good, honest, or reliable",easy,MATCHING
+advertisement,MATCHING_PAIR,"an announcement in a newspaper, on television, on the Internet, etc that is designed to persuade people to buy a product or service, go to an event, or apply for a job",easy,MATCHING
+afford,MATCHING_PAIR,to have enough money to pay for something,easy,MATCHING
+bargain,MATCHING_PAIR,something you buy that costs much less than normal,easy,MATCHING
+brand,MATCHING_PAIR,a product or group of products that has its own name and is made by one particular company,easy,MATCHING
+catalogue,MATCHING_PAIR,a book that contains pictures of things that you can buy,easy,MATCHING
+change,MATCHING_PAIR,coins rather than notes,easy,MATCHING
+coin,MATCHING_PAIR,a flat round piece of metal used as money,easy,MATCHING
+cost,MATCHING_PAIR,"if something costs an amount of money, you need that amount to pay for it or to do it",easy,MATCHING
+customer,MATCHING_PAIR,a person or company that buys goods or services,easy,MATCHING
+debt,MATCHING_PAIR,an amount of money that you owe,easy,MATCHING
+demand,MATCHING_PAIR,to say strongly that you want something,easy,MATCHING
+export,MATCHING_PAIR,to send a product to another country so that it can be sold there,easy,MATCHING
+fee,MATCHING_PAIR,money that you pay to a professional person or institution for their work,easy,MATCHING
+fortune,MATCHING_PAIR,a large amount of money,easy,MATCHING
+import,MATCHING_PAIR,to buy a product from another country and bring it to your country,easy,MATCHING
+invest,MATCHING_PAIR,to use your money with the aim of making a profit from it,easy,MATCHING
+obtain,MATCHING_PAIR,to get something that you want or need,easy,MATCHING
+owe,MATCHING_PAIR,to have to give someone a particular amount of money because you have bought something from them or have borrowed money from them,easy,MATCHING
+own,MATCHING_PAIR,"to legally have something, especially because you have bought it",easy,MATCHING
+profit,MATCHING_PAIR,money that you get when you sell something for a price that is higher than the cost of making it or buying it,easy,MATCHING
+property,MATCHING_PAIR,the things that you own,easy,MATCHING
+purchase,MATCHING_PAIR,to buy something,easy,MATCHING
+receipt,MATCHING_PAIR,a document that you get from someone showing that you have given them money or goods,easy,MATCHING
+require,MATCHING_PAIR,to need someone or something,easy,MATCHING
+sale,MATCHING_PAIR,an event or period of time during which a shop reduces the prices of some of its goods,easy,MATCHING
+save,MATCHING_PAIR,"to regularly put money in a bank, or to invest it so that you can use it later",easy,MATCHING
+select,MATCHING_PAIR,to choose someone or something from a group,easy,MATCHING
+supply,MATCHING_PAIR,to provide someone or something with something that they need or want,easy,MATCHING
+variety,MATCHING_PAIR,a number of different people or things,easy,MATCHING
+waste,MATCHING_PAIR,"to use more of something than is necessary, or to use it in a way that does not produce the best results",easy,MATCHING
+artificial,MATCHING_PAIR,"not natural or real, but made by people",easy,MATCHING
+automatic,MATCHING_PAIR,an automatic machine can work by itself without being operated by people,easy,MATCHING
+complicated,MATCHING_PAIR,"difficult to do, deal with, or understand",easy,MATCHING
+decrease,MATCHING_PAIR,to become less,easy,MATCHING
+digital,MATCHING_PAIR,storing information such as sound or pictures as numbers or electronic signals,easy,MATCHING
+discover,MATCHING_PAIR,to find something that was hidden or that no one knew about before,easy,MATCHING
+effect,MATCHING_PAIR,a change that is produced in one person or thing by another,easy,MATCHING
+equipment,MATCHING_PAIR,"the tools, machines, or other things that you need for a particular job or activity",easy,MATCHING
+estimate,MATCHING_PAIR,to guess or calculate an amount or value by using available information,easy,MATCHING
+exact,MATCHING_PAIR,"done, made, or described with all the details correct",easy,MATCHING
+experiment,MATCHING_PAIR,to perform scientific tests in order to find out what happens to someone or something in particular conditions,easy,MATCHING
+gadget,MATCHING_PAIR,a small tool or piece of equipment that does something that is useful or impressive,easy,MATCHING
+hardware,MATCHING_PAIR,computer equipment,easy,MATCHING
+invent,MATCHING_PAIR,to design or create something that did not exist before,easy,MATCHING
+involve,MATCHING_PAIR,"to include something as part of an activity, event, or situation",easy,MATCHING
+laboratory,MATCHING_PAIR,a building or large room where people do scientific research,easy,MATCHING
+lack,MATCHING_PAIR,"to not have something, or to not have enough of something",easy,MATCHING
+laptop,MATCHING_PAIR,a small computer that you can carry with you,easy,MATCHING
+maximum,MATCHING_PAIR,"the largest in amount, size, or number that is allowed or possible",easy,MATCHING
+minimum,MATCHING_PAIR,"the smallest in amount, size, or number that is allowed or possible",easy,MATCHING
+operate,MATCHING_PAIR,"if equipment operates, or if you operate it, you use or control it and it works in the way it should",easy,MATCHING
+plastic,MATCHING_PAIR,"a very common light, strong substance that is produced by a chemical process and used for making many different things",easy,MATCHING
+program,MATCHING_PAIR,to make a computer or other piece of equipment do something automatically,easy,MATCHING
+research,MATCHING_PAIR,the detailed study of something in order to discover new facts,easy,MATCHING
+run,MATCHING_PAIR,"if you run a computer program, or if it runs, you start it or use it",easy,MATCHING
+screen,MATCHING_PAIR,"the flat surface on a computer, television, or piece of electronic equipment where words and pictures are shown",easy,MATCHING
+software,MATCHING_PAIR,the programs used by computers for doing particular jobs,easy,MATCHING
+sudden,MATCHING_PAIR,happening very quickly and without any sign that it is going to happen,easy,MATCHING
+technology,MATCHING_PAIR,advanced scientific knowledge that is used for practical purposes,easy,MATCHING
+unique,MATCHING_PAIR,not the same as anything or anyone else,easy,MATCHING
+accent,MATCHING_PAIR,"a way of pronouncing words that shows what country, region, or social class you come from",easy,MATCHING
+announcement,MATCHING_PAIR,a public statement that gives people information about something,easy,MATCHING
+broadcast,MATCHING_PAIR,to send out messages or programmes to be received by radios or televisions,easy,MATCHING
+channel,MATCHING_PAIR,a television station and the programmes that it broadcasts,easy,MATCHING
+clear,MATCHING_PAIR,easy to understand,easy,MATCHING
+click,MATCHING_PAIR,to make a computer do something by pressing a button on the mouse,easy,MATCHING
+contact,MATCHING_PAIR,"to communicate with someone by phone, e-mail, letter, etc",easy,MATCHING
+file,MATCHING_PAIR,a set of information that is stored on a computer and that is given a particular name,easy,MATCHING
+formal,MATCHING_PAIR,suitable for serious situations or occasions,easy,MATCHING
+image,MATCHING_PAIR,"picture, especially one in a mirror or on a computer, television, or cinema screen",easy,MATCHING
+informal,MATCHING_PAIR,suitable for relaxed friendly situations,easy,MATCHING
+Internet,MATCHING_PAIR,a computer system that allows people in different parts of the world to exchange information,easy,MATCHING
+interrupt,MATCHING_PAIR,to say or do something that stops someone when they are speaking or concentrating on something,easy,MATCHING
+link,MATCHING_PAIR,"if people, things, or events are linked, they are related to each other in some way",easy,MATCHING
+media,MATCHING_PAIR,"radio, television, newspapers, the Internet and magazines, considered as a group",easy,MATCHING
+mobile phone,MATCHING_PAIR,a small phone that you can carry around with you,easy,MATCHING
+online,MATCHING_PAIR,connected to or available through the Internet,easy,MATCHING
+pause,MATCHING_PAIR,to stop moving or doing something for a short time before starting again,easy,MATCHING
+persuade,MATCHING_PAIR,to make someone agree to do something by giving them reasons why they should,easy,MATCHING
+pronounce,MATCHING_PAIR,to say the sounds of words,easy,MATCHING
+publish,MATCHING_PAIR,"to produce many copies of a book, magazine, or newspaper for people to buy",easy,MATCHING
+request,MATCHING_PAIR,"to ask for something, or to ask someone to do something, in a polite or formal way",easy,MATCHING
+ring,MATCHING_PAIR,to call someone on the telephone,easy,MATCHING
+signal,MATCHING_PAIR,a movement or sound that is made by someone and has a special meaning for another person,easy,MATCHING
+swear,MATCHING_PAIR,"to use words that are deliberately offensive, for example because you are angry",easy,MATCHING
+type,MATCHING_PAIR,a group of people or things with similar qualities that make them different from other groups,easy,MATCHING
+viewer,MATCHING_PAIR,someone who watches television programmes,easy,MATCHING
+website,MATCHING_PAIR,"a place on the Internet where information is available about a particular subject, company, university, etc",easy,MATCHING
+whisper,MATCHING_PAIR,"to speak very quietly to someone, so that other people cannot hear you",easy,MATCHING
+admit,MATCHING_PAIR,to say that you have done something wrong,easy,MATCHING
+arrest,MATCHING_PAIR,"if the police arrest someone, they take that person to a police station because they think that he or she has committed a crime",easy,MATCHING
+charity,MATCHING_PAIR,an organisation that gives money and help to people who need it; money or food that is given to people who need it,easy,MATCHING
+commit,MATCHING_PAIR,to do something that is illegal,easy,MATCHING
+community,MATCHING_PAIR,the people who live in an area,easy,MATCHING
+court,MATCHING_PAIR,a place where trials take place and legal cases are decided,easy,MATCHING
+criminal,MATCHING_PAIR,someone who has committed a crime,easy,MATCHING
+culture,MATCHING_PAIR,"a society that has its own set of ideas, beliefs and ways of behaving",easy,MATCHING
+familiar,MATCHING_PAIR,"well known to you, or easily recognized by you",easy,MATCHING
+government,MATCHING_PAIR,the people who control a country or area and make decisions about its laws and taxes,easy,MATCHING
+habit,MATCHING_PAIR,something that you do often,easy,MATCHING
+identity card,MATCHING_PAIR,an official document that shows who you are,easy,MATCHING
+illegal,MATCHING_PAIR,not allowed by the law,easy,MATCHING
+politics,MATCHING_PAIR,the ideas and activities that are involved in getting power in an area or governing it,easy,MATCHING
+population,MATCHING_PAIR,the number of people who live in a particular area,easy,MATCHING
+prison,MATCHING_PAIR,an institution where people are kept as a punishment for committing a crime,easy,MATCHING
+protest,MATCHING_PAIR,to show publicly that you oppose something,easy,MATCHING
+resident,MATCHING_PAIR,someone who lives in a particular place,easy,MATCHING
+responsible,MATCHING_PAIR,"if you are responsible for something that has happened, you caused it, or you deserve to be blamed for it; in charge of someone or something",easy,MATCHING
+rob,MATCHING_PAIR,to take money or property from someone illegally,easy,MATCHING
+routine,MATCHING_PAIR,your usual way of doing things,easy,MATCHING
+schedule,MATCHING_PAIR,a plan of activities or events and when they will happen,easy,MATCHING
+situation,MATCHING_PAIR,the set of conditions that exist at a particular time in a particular place,easy,MATCHING
+social,MATCHING_PAIR,relating to society and to people's lives in general,easy,MATCHING
+society,MATCHING_PAIR,"people in general living together in organised communities, with laws and traditions controlling the way that they behave towards each other",easy,MATCHING
+steal,MATCHING_PAIR,to take something that belongs to someone else without permission,easy,MATCHING
+tradition,MATCHING_PAIR,"a very old custom, belief, or story",easy,MATCHING
+typical,MATCHING_PAIR,like most things of the same type,easy,MATCHING
+vote,MATCHING_PAIR,"to decide something, or to choose a representative or winner, by officially stating your choice, for example in an election",easy,MATCHING
+youth club,MATCHING_PAIR,a place where young people can go to meet and take part in activities,easy,MATCHING
+ambition,MATCHING_PAIR,something that you very much want to achieve,easy,MATCHING
+application,MATCHING_PAIR,"a formal request to do something or have something, for example a job",easy,MATCHING
+bank account,MATCHING_PAIR,an arrangement with a bank that allows you to keep your money there,easy,MATCHING
+boss,MATCHING_PAIR,the person who is in charge of you at work,easy,MATCHING
+career,MATCHING_PAIR,a job or profession that you work at for some time,easy,MATCHING
+colleague,MATCHING_PAIR,someone who works in the same organisation or department as you,easy,MATCHING
+company,MATCHING_PAIR,an organisation that sells services or goods,easy,MATCHING
+contract,MATCHING_PAIR,a written legal agreement between two people or organisations,easy,MATCHING
+department,MATCHING_PAIR,"a section in a government, organisation, or business that deals with a particular type of work",easy,MATCHING
+deserve,MATCHING_PAIR,"if you deserve something, it is right that you get it, because of the way that you are or the way that you have behaved",easy,MATCHING
+earn,MATCHING_PAIR,to receive money for work that you do,easy,MATCHING
+fame,MATCHING_PAIR,the state of being famous,easy,MATCHING
+goal,MATCHING_PAIR,the action of putting a ball into a goal in a game such as football,easy,MATCHING
+impress,MATCHING_PAIR,"if someone or something impresses you, you admire them",easy,MATCHING
+income,MATCHING_PAIR,money that someone gets from working or from investing money,easy,MATCHING
+industry,MATCHING_PAIR,all the businesses involved in producing a particular type of goods or services,easy,MATCHING
+interview,MATCHING_PAIR,"to ask someone, especially someone famous, questions about themselves, their work, or their ideas",easy,MATCHING
+leader,MATCHING_PAIR,"someone who is in charge of a group, organisation, or country",easy,MATCHING
+manager,MATCHING_PAIR,"someone whose job is to organise and control the work of a business, a department, or the people who work there",easy,MATCHING
+pension,MATCHING_PAIR,an amount of money that someone receives regularly when they no longer work because of their age or because they are ill,easy,MATCHING
+poverty,MATCHING_PAIR,a situation in which someone does not have enough money to pay for their basic needs,easy,MATCHING
+pressure,MATCHING_PAIR,attempts to persuade or force someone to do something,easy,MATCHING
+previous,MATCHING_PAIR,"a previous event, period, or thing happened or existed before the one that you are talking about",easy,MATCHING
+profession,MATCHING_PAIR,a job that you need special skills and qualifications to do,easy,MATCHING
+retire,MATCHING_PAIR,"to stop working permanently, especially when you are old",easy,MATCHING
+salary,MATCHING_PAIR,a fixed amount of money that you earn each month or year from your job,easy,MATCHING
+staff,MATCHING_PAIR,"the people who work for a particular company, organisation, or institution",easy,MATCHING
+strike,MATCHING_PAIR,"a period of time during which people refuse to work, as a protest",easy,MATCHING
+tax,MATCHING_PAIR,to make someone pay money to the government,easy,MATCHING
+wealthy,MATCHING_PAIR,rich,easy,MATCHING
+affect,MATCHING_PAIR,"to change or influence something, often in a negative way",easy,MATCHING
+balance,MATCHING_PAIR,to create or preserve a good or correct balance between different features or aspects,easy,MATCHING
+benefit,MATCHING_PAIR,"to get an advantage, or to give someone an advantage",easy,MATCHING
+breathe,MATCHING_PAIR,to take air into your lungs through your nose or mouth and let it out again,easy,MATCHING
+chew,MATCHING_PAIR,to use your teeth to bite food in your mouth into small pieces,easy,MATCHING
+chop,MATCHING_PAIR,to cut something such as food or wood into pieces,easy,MATCHING
+contain,MATCHING_PAIR,to have something inside,easy,MATCHING
+cough,MATCHING_PAIR,"to force air up through your throat with a sudden noise, especially when you have a cold or when you want to get someone's attention",easy,MATCHING
+cure,MATCHING_PAIR,to stop someone from being affected by an illness,easy,MATCHING
+exercise,MATCHING_PAIR,to do a physical activity in order to stay healthy and to make your body stronger,easy,MATCHING
+flu,MATCHING_PAIR,a very common infectious disease that lasts for a short time and makes you feel weak and tired,easy,MATCHING
+have an operation,MATCHING_PAIR,the process of cutting into someone's body for medical reasons,easy,MATCHING
+healthy,MATCHING_PAIR,physically strong and not ill,easy,MATCHING
+ignore,MATCHING_PAIR,"to not consider something, or to not let it influence you",easy,MATCHING
+infection,MATCHING_PAIR,a disease that is caused by bacteria or by a virus,easy,MATCHING
+ingredient,MATCHING_PAIR,one of the foods or liquids that you use in making a particular meal,easy,MATCHING
+injury,MATCHING_PAIR,physical harm,easy,MATCHING
+limit,MATCHING_PAIR,"to prevent a number, amount, or effect from increasing past a particular point",easy,MATCHING
+meal,MATCHING_PAIR,"an occasion when you eat, such as breakfast or lunch, or the food that you eat at that time",easy,MATCHING
+pill,MATCHING_PAIR,a small piece of solid medicine that you swallow with water,easy,MATCHING
+recover,MATCHING_PAIR,to become fit and healthy again after an illness or injury,easy,MATCHING
+salty,MATCHING_PAIR,"containing salt, or tasting like salt",easy,MATCHING
+slice,MATCHING_PAIR,to cut something into flat pieces,easy,MATCHING
+sour,MATCHING_PAIR,with a taste like a lemon,easy,MATCHING
+spicy,MATCHING_PAIR,with a strong hot flavour,easy,MATCHING
+stir,MATCHING_PAIR,to move food or a liquid around using a spoon or other object,easy,MATCHING
+suffer,MATCHING_PAIR,to feel pain in your body or your mind; to have a particular illness or physical problem,easy,MATCHING
+taste,MATCHING_PAIR,to have a particular flavour; to eat or drink something and experience its flavour,easy,MATCHING
+treatment,MATCHING_PAIR,"the process of providing medical care, or a particular type of medical care",easy,MATCHING
+vitamin,MATCHING_PAIR,a natural substance in food that is necessary to keep your body healthy,easy,MATCHING
+ancient,MATCHING_PAIR,very old,easy,MATCHING
+checked,MATCHING_PAIR,printed or woven in a pattern of squares,easy,MATCHING
+cotton,MATCHING_PAIR,cloth made from the white fibres of a plant called a cotton plant,easy,MATCHING
+create,MATCHING_PAIR,to make something new exist or happen,easy,MATCHING
+design,MATCHING_PAIR,"to decide how something will be made, how it will work, or what it will look like, and often to make drawings of it",easy,MATCHING
+fix,MATCHING_PAIR,to repair something,easy,MATCHING
+fold,MATCHING_PAIR,to bend a piece of paper or cloth and press one part of it over another part,easy,MATCHING
+gallery,MATCHING_PAIR,a public building where you can look at paintings and other works of art,easy,MATCHING
+improvement,MATCHING_PAIR,"the state of being better than before, or the process of making something better than it was before",easy,MATCHING
+loose,MATCHING_PAIR,loose clothes are large and do not fit your body tightly,easy,MATCHING
+maintain,MATCHING_PAIR,"to make regular repairs to something, so that it stays in good condition",easy,MATCHING
+match,MATCHING_PAIR,"if one thing matches another, or they match, they form an attractive combination",easy,MATCHING
+material,MATCHING_PAIR,cloth,easy,MATCHING
+notice,MATCHING_PAIR,"to become conscious of someone or something by seeing, hearing, or feeling them",easy,MATCHING
+pattern,MATCHING_PAIR,"a set of lines, shapes, or colours that are repeated regularly",easy,MATCHING
+pile,MATCHING_PAIR,a number of things that are put on top of each other in an untidy way,easy,MATCHING
+practical,MATCHING_PAIR,"involving, or relating to, real situations rather than theories or ideas alone",easy,MATCHING
+rough,MATCHING_PAIR,with a surface that is not smooth,easy,MATCHING
+shape,MATCHING_PAIR,the form of something,easy,MATCHING
+silk,MATCHING_PAIR,a thin smooth cloth made from the fibres produced by insects called silkworms,easy,MATCHING
+sleeve,MATCHING_PAIR,the part of a piece of clothing that covers your arm,easy,MATCHING
+smooth,MATCHING_PAIR,completely even with no rough areas,easy,MATCHING
+stretch,MATCHING_PAIR,"if you stretch something, or if it stretches, it becomes longer or wider when you pull it",easy,MATCHING
+striped,MATCHING_PAIR,with a pattern of coloured lines,easy,MATCHING
+style,MATCHING_PAIR,"the way that something is made or done that is typical of a particular group, time, or place",easy,MATCHING
+suit,MATCHING_PAIR,"if a style or something you wear suits you, it makes you look good",easy,MATCHING
+tear,MATCHING_PAIR,a hole in something where it has been torn,easy,MATCHING
+tight,MATCHING_PAIR,fitting closely around your body or part of your body,easy,MATCHING
+tool,MATCHING_PAIR,a piece of equipment that you hold to do a particular type of work,easy,MATCHING
+amazing,MATCHING_PAIR,"very good, surprising, or impressive",easy,MATCHING
+climate,MATCHING_PAIR,the climate of a country or region is the type of weather it has,easy,MATCHING
+countryside,MATCHING_PAIR,"area away from towns and cities, with farms, fields and trees",easy,MATCHING
+environment,MATCHING_PAIR,"the natural world, including the land, water, air, plants and animals",easy,MATCHING
+extinct,MATCHING_PAIR,"if something such as a type of animal or plant is extinct, it no longer exists",easy,MATCHING
+forecast,MATCHING_PAIR,"to make a statement about what is likely to happen, often relating to the weather",easy,MATCHING
+freezing,MATCHING_PAIR,very cold; the temperature at which water freezes and becomes ice,easy,MATCHING
+global,MATCHING_PAIR,including or affecting the whole world,easy,MATCHING
+heatwave,MATCHING_PAIR,a continuous period of very hot weather,easy,MATCHING
+insect,MATCHING_PAIR,a small animal that has six legs and often has wings,easy,MATCHING
+lightning,MATCHING_PAIR,the bright flashes of light that you see in the sky during a storm,easy,MATCHING
+litter,MATCHING_PAIR,to drop litter,easy,MATCHING
+local,MATCHING_PAIR,"in or related to a particular area, especially the place where you live",easy,MATCHING
+locate,MATCHING_PAIR,to find out the exact place where someone or something is; be located: to exist in a particular place,easy,MATCHING
+mammal,MATCHING_PAIR,"an animal that is born from its mother's body, not from an egg, and drinks its mother's milk as a baby",easy,MATCHING
+mild,MATCHING_PAIR,mild weather is warm and pleasant,easy,MATCHING
+name,MATCHING_PAIR,to know and say what the name of someone or something is; to give someone or something a name,easy,MATCHING
+origin,MATCHING_PAIR,the place or moment at which something begins to exist,easy,MATCHING
+planet,MATCHING_PAIR,a very large round object that moves around the Sun or around another star,easy,MATCHING
+preserve,MATCHING_PAIR,to take care of something in order to prevent it from being harmed or destroyed,easy,MATCHING
+recycle,MATCHING_PAIR,to treat waste materials so that they can be used again,easy,MATCHING
+reptile,MATCHING_PAIR,"a type of animal such as a snake or lizard that lays eggs, and whose body is covered in scales",easy,MATCHING
+rescue,MATCHING_PAIR,to save someone from a dangerous or unpleasant situation,easy,MATCHING
+satellite,MATCHING_PAIR,an object that is sent into space to travel round the Earth in order to receive and send information; a natural object such as a moon that moves around a planet,easy,MATCHING
+shower,MATCHING_PAIR,a short period when it rains,easy,MATCHING
+solar system,MATCHING_PAIR,the sun and the group of planets that move around it,easy,MATCHING
+species,MATCHING_PAIR,a plant or animal group whose members all have similar general features and are able to produce young plants or animals together,easy,MATCHING
+thunder,MATCHING_PAIR,the loud noise that you sometimes hear in the sky during a storm,easy,MATCHING
+wild,MATCHING_PAIR,a wild animal or plant lives or grows on its own in natural conditions and is not raised by humans,easy,MATCHING
+wildlife,MATCHING_PAIR,"animals, birds and plants that live in natural conditions",easy,MATCHING
+amusing,MATCHING_PAIR,funny or entertaining,easy,MATCHING
+annoy,MATCHING_PAIR,to make someone feel slightly angry or impatient,easy,MATCHING
+attitude,MATCHING_PAIR,opinions or feelings that you show by your behaviour,easy,MATCHING
+bad-tempered,MATCHING_PAIR,made annoyed or angry very easily,easy,MATCHING
+behave,MATCHING_PAIR,to do things in a particular way,easy,MATCHING
+bully,MATCHING_PAIR,to frighten or hurt someone who is smaller or weaker than you,easy,MATCHING
+calm,MATCHING_PAIR,not affected by strong emotions,easy,MATCHING
+celebrate,MATCHING_PAIR,to do something enjoyable in order to show that an occasion or event is special,easy,MATCHING
+character,MATCHING_PAIR,the qualities that make up someone's personality,easy,MATCHING
+depressed,MATCHING_PAIR,very unhappy and without any feelings of hope or enthusiasm,easy,MATCHING
+embarrassing,MATCHING_PAIR,"making you feel nervous, ashamed, or stupid",easy,MATCHING
+emotion,MATCHING_PAIR,"a feeling that you experience, for example love, fear, or anger",easy,MATCHING
+enthusiastic,MATCHING_PAIR,"very interested in something, or excited by it",easy,MATCHING
+feeling,MATCHING_PAIR,"an emotional state, for example anger or happiness",easy,MATCHING
+glad,MATCHING_PAIR,happy and pleased about something,easy,MATCHING
+hurt,MATCHING_PAIR,to feel pain somewhere in your body,easy,MATCHING
+naughty,MATCHING_PAIR,a naughty child behaves badly,easy,MATCHING
+noisy,MATCHING_PAIR,"making a lot of noise, or full of noise",easy,MATCHING
+polite,MATCHING_PAIR,behaving towards other people in a pleasant way that follows all the usual rules of society,easy,MATCHING
+react,MATCHING_PAIR,to behave in a particular way because of things that are happening around you or things that other people are doing to you,easy,MATCHING
+regret,MATCHING_PAIR,"to feel sorry or sad about something that has happened, or about something that you have done",easy,MATCHING
+ridiculous,MATCHING_PAIR,silly or unreasonable and deserving to be laughed at,easy,MATCHING
+romantic,MATCHING_PAIR,"involving love, or making you have feelings of love",easy,MATCHING
+rude,MATCHING_PAIR,not polite,easy,MATCHING
+sense of humour,MATCHING_PAIR,the ability to laugh at things and recognize when they are funny,easy,MATCHING
+shy,MATCHING_PAIR,"nervous and embarrassed in the company of other people, especially people who you do not know",easy,MATCHING
+stress,MATCHING_PAIR,"a worried or nervous feeling that makes you unable to relax, or a situation that makes you feel like this",easy,MATCHING
+tell a joke,MATCHING_PAIR,say a short story with a funny ending to make people laugh,easy,MATCHING
+upset,MATCHING_PAIR,"to make someone feel sad, worried, or angry",easy,MATCHING
+accident,MATCHING_PAIR,something that happens without being planned,easy,MATCHING
+assume,MATCHING_PAIR,"to believe that something is true, even though you cannot be certain",easy,MATCHING
+cause,MATCHING_PAIR,"to make something happen, usually something bad",easy,MATCHING
+claim,MATCHING_PAIR,"to say that something is true, even though there is no definite proof",easy,MATCHING
+complain,MATCHING_PAIR,to say that you are not happy about something,easy,MATCHING
+convince,MATCHING_PAIR,to make someone believe that something is true; to persuade someone to do something,easy,MATCHING
+criticise,MATCHING_PAIR,to say what you think is wrong or bad about something or someone,easy,MATCHING
+deny,MATCHING_PAIR,to say that something is not true,easy,MATCHING
+discussion,MATCHING_PAIR,a conversation about something important,easy,MATCHING
+doubt,MATCHING_PAIR,"to think that something is probably not true, probably does not exist, or probably will not happen",easy,MATCHING
+encourage,MATCHING_PAIR,to give someone confidence or hope,easy,MATCHING
+get rid of,MATCHING_PAIR,"to throw away, give away, or sell something that you no longer want or need",easy,MATCHING
+gossip,MATCHING_PAIR,to talk about other people or about things that are not important,easy,MATCHING
+ideal,MATCHING_PAIR,perfect,easy,MATCHING
+insult,MATCHING_PAIR,to say or do something that is offensive,easy,MATCHING
+investigate,MATCHING_PAIR,to try to find out all the facts about something in order to learn the truth about it,easy,MATCHING
+negative,MATCHING_PAIR,harmful or bad,easy,MATCHING
+positive,MATCHING_PAIR,"a positive experience, situation, result, etc is a good one",easy,MATCHING
+praise,MATCHING_PAIR,to express strong approval or admiration for someone or something,easy,MATCHING
+pretend,MATCHING_PAIR,to behave in a particular way because you want someone to believe that something is true when it is not,easy,MATCHING
+purpose,MATCHING_PAIR,an aim or use,easy,MATCHING
+refuse,MATCHING_PAIR,"to say that you will not do or accept something, or will not let someone do something",easy,MATCHING
+result,MATCHING_PAIR,to cause or produce something,easy,MATCHING
+rumour,MATCHING_PAIR,something that people are saying that may or may not be true,easy,MATCHING
+sensible,MATCHING_PAIR,reasonable and practical,easy,MATCHING
+serious,MATCHING_PAIR,bad or dangerous enough to make you worried,easy,MATCHING
+spare,MATCHING_PAIR,"kept in addition to other similar things, so that you can use it if you need it",easy,MATCHING
+theory,MATCHING_PAIR,"an idea that you believe is true, although you have no proof",easy,MATCHING
+thought,MATCHING_PAIR,"a word, idea, or image that comes into your mind",easy,MATCHING
+warn,MATCHING_PAIR,"to tell someone about a possible problem or danger, so that they can avoid it or deal with it",easy,MATCHING
+There's a big difference,MATCHING_PAIR,between an ordinary radio and a digital radio.,easy,MATCHING
+Use my credit card to pay,MATCHING_PAIR,for the tickets and give me the cash later.,easy,MATCHING
+Jim spent all his money,MATCHING_PAIR,on playing video games.,easy,MATCHING
+I lent my new computer game,MATCHING_PAIR,to Daniel and I don't think I'll get it back for a while!,easy,MATCHING
+I saw an advertisement,MATCHING_PAIR,for a watch that also plays TV programmes.,easy,MATCHING
+There's something wrong,MATCHING_PAIR,with the DVD player we bought last week.,easy,MATCHING
+You have to connect the computer,MATCHING_PAIR,to the power or it won't work.,easy,MATCHING
+I am going to get married in June.,MATCHING_PAIR,Are you? Congratulations!,easy,MATCHING
+Are we still going to the cinema on Saturday night?,MATCHING_PAIR,I don't know yet. I'll ring you on Friday.,easy,MATCHING
+I'm having a party tomorrow night.,MATCHING_PAIR,Are you going to ask Jill to come too?,easy,MATCHING
+I'm taking the kids to the circus tomorrow afternoon.,MATCHING_PAIR,Are you? I'm sure they'll love it!,easy,MATCHING
+I think,MATCHING_PAIR,I'm going to buy the new Racetrack CD.,medium,MATCHING
+I'm thinking,MATCHING_PAIR,of getting Dad a CD for his birthday.,medium,MATCHING
+Phil's looking,MATCHING_PAIR,for his glasses. Have you seen them?,medium,MATCHING
+Phil looks,MATCHING_PAIR,like he needs a holiday!,medium,MATCHING
+Claire has,MATCHING_PAIR,darker hair than her sister.,medium,MATCHING
+Claire is having,MATCHING_PAIR,a haircut at the moment.,medium,MATCHING
+Andy is,MATCHING_PAIR,not old enough to drive a car.,medium,MATCHING
+Andy is being,MATCHING_PAIR,very annoying at the moment!,medium,MATCHING
+catch up with,MATCHING_PAIR,reach the same point/level as,medium,MATCHING
+check in,MATCHING_PAIR,register at a hotel or an airport,medium,MATCHING
+check out,MATCHING_PAIR,leave a hotel; investigate,medium,MATCHING
+drop off,MATCHING_PAIR,let someone get out of a vehicle; fall asleep,medium,MATCHING
+get back,MATCHING_PAIR,return from a place,medium,MATCHING
+keep up with,MATCHING_PAIR,stay at the same point/level as,medium,MATCHING
+make for,MATCHING_PAIR,go in the direction of,medium,MATCHING
+pull in,MATCHING_PAIR,stop by the side of the road in a car,medium,MATCHING
+run over,MATCHING_PAIR,hit with a car,medium,MATCHING
+see off,MATCHING_PAIR,"go to a train station, etc, to see someone leave",medium,MATCHING
+set out/off,MATCHING_PAIR,start a journey,medium,MATCHING
+turn round,MATCHING_PAIR,go back in the opposite direction,medium,MATCHING
+bring forward,MATCHING_PAIR,change the date/time of an event so it happens earlier,medium,MATCHING
+get round to,MATCHING_PAIR,start (after planning to do sth for a long time),medium,MATCHING
+get up to,MATCHING_PAIR,do; do sth you should not do,medium,MATCHING
+go in for,MATCHING_PAIR,"enter (a competition, etc); like",medium,MATCHING
+knock out,MATCHING_PAIR,defeat and remove from a competition; make unconscious,medium,MATCHING
+look out,MATCHING_PAIR,be careful,medium,MATCHING
+pull out,MATCHING_PAIR,stop being involved in an activity,medium,MATCHING
+put up with,MATCHING_PAIR,tolerate,medium,MATCHING
+take to,MATCHING_PAIR,start (as a habit),medium,MATCHING
+I'm not very fond,MATCHING_PAIR,of playing in goal.,medium,MATCHING
+She's interested,MATCHING_PAIR,in playing for the school team.,medium,MATCHING
+You should concentrate,MATCHING_PAIR,on getting fit.,medium,MATCHING
+I used to find it difficult,MATCHING_PAIR,to find enough time to have any hobbies.,medium,MATCHING
+Let's listen,MATCHING_PAIR,to what the coach thinks first.,medium,MATCHING
+We stopped,MATCHING_PAIR,to try to find the golf balls we'd lost.,medium,MATCHING
+The bad weather stopped us,MATCHING_PAIR,from finishing the game.,medium,MATCHING
+I refuse to put,MATCHING_PAIR,up with people who cheat at games.,medium,MATCHING
+The current champion was knocked,MATCHING_PAIR,out in the second round of the competition.,medium,MATCHING
+"I used to love basketball, but I've gone",MATCHING_PAIR,off team sports lately.,medium,MATCHING
+The trainer asked us to carry,MATCHING_PAIR,on with the activity while he answered the phone.,medium,MATCHING
+The organisers had to bring,MATCHING_PAIR,the race forward by a week.,medium,MATCHING
+You should think about taking,MATCHING_PAIR,"up a martial art, to defend yourself.",medium,MATCHING
+"Although she was very young, Olivia took",MATCHING_PAIR,to swimming as soon as she tried it.,medium,MATCHING
+Rob had to pull,MATCHING_PAIR,out of the race because of a last minute injury.,medium,MATCHING
+carry out,MATCHING_PAIR,"perform an experiment, etc",medium,MATCHING
+come off,MATCHING_PAIR,succeed,medium,MATCHING
+come up with,MATCHING_PAIR,"think of (an idea, a plan, etc)",medium,MATCHING
+give off,MATCHING_PAIR,produce sth such as heat or a smell,medium,MATCHING
+narrow down,MATCHING_PAIR,reduce the number of possibilities,medium,MATCHING
+plug in,MATCHING_PAIR,connect to the electricity supply,medium,MATCHING
+put through,MATCHING_PAIR,connect by phone,medium,MATCHING
+turn into,MATCHING_PAIR,change into sth different,medium,MATCHING
+Alex's electricity was cut,MATCHING_PAIR,off because she forgot to pay the bill.,medium,MATCHING
+Wear a mask because these chemicals give,MATCHING_PAIR,off fumes that can be harmful.,medium,MATCHING
+I'm writing an essay and I need to find,MATCHING_PAIR,out who discovered penicillin.,medium,MATCHING
+I was pleased that our gamble came,MATCHING_PAIR,off and the experiment was a success.,medium,MATCHING
+Alchemists spent years trying to turn,MATCHING_PAIR,metals such as lead into gold.,medium,MATCHING
+Your teacher says you've really come,MATCHING_PAIR,on in physics over the last year.,medium,MATCHING
+The fax machine has broken,MATCHING_PAIR,"down, so I'm afraid you'll have to wait until tomorrow.",medium,MATCHING
+A number of experiments have been carried,MATCHING_PAIR,out by physicists which prove that time can speed up and slow down.,medium,MATCHING
+Whoever came,MATCHING_PAIR,up with that idea should have won the Nobel Prize.,medium,MATCHING
+The electricity was cut,MATCHING_PAIR,off for over three hours yesterday.,medium,MATCHING
+I'd like to find,MATCHING_PAIR,out much more about technology in the Bronze Age.,medium,MATCHING
+This chemical gives,MATCHING_PAIR,off a very nasty smell when it's heated.,medium,MATCHING
+Cancer treatments have come,MATCHING_PAIR,on enormously in recent years.,medium,MATCHING
+I wonder if you could put me,MATCHING_PAIR,"through to the Radiology Department, please.",medium,MATCHING
+I'm quite busy so I've got,MATCHING_PAIR,very little time to talk to you now.,medium,MATCHING
+"Happily, we have had",MATCHING_PAIR,very few complaints from hotel guests recently.,medium,MATCHING
+My dad just got a good job so we have,MATCHING_PAIR,a little money for luxuries.,medium,MATCHING
+Pollution is improving now that,MATCHING_PAIR,a few people recycle their rubbish.,medium,MATCHING
+My mum has lost her job so we have,MATCHING_PAIR,little money for luxuries.,medium,MATCHING
+My lesson's been cancelled so I've got,MATCHING_PAIR,a little time to talk to you now.,medium,MATCHING
+It's a shame that,MATCHING_PAIR,few people recycle their rubbish.,medium,MATCHING
+"Unfortunately, we have had",MATCHING_PAIR,a few complaints from hotel guests recently.,medium,MATCHING
+flick through,MATCHING_PAIR,"turn and look at the pages of a magazine, etc quickly",medium,MATCHING
+go into,MATCHING_PAIR,deal with sth in detail,medium,MATCHING
+hand out,MATCHING_PAIR,give things to people in a group,medium,MATCHING
+make out,MATCHING_PAIR,"pretend that something is true; see, hear or understand sb or sth with difficulty",medium,MATCHING
+put forward,MATCHING_PAIR,suggest,medium,MATCHING
+see through,MATCHING_PAIR,recognise that sth is not true and not be tricked by it,medium,MATCHING
+stand out,MATCHING_PAIR,be easy to see because of being different,medium,MATCHING
+ask after,MATCHING_PAIR,ask for news about,medium,MATCHING
+fall for,MATCHING_PAIR,fall in love with; believe (a lie/trick/etc),medium,MATCHING
+look down on,MATCHING_PAIR,think that you are better than,medium,MATCHING
+look up to,MATCHING_PAIR,admire and respect,medium,MATCHING
+pass away,MATCHING_PAIR,die,medium,MATCHING
+pick on,MATCHING_PAIR,keep treating someone badly or unfairly,medium,MATCHING
+settle down,MATCHING_PAIR,"become calm after being upset, etc; stay in one place or get married and live quietly",medium,MATCHING
+stand up for,MATCHING_PAIR,support in an argument or fight,medium,MATCHING
+take aback,MATCHING_PAIR,surprise (usually in passive voice),medium,MATCHING
+"Last year, winter started so",MATCHING_PAIR,suddenly that many people were taken by surprise.,medium,MATCHING
+"Last winter, there were so",MATCHING_PAIR,many storms that we had floods.,medium,MATCHING
+"Last year, we had such",MATCHING_PAIR,a cold winter that I had to sleep with a hat on!,medium,MATCHING
+"Last winter, there was so",MATCHING_PAIR,much snow that I skied nearly every day.,medium,MATCHING
+"Last winter, there was such a lot of",MATCHING_PAIR,snow that many wild animals died.,medium,MATCHING
+Last winter was so,MATCHING_PAIR,cold that the water in the pipes froze.,medium,MATCHING
+back down,MATCHING_PAIR,"stop demanding sth, stop saying that you will do sth",medium,MATCHING
+break out,MATCHING_PAIR,escape (from prison),medium,MATCHING
+bring in,MATCHING_PAIR,introduce a new law or system,medium,MATCHING
+chase after,MATCHING_PAIR,follow sb/sth quickly in order to catch them,medium,MATCHING
+come forward,MATCHING_PAIR,offer help or information,medium,MATCHING
+hand in,MATCHING_PAIR,give to a person in authority,medium,MATCHING
+hold up,MATCHING_PAIR,rob while threatening violence; delay,medium,MATCHING
+let off,MATCHING_PAIR,"give little or no punishment; make a bomb, etc explode",medium,MATCHING
+look into,MATCHING_PAIR,investigate,medium,MATCHING
+make off,MATCHING_PAIR,escape,medium,MATCHING
+take in,MATCHING_PAIR,trick sb into believing sth that is not true,medium,MATCHING
+They accused me,MATCHING_PAIR,of shoplifting.,medium,MATCHING
+Our next-door neighbour was arrested,MATCHING_PAIR,for shoplifting.,medium,MATCHING
+Three people have been charged,MATCHING_PAIR,with theft.,medium,MATCHING
+She denied,MATCHING_PAIR,stealing the clothes.,medium,MATCHING
+I doubt whether,MATCHING_PAIR,she's guilty.,medium,MATCHING
+I caught a glimpse,MATCHING_PAIR,of someone shoplifting.,medium,MATCHING
+My friends made me,MATCHING_PAIR,steal something from the shop.,medium,MATCHING
+She says she was made,MATCHING_PAIR,to steal something from the shop.,medium,MATCHING
+It is illegal for,MATCHING_PAIR,someone to steal something from a shop.,medium,MATCHING
+I heard that they're going to bring,MATCHING_PAIR,in a law banning smoking in public places.,medium,MATCHING
+Police are appealing for members of the public to come,MATCHING_PAIR,forward with any information they feel might be useful.,medium,MATCHING
+Nobody was convinced when the man claimed the gun had gone,MATCHING_PAIR,off accidentally in his hand.,medium,MATCHING
+The policewoman started to take,MATCHING_PAIR,down everything I was saying and I knew I was in serious trouble.,medium,MATCHING
+Lots of old people have been taken,MATCHING_PAIR,in by this trick and have lost a lot of money.,medium,MATCHING
+Peterson was found guilty of holding,MATCHING_PAIR,up the bank and was sentenced to five years in prison.,medium,MATCHING
+Many people get,MATCHING_PAIR,away with serious crimes every day.,medium,MATCHING
+The policeman decided to let Shaun,MATCHING_PAIR,"off this time, but told him that he wouldn't be so lucky next time.",medium,MATCHING
+bring on,MATCHING_PAIR,"cause (an illness, etc)",medium,MATCHING
+come down with,MATCHING_PAIR,start to suffer from a minor illness,medium,MATCHING
+come round/to,MATCHING_PAIR,become conscious,medium,MATCHING
+feel up to,MATCHING_PAIR,feel well enough to do,medium,MATCHING
+pass out,MATCHING_PAIR,suddenly become unconscious,medium,MATCHING
+pull through,MATCHING_PAIR,"survive (a serious illness, etc)",medium,MATCHING
+wear off,MATCHING_PAIR,"stop being effective (for a drug, etc)",medium,MATCHING
+It is said that people who eat poorly are likely,MATCHING_PAIR,to have health problems later in life.,medium,MATCHING
+Did you know that you can have your eyes operated,MATCHING_PAIR,on with lasers these days?,medium,MATCHING
+I'm getting really tired of,MATCHING_PAIR,telling my dad to give up smoking.,medium,MATCHING
+Why don't you try,MATCHING_PAIR,going to the gym more often?,medium,MATCHING
+It really is worth,MATCHING_PAIR,losing a bit of weight.,medium,MATCHING
+The Pattersons have decided to pull,MATCHING_PAIR,out of our trip together because Angie's got a fever.,medium,MATCHING
+Mr Greene seems to find it difficult to get,MATCHING_PAIR,on with people from other countries.,medium,MATCHING
+"We haven't made a final decision, but we've narrowed it",MATCHING_PAIR,down to France or Spain for this summer's holiday.,medium,MATCHING
+Dad thought it might be a good idea to look,MATCHING_PAIR,up the train times on the Internet.,medium,MATCHING
+It seems that Matt has fallen,MATCHING_PAIR,out with Dave over their holiday plans.,medium,MATCHING
+I think it was Bob who came,MATCHING_PAIR,up with the idea of going to Poland.,medium,MATCHING
+The holiday started okay and then turned,MATCHING_PAIR,into a bit of a nightmare when our luggage got lost.,medium,MATCHING
+drop in (on),MATCHING_PAIR,visit unexpectedly,medium,MATCHING
+get on for,MATCHING_PAIR,"be almost a particular time, number, age, etc",medium,MATCHING
+go/come round,MATCHING_PAIR,go/come to sb's house to visit them,medium,MATCHING
+keep on,MATCHING_PAIR,continue doing sth,medium,MATCHING
+run into,MATCHING_PAIR,meet by chance,medium,MATCHING
+run out of,MATCHING_PAIR,not have any left,medium,MATCHING
+try out,MATCHING_PAIR,experiment with,medium,MATCHING
+turn out,MATCHING_PAIR,develop in a particular way or have a particular result,medium,MATCHING
+I think this milk has gone,MATCHING_PAIR,off so let's throw it away.,medium,MATCHING
+I ran,MATCHING_PAIR,into Bob in the supermarket yesterday.,medium,MATCHING
+We've run out,MATCHING_PAIR,of bread so could you go and get some?,medium,MATCHING
+Mum's trying,MATCHING_PAIR,out a new recipe tonight!,medium,MATCHING
+It must be getting,MATCHING_PAIR,on for dinner time.,medium,MATCHING
+We'd love you to come,MATCHING_PAIR,round for dinner sometime.,medium,MATCHING
+This lasagne hasn't turned,MATCHING_PAIR,out quite how I expected.,medium,MATCHING
+catch on,MATCHING_PAIR,understand,medium,MATCHING
+come (a)round (to),MATCHING_PAIR,be persuaded to change your mind (about),medium,MATCHING
+dawn on,MATCHING_PAIR,"if something dawns on you, you realise it for the first time",medium,MATCHING
+deal with,MATCHING_PAIR,"handle, cope with",medium,MATCHING
+drop out (of),MATCHING_PAIR,"leave school, etc before you have finished a course",medium,MATCHING
+get at,MATCHING_PAIR,try to express,medium,MATCHING
+get on with,MATCHING_PAIR,continue doing,medium,MATCHING
+give in,MATCHING_PAIR,stop making an effort to achieve sth difficult,medium,MATCHING
+sail through,MATCHING_PAIR,do something or deal with something very easily,medium,MATCHING
+set out,MATCHING_PAIR,"explain, describe or arrange sth in a clear and detailed way",medium,MATCHING
+think over,MATCHING_PAIR,consider,medium,MATCHING
+"You've sent that letter I gave you,",MATCHING_PAIR,haven't you?,medium,MATCHING
+"You catch the bus to school,",MATCHING_PAIR,don't you?,medium,MATCHING
+"You won't tell anyone about this,",MATCHING_PAIR,will you?,medium,MATCHING
+"You're a friend of Charlie's,",MATCHING_PAIR,aren't you?,medium,MATCHING
+"You were living in Hong Kong then,",MATCHING_PAIR,weren't you?,medium,MATCHING
+"You never work more than you have to,",MATCHING_PAIR,do you?,medium,MATCHING
+"You made no effort to make friends with Darren,",MATCHING_PAIR,did you?,medium,MATCHING
+"You got Jimmy a cap for his birthday,",MATCHING_PAIR,didn't you?,medium,MATCHING
+call for,MATCHING_PAIR,require; need; demand,medium,MATCHING
+die down,MATCHING_PAIR,"become less noisy, powerful or active",medium,MATCHING
+face up to,MATCHING_PAIR,accept sth and try to deal with it,medium,MATCHING
+get (sb) down,MATCHING_PAIR,make sb feel sad or lose hope,medium,MATCHING
+put down to,MATCHING_PAIR,suggest that sth is the result of,medium,MATCHING
+set in,MATCHING_PAIR,"start and be likely to continue for a while (for rain, winter, an economic depression, etc)",medium,MATCHING
+stand for,MATCHING_PAIR,represent (for abbreviations and symbols); put up with,medium,MATCHING
+tear down,MATCHING_PAIR,"destroy or remove (for buildings, statues, etc)",medium,MATCHING
+bank on,MATCHING_PAIR,depend on sth happening,medium,MATCHING
+come by,MATCHING_PAIR,"get sth, especially sth that is hard to get",medium,MATCHING
+come into,MATCHING_PAIR,inherit,medium,MATCHING
+do without,MATCHING_PAIR,live without (sth you can't afford),medium,MATCHING
+get by,MATCHING_PAIR,manage to survive (financially),medium,MATCHING
+get through,MATCHING_PAIR,use all of; finish,medium,MATCHING
+live on,MATCHING_PAIR,use as a source of money,medium,MATCHING
+look round,MATCHING_PAIR,examine (a place),medium,MATCHING
+make up for,MATCHING_PAIR,"provide sth good, so that sth bad seems less important",medium,MATCHING
+put by,MATCHING_PAIR,save an amount of money for the future,medium,MATCHING
+I can't believe they charged me,MATCHING_PAIR,for using the hotel pool.,medium,MATCHING
+The old lady begged me,MATCHING_PAIR,to give her some money.,medium,MATCHING
+I'll never forget,MATCHING_PAIR,learning that I had the winning ticket.,medium,MATCHING
+My dad and my uncle always argue,MATCHING_PAIR,about the economy.,medium,MATCHING
+I was shocked when the bank demanded,MATCHING_PAIR,that I pay back my loan immediately.,medium,MATCHING
+We really can't afford,MATCHING_PAIR,to buy a new fridge.,medium,MATCHING
+Debra paid the money,MATCHING_PAIR,to the girl at the desk and left.,medium,MATCHING
+Sharon came,MATCHING_PAIR,into some money when her aunt died.,medium,MATCHING
+I manage to put,MATCHING_PAIR,a little money by each month.,medium,MATCHING
+You can bank,MATCHING_PAIR,on house prices coming down soon.,medium,MATCHING
+I don't know how they can get,MATCHING_PAIR,by on such a low salary.,medium,MATCHING
+If you could make,MATCHING_PAIR,"out the cheque to Peardrop Limited, that would be fine.",medium,MATCHING
+The shop's giving,MATCHING_PAIR,away free software with every computer.,medium,MATCHING
+I'm saving,MATCHING_PAIR,up to buy a new DVD player.,medium,MATCHING
+I don't know what we're going to live,MATCHING_PAIR,on now I've lost my job.,medium,MATCHING
+come (a)round,MATCHING_PAIR,happen again (for regular events),medium,MATCHING
+count on,MATCHING_PAIR,rely on; trust,medium,MATCHING
+drown out,MATCHING_PAIR,prevent a sound from being heard by making a louder noise,medium,MATCHING
+get along (with),MATCHING_PAIR,have a good relationship (with),medium,MATCHING
+go down (as),MATCHING_PAIR,be remembered for having done something,medium,MATCHING
+grow on,MATCHING_PAIR,"if sth grows on you, you start to like it more",medium,MATCHING
+name after,MATCHING_PAIR,give sb or sth the same name as sb or sth else,medium,MATCHING
+show off,MATCHING_PAIR,try to attract people's attention and make them admire you (usually used negatively),medium,MATCHING
+take after,MATCHING_PAIR,look or behave like an older relative,medium,MATCHING
+Although,MATCHING_PAIR,"Aesop's a vegetarian, he does occasionally eat fish.",medium,MATCHING
+Despite,MATCHING_PAIR,"being a vegetarian, Aesop does occasionally eat fish.",medium,MATCHING
+Despite the,MATCHING_PAIR,"fact that Aesop is a vegetarian, he does occasionally eat fish.",medium,MATCHING
+"Aesop is a vegetarian,",MATCHING_PAIR,although he does occasionally eat fish.,medium,MATCHING
+"Despite his vegetarianism,",MATCHING_PAIR,Aesop does occasionally eat fish.,medium,MATCHING
+In spite,MATCHING_PAIR,"of being a vegetarian, Aesop does occasionally eat fish.",medium,MATCHING
+Despite having,MATCHING_PAIR,"been a vegetarian for years, Aesop does occasionally eat fish.",medium,MATCHING
+"Aesop is a vegetarian. However, he",MATCHING_PAIR,does occasionally eat fish.,medium,MATCHING
+Aesop is a vegetarian. He does,MATCHING_PAIR,"occasionally eat fish, however.",medium,MATCHING
+do away with,MATCHING_PAIR,get rid of,medium,MATCHING
+draw up,MATCHING_PAIR,"create (plans, etc)",medium,MATCHING
+dress up,MATCHING_PAIR,put on fancy or unusual clothes,medium,MATCHING
+go over,MATCHING_PAIR,repeat or think about again in order to understand completely,medium,MATCHING
+grow out of,MATCHING_PAIR,develop from; become too big for,medium,MATCHING
+hand down,MATCHING_PAIR,"give something valuable to your children or grandchildren, usually when you die",medium,MATCHING
+line up,MATCHING_PAIR,get/put into lines,medium,MATCHING
+pop in(to),MATCHING_PAIR,visit quickly or for a short time,medium,MATCHING
+show (a)round,MATCHING_PAIR,take sb on a tour of a place,medium,MATCHING
+tear up,MATCHING_PAIR,rip into pieces,medium,MATCHING
+wear out,MATCHING_PAIR,become old and unusable,medium,MATCHING
+I'm just going to pop,MATCHING_PAIR,into that new boutique for a few minutes.,medium,MATCHING
+I've grown,MATCHING_PAIR,out of these shoes so my mum's going to get me some new ones.,medium,MATCHING
+I'd like to try,MATCHING_PAIR,on that jacket you've got hanging in the window.,medium,MATCHING
+I never thought that skirts for men would catch,MATCHING_PAIR,"on, but they have!",medium,MATCHING
+We all lined,MATCHING_PAIR,up and they took our measurements.,medium,MATCHING
+I'd take,MATCHING_PAIR,off my shoes but I think my feet smell!,medium,MATCHING
+Let's all dress,MATCHING_PAIR,up for the Halloween party!,medium,MATCHING
+back out,MATCHING_PAIR,decide not to do sth you agreed to do,medium,MATCHING
+bring out,MATCHING_PAIR,produce and start to sell a new product,medium,MATCHING
+close down,MATCHING_PAIR,stop operating (for companies),medium,MATCHING
+see through (to),MATCHING_PAIR,continue (or help to continue) to the end of sth unpleasant or difficult,medium,MATCHING
+see to,MATCHING_PAIR,deal with,medium,MATCHING
+set to,MATCHING_PAIR,start doing sth in a determined or enthusiastic way,medium,MATCHING
+slow down,MATCHING_PAIR,decrease speed,medium,MATCHING
+speed up,MATCHING_PAIR,increase speed,medium,MATCHING
+stand in for,MATCHING_PAIR,do sb's job for them while they are not available,medium,MATCHING
+take on,MATCHING_PAIR,start to employ; accept (work or responsibility),medium,MATCHING
+I put a lot of effort,MATCHING_PAIR,into writing this report.,medium,MATCHING
+They've made their decision,MATCHING_PAIR,about who's going to get promoted.,medium,MATCHING
+It's not in your interest to,MATCHING_PAIR,accept a pay cut.,medium,MATCHING
+The secretary's kept me,MATCHING_PAIR,on hold for ages.,medium,MATCHING
+I don't know why you didn't apply,MATCHING_PAIR,for that position.,medium,MATCHING
+I think we're all in agreement,MATCHING_PAIR,"on this, aren't we?",medium,MATCHING
+Dean's been out,MATCHING_PAIR,of work for over two months now.,medium,MATCHING
+The shop hasn't been in,MATCHING_PAIR,business long.,medium,MATCHING
+I'm glad you're finally taking an interest,MATCHING_PAIR,in your work.,medium,MATCHING
+Jason lives fairly near his place of,MATCHING_PAIR,"work, doesn't he?",medium,MATCHING
+Ironworks Limited has closed,MATCHING_PAIR,down and 400 people have lost their jobs.,medium,MATCHING
+Henry asked Janet to stand,MATCHING_PAIR,in for him while he went into town.,medium,MATCHING
+Mr Carter asked me to see,MATCHING_PAIR,to the orders while he spoke to a customer.,medium,MATCHING
+I heard that Bigburger have taken,MATCHING_PAIR,over Cookright and plan to close some branches.,medium,MATCHING
+Roger says he never set,MATCHING_PAIR,out to become a millionaire - it just happened!,medium,MATCHING
+"When we can afford it, we're going to do",MATCHING_PAIR,up the attic and turn it into a spare bedroom.,medium,MATCHING
+Jason's thinking of dropping,MATCHING_PAIR,out of college and getting a job.,medium,MATCHING
+When the factory closed,MATCHING_PAIR,"down, hundreds of workers lost their jobs.",medium,MATCHING
+They should do away,MATCHING_PAIR,with cheque books now that everyone has a credit card.,medium,MATCHING
+Let me take you out to dinner to make,MATCHING_PAIR,up for forgetting your birthday.,medium,MATCHING
+I never wanted a mortgage but I'm coming,MATCHING_PAIR,round to the idea now.,medium,MATCHING
+Cynthia's decided to set,MATCHING_PAIR,up a small business producing temporary tattoos.,medium,MATCHING
+voyage,MATCHING_PAIR,"a long journey, especially on a ship",medium,MATCHING
+travel,MATCHING_PAIR,the activity of travelling,medium,MATCHING
+excursion,MATCHING_PAIR,a short journey that you make for pleasure,medium,MATCHING
+view,MATCHING_PAIR,the things that you can see from a particular place,medium,MATCHING
+sight,MATCHING_PAIR,a person or a thing that you see that has a particular feature,medium,MATCHING
+world,MATCHING_PAIR,the planet that we live on,medium,MATCHING
+go,MATCHING_PAIR,to move or travel to a place that is away from where you are now,medium,MATCHING
+keep,MATCHING_PAIR,to continue to have or own something,medium,MATCHING
+arrive,MATCHING_PAIR,to reach a place,medium,MATCHING
+live,MATCHING_PAIR,to have your home in a particular place,medium,MATCHING
+stay,MATCHING_PAIR,to live or remain in a place for a while as a guest or visitor,medium,MATCHING
+border,MATCHING_PAIR,the official line that separates two countries or regions,medium,MATCHING
+edge,MATCHING_PAIR,the part of something that is furthest from its centre,medium,MATCHING
+line,MATCHING_PAIR,a long thin mark on the surface of something,medium,MATCHING
+earth,MATCHING_PAIR,the land on which we live,medium,MATCHING
+area,MATCHING_PAIR,a part of a place or building,medium,MATCHING
+territory,MATCHING_PAIR,"an area of land that is controlled by a particular country, leader or army",medium,MATCHING
+season,MATCHING_PAIR,one of the four periods into which the year is divided according to the weather,medium,MATCHING
+period,MATCHING_PAIR,an amount of time,medium,MATCHING
+fare,MATCHING_PAIR,the money that you pay for a journey,medium,MATCHING
+ticket,MATCHING_PAIR,"a piece of paper that shows that you have paid to do something such as travel on a train, bus, plane, etc",medium,MATCHING
+miss,MATCHING_PAIR,to be too late for something such as a train or bus,medium,MATCHING
+lose,MATCHING_PAIR,to no longer have something,medium,MATCHING
+length,MATCHING_PAIR,a measurement of how long something is in size,medium,MATCHING
+distance,MATCHING_PAIR,the amount of space between two people or things,medium,MATCHING
+guide,MATCHING_PAIR,to show someone where to go by going with them,medium,MATCHING
+lead,MATCHING_PAIR,"to take someone to a place by going there with them, usually in front of them",medium,MATCHING
+native,MATCHING_PAIR,living in a particular country or area since birth,medium,MATCHING
+home (town),MATCHING_PAIR,the city or town where you lived as a child,medium,MATCHING
+pitch,MATCHING_PAIR,a flat area of ground that is used for playing sports on,medium,MATCHING
+track,MATCHING_PAIR,a piece of ground that is used for running or racing,medium,MATCHING
+take,MATCHING_PAIR,to move or carry someone or something from one place to another,medium,MATCHING
+bring,MATCHING_PAIR,to take someone or something with you from one place to another,medium,MATCHING
+rink,MATCHING_PAIR,a large flat area where people go to skate,medium,MATCHING
+win,MATCHING_PAIR,"to defeat everyone else by being the best, or by finishing first in a competition",medium,MATCHING
+play,MATCHING_PAIR,a piece of writing that is intended to be performed by actors in a theatre or on television or the radio,medium,MATCHING
+game,MATCHING_PAIR,"an activity that you take part in for fun, usually one that has rules",medium,MATCHING
+spectator,MATCHING_PAIR,someone who watches a public activity or event,medium,MATCHING
+umpire,MATCHING_PAIR,"someone whose job is to make sure that players obey the rules in some sports, for example tennis, baseball and cricket",medium,MATCHING
+final,MATCHING_PAIR,"the last game, race, etc in a competition, that decides who wins the whole competition",medium,MATCHING
+finale,MATCHING_PAIR,the last part of a performance with the most exciting music and dancing,medium,MATCHING
+end,MATCHING_PAIR,the time when a situation or an event stops,medium,MATCHING
+ending,MATCHING_PAIR,"the way in which a story, film or play ends",medium,MATCHING
+bat,MATCHING_PAIR,"a wooden object used for hitting the ball in games such as baseball, cricket and table tennis",medium,MATCHING
+stick,MATCHING_PAIR,a long thin piece of wood that is used for hitting or carrying something in a sport,medium,MATCHING
+rod,MATCHING_PAIR,"a long thin bar or stick made of metal, plastic or wood",medium,MATCHING
+racket,MATCHING_PAIR,an object used for hitting the ball in games such as tennis,medium,MATCHING
+amateur,MATCHING_PAIR,done for pleasure instead of as a job,medium,MATCHING
+professional,MATCHING_PAIR,playing a sport or taking part in an activity as a job rather than for enjoyment,medium,MATCHING
+sport,MATCHING_PAIR,sports in general,medium,MATCHING
+athletics,MATCHING_PAIR,"sports such as running, throwing and jumping",medium,MATCHING
+interval,MATCHING_PAIR,a short break between the parts of something such as a play or concert,medium,MATCHING
+half time,MATCHING_PAIR,"in football and some other team sports, a period of rest between the two halves of a match",medium,MATCHING
+draw,MATCHING_PAIR,"if two teams or opponents draw, or if they draw a match, they both have the same score, so that neither wins",medium,MATCHING
+equal,MATCHING_PAIR,to be as good as someone or something else,medium,MATCHING
+competitor,MATCHING_PAIR,someone who takes part in a competition,medium,MATCHING
+false,MATCHING_PAIR,made to look like something real,medium,MATCHING
+natural,MATCHING_PAIR,"existing in nature, and not produced by people",medium,MATCHING
+physical,MATCHING_PAIR,"real and able to be seen, touched or felt",medium,MATCHING
+true,MATCHING_PAIR,based on facts or on things that really happened,medium,MATCHING
+accurate,MATCHING_PAIR,correct in every detail and without any mistakes,medium,MATCHING
+method,MATCHING_PAIR,"a way of doing something, especially a planned or established way",medium,MATCHING
+way,MATCHING_PAIR,a method for doing something,medium,MATCHING
+engine,MATCHING_PAIR,the part of a vehicle that makes it move,medium,MATCHING
+machine,MATCHING_PAIR,a piece of equipment with moving parts that does a particular job,medium,MATCHING
+motor,MATCHING_PAIR,the part of a machine or vehicle that makes it work,medium,MATCHING
+aim,MATCHING_PAIR,the thing that you hope to achieve by doing something,medium,MATCHING
+reason,MATCHING_PAIR,"a fact, situation or intention that explains why something happened, why someone did something or why something is true",medium,MATCHING
+calculate,MATCHING_PAIR,to discover a number or amount by using mathematics,medium,MATCHING
+electric,MATCHING_PAIR,using or relating to electricity,medium,MATCHING
+electronic,MATCHING_PAIR,"using electricity and extremely small electrical parts, such as microchips",medium,MATCHING
+progress,MATCHING_PAIR,the process of developing or improving,medium,MATCHING
+development,MATCHING_PAIR,"change, growth or improvement over a period of time",medium,MATCHING
+modern,MATCHING_PAIR,relating to or belonging to the present time,medium,MATCHING
+new,MATCHING_PAIR,"recently made, invented or developed",medium,MATCHING
+factory,MATCHING_PAIR,a building where large quantities of goods are produced using machines,medium,MATCHING
+award,MATCHING_PAIR,a prize that is given to someone who has achieved something,medium,MATCHING
+reward,MATCHING_PAIR,something good that happens or that you receive because of something that you have done,medium,MATCHING
+take place,MATCHING_PAIR,to happen,medium,MATCHING
+occur,MATCHING_PAIR,to happen,medium,MATCHING
+agree,MATCHING_PAIR,to have the same opinion as someone else,medium,MATCHING
+headline,MATCHING_PAIR,"the title of a newspaper story, printed in large letters",medium,MATCHING
+heading,MATCHING_PAIR,the title at the top of a page or piece of writing,medium,MATCHING
+feature,MATCHING_PAIR,"a newspaper or magazine article, or a part of a television or radio programme that concentrates on a particular subject",medium,MATCHING
+article,MATCHING_PAIR,a piece of writing in a newspaper or magazine,medium,MATCHING
+talk show,MATCHING_PAIR,a television or radio programme in which famous people talk about themselves and their work,medium,MATCHING
+quiz show,MATCHING_PAIR,a television or radio programme in which people answer questions in order to win prizes,medium,MATCHING
+game show,MATCHING_PAIR,a television programme in which people play games or answer questions in order to win prizes,medium,MATCHING
+announcer,MATCHING_PAIR,someone whose job is to give information about television or radio programmes between other programmes,medium,MATCHING
+commentator,MATCHING_PAIR,someone whose job is to give a description of an event on television or radio as it happens,medium,MATCHING
+tabloid,MATCHING_PAIR,a newspaper that has small pages and not much serious news,medium,MATCHING
+broadsheet,MATCHING_PAIR,a serious type of newspaper that is printed on large sheets of paper,medium,MATCHING
+journalist,MATCHING_PAIR,"someone whose job is to report the news for a newspaper, magazine, radio programme or television programme",medium,MATCHING
+columnist,MATCHING_PAIR,a journalist who writes a regular series of articles for a particular newspaper or magazine,medium,MATCHING
+press,MATCHING_PAIR,"newspapers and news magazines, or the journalists who work on them",medium,MATCHING
+programme,MATCHING_PAIR,a television or radio broadcast,medium,MATCHING
+bulletin,MATCHING_PAIR,a short news broadcast,medium,MATCHING
+newsflash,MATCHING_PAIR,a short broadcast of an important piece of news in the middle of a television or radio programme,medium,MATCHING
+relationship,MATCHING_PAIR,the way in which two or more people or groups behave towards each other,medium,MATCHING
+connection,MATCHING_PAIR,a relationship between things or people,medium,MATCHING
+blame,MATCHING_PAIR,"responsibility for an accident, problem or bad situation",medium,MATCHING
+fault,MATCHING_PAIR,the fact of being responsible for a bad or unpleasant situation,medium,MATCHING
+old,MATCHING_PAIR,something that is old has existed or been used for a long time,medium,MATCHING
+crowd,MATCHING_PAIR,a large number of people in the same place,medium,MATCHING
+audience,MATCHING_PAIR,the people who watch or listen to a performance,medium,MATCHING
+enjoy,MATCHING_PAIR,to get pleasure from something,medium,MATCHING
+please,MATCHING_PAIR,to make someone feel happy and satisfied,medium,MATCHING
+assist,MATCHING_PAIR,to help someone or something,medium,MATCHING
+kind,MATCHING_PAIR,behaving in a way that shows you care about other people and want to help them,medium,MATCHING
+sympathetic,MATCHING_PAIR,willing to understand someone's problems and help them,medium,MATCHING
+likeable,MATCHING_PAIR,"pleasant, friendly and easy to like",medium,MATCHING
+nervous,MATCHING_PAIR,"feeling excited and worried, or slightly afraid",medium,MATCHING
+sensitive,MATCHING_PAIR,likely to become upset very easily,medium,MATCHING
+popular,MATCHING_PAIR,liked by many people,medium,MATCHING
+famous,MATCHING_PAIR,"if someone or something is famous, a lot of people know their name or have heard about them",medium,MATCHING
+usual,MATCHING_PAIR,"typical of what happens in most situations, or of what people do in most situations",medium,MATCHING
+near,MATCHING_PAIR,close to someone or something,medium,MATCHING
+unknown,MATCHING_PAIR,"if something is unknown, people do not know about it or do not know what it is",medium,MATCHING
+infamous,MATCHING_PAIR,well known for something bad,medium,MATCHING
+proof,MATCHING_PAIR,information or evidence that shows that something is definitely true,medium,MATCHING
+evidence,MATCHING_PAIR,"facts, statements or objects that help to prove whether someone has committed a crime",medium,MATCHING
+suspect (v),MATCHING_PAIR,to believe that something is true,medium,MATCHING
+charge,MATCHING_PAIR,to accuse someone of committing a crime,medium,MATCHING
+suspect (n),MATCHING_PAIR,someone who might have committed a crime,medium,MATCHING
+accused,MATCHING_PAIR,someone who is accused of a crime in a court of law,medium,MATCHING
+decision,MATCHING_PAIR,a choice that you make after you have thought carefully about something,medium,MATCHING
+verdict,MATCHING_PAIR,an official judgment made in a court,medium,MATCHING
+rule,MATCHING_PAIR,a statement that explains what you can or cannot do in a particular situation,medium,MATCHING
+law,MATCHING_PAIR,the system of rules that must be obeyed in society,medium,MATCHING
+justice,MATCHING_PAIR,treatment of people that is fair and morally right,medium,MATCHING
+right,MATCHING_PAIR,something that you are morally or legally allowed to do or have,medium,MATCHING
+judge,MATCHING_PAIR,someone whose job is to make decisions in a court of law,medium,MATCHING
+jury,MATCHING_PAIR,a group of members of the public who decide whether someone is guilty in a court case,medium,MATCHING
+prosecute,MATCHING_PAIR,to officially accuse someone of a crime and ask a court of law to judge them,medium,MATCHING
+persecute,MATCHING_PAIR,"to treat someone very badly because of their race, religion or political beliefs",medium,MATCHING
+capital punishment,MATCHING_PAIR,the punishment of legally killing someone who has committed a serious crime,medium,MATCHING
+corporal punishment,MATCHING_PAIR,punishment that consists of hitting someone,medium,MATCHING
+robber,MATCHING_PAIR,someone who steals money or property,medium,MATCHING
+burglar,MATCHING_PAIR,someone who enters a building illegally in order to steal things,medium,MATCHING
+thief,MATCHING_PAIR,someone who steals something,medium,MATCHING
+vandal,MATCHING_PAIR,"someone who deliberately damages or destroys things, especially public property",medium,MATCHING
+hooligan,MATCHING_PAIR,someone who is noisy or violent in public places,medium,MATCHING
+sentence,MATCHING_PAIR,"if a judge sentences someone, they officially say what that person's punishment will be",medium,MATCHING
+imprison,MATCHING_PAIR,"to put someone in a prison, or to keep them in a place that they cannot escape from",medium,MATCHING
+innocent,MATCHING_PAIR,not guilty of a crime or anything bad,medium,MATCHING
+guilty,MATCHING_PAIR,someone who is guilty has committed a crime or has done something wrong,medium,MATCHING
+witness,MATCHING_PAIR,"someone who sees a crime, accident or other event happen",medium,MATCHING
+bystander,MATCHING_PAIR,"someone who sees an event happen, but who is not directly involved in it",medium,MATCHING
+lawyer,MATCHING_PAIR,someone whose profession is to provide people with legal advice and services,medium,MATCHING
+solicitor,MATCHING_PAIR,"in the UK, a lawyer who gives legal advice, writes legal contracts, and represents people in the lower courts of law",medium,MATCHING
+prescription,MATCHING_PAIR,a piece of paper that a doctor gives you that says what type of medicine you need,medium,MATCHING
+recipe,MATCHING_PAIR,a set of instructions for cooking or preparing a particular food,medium,MATCHING
+operation,MATCHING_PAIR,the process of cutting into someone's body for medical reasons,medium,MATCHING
+surgery,MATCHING_PAIR,medical treatment in which a doctor cuts open someone's body,medium,MATCHING
+sore,MATCHING_PAIR,"painful and uncomfortable, usually as a result of an injury, infection or too much exercise",medium,MATCHING
+pain,MATCHING_PAIR,a bad feeling in part of your body when you are hurt or become ill,medium,MATCHING
+illness,MATCHING_PAIR,"a particular disease, or a period of being ill",medium,MATCHING
+disease,MATCHING_PAIR,"an illness that affects people, animals or plants",medium,MATCHING
+injured,MATCHING_PAIR,hurt in an accident or attack,medium,MATCHING
+damaged,MATCHING_PAIR,harmed physically,medium,MATCHING
+thin,MATCHING_PAIR,someone who is thin has very little fat on their body,medium,MATCHING
+slim,MATCHING_PAIR,thin in an attractive way,medium,MATCHING
+remedy,MATCHING_PAIR,a cure for pain or for a minor illness,medium,MATCHING
+therapy,MATCHING_PAIR,a form of treatment for an illness or medical condition,medium,MATCHING
+fit,MATCHING_PAIR,"healthy, strong and able to do physical exercise",medium,MATCHING
+examine,MATCHING_PAIR,to look at something or someone carefully,medium,MATCHING
+pollution,MATCHING_PAIR,"chemicals and other substances that have a harmful effect on air, water or land",medium,MATCHING
+plaster,MATCHING_PAIR,a thin piece of cloth or plastic that sticks to your skin to cover a cut,medium,MATCHING
+bandage,MATCHING_PAIR,a long thin piece of cloth that you wrap around an injured part of your body,medium,MATCHING
+ward,MATCHING_PAIR,a large room in a hospital with beds for people to stay in,medium,MATCHING
+clinic,MATCHING_PAIR,a place where people go to receive a particular type of medical treatment or advice,medium,MATCHING
+dose,MATCHING_PAIR,a particular amount of a drug or medicine that has been measured so that you can take it,medium,MATCHING
+fever,MATCHING_PAIR,a medical condition in which the temperature of your body is very high,medium,MATCHING
+rash,MATCHING_PAIR,an area of small red spots on your skin that is caused by an illness or a reaction to something,medium,MATCHING
+grate,MATCHING_PAIR,to rub food against a grater in order to cut it into small pieces,medium,MATCHING
+bake,MATCHING_PAIR,to cook food such as bread and cakes in an oven,medium,MATCHING
+grill (v),MATCHING_PAIR,to cook something by putting it close to great heat above or below it,medium,MATCHING
+fry,MATCHING_PAIR,"to cook food in hot oil or fat, or to be cooked in this way",medium,MATCHING
+roast,MATCHING_PAIR,to cook meat or vegetables in an oven,medium,MATCHING
+boil,MATCHING_PAIR,"to cook something in boiling water, or to be cooked in this way",medium,MATCHING
+cook (n),MATCHING_PAIR,"someone who cooks food, either as their job or for pleasure",medium,MATCHING
+cooker,MATCHING_PAIR,a large piece of kitchen equipment that you use for cooking food,medium,MATCHING
+chef,MATCHING_PAIR,someone whose job is to cook food in a restaurant,medium,MATCHING
+oven,MATCHING_PAIR,a large piece of equipment in a kitchen that you cook food in,medium,MATCHING
+grill (n),MATCHING_PAIR,the part of a cooker where food is cooked under great heat,medium,MATCHING
+hob,MATCHING_PAIR,the top part of a cooker that you put pans on,medium,MATCHING
+kitchen,MATCHING_PAIR,"a room where you prepare and cook food, and wash dishes",medium,MATCHING
+cuisine,MATCHING_PAIR,a particular style of cooking,medium,MATCHING
+lunch,MATCHING_PAIR,a meal that you eat in the middle of the day,medium,MATCHING
+dinner,MATCHING_PAIR,"the main meal of the day, usually eaten in the evening",medium,MATCHING
+plate,MATCHING_PAIR,a flat round dish that you put food on,medium,MATCHING
+bowl,MATCHING_PAIR,"a round container that you use for eating, serving or preparing food",medium,MATCHING
+saucer,MATCHING_PAIR,a small round flat dish that you put a cup on,medium,MATCHING
+dish,MATCHING_PAIR,food that has been prepared and cooked in a particular way,medium,MATCHING
+vegetable,MATCHING_PAIR,"a part of a plant used as food, for example a potato, bean or cabbage",medium,MATCHING
+vegetarian,MATCHING_PAIR,someone who chooses not to eat meat or fish,medium,MATCHING
+vegan,MATCHING_PAIR,"someone who chooses not to eat anything made from animals or fish, including eggs, milk and cheese",medium,MATCHING
+fast food,MATCHING_PAIR,"food that is made and served very quickly, and that you can take away with you",medium,MATCHING
+takeaway,MATCHING_PAIR,a meal that you buy in a restaurant and take home to eat,medium,MATCHING
+kettle,MATCHING_PAIR,a container that is used for boiling water,medium,MATCHING
+teapot,MATCHING_PAIR,a container with a handle and a spout that you use for making and pouring tea,medium,MATCHING
+freezer,MATCHING_PAIR,a large piece of electrical equipment that is used for freezing food,medium,MATCHING
+fridge,MATCHING_PAIR,a piece of equipment that is used for storing food at low temperatures,medium,MATCHING
+frozen,MATCHING_PAIR,preserved by being made extremely cold and stored at a very low temperature,medium,MATCHING
+mix,MATCHING_PAIR,to combine two or more substances so that they become a single substance,medium,MATCHING
+whisk,MATCHING_PAIR,to mix something such as eggs or cream using a whisk or a fork,medium,MATCHING
+soft drink,MATCHING_PAIR,a cold drink that does not contain any alcohol,medium,MATCHING
+fizzy drink,MATCHING_PAIR,a sweet drink without alcohol that has bubbles,medium,MATCHING
+menu,MATCHING_PAIR,a list of the food that is available in a restaurant,medium,MATCHING
+read,MATCHING_PAIR,"to look at and understand words in a letter, book, newspaper, etc",medium,MATCHING
+study,MATCHING_PAIR,to do work such as reading and homework,medium,MATCHING
+test,MATCHING_PAIR,a set of written or spoken questions that is used for finding out how much someone knows about a subject,medium,MATCHING
+exam,MATCHING_PAIR,"an important test of your knowledge, especially one that you take at school or university",medium,MATCHING
+primary,MATCHING_PAIR,relating to the education of children between the ages of about five and eleven,medium,MATCHING
+secondary,MATCHING_PAIR,relating to the education of children between the ages of 11 and 16 or 18,medium,MATCHING
+high school,MATCHING_PAIR,"in the UK, a school for children between 11-18; in the US, between 14-18",medium,MATCHING
+classmate,MATCHING_PAIR,someone who is in your class at school,medium,MATCHING
+prefect,MATCHING_PAIR,"in some schools in the UK, an older student who controls activities of younger students and helps them obey rules",medium,MATCHING
+pupil,MATCHING_PAIR,someone who goes to school or who has lessons in a particular subject,medium,MATCHING
+student,MATCHING_PAIR,"someone who goes to a university, college or school",medium,MATCHING
+qualifications,MATCHING_PAIR,something such as a degree or a diploma that you get when you successfully finish a course of study,medium,MATCHING
+qualities,MATCHING_PAIR,positive features of a person's character,medium,MATCHING
+count,MATCHING_PAIR,to calculate how many people or things there are in a group,medium,MATCHING
+measure,MATCHING_PAIR,"to find the exact size, amount, speed or rate of something",medium,MATCHING
+certificate,MATCHING_PAIR,an official document that proves that you have passed an examination or have successfully completed a course,medium,MATCHING
+results,MATCHING_PAIR,the mark that a student gets in an examination,medium,MATCHING
+speak,MATCHING_PAIR,to be able to talk in a particular language,medium,MATCHING
+talk,MATCHING_PAIR,"to speak, or to have a conversation",medium,MATCHING
+lesson,MATCHING_PAIR,a period of time in which students are taught about a subject in school,medium,MATCHING
+task,MATCHING_PAIR,"something that you have to do, often something that is difficult or unpleasant",medium,MATCHING
+effort,MATCHING_PAIR,physical or mental energy needed to do something,medium,MATCHING
+know,MATCHING_PAIR,to be familiar with someone or something,medium,MATCHING
+teach,MATCHING_PAIR,"to help students to learn something in a school, college or university by giving lessons",medium,MATCHING
+learn,MATCHING_PAIR,"to gain knowledge or experience of something, for example by being taught",medium,MATCHING
+urban,MATCHING_PAIR,relating to towns and cities,medium,MATCHING
+suburb,MATCHING_PAIR,an area where people live that is outside the centre of a city,medium,MATCHING
+rural,MATCHING_PAIR,"relating to the countryside, or typical of the countryside",medium,MATCHING
+city,MATCHING_PAIR,a large/important town,medium,MATCHING
+town,MATCHING_PAIR,"a place where people live and work, which is larger than a village but smaller than a city",medium,MATCHING
+village,MATCHING_PAIR,a very small town in the countryside,medium,MATCHING
+work,MATCHING_PAIR,"to have a job, or to spend time and effort doing something",medium,MATCHING
+job,MATCHING_PAIR,work that you do regularly to earn money,medium,MATCHING
+workshop,MATCHING_PAIR,a room or building where things are made or repaired using machines and/or tools,medium,MATCHING
+employer,MATCHING_PAIR,a person or organisation that pays people to work for them,medium,MATCHING
+employee,MATCHING_PAIR,someone who is paid to work for a person or organisation,medium,MATCHING
+manage,MATCHING_PAIR,"to be in control of an office, shop, team, etc",medium,MATCHING
+wage,MATCHING_PAIR,"an amount of money that you receive for each hour, day or week that you work",medium,MATCHING
+pay (n),MATCHING_PAIR,money that you receive for doing your job,medium,MATCHING
+bonus,MATCHING_PAIR,extra money that you are paid in addition to your usual salary,medium,MATCHING
+perk,MATCHING_PAIR,an extra payment or benefit that you get in addition to your salary,medium,MATCHING
+commute,MATCHING_PAIR,to travel regularly to and from work,medium,MATCHING
+deliver,MATCHING_PAIR,to take something to a person or place,medium,MATCHING
+resign,MATCHING_PAIR,to state formally that you are leaving your job,medium,MATCHING
+fire,MATCHING_PAIR,"to make someone leave their job, sometimes as a punishment",medium,MATCHING
+sack,MATCHING_PAIR,to force someone to leave their job,medium,MATCHING
+make redundant,MATCHING_PAIR,"if someone is made redundant, they have to leave their job because there is no more work for them",medium,MATCHING
+overtime,MATCHING_PAIR,extra time that you work after your usual working hours,medium,MATCHING
+promotion,MATCHING_PAIR,a move to a higher level in a company,medium,MATCHING
+firm,MATCHING_PAIR,"a business, especially one involving a few people",medium,MATCHING
+business,MATCHING_PAIR,an organisation that buys or sells products or services,medium,MATCHING
+union,MATCHING_PAIR,an organisation that represents the interests of workers,medium,MATCHING
+scenery,MATCHING_PAIR,the furniture and painted background on a theatre stage,medium,MATCHING
+stage,MATCHING_PAIR,the part of a theatre where the actors or musicians perform,medium,MATCHING
+band,MATCHING_PAIR,a group of musicians who play popular music,medium,MATCHING
+orchestra,MATCHING_PAIR,a large group of musicians who use many different instruments in order to play mostly classical music,medium,MATCHING
+review,MATCHING_PAIR,"an article in which someone gives their opinion of a play, book, exhibition, etc",medium,MATCHING
+criticism,MATCHING_PAIR,a comment or comments that show that you think something is wrong or bad,medium,MATCHING
+novel,MATCHING_PAIR,a long written story about imaginary characters and events,medium,MATCHING
+fiction,MATCHING_PAIR,books and stories about imaginary events and people,medium,MATCHING
+comic,MATCHING_PAIR,a magazine that contains stories told in a series of drawings,medium,MATCHING
+cartoon,MATCHING_PAIR,a film or TV programme made by photographing a series of drawings so that things in them seem to move; a humorous drawing or series of drawings in a newspaper or magazine,medium,MATCHING
+comedian,MATCHING_PAIR,someone whose job is to entertain people by making them laugh,medium,MATCHING
+watch,MATCHING_PAIR,to look at someone or something for a period of time,medium,MATCHING
+see,MATCHING_PAIR,to watch something such as a film or television programme,medium,MATCHING
+look,MATCHING_PAIR,to direct your eyes towards someone or something so that you can see them,medium,MATCHING
+listen,MATCHING_PAIR,"to pay attention to a sound, or to try to hear a sound",medium,MATCHING
+hear,MATCHING_PAIR,to realise that someone or something is making a sound,medium,MATCHING
+wear,MATCHING_PAIR,"to have something on your body as clothing, decoration or protection",medium,MATCHING
+costume,MATCHING_PAIR,clothes that the actors wear in a play or film,medium,MATCHING
+suit (n),MATCHING_PAIR,"a set of clothes made from the same cloth, usually a jacket with trousers or a skirt",medium,MATCHING
+dye,MATCHING_PAIR,to change the colour of something such as cloth or hair using dye,medium,MATCHING
+paint,MATCHING_PAIR,to put paint onto something in order to change its colour,medium,MATCHING
+suit (v),MATCHING_PAIR,"if a style or something you wear suits you, it makes you look good",medium,MATCHING
+cloth,MATCHING_PAIR,material used for making things such as clothes and curtains,medium,MATCHING
+clothing,MATCHING_PAIR,clothes,medium,MATCHING
+blouse,MATCHING_PAIR,a shirt for women,medium,MATCHING
+top,MATCHING_PAIR,a piece of clothing that covers the upper part of your body,medium,MATCHING
+manufacture,MATCHING_PAIR,to make goods in large quantities in a factory,medium,MATCHING
+current,MATCHING_PAIR,happening or existing now,medium,MATCHING
+appearance,MATCHING_PAIR,the way that someone or something looks,medium,MATCHING
+produce,MATCHING_PAIR,to make or grow something,medium,MATCHING
+glimpse,MATCHING_PAIR,to see someone or something for a moment or not completely,medium,MATCHING
+glance,MATCHING_PAIR,to look somewhere quickly and then look away,medium,MATCHING
+average,MATCHING_PAIR,the typical amount or level,medium,MATCHING
+everyday,MATCHING_PAIR,very common or completely normal,medium,MATCHING
+gain,MATCHING_PAIR,"to get more of something, usually as a result of a gradual process",medium,MATCHING
+raise,MATCHING_PAIR,an increase in the amount that you are paid for work,medium,MATCHING
+rise,MATCHING_PAIR,"an increase in size, amount, quality or strength",medium,MATCHING
+wage(s),MATCHING_PAIR,a regular amount of money that you earn for working,medium,MATCHING
+pay,MATCHING_PAIR,money that you receive for doing your job,medium,MATCHING
+My uncle's invited me,MATCHING_PAIR,to go fishing with him next weekend.,medium,MATCHING
+I've been thinking,MATCHING_PAIR,of taking up golf.,medium,MATCHING
+Dave's competing,MATCHING_PAIR,in the school tennis tournament.,medium,MATCHING
+I just had my turn so it's,MATCHING_PAIR,your go now.,medium,MATCHING
+We took it in,MATCHING_PAIR,turns to use the skateboard.,medium,MATCHING
+I regret not,MATCHING_PAIR,learning to swim when I had the chance.,medium,MATCHING
+We always listen,MATCHING_PAIR,to what our coach tells us.,medium,MATCHING
+brush up (on),MATCHING_PAIR,practise and improve your skills or knowledge of something,hard,MATCHING
+figure out,MATCHING_PAIR,be able to understand something or solve a problem; understand what someone is like and why they behave in the way they do,hard,MATCHING
+hit upon,MATCHING_PAIR,suddenly have an idea; discover something by chance,hard,MATCHING
+mull over,MATCHING_PAIR,think carefully about something over a period of time,hard,MATCHING
+piece together,MATCHING_PAIR,learn the truth about something by considering all the separate bits of information you have,hard,MATCHING
+puzzle out,MATCHING_PAIR,solve a confusing or complicated problem by thinking carefully about it,hard,MATCHING
+read up (on/about),MATCHING_PAIR,get information on a particular subject by reading a lot about it,hard,MATCHING
+swot up (on),MATCHING_PAIR,"study something very hard, especially for an examination",hard,MATCHING
+think through,MATCHING_PAIR,consider the facts about something in an organised and thorough way,hard,MATCHING
+think up,MATCHING_PAIR,"invent or imagine something, especially an excuse",hard,MATCHING
+go to your head,MATCHING_PAIR,"if success goes to your head, it makes you think that you are better or more important than you really are",hard,MATCHING
+have your wits about you,MATCHING_PAIR,be able to think quickly and make sensible decisions,hard,MATCHING
+in the dark (about),MATCHING_PAIR,"not knowing very much about something, because other people are keeping it secret from you",hard,MATCHING
+know what’s what,MATCHING_PAIR,know the important facts about a situation,hard,MATCHING
+not have a leg to stand on,MATCHING_PAIR,not have any way of proving that you are right about something,hard,MATCHING
+not see the wood for the trees,MATCHING_PAIR,used for saying that someone cannot understand what is important in a situation because they are thinking too much about small details,hard,MATCHING
+put two and two together,MATCHING_PAIR,guess what is happening or what something means based on what you have seen or heard,hard,MATCHING
+quick/slow on the uptake,MATCHING_PAIR,taking a very short/long time to understand or realise something,hard,MATCHING
+ring a bell,MATCHING_PAIR,"something that rings a bell sounds familiar to you, although you cannot remember the exact details",hard,MATCHING
+round the bend,MATCHING_PAIR,crazy,hard,MATCHING
+split hairs,MATCHING_PAIR,argue or worry about very small details or differences that are not important,hard,MATCHING
+take stock (of),MATCHING_PAIR,spend some time thinking about the situation you are in before you decide what to do next,hard,MATCHING
+I'm going to have to mull this,MATCHING_PAIR,over for a while before I make a final decision.,hard,MATCHING
+Detectives are still trying to piece,MATCHING_PAIR,together exactly what happened that evening.,hard,MATCHING
+It took him a very long time to take,MATCHING_PAIR,in the fact that he'd never see her again.,hard,MATCHING
+Tell us how you hit,MATCHING_PAIR,upon such a great idea for a website.,hard,MATCHING
+It took us ages to figure,MATCHING_PAIR,out how to get everyone to the sports centre without Phil knowing.,hard,MATCHING
+I've just thought,MATCHING_PAIR,up a brilliant excuse to tell Rachel.,hard,MATCHING
+I'm not sure we've thought,MATCHING_PAIR,this through properly yet.,hard,MATCHING
+back up,MATCHING_PAIR,make a copy of information on your computer; give support to someone by telling other people that you agree with them backup (n),hard,MATCHING
+change around,MATCHING_PAIR,move things so that they are in different places or positions,hard,MATCHING
+change into,MATCHING_PAIR,"stop being in one state, condition or form and start being in another, or make something do this; take off the clothes or a piece of clothing you are wearing and put on different ones",hard,MATCHING
+change out of,MATCHING_PAIR,take off the clothes or a piece of clothing you are wearing and put on different ones,hard,MATCHING
+fade away,MATCHING_PAIR,disappear slowly,hard,MATCHING
+key in,MATCHING_PAIR,put information into a computer or other electronic machine using keys or a keyboard,hard,MATCHING
+make into,MATCHING_PAIR,change someone or something so that they become something else,hard,MATCHING
+mix up,MATCHING_PAIR,put things together without any order; think that one person or thing is another person or thing mix-up (n),hard,MATCHING
+switch on/off,MATCHING_PAIR,start/stop a machine/light/etc working,hard,MATCHING
+take apart,MATCHING_PAIR,separate an object into pieces,hard,MATCHING
+test out,MATCHING_PAIR,try using something such as a machine or product to find out whether it works correctly or is satisfactory,hard,MATCHING
+use up,MATCHING_PAIR,use all of a supply of something,hard,MATCHING
+a leopard can’t change its spots,MATCHING_PAIR,used for saying that someone will never change their behaviour or character,hard,MATCHING
+all mod cons,MATCHING_PAIR,"all modern conveniences, the machines and pieces of equipment in your house that make life easy and comfortable",hard,MATCHING
+break the mould,MATCHING_PAIR,change a situation by doing something that is very different from what most people usually do or have done in the past,hard,MATCHING
+change your tune,MATCHING_PAIR,change your opinion or attitude,hard,MATCHING
+have a change of heart,MATCHING_PAIR,change your opinion about something or decide not to do something you were planning to do,hard,MATCHING
+know sth inside out,MATCHING_PAIR,be very familiar with,hard,MATCHING
+reinvent the wheel,MATCHING_PAIR,waste time and effort trying to do something that someone else has already done well,hard,MATCHING
+stick to your guns,MATCHING_PAIR,refuse to change what you are saying or doing despite the opposition or criticism of other people,hard,MATCHING
+the tools of the trade,MATCHING_PAIR,the skills and equipment that you need in order to do your job,hard,MATCHING
+turn over a new leaf,MATCHING_PAIR,change your life by starting to be a better person or stopping a bad habit,hard,MATCHING
+crop up,MATCHING_PAIR,appear or happen suddenly or unexpectedly,hard,MATCHING
+dive in,MATCHING_PAIR,start doing something in a very enthusiastic way,hard,MATCHING
+end up,MATCHING_PAIR,be in a particular place or state after doing something or because of doing it,hard,MATCHING
+kick off (with),MATCHING_PAIR,begin (with),hard,MATCHING
+knock off,MATCHING_PAIR,stop working,hard,MATCHING
+knuckle down,MATCHING_PAIR,"start working hard, especially when you should have done this earlier",hard,MATCHING
+lay off,MATCHING_PAIR,"end someone's employment, especially temporarily, because there is not enough work for them; stop doing or using something, especially for a short period of time",hard,MATCHING
+lie ahead,MATCHING_PAIR,"if something lies ahead, it is going to happen to you in the future",hard,MATCHING
+press ahead/on (with),MATCHING_PAIR,"continue doing something in a determined way, despite difficulties, opposition or interruptions",hard,MATCHING
+snow under,MATCHING_PAIR,"if you are snowed under, you have too much of sth to deal with",hard,MATCHING
+tide over,MATCHING_PAIR,"help someone to get to the end of a difficult period of time, especially by giving them money until they can get some more",hard,MATCHING
+while away,MATCHING_PAIR,spend time in a relaxed way when you have nothing else to do,hard,MATCHING
+wind down,MATCHING_PAIR,end or finish something gradually; gradually reduce work before stopping completely; relax after a period of excitement or worry,hard,MATCHING
+a stitch in time (saves nine),MATCHING_PAIR,"used for saying that it is better to solve a problem now, rather than leave it until later when it may be more difficult to deal with",hard,MATCHING
+all in good time,MATCHING_PAIR,used for telling someone to wait for something and not try to make you hurry,hard,MATCHING
+at the drop of a hat,MATCHING_PAIR,immediately or in a way that shows that you have no doubts about doing something,hard,MATCHING
+before your time,MATCHING_PAIR,used for saying that something happened or existed before you were born or before you lived or worked somewhere,hard,MATCHING
+for good,MATCHING_PAIR,"permanently, without the possibility of change in the future",hard,MATCHING
+for the time being,MATCHING_PAIR,for now,hard,MATCHING
+from time to time,MATCHING_PAIR,"sometimes, but not often",hard,MATCHING
+in/for donkey's years,MATCHING_PAIR,an extremely long time,hard,MATCHING
+in the nick of time,MATCHING_PAIR,just in time to prevent something bad happening,hard,MATCHING
+once in a blue moon,MATCHING_PAIR,very rarely,hard,MATCHING
+on the spur of the moment,MATCHING_PAIR,"if you do something on the spur of the moment, you do it suddenly and do not take time to plan it or think carefully about it",hard,MATCHING
+the other day,MATCHING_PAIR,recently,hard,MATCHING
+cordon off,MATCHING_PAIR,stop people from entering an area by putting something such as a rope around it,hard,MATCHING
+creep up on,MATCHING_PAIR,"move towards someone quietly and slowly, especially because you want to surprise them",hard,MATCHING
+fall behind,MATCHING_PAIR,move more slowly than other people so that you are behind them; make less progress or be less successful than other people who are doing a similar job or activity,hard,MATCHING
+go astray,MATCHING_PAIR,become lost or go to the wrong place,hard,MATCHING
+head off,MATCHING_PAIR,prevent someone from going somewhere by getting in front of them; prevent something from taking place,hard,MATCHING
+hold back,MATCHING_PAIR,stop someone or something from moving forwards,hard,MATCHING
+move in (with),MATCHING_PAIR,start living in a different house or flat (with),hard,MATCHING
+move on,MATCHING_PAIR,leave one place and travel to another; stop discussing or doing something and begin discussing or doing something different,hard,MATCHING
+move out,MATCHING_PAIR,permanently leave the house or flat where you live or the place where you have your business,hard,MATCHING
+move over,MATCHING_PAIR,change your position in order to make space for someone or something,hard,MATCHING
+pull over,MATCHING_PAIR,stop by the side of the road in a car or other vehicle,hard,MATCHING
+slip away,MATCHING_PAIR,leave secretly,hard,MATCHING
+step aside,MATCHING_PAIR,move so that sb can pass you; leave a job so that sb else can take over,hard,MATCHING
+stop off,MATCHING_PAIR,visit somewhere before continuing to another place,hard,MATCHING
+tip up,MATCHING_PAIR,"(of an object) have one end move upwards, especially because something heavy has been put at the other end; turn a container upside down so that the things inside it come out",hard,MATCHING
+walk out,MATCHING_PAIR,"leave a meeting, performance, etc before the end, usually because you are angry or bored; suddenly leave a relationship, your family, your job, etc",hard,MATCHING
+a stone’s throw (away/from),MATCHING_PAIR,very close (to),hard,MATCHING
+as the crow flies,MATCHING_PAIR,in a straight line (used for measuring distance),hard,MATCHING
+follow your nose,MATCHING_PAIR,"go straight forward, without turning; do what you feel is right in a particular situation, although you are not certain",hard,MATCHING
+in the middle of nowhere,MATCHING_PAIR,a long way from any town or city,hard,MATCHING
+lose your bearings,MATCHING_PAIR,become confused about where you are and where other things are,hard,MATCHING
+make a beeline for,MATCHING_PAIR,go towards someone or something in the quickest and most direct way,hard,MATCHING
+off the beaten track,MATCHING_PAIR,away from populated areas or areas popular with tourists,hard,MATCHING
+stop dead in your tracks,MATCHING_PAIR,"suddenly stop, for example because you are surprised",hard,MATCHING
+take a short cut to,MATCHING_PAIR,follow a path that is quicker and shorter than the usual way,hard,MATCHING
+take the scenic route,MATCHING_PAIR,follow a longer path than the usual one because it is more attractive,hard,MATCHING
+blurt out,MATCHING_PAIR,"say something suddenly and without thinking about the effect it will have, usually because you are nervous or excited",hard,MATCHING
+come out with,MATCHING_PAIR,"say something suddenly, usually something that surprises or shocks people",hard,MATCHING
+dry up,MATCHING_PAIR,stop talking because you have forgotten what you were going to say,hard,MATCHING
+get across,MATCHING_PAIR,make people understand something,hard,MATCHING
+get (a)round,MATCHING_PAIR,"if news gets (a)round, a lot of people hear it",hard,MATCHING
+get through (to),MATCHING_PAIR,be connected to a place by telephone; make someone understand what you are trying to say,hard,MATCHING
+let on,MATCHING_PAIR,talk about something that is intended to be a secret,hard,MATCHING
+pass on,MATCHING_PAIR,"give someone something, for example a message, that someone else has given you",hard,MATCHING
+put across/over,MATCHING_PAIR,"explain an idea, belief, etc in a way that is easy to understand",hard,MATCHING
+set down,MATCHING_PAIR,write something on a piece of paper so that it will not be forgotten and can be looked at later; state officially how something should be done,hard,MATCHING
+shout down,MATCHING_PAIR,make it difficult to hear what someone says by shouting while they are speaking,hard,MATCHING
+speak out,MATCHING_PAIR,"state your opinion firmly and publicly about something, especially in order to protest against or defend something",hard,MATCHING
+talk over,MATCHING_PAIR,discuss a problem or a plan,hard,MATCHING
+talk round to,MATCHING_PAIR,succeed in persuading someone to agree something; discuss something in a general way and without dealing with the most important issues,hard,MATCHING
+big mouth,MATCHING_PAIR,used as a criticism of someone when they say things they should not,hard,MATCHING
+come clean (about sth),MATCHING_PAIR,tell the truth about something that you have kept secret,hard,MATCHING
+get/catch sb's drift,MATCHING_PAIR,understand the basic meaning,hard,MATCHING
+get sth off your chest,MATCHING_PAIR,"talk to someone about something that has been worrying you, so that you feel better about it",hard,MATCHING
+get the wrong end of the stick,MATCHING_PAIR,understand something completely wrongly,hard,MATCHING
+give sb your word,MATCHING_PAIR,promise to do something,hard,MATCHING
+(hear sth) on/through the grapevine,MATCHING_PAIR,the way in which information spreads quickly from one person to another through conversation,hard,MATCHING
+keep sb posted,MATCHING_PAIR,"regularly give someone information about something they are interested in, for example how a situation is changing or developing",hard,MATCHING
+keep sth under your hat,MATCHING_PAIR,keep something secret,hard,MATCHING
+lay/put your cards on the table,MATCHING_PAIR,tell people exactly what you are thinking or what you are intending to do,hard,MATCHING
+speak volumes,MATCHING_PAIR,"provide a lot of information, especially in an indirect way",hard,MATCHING
+tell tales,MATCHING_PAIR,"tell someone in authority about bad things that someone else has done, because you want them to be punished",hard,MATCHING
+"If you stay with us for three days,",MATCHING_PAIR,we'll have enough time to see a few sights.,hard,MATCHING
+"If you decide not to vote in the election,",MATCHING_PAIR,you can't really complain about the government.,hard,MATCHING
+"If you didn't eat your lunch so fast,",MATCHING_PAIR,"you wouldn't get hiccups, would you?",hard,MATCHING
+"If there were a few more people working,",MATCHING_PAIR,we might get served a bit more quickly.,hard,MATCHING
+"If you forget to take your passport,",MATCHING_PAIR,I'm pretty sure they won't let you check in.,hard,MATCHING
+"If the hire car isn't there when you arrive,",MATCHING_PAIR,give us a call and we'll come to pick you up.,hard,MATCHING
+"If the city continues to expand,",MATCHING_PAIR,more areas of natural beauty will be destroyed.,hard,MATCHING
+"If the police didn't fine people,",MATCHING_PAIR,very few people would obey the law.,hard,MATCHING
+"If you did decide to leave the company,",MATCHING_PAIR,we'd be happy to give you a good reference.,hard,MATCHING
+"If MPs wish to resign,",MATCHING_PAIR,they have to go through a complicated procedure.,hard,MATCHING
+chance upon,MATCHING_PAIR,find or see someone or something when you did not expect to,hard,MATCHING
+cool down,MATCHING_PAIR,"become cooler, or make something cooler",hard,MATCHING
+cut back (on),MATCHING_PAIR,"reduce the amount of something, especially money that you spend",hard,MATCHING
+die out,MATCHING_PAIR,become weaker or less common and then disappear completely,hard,MATCHING
+dig up,MATCHING_PAIR,remove something from under the ground by digging; dig holes in an area of land; find information by searching carefully,hard,MATCHING
+heat up,MATCHING_PAIR,make something hot; become hot,hard,MATCHING
+kill off,MATCHING_PAIR,destroy living things so that most or all of them are dead,hard,MATCHING
+slip up,MATCHING_PAIR,make a careless mistake slip-up (n),hard,MATCHING
+spring up,MATCHING_PAIR,appear or be produced suddenly and quickly,hard,MATCHING
+store up,MATCHING_PAIR,keep a lot of something so that you can use it later; do something that will cause problems in the future,hard,MATCHING
+throw out,MATCHING_PAIR,"get rid of something that you no longer want, for example by putting it in a dustbin; force someone to leave a place or group; if someone in authority throws out a plan, proposal, etc they refuse to accept it",hard,MATCHING
+throw up,MATCHING_PAIR,produce something new or unexpected; cause something such as dust or water to rise into the air,hard,MATCHING
+an act of God,MATCHING_PAIR,"an event such as a flood, lightning or an earthquake that is produced by natural forces, and that people have no control over",hard,MATCHING
+come rain or shine,MATCHING_PAIR,used for saying that something always happens or someone always does something despite bad weather or difficult conditions,hard,MATCHING
+down on your luck,MATCHING_PAIR,having a long period of difficulty finding work and earning money,hard,MATCHING
+draw the short straw,MATCHING_PAIR,be chosen to do something unpleasant,hard,MATCHING
+have green fingers,MATCHING_PAIR,be good at growing plants,hard,MATCHING
+let nature take its course,MATCHING_PAIR,allow something to develop without trying to influence it,hard,MATCHING
+no rhyme or reason,MATCHING_PAIR,used for emphasising that there is no reason or explanation for something,hard,MATCHING
+out of the blue,MATCHING_PAIR,"happening in a way that is sudden and unexpected, and does not seem connected with anything that happened before",hard,MATCHING
+the luck of the draw,MATCHING_PAIR,used for saying people have limited control over what life brings them,hard,MATCHING
+touch wood,MATCHING_PAIR,used when you have said that you have had good luck in order to prevent bad luck from happening to you,hard,MATCHING
+add up to,MATCHING_PAIR,"if separate amounts add up to a total amount, together they form that total; combine to produce a particular result or effect",hard,MATCHING
+buy off,MATCHING_PAIR,give someone money so that they do not act against you,hard,MATCHING
+buy out,MATCHING_PAIR,pay money to your business partner so that you can control all of a business you previously owned together buyout (n),hard,MATCHING
+buy up,MATCHING_PAIR,buy large amounts of something or all of it that is available,hard,MATCHING
+carry over,MATCHING_PAIR,take something that you earn or are given in one year or period of time into the next one,hard,MATCHING
+clock up,MATCHING_PAIR,reach a particular number or amount,hard,MATCHING
+club together,MATCHING_PAIR,"if people club together, each of them gives some money so all the money collected can be used to buy something",hard,MATCHING
+drum up,MATCHING_PAIR,try to make people support you or buy something from you,hard,MATCHING
+mount up,MATCHING_PAIR,get much larger,hard,MATCHING
+pay out,MATCHING_PAIR,"spend or pay money, especially a lot of money; provide money from an amount invested over a period of time",hard,MATCHING
+size up,MATCHING_PAIR,think carefully and form an opinion about a person or a situation,hard,MATCHING
+weigh down,MATCHING_PAIR,make someone heavy and unable to move easily; cause problems for someone or something or make someone worried,hard,MATCHING
+a drop in the ocean,MATCHING_PAIR,a very small amount that will not have much effect,hard,MATCHING
+break even,MATCHING_PAIR,"if a person or business breaks even, they neither make a profit nor lose money",hard,MATCHING
+fall short,MATCHING_PAIR,not reach a particular level or to fail to achieve something you were trying to do,hard,MATCHING
+fifty-fifty,MATCHING_PAIR,"equal, or into two equal parts",hard,MATCHING
+go halves,MATCHING_PAIR,share the cost of something with someone so that you each pay 50%,hard,MATCHING
+it’s as broad as it’s long,MATCHING_PAIR,used for saying that you cannot choose between two things or actions because they are equal,hard,MATCHING
+keep up with the Joneses,MATCHING_PAIR,"try to be as rich, successful, etc as your neighbours",hard,MATCHING
+knee-high to a grasshopper,MATCHING_PAIR,"very small, because you were very young",hard,MATCHING
+line your pocket(s),MATCHING_PAIR,"obtain money, especially by acting dishonestly",hard,MATCHING
+"lock, stock and barrel",MATCHING_PAIR,"including every part of a particular thing, situation, place, etc",hard,MATCHING
+six of one (and) half a dozen of the other,MATCHING_PAIR,used for saying that two things are equally good or bad,hard,MATCHING
+tidy sum/amount,MATCHING_PAIR,large sum/amount,hard,MATCHING
+The big supermarket chains have bought,MATCHING_PAIR,up most of the land round here already.,hard,MATCHING
+If we club,MATCHING_PAIR,"together, I’m sure we can afford to get Mrs Timms a nice leaving present.",hard,MATCHING
+Phil’s clocked,MATCHING_PAIR,up over 700 hours of flying time already.,hard,MATCHING
+One good way to drum,MATCHING_PAIR,up support is to get people in the high street to sign a petition.,hard,MATCHING
+Six managers bought,MATCHING_PAIR,out the company when it was threatened with closure.,hard,MATCHING
+I’ve got two weeks’ holiday left but I think I’ll carry,MATCHING_PAIR,it over till next year and take it in January.,hard,MATCHING
+I’d never buy,MATCHING_PAIR,blackmailers off – I’d rather go to the police and face the consequences.,hard,MATCHING
+board up,MATCHING_PAIR,cover a window or door with wooden boards,hard,MATCHING
+close up,MATCHING_PAIR,lock the doors of a building or business,hard,MATCHING
+cut out,MATCHING_PAIR,"remove something from a larger piece by cutting; stop eating something or doing something, especially because it is bad for your health",hard,MATCHING
+fix up,MATCHING_PAIR,"clean, repair or decorate something",hard,MATCHING
+knock/pull/tear down,MATCHING_PAIR,destroy a building or wall,hard,MATCHING
+pile up,MATCHING_PAIR,"if something piles up or someone piles it up, the amount of it increases a lot",hard,MATCHING
+prop up,MATCHING_PAIR,"stop something from falling by putting something under it or against it; help a government, system, organisation, etc continue to exist, especially by providing financial or military support",hard,MATCHING
+put in,MATCHING_PAIR,"fix something such as equipment in the place where it will be used and make it ready to use; make an official request, claim, offer, etc",hard,MATCHING
+put together,MATCHING_PAIR,make something by joining all its parts; produce or organize something using many different things; choose people or things to form a team or group,hard,MATCHING
+spread out,MATCHING_PAIR,"if people in a group spread out, they move away from one another so that they cover a large area",hard,MATCHING
+water down,MATCHING_PAIR,"add water to a drink or liquid in order to make it less strong, dilute; make something such as a statement or newspaper article less offensive, powerful or detailed",hard,MATCHING
+wear down,MATCHING_PAIR,make something gradually disappear or become thinner by using or rubbing it; make someone gradually lose their energy or confidence,hard,MATCHING
+a home from home,MATCHING_PAIR,a place where you feel as relaxed as you do in your own home,hard,MATCHING
+blot on the landscape,MATCHING_PAIR,"something that makes a place look less attractive, for example an ugly building",hard,MATCHING
+commuter belt,MATCHING_PAIR,area surrounding a large city where many people who work in that city live,hard,MATCHING
+concrete jungle,MATCHING_PAIR,unpleasant part of a city where there are a lot of ugly buildings close together,hard,MATCHING
+home sweet home,MATCHING_PAIR,used for saying that you are happy to be back in your own home,hard,MATCHING
+in the sticks,MATCHING_PAIR,in an area far from the town or city,hard,MATCHING
+make yourself at home,MATCHING_PAIR,feel relaxed and behave in the same way as you do in your own home,hard,MATCHING
+on the street,MATCHING_PAIR,with no place to live,hard,MATCHING
+on the town,MATCHING_PAIR,"spending the evening enjoying yourself in bars, clubs, theatres, etc",hard,MATCHING
+satellite town,MATCHING_PAIR,town or city that is close to and depends on a larger city,hard,MATCHING
+black out,MATCHING_PAIR,"make a place dark by turning off all the lights, for example so that the enemy cannot see a place at night; suddenly become unconscious",hard,MATCHING
+come out in,MATCHING_PAIR,"if you come out in something such as spots, they appear on your skin",hard,MATCHING
+come round,MATCHING_PAIR,"become conscious again after being unconscious; happen again at a regular time; go to a place where someone is, especially their house, in order to visit them; change your opinion or decision because someone has persuaded you to agree with them",hard,MATCHING
+cotton on,MATCHING_PAIR,begin to realise or understand something,hard,MATCHING
+crease up,MATCHING_PAIR,"laugh a lot, or make someone else laugh a lot",hard,MATCHING
+follow up,MATCHING_PAIR,check something or try to find out more about it; do something in addition to what you have already done,hard,MATCHING
+get down,MATCHING_PAIR,make someone feel sad or lose hope,hard,MATCHING
+go down (well/badly) (with sb),MATCHING_PAIR,produce a particular reaction,hard,MATCHING
+lash out,MATCHING_PAIR,try to hit or attack someone suddenly and violently; speak angrily to or at someone,hard,MATCHING
+play up,MATCHING_PAIR,cause difficulties or pain for someone; behave badly,hard,MATCHING
+shrivel up,MATCHING_PAIR,become smaller and thinner than usual and it does not look fresh and healthy; become much smaller than needed or expected,hard,MATCHING
+summon up,MATCHING_PAIR,manage to produce a quality or a reaction that helps you to deal with a difficult situation,hard,MATCHING
+ward off,MATCHING_PAIR,do something to prevent someone or something from harming you,hard,MATCHING
+cry over spilt milk,MATCHING_PAIR,waste time feeling upset about something bad that has happened and cannot be changed,hard,MATCHING
+fly off the handle,MATCHING_PAIR,suddenly become extremely angry without a good reason,hard,MATCHING
+give sb a taste/dose of their own medicine,MATCHING_PAIR,treat someone in the same bad way they treat other people,hard,MATCHING
+give sth a miss,MATCHING_PAIR,decide not to do something that you usually do,hard,MATCHING
+grin and bear it,MATCHING_PAIR,accept a difficult situation without complaining or showing how you feel,hard,MATCHING
+keep a straight face,MATCHING_PAIR,remain serious and not laugh,hard,MATCHING
+keep your hair on,MATCHING_PAIR,used for telling someone not to get angry or upset,hard,MATCHING
+kick yourself,MATCHING_PAIR,"be very annoyed because you have made a mistake, missed an opportunity, etc",hard,MATCHING
+let off steam,MATCHING_PAIR,shout or do something that allows you to get rid of anger,hard,MATCHING
+let sleeping dogs lie,MATCHING_PAIR,leave a person or situation alone if they might cause you trouble,hard,MATCHING
+never/don't look a gift horse in the mouth,MATCHING_PAIR,"if you are given something good, you should not complain about it or try to find things that are wrong with it",hard,MATCHING
+up in arms about,MATCHING_PAIR,angry and complaining about something,hard,MATCHING
+blend in,MATCHING_PAIR,"if someone or something blends in, they are similar to the other people, objects, buildings, etc around them, and so they seem appropriate or you do not notice them",hard,MATCHING
+bring about,MATCHING_PAIR,"make something happen, especially to cause changes in a situation",hard,MATCHING
+crack down (on),MATCHING_PAIR,start dealing with someone or something much more strictly crackdown (n),hard,MATCHING
+get in,MATCHING_PAIR,be elected for a political job,hard,MATCHING
+hit back,MATCHING_PAIR,criticise someone who has criticised you; deliberately hurt someone who has hurt you,hard,MATCHING
+lock up,MATCHING_PAIR,put someone in a prison; lock all the doors and windows of a building so that no one can get in,hard,MATCHING
+opt out (of),MATCHING_PAIR,decide not to take part in something or stop taking part in it,hard,MATCHING
+phase out,MATCHING_PAIR,gradually stop using something,hard,MATCHING
+push around,MATCHING_PAIR,keep telling someone what to do in an unfair or unpleasant way,hard,MATCHING
+single out,MATCHING_PAIR,choose one person from a group for special attention,hard,MATCHING
+stand up to,MATCHING_PAIR,"not allow yourself to be treated badly, especially by someone in authority",hard,MATCHING
+talk down to,MATCHING_PAIR,talk to someone as if you think they are not as clever or important as you are,hard,MATCHING
+bury your head in the sand,MATCHING_PAIR,ignore a problem or an unpleasant situation and hope that it will disappear,hard,MATCHING
+gain/get/have/take the upper hand,MATCHING_PAIR,gain/get/have/take control or advantage over a person or situation,hard,MATCHING
+get/have your way,MATCHING_PAIR,be allowed to have or do what you want,hard,MATCHING
+live and let live,MATCHING_PAIR,"used for saying that you should accept other people’s beliefs and way of life, even if they are very different from your own",hard,MATCHING
+pull (a few) strings,MATCHING_PAIR,"use your influence in order to get something you want or to help someone, especially when this is unfair",hard,MATCHING
+red tape,MATCHING_PAIR,"documents, rules or processes that cause delays",hard,MATCHING
+take the law into your own hands,MATCHING_PAIR,"punish someone in your own way without involving the police or the courts, often by doing something illegal yourself",hard,MATCHING
+the powers that be,MATCHING_PAIR,the people who control a situation,hard,MATCHING
+throw the book at sb,MATCHING_PAIR,punish someone very severely,hard,MATCHING
+under sb’s thumb,MATCHING_PAIR,completely controlled by someone else,hard,MATCHING
+"No matter what I said, Chris refused to back",MATCHING_PAIR,down from her position on abortion.,hard,MATCHING
+Hardly had they locked the shop,MATCHING_PAIR,up when the alarm went off.,hard,MATCHING
+Only radical action will bring,MATCHING_PAIR,about the changes that we so desperately need.,hard,MATCHING
+What annoys me is that the man got,MATCHING_PAIR,off with just 100 hours' community service.,hard,MATCHING
+The Prime Minister hit,MATCHING_PAIR,back at her critics and claimed she had done nothing wrong.,hard,MATCHING
+Things have certainly improved since you took,MATCHING_PAIR,over the business and rearranged things.,hard,MATCHING
+The authorities shouldn't give,MATCHING_PAIR,in to this kind of blackmail from the workers.,hard,MATCHING
+I don't care who gets,MATCHING_PAIR,in at this election because it doesn't make any difference.,hard,MATCHING
+brighten up,MATCHING_PAIR,"start to have more colour or light; give something more colour or light; start looking or feeling happier; if the weather brightens up, it becomes sunnier",hard,MATCHING
+liven up,MATCHING_PAIR,"make something more interesting or exciting, or become more interesting or exciting; give something a more interesting appearance, taste or other quality",hard,MATCHING
+make over,MATCHING_PAIR,change or improve the appearance of someone or something makeover (n),hard,MATCHING
+mess up,MATCHING_PAIR,"make a mistake or do something badly; make something dirty or untidy; be the cause of someone's physical, emotional or mental problems",hard,MATCHING
+paper over,MATCHING_PAIR,hide a problem or disagreement rather than finding a satisfactory solution to it,hard,MATCHING
+patch up,MATCHING_PAIR,"repair something, often quickly and not very well; become friends with someone again after a disagreement; give basic medical treatment to someone who is injured",hard,MATCHING
+run down,MATCHING_PAIR,"if an organisation or area is run down, its size, importance and activity is reduced run-down (adj)",hard,MATCHING
+scrape through,MATCHING_PAIR,"succeed in doing something, but not in a very impressive way",hard,MATCHING
+smarten up,MATCHING_PAIR,"improve the appearance of something, for example by cleaning or painting it; if you smarten up or smarten yourself up, you make yourself look tidy and clean",hard,MATCHING
+touch up,MATCHING_PAIR,make a surface look better with small improvements,hard,MATCHING
+waste away,MATCHING_PAIR,"gradually become thinner and weaker over a period of time, usually because of an illness",hard,MATCHING
+write off,MATCHING_PAIR,damage a vehicle so badly that it is not worth repairing; decide that someone or something will not succeed and stop giving them your attention and energy write-off (n),hard,MATCHING
+a sight for sore eyes,MATCHING_PAIR,someone or something that you are very pleased to see,hard,MATCHING
+Achilles' heel,MATCHING_PAIR,a weak feature of someone or something that could cause failure or be attacked,hard,MATCHING
+add fuel to the fire,MATCHING_PAIR,make a bad situation worse,hard,MATCHING
+below/under par,MATCHING_PAIR,below the usual or expected standard,hard,MATCHING
+clean as a whistle,MATCHING_PAIR,completely honest or legal; extremely clean,hard,MATCHING
+draw the line (at),MATCHING_PAIR,say that you will definitely not allow or accept something,hard,MATCHING
+last word in,MATCHING_PAIR,the newest and best type of something,hard,MATCHING
+out of this world,MATCHING_PAIR,extremely good or impressive,hard,MATCHING
+over the top,MATCHING_PAIR,more than what is considered normal or suitable,hard,MATCHING
+pride of place,MATCHING_PAIR,in the place that is most central or important,hard,MATCHING
+steal the show,MATCHING_PAIR,receive a lot of attention because you give the best performance in a show or other event,hard,MATCHING
+the edge over,MATCHING_PAIR,an advantage that makes someone or something more successful than other people or things,hard,MATCHING
+answer back,MATCHING_PAIR,reply rudely to someone who has more authority than you,hard,MATCHING
+ask out,MATCHING_PAIR,"invite someone to go with you to a cinema, restaurant, etc because you want to start a romantic or sexual relationship with them",hard,MATCHING
+break up,MATCHING_PAIR,"if two people break up, they end their relationship; break something to make smaller pieces; if a meeting or other event breaks up, or if you break it up, it ends and people leave",hard,MATCHING
+bring together,MATCHING_PAIR,"create a situation in which people meet and do something together, especially when they would not usually do so",hard,MATCHING
+bump into,MATCHING_PAIR,meet someone unexpectedly; accidentally hit against something,hard,MATCHING
+cancel out,MATCHING_PAIR,stop something from having any effect,hard,MATCHING
+come between,MATCHING_PAIR,cause a disagreement or argument between people,hard,MATCHING
+crowd around,MATCHING_PAIR,move to a particular place at the same time as a lot of other people,hard,MATCHING
+go together,MATCHING_PAIR,"if two or more things go together, they frequently exist together; if two things go together, they seem good, natural or attractive in combination with each other",hard,MATCHING
+meet up,MATCHING_PAIR,"come together with someone, either unexpectedly or as planned",hard,MATCHING
+open up,MATCHING_PAIR,"talk more about your personal feelings and experiences; open a locked door, container or building; make it easier to travel or do business in a country",hard,MATCHING
+sound out,MATCHING_PAIR,"try to find out someone's opinions, ideas, feelings, etc by talking to them",hard,MATCHING
+be born with a silver spoon in your mouth,MATCHING_PAIR,have advantages because you come from a rich family,hard,MATCHING
+be on the same wavelength,MATCHING_PAIR,understand the way another person thinks because you often have the same ideas and opinions they do,hard,MATCHING
+get on like a house on fire,MATCHING_PAIR,become good friends very quickly and have a lot to talk to each other about,hard,MATCHING
+in sb's bad/good books,MATCHING_PAIR,used for saying that someone is annoyed/pleased with you,hard,MATCHING
+like two peas in a pod,MATCHING_PAIR,"used for saying that two people look, behave or think exactly the same",hard,MATCHING
+on good terms (with),MATCHING_PAIR,have a good relationship with someone,hard,MATCHING
+put sth in perspective,MATCHING_PAIR,"provide a sensible way of judging how good, bad, important, etc something is in comparison with other things",hard,MATCHING
+sb is only human,MATCHING_PAIR,used for saying someone has been weak in the ways most people are weak and should not be blamed for their behaviour,hard,MATCHING
+see eye to eye (with sb),MATCHING_PAIR,agree with someone or have the same opinion as them,hard,MATCHING
+your flesh and blood,MATCHING_PAIR,your relative,hard,MATCHING
+centre around,MATCHING_PAIR,"if something centres around someone or something, or you centre something around them, they are its main subject of attention or interest",hard,MATCHING
+get into,MATCHING_PAIR,"start enjoying something or become enthusiastic about it; if a train, plane, etc gets into a place, it arrives there; become involved in a bad situation",hard,MATCHING
+hang out,MATCHING_PAIR,spend time in a particular place or with particular people; lean out of a window so that the top part of your body is outside hang-out (n),hard,MATCHING
+keep up,MATCHING_PAIR,continue to do something; move at the same speed as someone or something,hard,MATCHING
+laze around,MATCHING_PAIR,"relax and enjoy yourself, doing no work",hard,MATCHING
+mess about/around,MATCHING_PAIR,spend time doing things in a relaxed way; behave in a silly way,hard,MATCHING
+seek out,MATCHING_PAIR,find someone or something by looking for them in a determined way,hard,MATCHING
+take out,MATCHING_PAIR,take someone to a place like a cinema or a restaurant and usually pay for them,hard,MATCHING
+warm up,MATCHING_PAIR,prepare for a sport or activity by doing gentle exercises or practising just before it starts warm-up (n),hard,MATCHING
+at a loose end,MATCHING_PAIR,with nothing in particular to do,hard,MATCHING
+couch potato,MATCHING_PAIR,someone who spends a lot of time sitting at home watching television,hard,MATCHING
+do sth on a whim,MATCHING_PAIR,do because of a sudden feeling that you must have or do something,hard,MATCHING
+have time on your hands,MATCHING_PAIR,have more time available than you need,hard,MATCHING
+let your hair down,MATCHING_PAIR,relax and enjoy yourself because you are in a comfortable environment,hard,MATCHING
+life and soul of the party,MATCHING_PAIR,someone who is very lively at social events,hard,MATCHING
+put your feet up,MATCHING_PAIR,"sit down and relax, especially with your feet raised off the ground",hard,MATCHING
+recharge your batteries,MATCHING_PAIR,"rest after being very busy, so that you will be ready to start working again",hard,MATCHING
+set your heart on,MATCHING_PAIR,decide that you want something very much,hard,MATCHING
+variety is the spice of life,MATCHING_PAIR,used for saying that different experiences and situations make life enjoyable or interesting,hard,MATCHING
+I suppose I spend a lot of time just hanging,MATCHING_PAIR,out with friends in the town centre.,hard,MATCHING
+The best thing about camping is just messing,MATCHING_PAIR,about with all the equipment all day.,hard,MATCHING
+"Since I'm self-employed, I'm able to take",MATCHING_PAIR,a whole month off and just travel.,hard,MATCHING
+Drew spends a lot of time seeking,MATCHING_PAIR,out good spots to go windsurfing.,hard,MATCHING
+Most of my leisure time seems to centre,MATCHING_PAIR,"around fishing or my other main hobby, water polo.",hard,MATCHING
+The tour we're going on next week takes,MATCHING_PAIR,in some fantastic areas of natural beauty.,hard,MATCHING
+I'm not one of those people who go in,MATCHING_PAIR,for active pastimes; I much prefer reading.,hard,MATCHING
+"With a bit of practice, I picked",MATCHING_PAIR,up a few songs after just a couple of lessons on the guitar.,hard,MATCHING
+get down to,MATCHING_PAIR,start doing something seriously or with a lot of effort,hard,MATCHING
+get off with,MATCHING_PAIR,receive a small punishment for a crime,hard,MATCHING
+get on,MATCHING_PAIR,continue doing something,hard,MATCHING
+get out of,MATCHING_PAIR,avoid doing something that you should do,hard,MATCHING
+get round,MATCHING_PAIR,"if news gets round, a lot of people hear it",hard,MATCHING
+give out,MATCHING_PAIR,give something to several people,hard,MATCHING
+go about,MATCHING_PAIR,"start dealing with a problem, situation or job in a particular way",hard,MATCHING
+go along,MATCHING_PAIR,go to a meeting or event,hard,MATCHING
+go along with,MATCHING_PAIR,agree with someone or agree with something that someone has suggested,hard,MATCHING
+go back on,MATCHING_PAIR,"stop kept a promise, etc",hard,MATCHING
+go down (to),MATCHING_PAIR,produce a particular reaction,hard,MATCHING
+go for,MATCHING_PAIR,be sold for a particular amount of money,hard,MATCHING
+go round,MATCHING_PAIR,be enough for everyone in a group,hard,MATCHING
+go through,MATCHING_PAIR,"experience a difficult or unpleasant situation, feeling, etc",hard,MATCHING
+go up,MATCHING_PAIR,be built,hard,MATCHING
+hand over,MATCHING_PAIR,give someone else control of or responsibility for something,hard,MATCHING
+hit on,MATCHING_PAIR,suddenly have an idea; discover something by chance,hard,MATCHING
+kick off,MATCHING_PAIR,begin (a football match) kick-off (n),hard,MATCHING
+let out,MATCHING_PAIR,make a sound,hard,MATCHING
+look on,MATCHING_PAIR,watch something without taking part onlooker (n),hard,MATCHING
+pass away/on,MATCHING_PAIR,die (used to avoid saying 'die' when you think this might upset someone),hard,MATCHING
+talk round,MATCHING_PAIR,discuss something in a general way and without dealing with the most important issues,hard,MATCHING
+21,MATCHING_PAIR,twenty-one,easy,MATCHING
+22,MATCHING_PAIR,twenty-two,easy,MATCHING
+33,MATCHING_PAIR,thirty-three,easy,MATCHING
+44,MATCHING_PAIR,forty-four,easy,MATCHING
+55,MATCHING_PAIR,fifty-five,easy,MATCHING
+66,MATCHING_PAIR,sixty-six,easy,MATCHING
+77,MATCHING_PAIR,seventy-seven,easy,MATCHING
+88,MATCHING_PAIR,eighty-eight,easy,MATCHING
+99,MATCHING_PAIR,ninety-nine,easy,MATCHING
+100,MATCHING_PAIR,a hundred,easy,MATCHING
+bricklayer,MATCHING_PAIR,A person who builds walls or buildings.,easy,MATCHING
+astronaut,MATCHING_PAIR,A person trained to travel in space.,easy,MATCHING
+shepherd,MATCHING_PAIR,A person who looks after sheep.,easy,MATCHING
+igloo,MATCHING_PAIR,A type of house made from hard snow.,easy,MATCHING
+soap opera,MATCHING_PAIR,A TV series about the lives of a group of characters.,easy,MATCHING
+spacesuit,MATCHING_PAIR,A piece of clothing people wear when they travel in space.,easy,MATCHING
+wigwam,MATCHING_PAIR,A type of tent made from animal skin.,easy,MATCHING
+wizard,MATCHING_PAIR,A man that people believe has got magical powers.,easy,MATCHING
+cabin cruiser,MATCHING_PAIR,A type of boat with a covering over the top.,easy,MATCHING
+checkout,MATCHING_PAIR,The place in a shop where you pay for what you buy.,easy,MATCHING
+Space station vacations,MATCHING_PAIR,holidays at a space station,easy,MATCHING
+Intelligent kitchens,MATCHING_PAIR,"kitchens with a fridge, cooker, etc that you can programme to do things for you",easy,MATCHING
+Solar-powered houses,MATCHING_PAIR,"houses that use energy from the sun for heat, light, etc",easy,MATCHING
+Nutrition pills,MATCHING_PAIR,food in the form of a pill,easy,MATCHING
+Air cars,MATCHING_PAIR,a type of car that flies in the air,easy,MATCHING
+Emotional clothes,MATCHING_PAIR,clothes that change to suit your mood,easy,MATCHING
+Coal,MATCHING_PAIR,a black substance that you put on the fire (a symbol of good luck at New Year),easy,MATCHING
+Shortbread (shortie),MATCHING_PAIR,"a type of biscuit, popular in Scotland",easy,MATCHING
+First-footer,MATCHING_PAIR,"the first person to step into your house after midnight on December 31st (a tall, dark handsome man brings good luck)",easy,MATCHING
+Bells,MATCHING_PAIR,metal objects that make a ringing sound,easy,MATCHING
+Black bun,MATCHING_PAIR,a fruit cake that people eat at Hogmanay,easy,MATCHING
+They killed the dragon in cold blood.,MATCHING_PAIR,"in a cruel, unfeeling, violent way",medium,MATCHING
+Trying to get information from him is like getting blood out of a stone!,MATCHING_PAIR,very difficult,medium,MATCHING
+"My family means more to me than friends. After all, blood is thicker than water.",MATCHING_PAIR,family relationships are the most important,medium,MATCHING
+He sweated blood to set up the company.,MATCHING_PAIR,work extremely hard,medium,MATCHING
+Cruelty to animals makes my blood boil.,MATCHING_PAIR,make someone very angry,medium,MATCHING
+wash,MATCHING_PAIR,the dishes,medium,MATCHING
+dust,MATCHING_PAIR,the furniture,medium,MATCHING
+make,MATCHING_PAIR,the beds,medium,MATCHING
+iron,MATCHING_PAIR,the clothes,medium,MATCHING
+vacuum,MATCHING_PAIR,the carpets,medium,MATCHING
+clean,MATCHING_PAIR,the windows,medium,MATCHING
+mop,MATCHING_PAIR,the floors,medium,MATCHING
+mow,MATCHING_PAIR,the lawn,medium,MATCHING
+shed light,MATCHING_PAIR,clarify,hard,MATCHING
+spawn,MATCHING_PAIR,give birth to,hard,MATCHING
+the status quo,MATCHING_PAIR,the normal and accepted order of things,hard,MATCHING
+the establishment,MATCHING_PAIR,the government and ruling classes of a country,hard,MATCHING
+subjugated,MATCHING_PAIR,"under the control of an enemy, enslaved",hard,MATCHING
+plight,MATCHING_PAIR,"hardship, destitution",hard,MATCHING
+an instrument of change,MATCHING_PAIR,an event or means by which change occurs,hard,MATCHING
+a spiritual dimension,MATCHING_PAIR,a less materialistic element in an ideology,hard,MATCHING
+water off a duck’s back,MATCHING_PAIR,(criticism) has no effect on sb,hard,MATCHING
+water under the bridge,MATCHING_PAIR,(event/mistake) now forgotten or no longer important,hard,MATCHING
+in(to) deep water,MATCHING_PAIR,"involved in complicated, dangerous affairs",hard,MATCHING
+a fish out of water,MATCHING_PAIR,sb who feels uncomfortable in unfamiliar surroundings,hard,MATCHING
+come hell or high water,MATCHING_PAIR,whatever the difficulties,hard,MATCHING
+in hot water,MATCHING_PAIR,in trouble,hard,MATCHING
+take to sth like a duck to water,MATCHING_PAIR,do sth new very easily,hard,MATCHING
+pour oil on troubled waters,MATCHING_PAIR,do sth to calm or settle a difficult situation/ dispute,hard,MATCHING
+mince my,MATCHING_PAIR,words,hard,MATCHING
+a man of,MATCHING_PAIR,few words,hard,MATCHING
+paint a,MATCHING_PAIR,pretty picture,hard,MATCHING
+by word,MATCHING_PAIR,of mouth,hard,MATCHING
+speak your,MATCHING_PAIR,mind,hard,MATCHING
+let you,MATCHING_PAIR,in on a secret,hard,MATCHING
+making,MATCHING_PAIR,small talk,hard,MATCHING
+hold my,MATCHING_PAIR,tongue,hard,MATCHING
+the talk,MATCHING_PAIR,of the town,hard,MATCHING
+talk is,MATCHING_PAIR,cheap,hard,MATCHING
+totally,MATCHING_PAIR,unjustified,hard,MATCHING
+in a badly neglected,MATCHING_PAIR,state,hard,MATCHING
+deeply,MATCHING_PAIR,concerned,hard,MATCHING
+absolutely,MATCHING_PAIR,enchanting,hard,MATCHING
+of great historical,MATCHING_PAIR,interest,hard,MATCHING
+are being gradually,MATCHING_PAIR,restored,hard,MATCHING
+provides a valuable,MATCHING_PAIR,insight,hard,MATCHING
+one of the few remaining,MATCHING_PAIR,examples,hard,MATCHING
+to wander,MATCHING_PAIR,around,hard,MATCHING
+to spend hours,MATCHING_PAIR,exploring,hard,MATCHING
+The specialist held,MATCHING_PAIR,degrees in cardiology from a number of institutions,hard,MATCHING
+Our local GP is held,MATCHING_PAIR,in high esteem by the community.,hard,MATCHING
+The nurse asked me how,MATCHING_PAIR,I had been keeping.,hard,MATCHING
+Hold,MATCHING_PAIR,still while I give you this injection.,hard,MATCHING
+I've been trying to get hold,MATCHING_PAIR,of a doctor all morning.,hard,MATCHING
+"wind, solar",MATCHING_PAIR,power,hard,MATCHING
+"natural, man-made",MATCHING_PAIR,disaster,hard,MATCHING
+"noise, air",MATCHING_PAIR,pollution,hard,MATCHING
+"industrial, nuclear",MATCHING_PAIR,waste,hard,MATCHING
+"wild-life, water",MATCHING_PAIR,conservation,hard,MATCHING
+"extinct, endangered",MATCHING_PAIR,species,hard,MATCHING
+"noxious, toxic",MATCHING_PAIR,fumes,hard,MATCHING
+Action is needed now before,MATCHING_PAIR,it is too late.,hard,MATCHING
+It should not be forgotten,MATCHING_PAIR,that the public also have a duty to act on this issue.,hard,MATCHING
+"If we allow this situation to continue,",MATCHING_PAIR,the consequences could be disastrous.,hard,MATCHING
+It is only,MATCHING_PAIR,a matter of time before the situation becomes uncontrollable.,hard,MATCHING
+The government is obviously either,MATCHING_PAIR,unable or unwilling to act.,hard,MATCHING
+Yet it would be a mistake to,MATCHING_PAIR,overlook the fact that schools play a vital role in this.,hard,MATCHING
+We have known about,MATCHING_PAIR,the situation for some time and yet very little action has been taken to correct it.,hard,MATCHING
+Although some measures,MATCHING_PAIR,"have been implemented, these are clearly not enough.",hard,MATCHING
+give in to/to back down,MATCHING_PAIR,submit/acquiesce/surrender to,hard,MATCHING
+put up with/to stand for,MATCHING_PAIR,tolerate,hard,MATCHING
+tackle/get to grips with,MATCHING_PAIR,deal with,hard,MATCHING
+take advantage of,MATCHING_PAIR,exploit,hard,MATCHING
+frown upon/take a dim view of,MATCHING_PAIR,condemn,hard,MATCHING
+talk sb into,MATCHING_PAIR,persuade to,hard,MATCHING
+give it a go,MATCHING_PAIR,make an attempt,hard,MATCHING
+Just dropping you a quick line to,MATCHING_PAIR,let you know I've done all the things you asked me to about the party.,hard,MATCHING
+I am writing with regard to,MATCHING_PAIR,"the article which you published on 6th January, entitled 'Think Before You Spend'.",hard,MATCHING
+I thought I'd write to you now while,MATCHING_PAIR,things are quiet.,hard,MATCHING
+It was great to hear your news and,MATCHING_PAIR,that you've settled in to your new surroundings.,hard,MATCHING
+Our main objection is to the statistics you printed which,MATCHING_PAIR,strongly suggested that crime is on the increase.,hard,MATCHING
+Give it a try and write and,MATCHING_PAIR,let me know how you get on.,hard,MATCHING
+I insist that you either replace the damaged goods within ten days or,MATCHING_PAIR,send me a full refund of the purchase price.,hard,MATCHING
+I hope you will agree that this is a matter which,MATCHING_PAIR,is urgently in need of your attention.,hard,MATCHING
+"There is also a spacious and comfortable family room, which should appeal to diners with young children.",MATCHING_PAIR,Restaurant,hard,MATCHING
+"After a year of almost continual use, I can honestly say that I have not had a single problem with it.",MATCHING_PAIR,Product,hard,MATCHING
+One of the most striking things about these portraits is the way their subjects appear to be so natural.,MATCHING_PAIR,Exhibition,hard,MATCHING
+A hush descended as the conductor took the podium.,MATCHING_PAIR,Classical concert,hard,MATCHING
+"Visitors were treated to a variety of remarkable music and dance acts, as well as the choice of over a hundred fascinating stalls and sideshows to visit.",MATCHING_PAIR,Festival,hard,MATCHING
+The beautifully shot desert scenes and the Ry Cooder soundtrack make it totally unforgettable.,MATCHING_PAIR,Film,hard,MATCHING
+If we were to,MATCHING_PAIR,"reduce the price of admission, more people would visit the gallery",hard,MATCHING
+Imposing a small fine would,MATCHING_PAIR,almost certainly deter people from keeping the books longer than necessary.,hard,MATCHING
+"Should you approve these changes,",MATCHING_PAIR,there would be great benefits for all concerned.,hard,MATCHING
+Only by keeping costs to a minimum,MATCHING_PAIR,can we expect the scheme to make a profit.,hard,MATCHING
+"Assuming we can get backing from sponsors, we should",MATCHING_PAIR,be able to keep within our budget for the year.,hard,MATCHING
+"Unless something can be done to reverse this trend,",MATCHING_PAIR,we may be forced to close the London office.,hard,MATCHING
+hurdle,MATCHING_PAIR,something blocking one's way,hard,MATCHING
+insurmountable,MATCHING_PAIR,impossible to overcome,hard,MATCHING
+second nature,MATCHING_PAIR,automatic,hard,MATCHING
+detrimental,MATCHING_PAIR,damaging,hard,MATCHING
+permutations,MATCHING_PAIR,variations,hard,MATCHING
+nerve-racking,MATCHING_PAIR,frightening,hard,MATCHING
+underestimate yourself,MATCHING_PAIR,believe oneself to be weaker than one is,hard,MATCHING
+on duty,MATCHING_PAIR,working,hard,MATCHING
+on the off-chance,MATCHING_PAIR,just in case,hard,MATCHING
+on principle,MATCHING_PAIR,due to a belief,hard,MATCHING
+on a whim,MATCHING_PAIR,impulsively,hard,MATCHING
+on second thoughts,MATCHING_PAIR,after re-consideration,hard,MATCHING
+on purpose,MATCHING_PAIR,intentionally,hard,MATCHING
+on target,MATCHING_PAIR,as planned,hard,MATCHING
+on condition that,MATCHING_PAIR,only if,hard,MATCHING
+on one's own,MATCHING_PAIR,independently,hard,MATCHING
+on a budget,MATCHING_PAIR,with a limited amount of money,hard,MATCHING
+have the world,MATCHING_PAIR,at one's feet,hard,MATCHING
+be in,MATCHING_PAIR,seventh heaven,hard,MATCHING
+be a feather,MATCHING_PAIR,in one's cap,hard,MATCHING
+have one's head,MATCHING_PAIR,in the clouds,hard,MATCHING
+rub sb up the,MATCHING_PAIR,wrong way,hard,MATCHING
+steal the,MATCHING_PAIR,show,hard,MATCHING
+work one's fingers,MATCHING_PAIR,to the bone,hard,MATCHING
+work one's way,MATCHING_PAIR,up to the top,hard,MATCHING
+block out,MATCHING_PAIR,ignore,hard,MATCHING
+run through,MATCHING_PAIR,examine,hard,MATCHING
+pristine/littered,MATCHING_PAIR,coastline,hard,MATCHING
+temperate/extreme,MATCHING_PAIR,climate,hard,MATCHING
+delicate/fragrant,MATCHING_PAIR,blossoms,hard,MATCHING
+gnarled/blackened,MATCHING_PAIR,branches,hard,MATCHING
+sparkling/winding,MATCHING_PAIR,stream,hard,MATCHING
+heavy/slow-moving,MATCHING_PAIR,traffic,hard,MATCHING
+fanciful/literal,MATCHING_PAIR,interpretation,hard,MATCHING
+unjustified/strict,MATCHING_PAIR,regulations,hard,MATCHING
+bring the,MATCHING_PAIR,house down,hard,MATCHING
+read somebody,MATCHING_PAIR,like a book,hard,MATCHING
+face the,MATCHING_PAIR,music,hard,MATCHING
+let one's,MATCHING_PAIR,hair down,hard,MATCHING
+off the,MATCHING_PAIR,beaten track,hard,MATCHING
+on a,MATCHING_PAIR,shoestring budget,hard,MATCHING
+on the,MATCHING_PAIR,house,hard,MATCHING
+on the edge,MATCHING_PAIR,of one's seat,hard,MATCHING
+paint the,MATCHING_PAIR,town red,hard,MATCHING
+read between,MATCHING_PAIR,the lines,hard,MATCHING
+murder,MATCHING_PAIR,planning and causing the death of sb,hard,MATCHING
+embezzlement,MATCHING_PAIR,stealing money from the company where you work,hard,MATCHING
+jaywalking,MATCHING_PAIR,crossing the street in the wrong place,hard,MATCHING
+manslaughter,MATCHING_PAIR,unintentionally causing sb's death,hard,MATCHING
+vandalism,MATCHING_PAIR,destruction of public property,hard,MATCHING
+littering,MATCHING_PAIR,leaving rubbish in a public place,hard,MATCHING
+fraud,MATCHING_PAIR,gaining money through dishonest means,hard,MATCHING
+slander,MATCHING_PAIR,publicly lying about sb,hard,MATCHING
+loitering with intent,MATCHING_PAIR,remaining in a public place without an obvious reason,hard,MATCHING
+mugging,MATCHING_PAIR,robbing sb in the street,hard,MATCHING
+libel,MATCHING_PAIR,publishing lies about sb,hard,MATCHING
+kidnapping,MATCHING_PAIR,holding sb against their will in order to gain sth,hard,MATCHING
+trespassing,MATCHING_PAIR,illegally entering sb's property,hard,MATCHING
+foot the,MATCHING_PAIR,bill for sth,hard,MATCHING
+on the fringes,MATCHING_PAIR,of society,hard,MATCHING
+take the law into,MATCHING_PAIR,one's own hands,hard,MATCHING
+kill two birds,MATCHING_PAIR,with one stone,hard,MATCHING
+throw oneself on,MATCHING_PAIR,the mercy of the court,hard,MATCHING
+bridge the,MATCHING_PAIR,generation gap,hard,MATCHING
+the law of,MATCHING_PAIR,the jungle,hard,MATCHING
+rob Peter,MATCHING_PAIR,to pay Paul,hard,MATCHING
+make a,MATCHING_PAIR,killing on sth,hard,MATCHING
+blind someone,MATCHING_PAIR,with science,hard,MATCHING
+move with,MATCHING_PAIR,the times,hard,MATCHING
+be somebody's,MATCHING_PAIR,guinea pig,hard,MATCHING
+once in a,MATCHING_PAIR,blue moon,hard,MATCHING
+turn the,MATCHING_PAIR,clock back,hard,MATCHING
+come down,MATCHING_PAIR,to earth,hard,MATCHING
+reinvent,MATCHING_PAIR,the wheel,hard,MATCHING
+it doesn't take,MATCHING_PAIR,a rocket scientist,hard,MATCHING
+stand the test,MATCHING_PAIR,of time,hard,MATCHING
+beaver away,MATCHING_PAIR,at something,hard,MATCHING
+keep one's mind,MATCHING_PAIR,on the job,hard,MATCHING
+mean,MATCHING_PAIR,business,hard,MATCHING
+get something off,MATCHING_PAIR,the ground,hard,MATCHING
+be someone's,MATCHING_PAIR,right-hand man,hard,MATCHING
+call,MATCHING_PAIR,the shots,hard,MATCHING
+have time on,MATCHING_PAIR,one's hands,hard,MATCHING
+keep one's nose,MATCHING_PAIR,to the grindstone,hard,MATCHING
+be an,MATCHING_PAIR,inside job,hard,MATCHING
+on the verge of,MATCHING_PAIR,about to do/happen,hard,MATCHING
+on offer,MATCHING_PAIR,available,hard,MATCHING
+on the basis of,MATCHING_PAIR,due to,hard,MATCHING
+on the dole,MATCHING_PAIR,receiving unemployment benefit,hard,MATCHING
+on the level,MATCHING_PAIR,honest,hard,MATCHING
+on hold,MATCHING_PAIR,waiting,hard,MATCHING
+on a roll,MATCHING_PAIR,winning,hard,MATCHING
+on and on,MATCHING_PAIR,continuously,hard,MATCHING
+on and off,MATCHING_PAIR,intermittently,hard,MATCHING
+on demand,MATCHING_PAIR,when needed,hard,MATCHING
+the late manager,MATCHING_PAIR,the manager who has died,hard,MATCHING
+the manager in question,MATCHING_PAIR,the manager we're talking about,hard,MATCHING
+the manager to-be,MATCHING_PAIR,the person who is bound to become manager,hard,MATCHING
+the former manager,MATCHING_PAIR,the person who was manager before the current one,hard,MATCHING
+the so-called manager,MATCHING_PAIR,the person who is supposed to be the manager,hard,MATCHING
+the present manager,MATCHING_PAIR,the person who is currently manager,hard,MATCHING
+the would-be manager,MATCHING_PAIR,the person who would like to be manager,hard,MATCHING
+the stop-gap manager,MATCHING_PAIR,the person who is holding the manager's post temporarily,hard,MATCHING
+be over,MATCHING_PAIR,the hill,hard,MATCHING
+be given a clean,MATCHING_PAIR,bill of health,hard,MATCHING
+be black,MATCHING_PAIR,and blue,hard,MATCHING
+be fit as,MATCHING_PAIR,a fiddle,hard,MATCHING
+have butterflies in,MATCHING_PAIR,one's stomach,hard,MATCHING
+kick up,MATCHING_PAIR,one's heels,hard,MATCHING
+scare the life,MATCHING_PAIR,out of someone,hard,MATCHING
+be of sound,MATCHING_PAIR,mind and body,hard,MATCHING
+have nerves,MATCHING_PAIR,of steel,hard,MATCHING
+keep a stiff,MATCHING_PAIR,upper lip,hard,MATCHING
+People wrongly assume that there,MATCHING_PAIR,is not much visual interest in orchestral performances.,hard,MATCHING
+It can no longer be assumed that the purpose of art,MATCHING_PAIR,is to delight and instruct.,hard,MATCHING
+Some people claim that art,MATCHING_PAIR,is a useless luxury.,hard,MATCHING
+These days the fame of an artist,MATCHING_PAIR,is more dependent on advertising than on artistic merit.,hard,MATCHING
+What is most striking about the picture,MATCHING_PAIR,is the artist's use of light and shade.,hard,MATCHING
+"In the theatre, the lighting",MATCHING_PAIR,is as important a part of the performance as the acting.,hard,MATCHING
+"Although I personally don't like this sculpture, it",MATCHING_PAIR,is reckoned to be a masterpiece.,hard,MATCHING
+"The film is exciting, moving and, in parts, very funny, which is why it",MATCHING_PAIR,is one of my favourites.,hard,MATCHING
+"Though not very popular, in my view the exhibition",MATCHING_PAIR,is well worth attending.,hard,MATCHING
+"In a live rock concert, it",MATCHING_PAIR,is the whole performance as much as the music that makes it unforgettable.,hard,MATCHING

@@ -3,167 +3,171 @@ TREE 11
 
 NODE VOCAB
 
-Q1: It's very important in today's world to be able to ............ a foreign language.
-A. say
-B. tell
-C. talk
-D. speak
-Answer: D
-
-Q2: Have you ............ the joke about the guy who fell off a 20-metre-high ladder? He was fine – he fell off the bottom rung!
-A. listened to
-B. overheard
-C. paid attention to
-D. heard
-Answer: D
-
-Q3: Many people feel there's ............ point in voting, even in a general election.
-A. little
-B. a little
-C. few
-D. a few
+Q1: I had to take my dog to the vet ............ a vaccination.
+A. for
+B. so as to
+C. so that
 Answer: A
 
-Q4: Everyone complimented Kitty ............ her new outfit.
-A. on
-B. to
-C. in
+Q2: At no time ............ that he was the killer.
+A. I didn't suspect
+B. was I suspect
+C. I had suspected
+D. did I suspect
+Answer: D
+
+Q3: That's the first time .............. an answer right today!
+A. I am getting
+B. I have got
+C. I've been getting
+D. I get
+Answer: B
+
+Q4: 'I went to the exhibition at the natural history museum.' 'Oh, yes? What ............ there?'
+A. saw you
+B. you did see
+C. you saw
+D. did you see
+Answer: D
+
+Q5: At Halloween, children make pumpkin ............
+A. costumes
+B. streamers
+C. lanterns
+Answer: C
+
+Q6: This is the house ............ my grandmother lives.
+A. which
+B. whose
+C. where
+Answer: C
+
+Q7: Could you please cut .......... the amount of paper that you use?
+A. down on
+B. into
+C. out on
+D. out of
+Answer: A
+
+Q8: Everyone complimented Kitty ............ her new outfit.
+A. to
+B. in
+C. on
 D. from
-Answer: A
+Answer: C
 
-Q5: Most people who work in the centre of London ............ from the suburbs every morning.
-A. commute
-B. connect
-C. spread
-D. deliver
-Answer: A
-
-Q6: There are no vegetarian dishes on the ............ !
-A. catalogue
-B. menu
-C. brochure
-D. leaflet
+Q9: It's nice to win, but the important thing is to ............ your best.
+A. make
+B. do
+C. take
+D. have
 Answer: B
 
-Q7: We ............ today and I got into trouble because I hadn't done it.
-A. had checked our homework
-B. had our homework checked
-C. were checked our homework
-D. have checking our homework
-Answer: B
-
-Q8: Some crimes seem to be ............ in this country than in others.
-A. much less common
-B. the least common
-C. too little common
-D. little common enough
-Answer: A
-
-Q9: I ............ reading a wonderful book about space travel.
-A. have just been finishing
-B. have just finished
-C. just do finish
-D. just finish
-Answer: B
-
-Q10: I've got a/an ............ for the school play tomorrow. I really hope I get a main part!
-A. rehearsal
-B. practice
-C. audition
-D. performance
+Q10: Do people in your country ............ gifts at New Year?
+A. decorate
+B. throw
+C. exchange
 Answer: C
 
 
 
 NODE LISTENING
 
-Q1: Both types strike by rapidly unfolding and swinging their raptorial claws at the prey , and can inflict serious ___ on victims significantly greater in size than themselves .
-Answer: damage
+Q1: Schools should use _______(1) in the classroom as students will need computer _______(2) when they are looking for a _______(3). (a)
 
-Q2: As of April 28 , 2013 , the online multiplayer servers have been ___ down .
-Answer: shut
+Computers use _______(4), cartoons and _______(5) _______(6) to help students understand the material. Students will think classes are more like a _______(7) rather than a lesson. (b)
 
-Q3: The province is rich in material resources such as ___ and nickel .
-Answer: iron
-
-Q4: Adults fly in the late ___ and early afternoon .
-Answer: morning
-
-Q5: For an individual person , information ___ has a big effect on privacy , which is viewed very differently by people in different cultures .
-Answer: security
-
-Q6: ___ levels were high , and there was a great variety of fish and other marine organisms .
-Answer: sea
-
-Q7: The songs tell personal stories of ___ in Australia .
-Answer: life
-
-Q8: The ___ grey kangaroo is one of the largest macropods in Australia .
-Answer: western
-
-Q9: The museum also ___ copies of the Erfurt Hebrew Manuscripts .
-Answer: displays
-
-Q10: ___ is the traditional job of the women and children .
-Answer: gathering
+Techniques for the _______(8) of the future can be taught in the computer lab. Students can learn to create _______(9) and how to use computer graphics. (c)
+Answer: 1:computers | 2:skills | 3:job | 4:films | 5:sound | 6:effects | 7:game | 8:art | 9:special
 
 
 
 NODE SPEAKING
 
-1. The idiom is based on the popular understanding of the elevated place of cows in Hinduism and appears to have emerged in America in the late 19th century .
-2. By this time , she functioned as a doctor in natural medicine , and made a living visiting and nursing people .
-3. While hundreds of comic series have been produced in the Franco- Belgian group , some are more notable than others .
-4. The main range was three storeys high , 42.4 m by 5.5 m . Each floor was used for doubling - and there were 306 doubling machines .
-5. As an architectural ornament , spires are most often found on Christian churches .
-6. In the years between convict settlement and the start of the modern tourist industry the area most people worked in the timber industry and fishing .
-7. The race for natural resources will be hard , the biocapacity of the world will be exploited more and more .
-8. The musical film was a natural development of the stage musical after the emergence of sound film technology .
-9. People are nomads for many reasons .
-10. Credits adapted from West 's official website .
+Q1: [Speaking] 1. Brandon
+2. Emily
+3. David
+4. Katie
+5. Kelly
+6. Maria
+
+
 
 
 NODE MATCHING
 
-1. amateur -> done for pleasure instead of as a job
-2. go into -> deal with sth in detail
-3. season -> one of the four periods into which the year is divided according to the weather
-4. pay (n) -> money that you receive for doing your job
-5. fast food -> food that is made and served very quickly, and that you can take away with you
-6. make off -> escape
-7. go/come round -> go/come to sb's house to visit them
-8. robber -> someone who steals money or property
-9. grow on -> if sth grows on you, you start to like it more
-10. prefect -> in some schools in the UK, an older student who controls activities of younger students and helps them obey rules
+1. fizzy drink -> a sweet drink without alcohol that has bubbles
+2. pass away -> die
+3. I was pleased that our gamble came -> off and the experiment was a success.
+4. It must be getting -> on for dinner time.
+5. go/come round -> go/come to sb's house to visit them
+6. reason -> a fact, situation or intention that explains why something happened, why someone did something or why something is true
+7. wear -> to have something on your body as clothing, decoration or protection
+8. Claire is having -> a haircut at the moment.
+9. come off -> succeed
+10. It really is worth -> losing a bit of weight.
 
 
 NODE REVIEW
 
-Q1: For an individual person , information ___ has a big effect on privacy , which is viewed very differently by people in different cultures .
-Answer: security
+Q1: Can you imagine what it was like to have ............ punishment in schools, with teachers hitting pupils?
+A. painful
+B. capital
+C. corporal
+D. harmful
+Answer: C
 
-Q2: Everyone complimented Kitty ............ her new outfit.
-A. from
-B. in
-C. to
-D. on
+Q2: A basketball player must be ........... so he can work with the other members of his team.
+A. courageous
+B. competitive
+C. graceful
+D. co-operative
 Answer: D
 
-3. By this time , she functioned as a doctor in natural medicine , and made a living visiting and nursing people .
-4. In the years between convict settlement and the start of the modern tourist industry the area most people worked in the timber industry and fishing .
-5. robber -> someone who steals money or property
-6. The musical film was a natural development of the stage musical after the emergence of sound film technology .
-7. pay (n) -> money that you receive for doing your job
-Q8: Have you ............ the joke about the guy who fell off a 20-metre-high ladder? He was fine – he fell off the bottom rung!
-A. paid attention to
-B. overheard
-C. listened to
-D. heard
-Answer: D
+Q3: Do you think you could pass that book ............ to me, please?
+A. under
+B. through
+C. over
+D. in
+Answer: C
 
-9. People are nomads for many reasons .
-Q10: The museum also ___ copies of the Erfurt Hebrew Manuscripts .
-Answer: displays
+Q4: Jeans and T-shirts will never go out of ............ .
+A. tendency
+B. trend
+C. fashion
+D. image
+Answer: C
+
+Q5: high school
+Answer: in the UK, a school for children between 11-18; in the US, between 14-18
+
+Q6: teapot
+Answer: a container with a handle and a spout that you use for making and pouring tea
+
+Q7: burglar
+Answer: someone who enters a building illegally in order to steal things
+
+Q8: She denied
+Answer: stealing the clothes.
+
+Q9: A: I'm going shopping. Do you want to come with me?
+B: Yes. I have to buy birthday presents for the twins, _______(1) and _______(2). 
+A: Oh, that reminds me! We have to get some graduation presents.
+B: Right. We need something for _______(3).
+A: And _______(4) is graduating, too. We need a present for him.
+B: Okay. And as long as we're out, why don't we get the wedding present?
+A: You mean for _______(5) and _______(6)? Good idea!
+Answer: 1:Heather | 2:Allison | 3:Michael | 4:Jonathan | 5:Lisa | 6:Kevin
+
+Q10: [Speaking] A: I have to move out!
+B: That's a shame.
+A: My flat was broken into last night.
+B: I'm sorry to hear that.
+A: I can't afford the rent.
+B: You must be very worried.
+A: My antique table is ruined.
+B: How sad!
+
 
 
 

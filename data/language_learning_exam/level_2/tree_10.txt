@@ -3,175 +3,167 @@ TREE 10
 
 NODE VOCAB
 
-Q1: Everyone had ............ a good time when we went bowling that we agreed to go again.
-A. enough
-B. such
-C. so
-D. too
+Q1: Use the remote ............ to change the TV channel.
+A. camera
+B. control
+C. calculator
 Answer: B
 
-Q2: I believe that judges should be independent ............ the government.
+Q2: This is the book in ............ Foster describes his experience of the war.
+A. which
+B. where
+C. what
+D. that
+Answer: A
+
+Q3: It's their 10th wedding ............ , so they are having a party.
+A. retirement
+B. engagement
+C. anniversary
+Answer: C
+
+Q4: Jenny has curly blonde hair and ........... cheeks.
+A. pointed
+B. rosy
+C. bright
+Answer: B
+
+Q5: There will be a 15-minute ............ in the middle of the play.
+A. time
+B. cast
+C. interval
+Answer: C
+
+Q6: If you have ............ time at the end of the exam, check your answers.
+A. a little
+B. little
+C. a few
+D. few
+Answer: A
+
+Q7: If I'd known you were coming, I ............ a cake.
+A. would have baked
+B. would bake
+C. will bake
+D. baked
+Answer: A
+
+Q8: A Personnel Manager has to be experienced .......... dealing with people.
+A. on
+B. for
+C. in
+D. with
+Answer: C
+
+Q9: I believe that judges should be independent ............ the government.
 A. from
-B. to
-C. with
+B. with
+C. to
 D. on
 Answer: A
 
-Q3: Don't drop your sweet wrapper on the floor, ............ ?
-A. do you
-B. aren't you
-C. will you
-D. won't you
+Q10: I think the discussion has gone on ............ and we should make a decision.
+A. enough long
+B. such long
+C. long enough
+D. so long
 Answer: C
-
-Q4: The audience showed their ............ by giving the orchestra a standing ovation.
-A. audition
-B. appreciation
-C. review
-D. entertainment
-Answer: B
-
-Q5: I hadn't studied, so when the teacher asked me I had ............ idea.
-A. even
-B. none
-C. no
-D. not
-Answer: C
-
-Q6: We ............ a swimming pool put in this week.
-A. get
-B. are having
-C. have
-D. have got
-Answer: B
-
-Q7: David ............ me to the train station every morning.
-A. goes
-B. makes
-C. takes
-D. has
-Answer: C
-
-Q8: 'What do you want to do this summer?' 'I think we should go somewhere ............ has plenty of sun and sand.'
-A. that
-B. when
-C. where
-D. who
-Answer: A
-
-Q9: Researchers have ............ to the conclusion that your personality is affected by your genes.
-A. got
-B. arrived
-C. come
-D. reached
-Answer: C
-
-Q10: 'You look thoughtful.' 'I .......... about our holiday last year.'
-A. was just thinking
-B. just think
-C. had just thought
-D. am just think
-Answer: A
 
 
 
 NODE LISTENING
 
-Q1: ___ snakes are commonly kept as pets by reptile enthusiasts .
-Answer: rat
-
-Q2: ___ had long been practiced in Africa .
-Answer: slavery
-
-Q3: Late in life he suffered from ___ and madness .
-Answer: depression
-
-Q4: ___ one has some similar properties as positive one .
-Answer: negative
-
-Q5: It was ruled by a ___ called a Bai or Obai .
-Answer: king
-
-Q6: Eight anarchists were convicted of ___ .
-Answer: conspiracy
-
-Q7: Mehr was then nominated by the Prime ___ to serve as the Minister of Finance .
-Answer: minister
-
-Q8: Before ___ with Europeans , the indigenous peoples of North America were divided into many different polities , from small bands of a few families to large empires .
-Answer: contact
-
-Q9: In 1943 , he became assistant director in charge of mechanization and also had ___ for cryptographic liaison with the US .
-Answer: responsibility
-
-Q10: ___ seamounts are not yet to be studied , or even mapped .
-Answer: most
+Q1: The club is going to hold an _______(1) tournament every year.
+The club's _______(2) are closed for two months every year.
+The gym instructors can produce individual _______(3) for members.
+In the first exercise studio, there are _______(4) classes.
+Instructors are able to design _______(5) which are safe and enjoyable.
+Leisure membership does not include _______(6).
+Answer: 1:international | 2:tennis courts | 3:fitness programs | 4:indoor cycling | 5:workouts | 6:golf access
 
 
 
 NODE SPEAKING
 
-1. There are many different versions of this song .
-2. The pug finally arrived in the United States during the 19th century and soon became popular there as well .
-3. The supreme court has a president and 8 judges .
-4. A mouse or a rat strain is a group of animals that is genetically uniform .
-5. The history of law is closely connected to the development of human civilizations .
-6. Chemical literature connect structures or properties of chemicals to academic papers or patents related to them .
-7. There were 14 surviving kittens in 2008 and 15 in 2009 .
-8. Other theorems have a known proof that cannot easily be written down .
-9. Dual use technology means to the possibility of military use of civilian nuclear technology for generating electricity .
-10. Blankets may also be used on the ground for a picnic or other places where people want to sit without their clothing getting dirty or wet .
+Q1: [Speaking] 1. A: What do you want to eat? B: I want to eat pizza.
+2. A: Where do you want to go? B: I want to go to the Thai restaurant.
+
+
 
 
 NODE MATCHING
 
-1. make for -> go in the direction of
-2. line up -> get/put into lines
-3. grill (v) -> to cook something by putting it close to great heat above or below it
-4. quiz show -> a television or radio programme in which people answer questions in order to win prizes
-5. Mum's trying -> out a new recipe tonight!
-6. bring on -> cause (an illness, etc)
-7. corporal punishment -> punishment that consists of hitting someone
-8. I'm writing an essay and I need to find -> out who discovered penicillin.
-9. put by -> save an amount of money for the future
-10. bulletin -> a short news broadcast
+1. carry out -> perform an experiment, etc
+2. Why don't you try -> going to the gym more often?
+3. illness -> a particular disease, or a period of being ill
+4. witness -> someone who sees a crime, accident or other event happen
+5. look up to -> admire and respect
+6. vacuum -> the carpets
+7. knock out -> defeat and remove from a competition; make unconscious
+8. bring on -> cause (an illness, etc)
+9. racket -> an object used for hitting the ball in games such as tennis
+10. stand in for -> do sb's job for them while they are not available
 
 
 NODE REVIEW
 
-Q1: We ............ a swimming pool put in this week.
-A. have
-B. get
-C. are having
-D. have got
-Answer: C
+Q1: Sir, ............ repeat what the homework is, please?
+A. do you
+B. are you
+C. you
+D. can you
+Answer: D
 
-Q2: I hadn't studied, so when the teacher asked me I had ............ idea.
-A. none
-B. not
-C. no
-D. even
-Answer: C
+Q2: We're really looking ............ to seeing you both next weekend.
+A. ahead
+B. in front
+C. in advance
+D. forward
+Answer: D
 
-3. The pug finally arrived in the United States during the 19th century and soon became popular there as well .
-Q4: It was ruled by a ___ called a Bai or Obai .
-Answer: king
+Q3: I wish Karen ............ that we're not trying to interfere in her life.
+A. has understood
+B. would understand
+C. is going to understand
+D. understands
+Answer: B
 
-5. Mum's trying -> out a new recipe tonight!
-6. There are many different versions of this song .
-7. I'm writing an essay and I need to find -> out who discovered penicillin.
-Q8: ___ snakes are commonly kept as pets by reptile enthusiasts .
-Answer: rat
+Q4: Listen! Some dogs are .......... .
+A. splashing
+B. barking
+C. crashing
+D. wailing
+Answer: B
 
-Q9: Late in life he suffered from ___ and madness .
-Answer: depression
+Q5: Lots of old people have been taken
+Answer: in by this trick and have lost a lot of money.
 
-Q10: 'You look thoughtful.' 'I .......... about our holiday last year.'
-A. was just thinking
-B. am just think
-C. had just thought
-D. just think
-Answer: A
+Q6: electronic
+Answer: using electricity and extremely small electrical parts, such as microchips
+
+Q7: It is said that people who eat poorly are likely
+Answer: to have health problems later in life.
+
+Q8: watch
+Answer: to look at someone or something for a period of time
+
+Q9: A: What do you do in your free time, Lara?
+B: I used to enjoy _______(1), but now I like _______(2) and _______(3).
+A: Oh, not me! I enjoy collecting things. I collect _______(4) cards.
+B: Do you do anything else?
+A: Yes, I really enjoy _______(5) the Internet and listening to _______(6).
+B: Do you play any sports?
+A: I go _______(7) and _______(8) in the winter. How about you?
+B: I like summer sports. I enjoy _______(9) and _______(10).
+Answer: 1:painting | 2:cooking | 3:gardening | 4:baseball | 5:surfing | 6:music | 7:skiing | 8:snowboarding | 9:swimming | 10:hiking
+
+Q10: [Speaking] 1. Brandon
+2. Emily
+3. David
+4. Katie
+5. Kelly
+6. Maria
+
 
 
 

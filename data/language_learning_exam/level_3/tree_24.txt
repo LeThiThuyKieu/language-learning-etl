@@ -3,173 +3,170 @@ TREE 24
 
 NODE VOCAB
 
-Q1: It's not fair to make the dog ............................ in the car on such a hot day.
-A. waiting
-B. to wait
-C. wait
-D. for waiting
+Q1: There has been a sharp increase in the number of people claiming job-seeker's ........... .
+A. compensation
+B. wage
+C. allowance
+D. payment
 Answer: C
 
-Q2: 'Have you finished with the paper yet?' 'I've ............................ started reading it!'
-A. already
-B. still
-C. just
-D. even
+Q2: The resort boasts a ......... beach and crystal clear sea.
+A. faultless
+B. untouched
+C. pristine
+D. pure
 Answer: C
 
-Q3: You have to go through a number of ............................ stages before you become an expert.
-A. intermediate
-B. medium
-C. average
-D. moderate
-Answer: A
+Q3: There are a ……… of reasons why a patient might decide not to consult a doctor.
+A. deluge
+B. horde
+C. multitude
+D. crowd
+Answer: C
 
-Q4: We still ............................ to the idea.
-A. haven't got used
-B. don't use
-C. didn't use
-D. don't get used
-Answer: A
-
-Q5: I woke up late for my interview because I ............................ about it all night and didn't get much sleep.
-A. had worried
-B. worried
-C. have been worrying
-D. had been worrying
+Q4: The salesman neglected ............................ that the price didn't include delivery.
+A. in mentioning
+B. mentioning
+C. mention
+D. to mention
 Answer: D
 
-Q6: Maria was just walking along the road when someone on a motorbike ............................ her handbag.
-A. clenched
-B. grabbed
-C. clutched
-D. fumbled
+Q5: Close to complete ..........., the marathon runner entered the stadium.
+A. collapse
+B. depletion
+C. tiredness
+D. exhaustion
+Answer: D
+
+Q6: Everything is going well and business is ……….
+A. bursting
+B. boosting
+C. roaring
+D. booming
+Answer: D
+
+Q7: The couple were finally ............................ by the landlord after not paying rent for six months.
+A. demolished
+B. evicted
+C. rejected
+D. evacuated
 Answer: B
 
-Q7: Rebecca didn't deserve ............................ punished quite so severely, if you ask me.
-A. being
-B. be
-C. to being
-D. to be
+Q8: We ............................ on the beach now if we hadn't missed the plane.
+A. would have lain
+B. would lie
+C. might have lain
+D. could be lying
 Answer: D
 
-Q8: The company's announced it's ............................ off over 1,000 workers.
-A. leaving
-B. laying
-C. setting
-D. giving
+Q9: If you do not agree to refund my deposit, I will be forced to take ......... action.
+A. law
+B. legal
+C. court
+D. penal
 Answer: B
 
-Q9: ............................ they get the letter tomorrow, you still won't get a reply before the weekend.
-A. Even though
-B. However
-C. Even if
-D. While
-Answer: C
-
-Q10: These days, I only see Morgan once in a ............................ moon.
-A. green
-B. grey
-C. white
-D. blue
-Answer: D
+Q10: When the stress of working in the stockmarket proved too much, he started considering a less ........... but more easy-going career.
+A. well-off
+B. lucrative
+C. prosperous
+D. wealthy
+Answer: B
 
 
 
 NODE LISTENING
 
-Q1: Many scientists had thought that the frontal lobe was disproportionately enlarged in humans compared to ___ primates .
-Answer: other
-
-Q2: Gravitational lensing studies of the Bullet ___ are claimed to provide the best evidence to date for the existence of dark matter .
-Answer: cluster
-
-Q3: The authors were able to experimentally work out a rate law at 261.2 K for the reaction of 1,2 - dimethylidenecyclohexane with sulfur dioxide to give the ___ sulfolene .
-Answer: corresponding
-
-Q4: The tits are insectivorous , and eat a ___ range of small insects and other invertebrates , particularly small leaf - eating caterpillars .
-Answer: wide
-
-Q5: Pirogi come in ___ shapes and forms : they are often oblong with tapering ends , but can also be circular or rectangular .
-Answer: different
-
-Q6: Untreated streptococcal pharyngitis usually resolves within a few ___ .
-Answer: days
-
-Q7: Medications can ___ African trypanosomiasis .
-Answer: treat
-
-Q8: The dorsal and anal fins are divided into anterior spiny and posterior soft - rayed ___ , which may be partially or completely separated .
-Answer: portions
-
-Q9: Although completing the square can be used to solve many quadratic ___ , it does not work with every equation .
-Answer: equations
-
-Q10: A deranged genetic scientist abducts college ___ as human guinea pigs that he uses in his experiments in crossbreeding plants with humans .
-Answer: students
+Q1: Antibiotics are ineffective against _______(1) infections.
+Infections are triggered by two kinds of _______(2) .
+Antibiotics are only useful when it comes to fighting _______(3) bacteria.
+When bacteria _______(4) _______(5) to antibiotics they become resistant.
+Unnecessary use of antibiotics renders one vulnerable to _______(6) _______(7) .
+Infections caused by bacteria are extremely _______(8) .
+According to the World Health Organisation, proper use of antibiotics results in the maximum clinical _______(9) _______(10) .
+For doctors, getting the dosage and duration of an antibiotic prescription right is quite a _______(11) _______(12) .
+Some foods interfere with the _______(13) of antibiotics in the stomach.
+Answer: 1:viral | 2:germs | 3:specific | 4:are | 5:exposed | 6:bacterial | 7:infections | 8:contagious | 9:therapeutic | 10:effect | 11:balancing | 12:act | 13:absorption
 
 
 
 NODE SPEAKING
 
-1. Tonic immobility has also been said to occur in humans that are subject to intense trauma , such as rape or sexual assault .
-2. Horse - drawn for-hire hackney carriage services began operating in both Paris and London in the early 17th century .
-3. A linear chain of amino acid residues is called a polypeptide .
-4. There are few characteristics common to all blues , as the genre takes its shape from the peculiarities of each individual performance .
-5. Construction began in AD 142 at the order of Roman Emperor Antoninus Pius , and took about twelve years to complete .
-6. However , some people with schizophrenia have the ability to tickle themselves .
-7. Free vibration occurs when a mechanical system is set in motion with an initial input and allowed to vibrate freely .
-8. Potassium chromate is a carcinogen and strong oxidant .
-9. The exact identity of silphium is unclear .
-10. The company was also the first in the industry to make a gas-fired generator to electrify pipelines so they would n't corrode so much .
+Q1: [Speaking] 1. The woman had two thousand-three hundred-fifty pairs of shoes.
+2. He won the election by four hundred-eighty thousand votes.
+3. Three thousand-six hundred-eleven people attended the concert.
+
+
 
 
 NODE MATCHING
 
-1. stand up to -> not allow yourself to be treated badly, especially by someone in authority
-2. for good -> permanently, without the possibility of change in the future
-3. throw out -> get rid of something that you no longer want, for example by putting it in a dustbin; force someone to leave a place or group; if someone in authority throws out a plan, proposal, etc they refuse to accept it
-4. blend in -> if someone or something blends in, they are similar to the other people, objects, buildings, etc around them, and so they seem appropriate or you do not notice them
-5. The tour we're going on next week takes -> in some fantastic areas of natural beauty.
-6. give sb a taste/dose of their own medicine -> treat someone in the same bad way they treat other people
+1. the stop-gap manager -> the person who is holding the manager's post temporarily
+2. wild-life, water -> conservation
+3. step aside -> move so that sb can pass you; leave a job so that sb else can take over
+4. stand up to -> not allow yourself to be treated badly, especially by someone in authority
+5. get/catch sb's drift -> understand the basic meaning
+6. In a live rock concert, it -> is the whole performance as much as the music that makes it unforgettable.
 7. mount up -> get much larger
-8. put in -> fix something such as equipment in the place where it will be used and make it ready to use; make an official request, claim, offer, etc
-9. follow up -> check something or try to find out more about it; do something in addition to what you have already done
-10. get/catch sb's drift -> understand the basic meaning
+8. follow up -> check something or try to find out more about it; do something in addition to what you have already done
+9. have time on -> one's hands
+10. keep up with the Joneses -> try to be as rich, successful, etc as your neighbours
 
 
 NODE REVIEW
 
-1. The exact identity of silphium is unclear .
-Q2: It's not fair to make the dog ............................ in the car on such a hot day.
-A. wait
-B. waiting
-C. to wait
-D. for waiting
-Answer: A
-
-Q3: The company's announced it's ............................ off over 1,000 workers.
-A. setting
-B. laying
-C. giving
-D. leaving
+Q1: Travelling by sea makes me suffer from ........... .
+A. vomit
+B. nausea
+C. disgust
+D. vertigo
 Answer: B
 
-4. Horse - drawn for-hire hackney carriage services began operating in both Paris and London in the early 17th century .
-Q5: Gravitational lensing studies of the Bullet ___ are claimed to provide the best evidence to date for the existence of dark matter .
-Answer: cluster
-
-Q6: Although completing the square can be used to solve many quadratic ___ , it does not work with every equation .
-Answer: equations
-
-7. However , some people with schizophrenia have the ability to tickle themselves .
-8. The tour we're going on next week takes -> in some fantastic areas of natural beauty.
-9. A linear chain of amino acid residues is called a polypeptide .
-Q10: 'Have you finished with the paper yet?' 'I've ............................ started reading it!'
-A. even
-B. just
-C. still
-D. already
+Q2: His mother ........... into a rage when she heard what he'd done.
+A. rushed
+B. flew
+C. fell
+D. soared
 Answer: B
+
+Q3: If I ............................ hear from Nigel, I'll tell him you were asking after him.
+A. happened
+B. will happen to
+C. should happen to
+D. should to
+Answer: C
+
+Q4: We are currently ........... couriers, guides and hotel staff for the summer season.
+A. suggestion
+B. collecting
+C. employing
+D. recruiting
+Answer: D
+
+Q5: carry over
+Answer: take something that you earn or are given in one year or period of time into the next one
+
+Q6: a leopard can’t change its spots
+Answer: used for saying that someone will never change their behaviour or character
+
+Q7: a spiritual dimension
+Answer: a less materialistic element in an ideology
+
+Q8: the powers that be
+Answer: the people who control a situation
+
+Q9: World War I, which began in 1914 and ended in 1918, is sometimes called _______(1) _______(2) _______(3).
+In 1928, British women obtained the _______(4) after a long battle.
+The _______(5) _______(6) _______(7) in America in 1929 had far-reaching social consequences in the US and abroad.
+On August 6th 1945 the _______(8) _______(9) almost totally destroyed Hiroshima.
+On April 12th 1961 Yuri Gagarin _______(10) _______(11) in a rocketship, marking the beginning of the space age.
+In 1964 Martin Luther King won the _______(12) _______(13) _______(14) for his role in the civil rights movement in the USA.
+Answer: 1:the | 2:Great | 3:War | 4:vote | 5:stock | 6:market | 7:crash | 8:atomic | 9:bomb | 10:orbit | 11:Earth | 12:Nobel | 13:Peace | 14:Prize
+
+Q10: [Speaking] 1. Mark is turning twenty-one in September.
+2. This will be their fiftieth wedding anniversary!
+3. Her birthday is on the thirty-first.
+
 
 
 

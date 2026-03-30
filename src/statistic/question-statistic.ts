@@ -252,8 +252,9 @@ export class QuestionStatistics {
    * Xây dựng bộ câu hỏi mẫu cho một cấp độ nhất định.
    * Quy tắc:
    *  - mỗi tree có 5 node (node 1: VOCAB, node 2: LISTENING, node 3:SPEAKING, node 4: MATCHING, node 5: REVIEW)
-   *  - node 1,2,3,4 : mỗi node lấy random ra 10 câu hỏi trong bộ câu hỏi trong node đó
-   *  - nút review lấy random 10 trong số 40 câu đã được chọn từ các node 1,2,3,4
+   *  - node 1: lấy 10 câu, node 2: lấy 1 câu, node 3: lấy 1 câu, node 4: lấy 10 câu, node 5: 10 câu (4 câu vocab +4 câu matching + 1 câu listening +1 câu speaking)
+   *  - node Review: 4 câu vocab có thể lấy random từ bộ vocab nhưng điều kiện chung level, 4 câu matching có thể lấy random từ bộ matching nhưng điều kiện chung level, 1 câu listening và 1 câu speaking có thể lấy random từ toàn bộ câu listening/speaking của level đó 
+   *  - node Review: các câu của node này phải khác hoàn toàn với các câu đã lấy ở node 1,2,3,4 của cùng tree đó (để đảm bảo tính review thực sự, ko bị trùng lắp câu đã học)
    */
   async getSampleQuestionsByLevel(levelId: number) {
     const db = await this.createConnection();
@@ -282,17 +283,31 @@ export class QuestionStatistics {
         );
 
         const treeItem: any = { ...tree, nodes: [] };
-        let accumulated: any[] = []; //mang chứa 40 câu để chọn 10 câu cho node REVIEW
+        const usedQuestionIds = new Set<number>(); // track câu đã dùng
+        const questionsByType = {
+          VOCAB: [] as any[],
+          LISTENING: [] as any[],
+          SPEAKING: [] as any[],
+          MATCHING: [] as any[],
+        };
+
         for (const node of nodes) {
           if (node.node_type === "REVIEW") continue;
-          // lấy 10 câu random từ MySQL
+
+          // định nghĩa số lượng câu cần lấy cho mỗi loại node
+          let limit = 10;
+          if (node.node_type === "LISTENING" || node.node_type === "SPEAKING") {
+            limit = 1;
+          }
+
+          // lấy câu random từ MySQL
           const [qs]: any = await db.query(
             `SELECT id, mongo_question_id, question_type, correct_answer
 					 FROM questions
 					 WHERE level_id = ? AND node_id = ?
 					 ORDER BY RAND()
-					 LIMIT 10`,
-            [levelId, node.id],
+					 LIMIT ?`,
+            [levelId, node.id, limit],
           );
 
           if (qs.length === 0) {
@@ -333,19 +348,168 @@ export class QuestionStatistics {
             questions: enrichedQuestions,
           });
 
-          accumulated.push(...enrichedQuestions);
+          // lưu vào questionsByType để dùng cho REVIEW node
+          questionsByType[node.node_type as keyof typeof questionsByType] =
+            enrichedQuestions;
+
+          // track câu đã dùng
+          qs.forEach((q: any) => usedQuestionIds.add(q.id));
         }
 
         // xử lý node REVIEW
         const reviewNode = nodes.find((n: any) => n.node_type === "REVIEW");
-        if (reviewNode && accumulated.length > 0) {
-          const shuffled = [...accumulated].sort(() => 0.5 - Math.random());
-          const reviewQs = shuffled.slice(0, 10);
+        if (reviewNode) {
+          const reviewQuestions: any[] = [];
+
+          // lấy 4 câu VOCAB chưa dùng
+          if (questionsByType.VOCAB.length > 0) {
+            const [vocabQuestions]: any = await db.query(
+              `SELECT id, mongo_question_id, question_type, correct_answer
+               FROM questions
+               WHERE level_id = ? AND question_type = 'VOCAB' AND id NOT IN (?)
+               ORDER BY RAND()
+               LIMIT 4`,
+              [levelId, usedQuestionIds.size > 0 ? Array.from(usedQuestionIds) : [0]],
+            );
+
+            if (vocabQuestions.length > 0) {
+              const vocabIds = vocabQuestions.map((q: any) => q.mongo_question_id);
+              const vocabMongoDocs = await QuestionModel.find({
+                _id: { $in: vocabIds },
+              }).lean();
+
+              const vocabMongoMap = new Map(
+                vocabMongoDocs.map((d: any) => [d._id.toString(), d]),
+              );
+
+              vocabQuestions.forEach((q: any) => {
+                const mongoDoc = vocabMongoMap.get(q.mongo_question_id);
+                reviewQuestions.push({
+                  id: q.id,
+                  question_text: mongoDoc?.question_text || "",
+                  options: mongoDoc?.distractors || [],
+                  correct_answer: q.correct_answer,
+                  question_type: q.question_type,
+                  audio_url: mongoDoc?.metadata?.audio_url || "",
+                  phonetic: mongoDoc?.metadata?.phonetic || "",
+                });
+              });
+            }
+          }
+
+          // lấy 4 câu MATCHING chưa dùng
+          if (questionsByType.MATCHING.length > 0) {
+            const [matchingQuestions]: any = await db.query(
+              `SELECT id, mongo_question_id, question_type, correct_answer
+               FROM questions
+               WHERE level_id = ? AND question_type = 'MATCHING' AND id NOT IN (?)
+               ORDER BY RAND()
+               LIMIT 4`,
+              [levelId, usedQuestionIds.size > 0 ? Array.from(usedQuestionIds) : [0]],
+            );
+
+            if (matchingQuestions.length > 0) {
+              const matchingIds = matchingQuestions.map((q: any) => q.mongo_question_id);
+              const matchingMongoDocs = await QuestionModel.find({
+                _id: { $in: matchingIds },
+              }).lean();
+
+              const matchingMongoMap = new Map(
+                matchingMongoDocs.map((d: any) => [d._id.toString(), d]),
+              );
+
+              matchingQuestions.forEach((q: any) => {
+                const mongoDoc = matchingMongoMap.get(q.mongo_question_id);
+                reviewQuestions.push({
+                  id: q.id,
+                  question_text: mongoDoc?.question_text || "",
+                  options: mongoDoc?.distractors || [],
+                  correct_answer: q.correct_answer,
+                  question_type: q.question_type,
+                  audio_url: mongoDoc?.metadata?.audio_url || "",
+                  phonetic: mongoDoc?.metadata?.phonetic || "",
+                });
+              });
+            }
+          }
+
+          // lấy 1 câu LISTENING chưa dùng
+          if (questionsByType.LISTENING.length > 0) {
+            const [listeningQuestions]: any = await db.query(
+              `SELECT id, mongo_question_id, question_type, correct_answer
+               FROM questions
+               WHERE level_id = ? AND question_type = 'LISTENING' AND id NOT IN (?)
+               ORDER BY RAND()
+               LIMIT 1`,
+              [levelId, usedQuestionIds.size > 0 ? Array.from(usedQuestionIds) : [0]],
+            );
+
+            if (listeningQuestions.length > 0) {
+              const listeningIds = listeningQuestions.map((q: any) => q.mongo_question_id);
+              const listeningMongoDocs = await QuestionModel.find({
+                _id: { $in: listeningIds },
+              }).lean();
+
+              const listeningMongoMap = new Map(
+                listeningMongoDocs.map((d: any) => [d._id.toString(), d]),
+              );
+
+              listeningQuestions.forEach((q: any) => {
+                const mongoDoc = listeningMongoMap.get(q.mongo_question_id);
+                reviewQuestions.push({
+                  id: q.id,
+                  question_text: mongoDoc?.question_text || "",
+                  options: mongoDoc?.distractors || [],
+                  correct_answer: q.correct_answer,
+                  question_type: q.question_type,
+                  audio_url: mongoDoc?.metadata?.audio_url || "",
+                  phonetic: mongoDoc?.metadata?.phonetic || "",
+                });
+              });
+            }
+          }
+
+          // lấy 1 câu SPEAKING chưa dùng
+          if (questionsByType.SPEAKING.length > 0) {
+            const [speakingQuestions]: any = await db.query(
+              `SELECT id, mongo_question_id, question_type, correct_answer
+               FROM questions
+               WHERE level_id = ? AND question_type = 'SPEAKING' AND id NOT IN (?)
+               ORDER BY RAND()
+               LIMIT 1`,
+              [levelId, usedQuestionIds.size > 0 ? Array.from(usedQuestionIds) : [0]],
+            );
+
+            if (speakingQuestions.length > 0) {
+              const speakingIds = speakingQuestions.map((q: any) => q.mongo_question_id);
+              const speakingMongoDocs = await QuestionModel.find({
+                _id: { $in: speakingIds },
+              }).lean();
+
+              const speakingMongoMap = new Map(
+                speakingMongoDocs.map((d: any) => [d._id.toString(), d]),
+              );
+
+              speakingQuestions.forEach((q: any) => {
+                const mongoDoc = speakingMongoMap.get(q.mongo_question_id);
+                reviewQuestions.push({
+                  id: q.id,
+                  question_text: mongoDoc?.question_text || "",
+                  options: mongoDoc?.distractors || [],
+                  correct_answer: q.correct_answer,
+                  question_type: q.question_type,
+                  audio_url: mongoDoc?.metadata?.audio_url || "",
+                  phonetic: mongoDoc?.metadata?.phonetic || "",
+                });
+              });
+            }
+          }
+
           treeItem.nodes.push({
             id: reviewNode.id,
             title: reviewNode.title,
             node_type: reviewNode.node_type,
-            questions: reviewQs,
+            questions: reviewQuestions,
           });
         }
 

@@ -15,6 +15,10 @@ function formatTree(tree: any) {
   for (const node of tree.nodes) {
     content += `NODE ${node.node_type}\n\n`;
     let index = 1;
+    
+    // NODE REVIEW sử dụng format thống nhất cho tất cả loại câu
+    const isReviewNode = node.node_type === "REVIEW";
+    
     for (const q of node.questions) {
       if (q.question_type === "VOCAB") {
         const opts = Array.isArray(q.options) ? q.options : [];
@@ -39,12 +43,21 @@ function formatTree(tree: any) {
 
         content += `Answer: ${answerLetter}\n\n`;
       } else if (q.question_type === "LISTENING") {
-        content += `Q${index}: ${q.question_text}\n`;
+        const listeningText = String(q.question_text || "").replace(/\\n/g, "\n");
+        content += `Q${index}: ${listeningText}\n`;
         content += `Answer: ${q.correct_answer}\n\n`;
       } else if (q.question_type === "MATCHING") {
-        content += `${index}. ${q.question_text} -> ${q.correct_answer}\n`;
+        if (isReviewNode) {
+          // In REVIEW node, dùng Q format
+          content += `Q${index}: ${q.question_text}\n`;
+          content += `Answer: ${q.correct_answer}\n\n`;
+        } else {
+          // In MATCHING node, dùng số + arrow format
+          content += `${index}. ${q.question_text} -> ${q.correct_answer}\n`;
+        }
       } else if (q.question_type === "SPEAKING") {
-        content += `${index}. ${q.correct_answer}\n`;
+        content += `Q${index}: [Speaking] ${q.question_text || "Describe the image"}\n`;
+        content += `${q.correct_answer}\n\n`;
       }
       index++;
     }

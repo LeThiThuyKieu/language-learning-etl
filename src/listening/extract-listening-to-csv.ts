@@ -85,9 +85,9 @@ type MainSeenRecord = {
 const BASE_INPUT_DIR = path.resolve(process.cwd(), "data/src-data-listening");
 const STATICS_DIR = path.join(BASE_INPUT_DIR, "statics");
 const UPSTREAM_DIR = path.join(BASE_INPUT_DIR, "upstream");
-const OUTPUT_FILE = path.resolve(process.cwd(), "data/archive/listening_raw.csv");
-const REVIEW_FILE = path.resolve(process.cwd(), "data/archive/listening_review.csv");
-const DUPLICATE_FILE = path.resolve(process.cwd(), "data/archive/listening_duplicates.csv");
+const OUTPUT_FILE = path.resolve(process.cwd(), "data/archive/listening_raw.csv"); //file chính load vào db
+const REVIEW_FILE = path.resolve(process.cwd(), "data/archive/listening_review.csv");//file log lỗi cần review
+const DUPLICATE_FILE = path.resolve(process.cwd(), "data/archive/listening_duplicates.csv"); //file log ghi lại các dòng bị duplicate khi duyệt json sang csv
 
 // Mode hợp lệ
 const ALLOWED_SOURCE_MODES: SourceMode[] = ["statics", "upstream", "both"];

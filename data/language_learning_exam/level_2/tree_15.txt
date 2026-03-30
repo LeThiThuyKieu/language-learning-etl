@@ -3,171 +3,198 @@ TREE 15
 
 NODE VOCAB
 
-Q1: That's the most incredible ............ of art I've ever seen!
-A. work
-B. job
-C. creation
-D. brand
-Answer: A
-
-Q2: Actually, I............. a cup of tea first thing every morning but then I switch to coffee.
-A. do drink
-B. have been drinking
-C. have drunk
-D. am drinking
-Answer: A
-
-Q3: Hello? Yes, I'd like to ............ an appointment for tomorrow with Dr Fletcher, please.
-A. do
-B. form
-C. make
-D. break
-Answer: C
-
-Q4: If our flight is delayed, will we ............ our connection in Los Angeles?
-A. lack
-B. lose
-C. drop
-D. miss
+Q1: Ivan tells me he really ............ himself at your barbecue last week.
+A. pleased
+B. played
+C. interested
+D. enjoyed
 Answer: D
 
-Q5: David seems to have found a new ............ of friends.
-A. group
-B. team
-C. company
-D. audience
+Q2: A lot of teenagers like wearing ........... labels.
+A. designer
+B. school
+C. survey
 Answer: A
 
-Q6: Time ............ so quickly when you're doing something enjoyable.
-A. passes
-B. takes
-C. finds
-D. spends
-Answer: A
-
-Q7: 'What did they say when they realised you weren't a shoplifter?' 'They apologised ............ me.'
-A. to doubt
-B. they had doubted
-C. for doubting
-D. the doubt of
-Answer: C
-
-Q8: Suppose we ............ we could go and live on another planet. Would you want to go?
-A. to hear
-B. having heard
-C. hearing
-D. heard
+Q3: Our teacher made the whole class ............ after the lesson because we had been so noisy.
+A. staying
+B. to stay
+C. for staying
+D. stay
 Answer: D
 
-Q9: When my parents got divorced, my best friend was very ............ and listened to all my problems.
-A. likeable
-B. amusing
-C. sympathetic
-D. enjoyable
+Q4: We watched a news ............ about the bank robbery.
+A. forecast
+B. report
+C. chat
+Answer: B
+
+Q5: It's ............ honour to be here this evening to speak to you.
+A. no word
+B. an
+C. a
+D. the
+Answer: B
+
+Q6: This restaurant offers delicious French ............
+A. servings
+B. menu
+C. cuisine
 Answer: C
 
-Q10: They mentioned it in the article but they didn't ............ into detail.
-A. come
-B. go
-C. take
-D. make
+Q7: When we got to the airport, I realised I .......... my passport at home!
+A. had left
+B. left
+C. had been leaving
+D. was left
+Answer: A
+
+Q8: I'm going to ask for directions because I think we've ......... our way.
+A. lost
+B. missed
+C. misplaced
+D. mistaken
+Answer: A
+
+Q9: There was an explosion in technology ............ the beginning of the 20th century.
+A. on
+B. at
+C. in
+D. through
+Answer: B
+
+Q10: Mum and Dad didn't fancy cooking, so we got a pizza ............ .
+A. deliver
+B. delivered
+C. to be delivered
+D. be delivered
 Answer: B
 
 
 
 NODE LISTENING
 
-Q1: While the cause of the common ___ has been known since only the 1950 s , the disease has been with humanity since ancient times .
-Answer: cold
+Q1: Eat a _______(1) breakfast
+Before you start your day
+_______(2) is what you need
+To help you work and play
 
-Q2: Lobsters usually ___ slowly by walking on the bottom of the sea floor .
-Answer: move
+You've got to be food wise
+And watch what's on your plate
+The right food at the right time
+Can keep you feeling great.
 
-Q3: The 1880 census ___ the population of the United States to be 50,189,209 .
-Answer: found
+Snacking burns off _______(3), so
+It can be good for you
+But choose foods that are healthy
+A _______(4) bar won't do!
 
-Q4: Perjury is a serious crime because it might be used to take away the power of a court , which can lead to ___ for the wrong person .
-Answer: punishment
+You've got to be food wise ...
 
-Q5: The only time a flying lizard comes to the ground is when a female is ready to ___ her eggs .
-Answer: lay
+When it comes to lunchtime
+Go for something _______(5)
+A salad or a _______(6)
+Will make you feel just right
 
-Q6: The number of protons in the nucleus causes its electric ___ .
-Answer: charge
+You've got to be food wise ...
 
-Q7: A knee ___ is where a wrestler strikes their opponent using their knees .
-Answer: strike
+A good _______(7) in the evening
+Will make your day complete
+With vegetables and _______(8)
+A tasty evening treat
 
-Q8: ___ occurring cadmium is composed of 8 isotopes .
-Answer: naturally
-
-Q9: The next ___ was the development of procedural languages .
-Answer: advance
-
-Q10: A three - point ___ clothesline is where a wrestler lines up in a three - point stance , charges at the opponent and clotheslines them .
-Answer: stance
+You've got to be food wise ...
+Answer: 1:healthy | 2:Energy | 3:fat | 4:chocolate | 5:light | 6:sandwich | 7:meal | 8:spices
 
 
 
 NODE SPEAKING
 
-1. The Tentative List consists of sites which have been nominated .
-2. A goal of compiler and processor designers is to identify and take advantage of as much ILP as possible .
-3. A train may occasionally experience a rollback following a launch .
-4. The upperside of the wings is black .
-5. Oats are also occasionally used in several different drinks .
-6. Islam also has its own form of Theistic evolution , which says that mainstream scientific analysis of the origin of the universe is supported by the Qur'an .
-7. It is hard to find the shape of the minimal surface bounded by some arbitrary shaped frame using just mathematics .
-8. Tourism was , and continues to be one of the more important economic enterprises for the municipality .
-9. An unusual feature at a water park is ice skating .
-10. The European spadefoot toads are small to large sized frogs .
+Q1: [Speaking] 1. A: My name is Pennington. B: Did you say "Pennington"?
+2. A: I'd like a single room. B: Excuse me. Did you say "a single" room?
+3. A: I need to see your passport. B: I'm sorry. Did you say you need to see my passport?
+
+
 
 
 NODE MATCHING
 
-1. come (a)round (to) -> be persuaded to change your mind (about)
-2. judge -> someone whose job is to make decisions in a court of law
-3. hooligan -> someone who is noisy or violent in public places
-4. chase after -> follow sb/sth quickly in order to catch them
-5. see through (to) -> continue (or help to continue) to the end of sth unpleasant or difficult
-6. face up to -> accept sth and try to deal with it
-7. Dad thought it might be a good idea to look -> up the train times on the Internet.
-8. I don't know what we're going to live -> on now I've lost my job.
-9. take -> to move or carry someone or something from one place to another
-10. recipe -> a set of instructions for cooking or preparing a particular food
+1. I heard that Bigburger have taken -> over Cookright and plan to close some branches.
+2. progress -> the process of developing or improving
+3. pull through -> survive (a serious illness, etc)
+4. travel -> the activity of travelling
+5. deliver -> to take something to a person or place
+6. cooker -> a large piece of kitchen equipment that you use for cooking food
+7. A number of experiments have been carried -> out by physicists which prove that time can speed up and slow down.
+8. Although -> Aesop's a vegetarian, he does occasionally eat fish.
+9. method -> a way of doing something, especially a planned or established way
+10. job -> work that you do regularly to earn money
 
 
 NODE REVIEW
 
-Q1: Actually, I............. a cup of tea first thing every morning but then I switch to coffee.
-A. have drunk
-B. have been drinking
-C. do drink
-D. am drinking
+Q1: 'Why did you get the bus to work?' 'I'm having my car ............ at the moment.'
+A. to service
+B. servicing
+C. serviced
+D. to be serviced
 Answer: C
 
-2. Oats are also occasionally used in several different drinks .
-3. chase after -> follow sb/sth quickly in order to catch them
-4. recipe -> a set of instructions for cooking or preparing a particular food
-Q5: The number of protons in the nucleus causes its electric ___ .
-Answer: charge
-
-Q6: The only time a flying lizard comes to the ground is when a female is ready to ___ her eggs .
-Answer: lay
-
-7. hooligan -> someone who is noisy or violent in public places
-Q8: The 1880 census ___ the population of the United States to be 50,189,209 .
-Answer: found
-
-Q9: A three - point ___ clothesline is where a wrestler lines up in a three - point stance , charges at the opponent and clotheslines them .
-Answer: stance
-
-Q10: They mentioned it in the article but they didn't ............ into detail.
-A. go
-B. come
-C. take
-D. make
+Q2: Hurry up, or we'll ............ the bus!
+A. miss
+B. drop
+C. lose
+D. avoid
 Answer: A
+
+Q3: I went to see the doctor because I'm finding it difficult to sleep at ............ night.
+A. the
+B. no word
+C. an
+D. a
+Answer: B
+
+Q4: In some schools children ............ to wear a uniform.
+A. can
+B. must
+C. have
+Answer: C
+
+Q5: likeable
+Answer: pleasant, friendly and easy to like
+
+Q6: come (a)round (to)
+Answer: be persuaded to change your mind (about)
+
+Q7: injured
+Answer: hurt in an accident or attack
+
+Q8: qualifications
+Answer: something such as a degree or a diploma that you get when you successfully finish a course of study
+
+Q9: At home
+• Recycle everything you can.
+• Grow some of your own food.
+• Plant _______(1) and bushes in your garden.
+Transport
+• Ride your bike or _______(2) instead of driving.
+• Use public transport.
+• Drive sensibly: don’t waste petrol.
+At work
+• Print things on _______(3) paper.
+• Print or copy on both sides of the paper.
+• Use the _______(4) instead of the lift.
+Shopping
+• Don’t buy food which is wrapped in _______(5).
+• Buy locally grown food and products.
+• Don’t buy products which come from _______(6) animals.
+Answer: 1:trees | 2:walk | 3:recycled | 4:stairs | 5:plastic | 6:endangered
+
+Q10: [Speaking] What’s the matter?
+You're joking!
+What’s wrong?
+You can't be serious!
+
 
 
 

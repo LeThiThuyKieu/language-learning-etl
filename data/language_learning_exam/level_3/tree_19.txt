@@ -3,179 +3,177 @@ TREE 19
 
 NODE VOCAB
 
-Q1: The kids suggested ............................ a pizza tonight. What do you think?
-A. getting
-B. we'll get
-C. to get
-D. for getting
-Answer: A
-
-Q2: ............................ of birds over a city usually predict cold weather.
-A. Herds
-B. Groups
-C. Flocks
-D. Packs
+Q1: Paul’s ability to ......... a challenge made him the perfect candidate to head up the new sales division.
+A. order
+B. run
+C. handle
+D. control
 Answer: C
 
-Q3: My younger sister's in ............................ .
-A. a year 7 at the school
-B. year 7 at school
-C. the year 7 at school
-D. the year 7 at the school
+Q2: Dr. Chen advised me to use this remedy in ........... as it is extremely potent.
+A. regulation
+B. control
+C. moderation
+D. restraint
+Answer: C
+
+Q3: Whenever he watched detective films, his imagination ran ........... .
+A. raging
+B. riot
+C. unchecked
+D. furious
 Answer: B
 
-Q4: Why don't you have a doctor ............................ at your arm if it's hurting you?
-A. for looking
-B. to look
-C. look
-D. looking
-Answer: C
-
-Q5: We are pleased to inform you that we have decided to ............................ your request for British citizenship.
-A. give
-B. donate
-C. permit
-D. grant
+Q4: When Nadine arrived, she soon ............................ at all her jokes.
+A. had laughed everyone
+B. had everyone laughed
+C. had laughing everyone
+D. had everyone laughing
 Answer: D
 
-Q6: I'd never kill an animal unless it ............................ me first.
-A. attacked
-B. will attack
-C. attacks
-D. has attacked
+Q5: I'd love ............................ afford to take a month or two off.
+A. I could
+B. to can
+C. that I will
+D. to be able to
+Answer: D
+
+Q6: A lot of school leavers have to go straight on the ........... because there just aren't any jobs for them.
+A. unemployment
+B. queue
+C. wait
+D. dole
+Answer: D
+
+Q7: McLean certainly worked for the government, but he never referred to himself as a ........... servant.
+A. civil
+B. community
+C. common
+D. civic
 Answer: A
 
-Q7: You're the first person I've met ............................ political views are more left-wing than mine!
-A. whose
-B. who has
-C. who's
-D. for whom
-Answer: A
-
-Q8: Relations between the two islands have ............................ further recently.
-A. deteriorated
-B. distorted
-C. spoiled
-D. decayed
-Answer: A
-
-Q9: When I was pregnant, I often got a sudden ............................ for tinned sardines.
-A. envy
-B. craving
-C. preference
-D. greed
+Q8: ............................ of birds over a city usually predict cold weather.
+A. Herds
+B. Flocks
+C. Packs
+D. Groups
 Answer: B
 
-Q10: Andrea and Theresa are so different! You couldn't have two more ............................ sisters.
-A. conflicting
-B. contrasting
-C. dislike
-D. distinguished
-Answer: B
+Q9: I didn't get the job, but I'll just have to ............................ and bear it, won't I?
+A. beam
+B. smile
+C. grin
+D. smirk
+Answer: C
+
+Q10: When the workload got too much for him, he gave in and decided to ......... .
+A. delegate
+B. allot
+C. assign
+D. entrust
+Answer: A
 
 
 
 NODE LISTENING
 
-Q1: TUTTs sometimes brings a large amount of vertical ___ shear over tropical disturbances in the deep tropics and cyclones and thus hinder their development .
-Answer: wind
-
-Q2: Historically , ___ accidents and catastrophes have resulted from microsleep episodes in these circumstances .
-Answer: many
-
-Q3: Both ___ - financial and financial capital accumulation is usually needed for economic growth , since additional production usually requires additional funds to enlarge the scale of production .
-Answer: non
-
-Q4: Some enzymes or enzyme complexes ___ several cofactors .
-Answer: require
-
-Q5: The elytra act as ___ wing - cases for the hind wings underneath , which are used for flying .
-Answer: protective
-
-Q6: Stars get the energy they produce through nuclear fusion of ___ into helium .
-Answer: hydrogen
-
-Q7: The authority of appellate courts to review the decisions of lower courts varies widely from one ___ to another .
-Answer: jurisdiction
-
-Q8: The Master has also been featured in ___ - offs of the series , which are of unclear canonicity and may not take place in the same continuity .
-Answer: spin
-
-Q9: Above the western entrance is the face of the astronomical clock , which was destroyed during the 30 ___ war .
-Answer: year
-
-Q10: Subfamily Nymphicinae Subfamily Calyptorhynchinae : The ___ cockatoos Subfamily Cacatuinae
-Answer: black
+Q1: A: Oh, I like this black sweater. It’s really nice, isn’t it?
+B: Yeah, it’s great. Is it _______(1) _______(2) _______(3)?
+A: No, I think it’s made of cotton.
+B: Don’t you already have a _______(4) _______(5) _______(6) sweaters?
+A: Yeah, I do, but I really like this one.
+B: You wear a lot of black. Why don’t you try on _______(7) _______(8) _______(9) blue sweaters?
+A: Yeah, that’s a nice color. I’ll try it on!
+Answer: 1:made | 2:of | 3:wool | 4:couple | 5:of | 6:black | 7:one | 8:of | 9:these
 
 
 
 NODE SPEAKING
 
-1. Researchers have also found the effects of illusory superiority in studies into relationship satisfaction .
-2. The electron transport chain consists of a spatially separated series of redox reactions in which electrons are transferred from a donor molecule to an acceptor molecule .
-3. In a simple example , the two bromine atoms in 3 - tert- butyl- trans - 1, 2 - dibromohexane mutarotate by heating .
-4. Older banyan trees are characterized by aerial prop roots that mature into thick , woody trunks , which can become indistinguishable from the primary trunk with age .
-5. A well - known example of natural selection in action is the development of antibiotic resistance in microorganisms .
-6. OF reacts with many metals to yield oxides and fluorides .
-7. The tits are generalist insectivores that consume a wide range of small insects and other invertebrates , particularly small defoliating caterpillars .
-8. With around 10,000 species the Oligochaetes make up about a half of the phylum Annelida .
-9. Lichenometry is a method of dating exposed rock by using the growth of lichen .
-10. The area of study for pollen and spores , including fossils , is called palynology .
+Q1: [Speaking] 1. It's made of leather.
+2. I need a couple of skirts.
+3. She has a lot of suits.
+4. He owns lots of T-shirts.
+5. It's not made of wool.
+6. Can I look at one of those jackets?
+
+
 
 
 NODE MATCHING
 
-1. If the hire car isn't there when you arrive, -> give us a call and we'll come to pick you up.
-2. speak out -> state your opinion firmly and publicly about something, especially in order to protest against or defend something
-3. get on -> continue doing something
-4. heat up -> make something hot; become hot
-5. live and let live -> used for saying that you should accept other people’s beliefs and way of life, even if they are very different from your own
-6. wind down -> end or finish something gradually; gradually reduce work before stopping completely; relax after a period of excitement or worry
-7. kick yourself -> be very annoyed because you have made a mistake, missed an opportunity, etc
-8. once in a blue moon -> very rarely
-9. Detectives are still trying to piece -> together exactly what happened that evening.
-10. What annoys me is that the man got -> off with just 100 hours' community service.
+1. buy up -> buy large amounts of something or all of it that is available
+2. What is most striking about the picture -> is the artist's use of light and shade.
+3. pristine/littered -> coastline
+4. go round -> be enough for everyone in a group
+5. know what’s what -> know the important facts about a situation
+6. What annoys me is that the man got -> off with just 100 hours' community service.
+7. cut out -> remove something from a larger piece by cutting; stop eating something or doing something, especially because it is bad for your health
+8. draw the short straw -> be chosen to do something unpleasant
+9. shrivel up -> become smaller and thinner than usual and it does not look fresh and healthy; become much smaller than needed or expected
+10. If we allow this situation to continue, -> the consequences could be disastrous.
 
 
 NODE REVIEW
 
-Q1: Both ___ - financial and financial capital accumulation is usually needed for economic growth , since additional production usually requires additional funds to enlarge the scale of production .
-Answer: non
-
-Q2: Stars get the energy they produce through nuclear fusion of ___ into helium .
-Answer: hydrogen
-
-3. get on -> continue doing something
-Q4: Relations between the two islands have ............................ further recently.
-A. decayed
-B. deteriorated
-C. spoiled
-D. distorted
+Q1: You ............................ that film last week – it was only released yesterday.
+A. couldn't see
+B. can't have seen
+C. mustn't have seen
+D. didn't need to see
 Answer: B
 
-Q5: I'd never kill an animal unless it ............................ me first.
-A. has attacked
-B. will attack
-C. attacked
-D. attacks
-Answer: C
+Q2: Peter was too ……… to dare to stand up and speak in front of all those people.
+A. self-conscious
+B. self-indulgent
+C. self-righteous
+D. self-aware
+Answer: A
 
-Q6: Subfamily Nymphicinae Subfamily Calyptorhynchinae : The ___ cockatoos Subfamily Cacatuinae
-Answer: black
-
-7. Researchers have also found the effects of illusory superiority in studies into relationship satisfaction .
-Q8: Historically , ___ accidents and catastrophes have resulted from microsleep episodes in these circumstances .
-Answer: many
-
-Q9: TUTTs sometimes brings a large amount of vertical ___ shear over tropical disturbances in the deep tropics and cyclones and thus hinder their development .
-Answer: wind
-
-Q10: The kids suggested ............................ a pizza tonight. What do you think?
-A. to get
-B. for getting
-C. we'll get
-D. getting
+Q3: She was rudely awakened by a sudden bout of ........... turbulence.
+A. stern
+B. somber
+C. weighty
+D. heavy
 Answer: D
+
+Q4: If only people in our grandparents' generation ............................ the opportunities that we take for granted nowadays.
+A. could have had
+B. have had
+C. could have
+D. would have had
+Answer: A
+
+Q5: natural, man-made
+Answer: disaster
+
+Q6: noise, air
+Answer: pollution
+
+Q7: for the time being
+Answer: for now
+
+Q8: speak your
+Answer: mind
+
+Q9: In order to shorten the walk, the speaker crossed some agricultural parts of the country by car, as they were _______(1) _______(2) .
+Whichever part of a map of England you look at, there will probably be a(n) _______(3) _______(4) very nearby.
+Wainwright felt that people enjoyed long-distance walks because of the _______(5) they offered.
+He thought the Coast-to-Coast Walk was better than the Pennine Way because of its _______(6) _______(7) .
+In the mountains, visibility is sometimes excellent, but the scenery can very quickly become _______(8) _______(9) _______(10) .
+Overnight accommodation is available at _______(11) _______(12) .
+Wainwright’s guide to the walk includes _______(13) _______(14) and relevant parts of maps.
+When planning a route on this walk, detailed Ordnance Survey Maps are _______(15) .
+The majority of mountain ascent paths on the walk begin _______(16) _______(17) _______(18) .
+Answer: 1:less | 2:scenic | 3:public | 4:pathway | 5:challenge | 6:sustained | 7:beauty | 8:shrouded | 9:in | 10:fog | 11:stone | 12:farmhouses | 13:pencil | 14:drawings | 15:indispensable | 16:near | 17:sea | 18:level
+
+Q10: [Speaking] 1. The food took too long to arrive.
+2. They were not professional.
+3. The prices are really high.
+4. The waiters were really slow.
+5. That hotel is too far from the restaurants and clubs.
+6. The rooms are not nice.
+
 
 
 

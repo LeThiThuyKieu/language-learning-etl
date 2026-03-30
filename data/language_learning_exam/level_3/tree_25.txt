@@ -3,167 +3,170 @@ TREE 25
 
 NODE VOCAB
 
-Q1: ............................ rare artefacts were they that the museum decided to insure them.
-A. Too
-B. Very
-C. Such
-D. So
+Q1: Keep everything on disc. That way if the computer ......... you won't lose all your work.
+A. stumps
+B. smashes
+C. crashes
+D. sticks
 Answer: C
 
-Q2: How long ............................ before Val finally turned up?
-A. had you been waiting
-B. have you been waiting
-C. are you waiting
-D. you waited
+Q2: Fred Astaire is one of my favourite dancers and I love the way he seems to ............................ across the floor.
+A. glide
+B. dash
+C. march
+D. skid
 Answer: A
 
-Q3: Our plane tickets never arrived, ............................ in the post.
-A. were lost
-B. having lost
-C. had been lost
-D. having been lost
-Answer: D
+Q3: Ford's career truly began after he was awarded an Oscar for best ........... actor.
+A. subsequent
+B. supporting
+C. sustaining
+D. substitute
+Answer: B
 
-Q4: Do you wish ............................ a formal complaint?
-A. you to make
-B. you made
-C. making
-D. to make
-Answer: D
-
-Q5: I get so stressed at work it's hard sometimes to ............................ in the evenings.
-A. undergo
-B. untie
-C. unwind
-D. undo
+Q4: In court, the accused ……… guilty to all the charges.
+A. admitted
+B. was
+C. pleaded
+D. claimed
 Answer: C
 
-Q6: I couldn't believe it when Marcy accused me of ............................ in her relationship with Joe.
-A. interfering
-B. interacting
-C. intercepting
-D. intervening
+Q5: The successful ........... will hold a good degree in Economics and have at least two years' experience.
+A. applicant
+B. contestant
+C. contender
+D. entrant
 Answer: A
 
-Q7: Never ............................ complete and utter rubbish!
-A. have I heard so
-B. did I hear so
-C. have I heard such
-D. I heard such
-Answer: C
+Q6: A middle-aged man was seen running away from the ............................ of the crime.
+A. place
+B. scene
+C. point
+D. location
+Answer: B
 
-Q8: When she suggested ............................ over the weekend, I was so angry that I threatened to quit.
-A. me to working
-B. me to work
-C. me working
-D. me work
-Answer: C
+Q7: If the service isn't up to standard, I think you have ............................ right to complain.
+A. every
+B. much
+C. each
+D. all
+Answer: A
 
-Q9: There's no ............................ between Gary and Mark, even though they are brothers.
-A. reflection
-B. correspondence
-C. appearance
-D. resemblance
+Q8: Turn to page 24 to find out at a ......... which courses are available to you.
+A. glance
+B. look
+C. glimpse
+D. stare
+Answer: A
+
+Q9: The piercing scream scared the ........... out of me.
+A. mind
+B. breath
+C. nerve
+D. life
 Answer: D
 
-Q10: You can't just demand ............................ , you have to earn it.
-A. a respect
-B. the respect
-C. any respect
-D. respect
-Answer: D
+Q10: Now there's only one wage coming in, we'll all have to tighten our ........... .
+A. hats
+B. pockets
+C. belts
+D. waists
+Answer: C
 
 
 
 NODE LISTENING
 
-Q1: The mallard is a ___ - sized waterfowl species that is often slightly heavier than most other dabbling ducks .
-Answer: medium
-
-Q2: If a person still has a ___ , ventricular tachycardia can usually be stopped through cardioversion .
-Answer: pulse
-
-Q3: The eroded sandstone formation ___ about 75 ft tall and is about 300 ft in circumference .
-Answer: stands
-
-Q4: M 82 has undergone at least one tidal encounter with M 81 resulting in a large amount of ___ being funneled into the galaxy ' s core over the last 200 Myr .
-Answer: gas
-
-Q5: The primary flight ___ are intrinsically safe .
-Answer: controls
-
-Q6: Hedgehogs are ___ , but gymnures are less so .
-Answer: nocturnal
-
-Q7: In the late 1800 s , anarchist naturism appeared as the union of anarchist and naturist ___ .
-Answer: ideas
-
-Q8: The main entrance to the castle is through the western barbican , an exterior ___ in front of the main gate .
-Answer: defence
-
-Q9: Like all cryptographic keys , ___ keys must be chosen so that they cannot be predicted by an attacker , usually requiring them to be chosen randomly .
-Answer: session
-
-Q10: Intraspecific competition occurs when ___ of the same species compete for the same resources in an ecosystem .
-Answer: members
+Q1: A: How did you like that new show that was on Wednesday night?
+B: Oh, I thought it _______(1) _______(2) _______(3)! I can't wait to find out why those people are on the island. What did you think?
+A: I didn't think _______(4) _______(5) _______(6) at all. I was bored.
+B: Really? You thought it was boring? But there was so much _______(7) and _______(8)!
+A: I think shows like that _______(9) _______(10) to watch. You never know what's going on.
+B: Oh, that's exactly why I think they're so fun to watch. I can't wait for next week's show!
+Answer: 1:was | 2:really | 3:exciting | 4:it | 5:was | 6:interesting | 7:drama | 8:excitement | 9:are | 10:frustrating
 
 
 
 NODE SPEAKING
 
-1. In the natural sciences , gradualism is a theory that profound change is the product of slow but continuous processes .
-2. Gastrotrichs are eutelic : each species has a genetically fixed number of cells as adults .
-3. He dubbed the relationship between color and salt formation halochromy , of which malachite green is a prime example .
-4. States are divided into counties or county - equivalents , which may be assigned some local governmental authority but are not sovereign .
-5. Trapping headbutts are where a wrestler holds both of the opponent 's arms under their own and hits the opponent with a series of headbutts .
-6. The garrison were auxiliaries , Roman infantry or cavalry units , not parts of Roman legions .
-7. The European spadefoot toads are small - to large-sized frogs , up to 10 cm in length , which are often inconspicuously colored .
-8. Like many deep-sea cephalopods , the vampire squid lacks ink sacs .
-9. Siboglinid tube worms , which may grow to over 2 m tall in the largest species , often form an important part of the community around a hydrothermal vent .
-10. Sclerophyllous plants occur in many parts of the world .
+Q1: [Speaking] 1. Tourism raises money for cities and creates jobs.
+2. Hybrid cars save gas and help the environment.
+3. Pets can keep you company, help you relax, and even lower your blood pressure.
+4. I think cigarettes are smelly, dirty, and bad for your health.
+
+
 
 
 NODE MATCHING
 
-1. crowd around -> move to a particular place at the same time as a lot of other people
-2. get sth off your chest -> talk to someone about something that has been worrying you, so that you feel better about it
-3. press ahead/on (with) -> continue doing something in a determined way, despite difficulties, opposition or interruptions
-4. pass on -> give someone something, for example a message, that someone else has given you
-5. pride of place -> in the place that is most central or important
-6. knee-high to a grasshopper -> very small, because you were very young
-7. stop dead in your tracks -> suddenly stop, for example because you are surprised
-8. touch wood -> used when you have said that you have had good luck in order to prevent bad luck from happening to you
-9. cool down -> become cooler, or make something cooler
-10. talk down to -> talk to someone as if you think they are not as clever or important as you are
+1. talk down to -> talk to someone as if you think they are not as clever or important as you are
+2. It was great to hear your news and -> that you've settled in to your new surroundings.
+3. keep one's nose -> to the grindstone
+4. touch wood -> used when you have said that you have had good luck in order to prevent bad luck from happening to you
+5. The specialist held -> degrees in cardiology from a number of institutions
+6. go along with -> agree with someone or agree with something that someone has suggested
+7. If you decide not to vote in the election, -> you can't really complain about the government.
+8. I'm not one of those people who go in -> for active pastimes; I much prefer reading.
+9. an instrument of change -> an event or means by which change occurs
+10. mince my -> words
 
 
 NODE REVIEW
 
-Q1: The eroded sandstone formation ___ about 75 ft tall and is about 300 ft in circumference .
-Answer: stands
-
-2. press ahead/on (with) -> continue doing something in a determined way, despite difficulties, opposition or interruptions
-Q3: Our plane tickets never arrived, ............................ in the post.
-A. were lost
-B. having lost
-C. had been lost
-D. having been lost
+Q1: There's so much technical ............................ in this manual that I can't really understand it.
+A. speech
+B. tongue
+C. slang
+D. jargon
 Answer: D
 
-4. Sclerophyllous plants occur in many parts of the world .
-Q5: In the late 1800 s , anarchist naturism appeared as the union of anarchist and naturist ___ .
-Answer: ideas
+Q2: It's high time ............................ rid of this old sofa.
+A. we got
+B. we get
+C. for us to get
+D. to get
+Answer: A
 
-Q6: The primary flight ___ are intrinsically safe .
-Answer: controls
+Q3: The post comes with an attractive ........... package.
+A. remuneration
+B. compensation
+C. profit
+D. salary
+Answer: A
 
-7. He dubbed the relationship between color and salt formation halochromy , of which malachite green is a prime example .
-8. knee-high to a grasshopper -> very small, because you were very young
-Q9: M 82 has undergone at least one tidal encounter with M 81 resulting in a large amount of ___ being funneled into the galaxy ' s core over the last 200 Myr .
-Answer: gas
+Q4: This new video game has a ……… storyline and a larger-than-life action hero.
+A. growing
+B. grasping
+C. grabbing
+D. gripping
+Answer: D
 
-Q10: Hedgehogs are ___ , but gymnures are less so .
-Answer: nocturnal
+Q5: If the hire car isn't there when you arrive,
+Answer: give us a call and we'll come to pick you up.
+
+Q6: There is also a spacious and comfortable family room, which should appeal to diners with young children.
+Answer: Restaurant
+
+Q7: change into
+Answer: stop being in one state, condition or form and start being in another, or make something do this; take off the clothes or a piece of clothing you are wearing and put on different ones
+
+Q8: snow under
+Answer: if you are snowed under, you have too much of sth to deal with
+
+Q9: He was born in: _______(1)
+He joined the ANC in: _______(2)
+ He became deputy president of the ANC in: _______(3)
+ He was sentenced to life in prison in: _______(4)
+ He was released from prison in: _______(5)
+ He became State President in: _______(6)
+ He retired in: _______(7)
+Answer: 1:1918 | 2:1942 | 3:1952 | 4:1964 | 5:1990 | 6:1994 | 7:1999
+
+Q10: [Speaking] 1. We went to the beach on Friday, and just as we arrived, it started to rain.
+2. I was walking to work when all of a sudden, I heard someone call my name.
+3. I was having a great time, and before I knew it, it was midnight.
+4. We waited and waited, and finally, the tow truck arrived.
+
 
 
 

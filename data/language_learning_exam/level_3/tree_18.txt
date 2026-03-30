@@ -3,167 +3,169 @@ TREE 18
 
 NODE VOCAB
 
-Q1: No sooner ............................ everyone started to gossip about him.
-A. Mike had left than
-B. left Mike when
-C. did Mike leave when
-D. had Mike left than
-Answer: D
-
-Q2: Old Mrs Duckworth was coming down the road, weighed ............................ with bags of shopping.
-A. off
-B. out
-C. down
-D. on
-Answer: C
-
-Q3: Is that the bookshop ............................ they've also got a café?
-A. which
-B. where
-C. whose
-D. with whom
+Q1: Michael holds quite an important post in the company, and is a member of the ........... of directors.
+A. club
+B. board
+C. group
+D. team
 Answer: B
 
-Q4: ............................ is measured in cm³ or m³.
-A. Magnitude
-B. Extent
-C. Mass
-D. Volume
+Q2: Many ........... products, such as washing powder, are harmful to the environment.
+A. homing
+B. home-based
+C. housing
+D. household
 Answer: D
 
-Q5: It would have been a great journey, ............................ we not got lost along the way.
-A. had
-B. would
-C. should
-D. might
-Answer: A
-
-Q6: I ............................ at the exam paper lying on Mr Gregson's desk, but I didn't want to risk it.
-A. can have looked
-B. can look
-C. could look
-D. could have looked
+Q3: At the start of the course, everyone is assigned a ........... of studies.
+A. consultant
+B. counsellor
+C. guide
+D. advisor
 Answer: D
 
-Q7: What if your cat suddenly ............................ to you right now? How would you react?
-A. had started talking
-B. starts talking
-C. is starting to talk
-D. started talking
-Answer: D
+Q4: It’s only ........... sense to take out a private pension these days.
+A. general
+B. common
+C. practical
+D. frequent
+Answer: B
 
-Q8: It turned out that I ............................ have bought Frank a present after all.
-A. oughtn't
-B. mustn't
-C. needn't
-D. mightn't
+Q5: Johnnie broke the vase, but I'm sure it wasn't ............................ .
+A. purposeful
+B. instrumental
+C. deliberate
+D. desirable
 Answer: C
 
-Q9: A sudden ............................ of wind blew the letter out of my hand.
-A. grain
-B. speck
-C. flake
-D. gust
+Q6: I am subjected to ........... smoking in the office and at home.
+A. involuntary
+B. inactive
+C. passive
+D. inert
+Answer: C
+
+Q7: Could you lend me some money to ............................ me over to the end of the month?
+A. hand
+B. make
+C. get
+D. tide
 Answer: D
 
-Q10: ............................ find out more about the costs before we make a final decision?
-A. Will I
-B. Shall I
-C. Am I due to
-D. Do I
+Q8: Do you think you could pull a few ............................ for me and get someone at the office to look at my drawings?
+A. wires
+B. strings
+C. chords
+D. ropes
 Answer: B
+
+Q9: The decision to build a nuclear reactor in the area ......... a very strong reaction from the local community.
+A. developed
+B. originated
+C. raised
+D. produced
+Answer: D
+
+Q10: It's impossible to travel in the ......... heat of the desert.
+A. sizzling
+B. smoldering
+C. bubbling
+D. blistering
+Answer: D
 
 
 
 NODE LISTENING
 
-Q1: Some people ___ this is because of paranormal or extraterrestrial beings .
-Answer: think
-
-Q2: When they are ready to ___ , the adults are released from the host , and sperm from the males penetrates the bodies of the females to achieve fertilization .
-Answer: reproduce
-
-Q3: At room temperature , ethane is a flammable ___ .
-Answer: gas
-
-Q4: Those who witnessed the ___ stood in the pouring rain for up to two hours reciting the Rosary .
-Answer: apparition
-
-Q5: Many ___ programmes have been run on the C 651 cars , including the past program .
-Answer: experimental
-
-Q6: A stream cipher ___ use of a much smaller and more convenient cryptographic key , for example 128 bits keys .
-Answer: makes
-
-Q7: Obsidian can be found where ___ silicate eruptions have happened .
-Answer: high
-
-Q8: In 2010 , he came out as ___ , after previously describing himself as bisexual .
-Answer: homosexual
-
-Q9: Most of the finer sort of ___ manuscripts , whether illuminated or not , were written on vellum .
-Answer: medieval
-
-Q10: The hippocampus has a generally similar appearance across the mammals from monotremes such as the echidna to primates such as ___ .
-Answer: humans
+Q1: A: Do you want to go to the Century Fashions sale on Saturday?
+B: I’d like to, but the salespeople there _______(1) _______(2) _______(3) professional.
+A: I know what you mean. They’re not very friendly, either.
+B: Yeah, and some of the clothes are nice, but some of them are _______(4) _______(5) _______(6) quality.
+A: That’s true. I bought a sweater there last winter, and it _______(7) _______(8) after I wore it twice.
+B: Also, it _______(9) _______(10) _______(11) _______(12) pay for things. The lines are always really long.
+A: Then again, I did get my _______(13) _______(14) there!
+Answer: 1:are | 2:not | 3:very | 4:are | 5:really | 6:bad | 7:fell | 8:apart | 9:takes | 10:too | 11:long | 12:to | 13:favorite | 14:jeans
 
 
 
 NODE SPEAKING
 
-1. An electric locomotive runs on electricity as the name suggests .
-2. Mast cells are a type of innate immune cell in connective tissue and the mucous membranes .
-3. Cockatoos are recognizable by the prominent crests and curved bills .
-4. Sexual reproduction involves the production of ascospores .
-5. Monocytes which migrate from the bloodstream to the tissues will then differentiate into macrophages or dendritic cells , which then stay in the tissue .
-6. The country 's provinces are further divided into 337 municipalities which are administered by an alcalde and municipal council .
-7. Some clays are thixotropic , and their behavior is of great importance in structural and geotechnical engineering .
-8. Until recently , electroreception was known only in vertebrates .
-9. This is judged to be one of the pivotal battles in the control of Indian subcontinent by the colonial powers .
-10. Limp vellum or limp - parchment bindings were used frequently in the 16th and 17th centuries , and were sometimes gilt but were also often not embellished .
+Q1: [Speaking] 1. Mark is turning twenty-one in September.
+2. This will be their fiftieth wedding anniversary!
+3. Her birthday is on the thirty-first.
+
+
 
 
 NODE MATCHING
 
-1. I'm going to have to mull this -> over for a while before I make a final decision.
-2. see eye to eye (with sb) -> agree with someone or have the same opinion as them
-3. paper over -> hide a problem or disagreement rather than finding a satisfactory solution to it
-4. talk round -> discuss something in a general way and without dealing with the most important issues
-5. a drop in the ocean -> a very small amount that will not have much effect
-6. blurt out -> say something suddenly and without thinking about the effect it will have, usually because you are nervous or excited
-7. change out of -> take off the clothes or a piece of clothing you are wearing and put on different ones
-8. shout down -> make it difficult to hear what someone says by shouting while they are speaking
+1. down on your luck -> having a long period of difficulty finding work and earning money
+2. on offer -> available
+3. wear down -> make something gradually disappear or become thinner by using or rubbing it; make someone gradually lose their energy or confidence
+4. dig up -> remove something from under the ground by digging; dig holes in an area of land; find information by searching carefully
+5. embezzlement -> stealing money from the company where you work
+6. satellite town -> town or city that is close to and depends on a larger city
+7. shout down -> make it difficult to hear what someone says by shouting while they are speaking
+8. add fuel to the fire -> make a bad situation worse
 9. warm up -> prepare for a sport or activity by doing gentle exercises or practising just before it starts warm-up (n)
-10. in the dark (about) -> not knowing very much about something, because other people are keeping it secret from you
+10. six of one (and) half a dozen of the other -> used for saying that two things are equally good or bad
 
 
 NODE REVIEW
 
-Q1: At room temperature , ethane is a flammable ___ .
-Answer: gas
+Q1: Now there's only one wage coming in, we'll all have to tighten our ........... .
+A. hats
+B. waists
+C. pockets
+D. belts
+Answer: D
 
-Q2: Obsidian can be found where ___ silicate eruptions have happened .
-Answer: high
+Q2: When Ruth feels depressed she goes on a shopping ........... .
+A. rage
+B. spree
+C. binge
+D. bender
+Answer: B
 
-3. a drop in the ocean -> a very small amount that will not have much effect
-4. in the dark (about) -> not knowing very much about something, because other people are keeping it secret from you
-5. change out of -> take off the clothes or a piece of clothing you are wearing and put on different ones
-Q6: ............................ is measured in cm³ or m³.
-A. Volume
-B. Magnitude
-C. Mass
-D. Extent
+Q3: ............................ either of you want some more dessert?
+A. Had
+B. Would
+C. Did
+D. Were
+Answer: C
+
+Q4: Paul’s ability to ......... a challenge made him the perfect candidate to head up the new sales division.
+A. handle
+B. control
+C. run
+D. order
 Answer: A
 
-7. blurt out -> say something suddenly and without thinking about the effect it will have, usually because you are nervous or excited
-8. This is judged to be one of the pivotal battles in the control of Indian subcontinent by the colonial powers .
-Q9: It would have been a great journey, ............................ we not got lost along the way.
-A. had
-B. would
-C. should
-D. might
-Answer: A
+Q5: on target
+Answer: as planned
 
-10. Until recently , electroreception was known only in vertebrates .
+Q6: of great historical
+Answer: interest
+
+Q7: lie ahead
+Answer: if something lies ahead, it is going to happen to you in the future
+
+Q8: be on the same wavelength
+Answer: understand the way another person thinks because you often have the same ideas and opinions they do
+
+Q9: A: What’s wrong? You look exhausted.
+B: I am. I have a _______(1) _______(2) _______(3) with me right now. He’s a friend from my English class. He was going to stay for a week, but he’s been here for four weeks now.
+A: Oh, no! Why has he been staying with you for so long?
+B: Well, there was a fire in _______(4) _______(5) _______(6), so he has to find a new place to stay. The problem is, he can’t afford to pay the deposit for a new place until he gets money from the _______(7) _______(8).
+Answer: 1:house | 2:guest | 3:staying | 4:his | 5:apartment | 6:building | 7:insurance | 8:company
+
+Q10: [Speaking] 1. She's such fun to be with.
+2. She's really an interesting person.
+3. She's the only teacher I really like.
+4. He is really embarrassing to be with.
+5. He's kind of thin and very tall.
+6. I just love his sense of humor.
+
+
 
 

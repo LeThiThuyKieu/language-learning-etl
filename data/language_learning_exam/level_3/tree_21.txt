@@ -3,181 +3,179 @@ TREE 21
 
 NODE VOCAB
 
-Q1: Luckily, only ............................ of the medicine got spilt.
-A. a little
-B. little
-C. a few
-D. few
-Answer: A
+Q1: You should see a doctor; after such a blow to the head you may be suffering from ........... .
+A. condition
+B. percussion
+C. concussion
+D. perfusion
+Answer: C
 
-Q2: Don't you ............................ that Veronica and George are still together?
-A. incredibly find
-B. find incredible
-C. find incredibly
-D. find it incredible
+Q2: Can you get those aspirin that ............................ in water, because I can't take the others?
+A. dilute
+B. dissolve
+C. diminish
+D. dispense
+Answer: B
+
+Q3: For the ......... of rewiring your home, hiring an electrician is a wise move.
+A. aim
+B. purpose
+C. object
+D. intention
+Answer: B
+
+Q4: I expect you'll feel a lot better when you ............................ your exams out of the way.
+A. will get
+B. have got
+C. had got
+D. are getting
+Answer: B
+
+Q5: Why are all your clothes in a ............................ on the floor?
+A. bulk
+B. batch
+C. sum
+D. heap
 Answer: D
 
-Q3: ............................ stand up when the teacher entered the room at your school?
-A. Must you
-B. Did you have to
-C. Needed you to
-D. Had you
+Q6: Your lawyer can request ........... to documents regarding the sale of the property.
+A. entry
+B. permission
+C. access
+D. availability
+Answer: C
+
+Q7: There has been a lot of ............................ surrounding the government's proposed scheme.
+A. consequence
+B. consent
+C. controversy
+D. conformity
+Answer: C
+
+Q8: America holds ......... elections every four years.
+A. presided
+B. presidential
+C. president
+D. presiding
 Answer: B
 
-Q4: This winter wasn't ............................ as difficult as last winter.
-A. almost
-B. closely
-C. nearly
-D. just
+Q9: You are bound to find information on the stockmarket crash of 1987 in the newspaper ........... .
+A. collections
+B. files
+C. archives
+D. records
 Answer: C
 
-Q5: After the investigation, the accident was put down to human ............................ .
-A. slip
-B. error
-C. wrong
-D. mistake
-Answer: B
-
-Q6: I expect you'll feel a lot better when you ............................ your exams out of the way.
-A. had got
-B. will get
-C. have got
-D. are getting
-Answer: C
-
-Q7: Mr Parris said he'd like ............................ by Monday, if that's possible.
-A. have the report finished
-B. finished the report
-C. the report finished
-D. the report will be finished
-Answer: C
-
-Q8: It's amazing how Jenny acts as though she and Darren ............................ serious problems at the moment.
-A. hadn't been having
-B. hadn't had
-C. weren't having
-D. aren't having
-Answer: C
-
-Q9: ............................ Alan for hours but he just doesn't answer his mobile. I hope nothing's wrong.
-A. I call
-B. I've called
-C. I've been calling
-D. I'm calling
-Answer: C
-
-Q10: Having your heart broken is an ............................ part of growing up.
-A. internal
-B. integral
-C. inset
-D. inward
-Answer: B
+Q10: ............................ lectures at your university?
+A. Don't students have to attend
+B. Needn't students have attended
+C. Haven't students got to have attended
+D. Mustn't students to attend
+Answer: A
 
 
 
 NODE LISTENING
 
-Q1: The central stars of planetary nebulae are very ___ .
-Answer: hot
-
-Q2: Until the 1990 s , there was little ___ analysis of the events because of official censorship and lack of academic interest .
-Answer: historical
-
-Q3: Imps are often described as ___ more than seriously threatening , and as lesser beings rather than more important supernatural beings .
-Answer: mischievous
-
-Q4: Potentially , a white dwarf can generate multiple novae over time as additional hydrogen continues to accrete onto its surface from its ___ star .
-Answer: companion
-
-Q5: Physicists measure an undulator ' s ___ in terms of spectral radiance .
-Answer: effectiveness
-
-Q6: The ___ system of insects enables eusociality , the division of labor between non - breeding and breeding individuals .
-Answer: caste
-
-Q7: Many authors have indicated an ___ link between a person ' s will to live , personality , and the functions of the prefrontal cortex .
-Answer: integral
-
-Q8: The Red ___ frequently is mentioned in texts and depicted in reliefs and statues .
-Answer: crown
-
-Q9: Hawks , like most vertebrates , have four ___ of color receptors in the eye .
-Answer: types
-
-Q10: Mineralized skeletons of bryozoans first appear in rocks from the ___ Ordovician period , making it the last major phylum to appear in the fossil record .
-Answer: early
+Q1: Visitors to the New York Marathon website are expected to reach a(n) _______(1) number this year.
+The recent Olympics showed that having a website running alongside TV coverage is a very important _______(2) _______(3) _______(4) .
+_______(5) _______(6) _______(7) will allow the website's visitors to follow their favourite athlete through the marathon.
+Once the web site knows the name of a visitor's favourite athlete, _______(8) _______(9) about his or her performance become available.
+At various points in the race, a(n) _______(10) _______(11) developed in the Netherlands will record runners' times.
+The content appearing on the viewer's computer will be automatically _______(12) .
+On the day of the marathon, the organisers are expecting a tremendous _______(13) of Web traffic.
+Especially as runners approach the finish line, the website will get _______(14) .
+With new advances in Internet technology, such websites will be able to send out much more than _______(15) _______(16) .
+Answer: 1:record | 2:source | 3:of | 4:information | 5:Athlete | 6:tracking | 7:features | 8:detailed | 9:statistics | 10:timing | 11:system | 12:updated | 13:peak | 14:hammered | 15:performance | 16:statistics
 
 
 
 NODE SPEAKING
 
-1. The aerodrome continues to perform an important role in emergency services operation , civil operation , flight training and as accommodation for many community groups and organisations .
-2. Chlorophyll molecules are arranged in and around the membranes of chloroplasts .
-3. Alginate , agar and carrageenan are gelatinous seaweed products collectively known as hydrocolloids or phycocolloids .
-4. The kinetic energy of a rotating flywheel is
-5. After emerging from the brain , the cranial nerves travel within the skull , and some must leave this bony compartment in order to reach their destinations .
-6. Omega Centauri is so distinctive from the other galactic globular clusters that it is thought to have an alternative origin as the core remnant of a disrupted dwarf galaxy .
-7. It has been argued that an interstellar mission that cannot be completed within 50 years should not be started at all .
-8. Isometric scaling is governed by the square- cube law .
-9. A feral population can have a significant impact on an ecosystem by predation on vulnerable plants or animals , or by competition with indigenous species .
-10. Common medical conditions such as nasal infections , nasal polyps , or dental problems can cause phantom smells .
+Q1: [Speaking] 1. I'm not going to wait any longer.
+2. We're going to go to the mall.
+3. I'm not going to be able to make it to class tonight.
+4. Do you want to come over?
+5. Let me know when you want to come in.
+6. I don't want to bother him.
+
+
 
 
 NODE MATCHING
 
-1. do sth on a whim -> do because of a sudden feeling that you must have or do something
-2. clock up -> reach a particular number or amount
-3. get across -> make people understand something
-4. move over -> change your position in order to make space for someone or something
-5. scrape through -> succeed in doing something, but not in a very impressive way
-6. ward off -> do something to prevent someone or something from harming you
-7. have a change of heart -> change your opinion about something or decide not to do something you were planning to do
+1. commuter belt -> area surrounding a large city where many people who work in that city live
+2. let sleeping dogs lie -> leave a person or situation alone if they might cause you trouble
+3. come hell or high water -> whatever the difficulties
+4. If the police didn't fine people, -> very few people would obey the law.
+5. slip up -> make a careless mistake slip-up (n)
+6. Things have certainly improved since you took -> over the business and rearranged things.
+7. in the middle of nowhere -> a long way from any town or city
 8. knock off -> stop working
-9. red tape -> documents, rules or processes that cause delays
-10. make into -> change someone or something so that they become something else
+9. let nature take its course -> allow something to develop without trying to influence it
+10. vandalism -> destruction of public property
 
 
 NODE REVIEW
 
-Q1: Mr Parris said he'd like ............................ by Monday, if that's possible.
-A. have the report finished
-B. finished the report
-C. the report will be finished
-D. the report finished
+Q1: Working mothers throughout the company were delighted with the introduction of ………, as it made it easier to manage collecting children from school at different times on different days.
+A. flexitime
+B. part-time
+C. overtime
+D. full-time
+Answer: A
+
+Q2: Because Patrick didn't have enough money in his account to cover the amount, the cheque ……….
+A. sprang
+B. jumped
+C. hopped
+D. bounced
 Answer: D
 
-Q2: Having your heart broken is an ............................ part of growing up.
-A. inset
-B. internal
-C. integral
-D. inward
+Q3: The rents in this area are ............................ the highest in the city.
+A. away by far
+B. far to away
+C. far and away
+D. far from away
 Answer: C
 
-3. Chlorophyll molecules are arranged in and around the membranes of chloroplasts .
-4. A feral population can have a significant impact on an ecosystem by predation on vulnerable plants or animals , or by competition with indigenous species .
-Q5: Luckily, only ............................ of the medicine got spilt.
-A. few
-B. little
-C. a little
-D. a few
-Answer: C
-
-Q6: I expect you'll feel a lot better when you ............................ your exams out of the way.
-A. are getting
-B. had got
-C. have got
-D. will get
-Answer: C
-
-7. move over -> change your position in order to make space for someone or something
-8. have a change of heart -> change your opinion about something or decide not to do something you were planning to do
-9. red tape -> documents, rules or processes that cause delays
-Q10: It's amazing how Jenny acts as though she and Darren ............................ serious problems at the moment.
-A. aren't having
-B. weren't having
-C. hadn't had
-D. hadn't been having
+Q4: It's important to project a(n) ......... image during the interview.
+A. upbeat
+B. positive
+C. optimistic
+D. cheerful
 Answer: B
+
+Q5: get/have your way
+Answer: be allowed to have or do what you want
+
+Q6: lock up
+Answer: put someone in a prison; lock all the doors and windows of a building so that no one can get in
+
+Q7: a home from home
+Answer: a place where you feel as relaxed as you do in your own home
+
+Q8: answer back
+Answer: reply rudely to someone who has more authority than you
+
+Q9: The presenter suggests that the results of Glen's survey are _______(1)
+The majority of students questioned _______(2) that they had played truant.
+Truancy is not related to a student's gender, ethnic background or _______(3) _______(4)
+Glen's conclusion is that the _______(5) _______(6) is responsible for encouraging truancy.
+Students are more likely to avoid lessons that do not require their _______(7) or _______(8)
+Modern students are more _______(9) than those of the past.
+Decision-making is a useful _______(10) - _______(11)
+Students would be more _______(12) to go to school if they were consulted about their lessons.
+Truancy can show which teachers and teaching methods are _______(13)
+Answer: 1:controversial | 2:admitted | 3:economic | 4:class | 5:consumer | 6:class | 7:engagement | 8:input | 9:sophisticated | 10:life | 11:skill | 12:willing | 13:ineffective
+
+Q10: [Speaking] 1. Would you hand me that book on the table?
+2. Could you pass the salt and pepper?
+3. What did you do?
+4. What would you do if you saw a famous actor?
+5. Could you sign your book for me?
+6. Did you get his autograph?
+
 
 
 
