@@ -3,19 +3,19 @@ TREE 16
 
 NODE VOCAB
 
-Q1: Do you think there might be a ............................ between Angie's behaviour and the accident she had?
-A. junction
-B. tie
-C. link
-D. bond
+Q1: You shouldn't drive while taking this medication as it can cause ........... vision.
+A. vague
+B. hazy
+C. blurred
+D. misty
 Answer: C
 
-Q2: Even ............................ I work all night I won't finish.
-A. although
-B. if
-C. when
-D. so
-Answer: B
+Q2: It's a ........... conclusion that Sally will get into university.
+A. foolproof
+B. granted
+C. foregone
+D. guaranteed
+Answer: C
 
 Q3: Ian Mills won the election ............................ all the odds.
 A. despite
@@ -24,162 +24,150 @@ C. against
 D. below
 Answer: C
 
-Q4: A half, written as a/an ............................, looks like this: 1/2.
-A. rate
-B. fraction
-C. ratio
-D. equation
+Q4: Jim's a tough character and certainly won't let anyone push him ............................ .
+A. around
+B. off
+C. up
+D. through
+Answer: A
+
+Q5: I couldn't decide what to write about, when I suddenly ............................ upon the idea of doing something on writer's block.
+A. arrived
+B. thought
+C. chanced
+D. hit
+Answer: D
+
+Q6: Mr Foster has decided ............................ , so we're going to have a party.
+A. retiring
+B. to retire
+C. retire
 Answer: B
 
-Q5: I'm thinking of going on Million Euro Spender; I'd love to ............................ spend a million euros in one day!
-A. can
-B. have to
-C. be able
-D. must
-Answer: B
+Q7: Jake's completely round the ............................ , isn't he?
+A. bend
+B. corner
+C. side
+D. edge
+Answer: A
 
-Q6: In no way ............................ that people will be prevented from organising peaceful protests.
+Q8: In no way ............................ that people will be prevented from organising peaceful protests.
 A. this law does mean
 B. does this law mean
 C. means this law
 D. this law means
 Answer: B
 
-Q7: How dare you accuse me ............................ !
-A. to cheat
-B. of cheating
-C. cheating
-D. that I cheat
-Answer: B
-
-Q8: I always take my lucky ............................ with me into an exam.
-A. sign
-B. item
-C. charm
-D. spell
+Q9: David has a(n) ........... to fainting at the sight of blood.
+A. penchant
+B. predilection
+C. predisposition
+D. inclination
 Answer: C
 
-Q9: The new Arts Centre seems to have been ............................ construction for quite some time.
-A. below
-B. on
-C. under
-D. in
-Answer: C
-
-Q10: What kind of world do you want to leave behind for your ............................ ?
-A. descendants
-B. siblings
-C. predecessors
-D. ancestors
+Q10: I'm not sure if I'm doing it right, but I'll try to ............................ ahead with it anyway.
+A. press
+B. bang
+C. drive
+D. touch
 Answer: A
 
 
 
 NODE LISTENING
 
-Q1: The increasing use of carbon fiber composites is displacing aluminum from aerospace ___ in favor of other metals .
-Answer: applications
-
-Q2: With advances in medicinal chemistry , most modern antibacterials are semisynthetic ___ of various natural compounds .
-Answer: modifications
-
-Q3: Adults are strictly diurnal , ___ preferentially in the late morning and early afternoon .
-Answer: flying
-
-Q4: The Cheer pheasant ___ the color and brilliance of most pheasants .
-Answer: lacks
-
-Q5: An OEM damper ___ of an outer mass bonded / vulcanized to an inner hub .
-Answer: consists
-
-Q6: An example is the thermal ___ - opening reaction of 3,4 - dimethylcyclobutene .
-Answer: ring
-
-Q7: These spots are often followed within a few days or weeks by a much greater leakage of ___ , which blurs the vision .
-Answer: blood
-
-Q8: There are two objects , one convex and one concave , that can both be called ___ icosahedra .
-Answer: regular
-
-Q9: If a person still has a ___ , it is usually possible to terminate the episode using electric cardioversion .
-Answer: pulse
-
-Q10: Jaspillite is also formed as exhalative chemical ___ in certain lead - zinc ore deposits , and as a hydrothermal alteration facies around submarine volcanism .
-Answer: sediments
+Q1: Impression management is the science of _______(1) appropriately to another person’s body language.
+An open posture involves a speaker standing _______(2) his audience.
+An open posture projects _______(3) _______(4) to listeners.
+Crossed legs and _______(5) arms are characteristics of a closed posture.
+A closed posture suggests that the person is afraid of _______(6) .
+_______(7) _______(8) when listening indicates that the person is accepting what you are saying, and that he is ready to _______(9) affirmatively .
+When someone stares at the ceiling, it may be a good idea to _______(10) _______(11) for a little or end the discussion.
+Observations of people under _______(12) _______(13) have shown that most of us do not understand the basics of impression management.
+Answer: 1:reacting | 2:facing | 3:positive | 4:signals | 5:folded | 6:attack | 7:leaning | 8:forward | 9:respond | 10:be | 11:quiet | 12:test | 13:conditions
 
 
 
 NODE SPEAKING
 
-1. There are risks of infection by salmonella bacteria .
-2. Follies began as decorative accents on the great estates of the late 16th century and early 17th century but they flourished especially in the two centuries which followed .
-3. Before the Roman conquest their land and capital appear to have been part of the territory of the Atrebates , possibly as part of a confederation of tribes .
-4. Differential cryptanalysis is usually a chosen plaintext attack , meaning that the attacker must be able to obtain ciphertexts for some set of plaintexts of their choosing .
-5. Some dispute psychometrics entirely .
-6. If schizophrenia is caused by bad communication between mother and child , then family interaction studies become relevant .
-7. Potassium ions are vital for the functioning of all living cells .
-8. It is known as a spa , specialising in mud treatment for rheumatism and similar ailments .
-9. The second half of glycolysis is known as the 'pay - off phase ' , by the net gain of the energy - rich molecules ATP and NADH .
-10. The function or use of the dodecahedra remains a mystery ; no mention of them has been found in texts or pictures of the time .
+Q1: [Speaking] 1. I have to go to a friend's wedding.
+2. I had to sleep at the bus station.
+3. You've got to go to Rio!
+4. Did you have to fly there?
+
+
 
 
 NODE MATCHING
 
-1. from time to time -> sometimes, but not often
-2. If you didn't eat your lunch so fast, -> you wouldn't get hiccups, would you?
-3. I’d never buy -> blackmailers off – I’d rather go to the police and face the consequences.
-4. go together -> if two or more things go together, they frequently exist together; if two things go together, they seem good, natural or attractive in combination with each other
-5. crack down (on) -> start dealing with someone or something much more strictly crackdown (n)
-6. put across/over -> explain an idea, belief, etc in a way that is easy to understand
-7. turn over a new leaf -> change your life by starting to be a better person or stopping a bad habit
-8. No matter what I said, Chris refused to back -> down from her position on abortion.
-9. go down (well/badly) (with sb) -> produce a particular reaction
-10. a sight for sore eyes -> someone or something that you are very pleased to see
+1. crack down (on) -> start dealing with someone or something much more strictly crackdown (n)
+2. noxious, toxic -> fumes
+3. make over -> change or improve the appearance of someone or something makeover (n)
+4. it doesn't take -> a rocket scientist
+5. tip up -> (of an object) have one end move upwards, especially because something heavy has been put at the other end; turn a container upside down so that the things inside it come out
+6. a man of -> few words
+7. size up -> think carefully and form an opinion about a person or a situation
+8. grin and bear it -> accept a difficult situation without complaining or showing how you feel
+9. from time to time -> sometimes, but not often
+10. on the street -> with no place to live
 
 
 NODE REVIEW
 
-1. Differential cryptanalysis is usually a chosen plaintext attack , meaning that the attacker must be able to obtain ciphertexts for some set of plaintexts of their choosing .
-Q2: The new Arts Centre seems to have been ............................ construction for quite some time.
-A. in
-B. under
-C. below
-D. on
+Q1: Every room in the hotel was characterized by shabby furniture and ........... lighting.
+A. sullen
+B. glum
+C. negative
+D. morose
 Answer: B
 
-Q3: Do you think there might be a ............................ between Angie's behaviour and the accident she had?
-A. link
-B. junction
-C. tie
-D. bond
-Answer: A
-
-4. put across/over -> explain an idea, belief, etc in a way that is easy to understand
-Q5: Even ............................ I work all night I won't finish.
-A. although
-B. if
-C. so
-D. when
-Answer: B
-
-6. go down (well/badly) (with sb) -> produce a particular reaction
-Q7: How dare you accuse me ............................ !
-A. to cheat
-B. cheating
-C. that I cheat
-D. of cheating
+Q2: Once she had achieved the success she desired, she decided that it was time to ……… it easy for a while.
+A. have
+B. do
+C. make
+D. take
 Answer: D
 
-8. I’d never buy -> blackmailers off – I’d rather go to the police and face the consequences.
-Q9: I'm thinking of going on Million Euro Spender; I'd love to ............................ spend a million euros in one day!
-A. can
-B. must
-C. have to
-D. be able
-Answer: C
+Q3: ............................ getting a pet tarantula?
+A. Does Claire really think of
+B. Is Claire really thinking of
+C. Has Claire really thought that
+D. Has Claire really been thinking that
+Answer: B
 
-Q10: If a person still has a ___ , it is usually possible to terminate the episode using electric cardioversion .
-Answer: pulse
+Q4: The text doesn't give you the answer explicitly – you have to ............................ it from the evidence.
+A. convert
+B. grasp
+C. reckon
+D. deduce
+Answer: D
+
+Q5: press ahead/on (with)
+Answer: continue doing something in a determined way, despite difficulties, opposition or interruptions
+
+Q6: I’ve got two weeks’ holiday left but I think I’ll carry
+Answer: it over till next year and take it in January.
+
+Q7: One good way to drum
+Answer: up support is to get people in the high street to sign a petition.
+
+Q8: sound out
+Answer: try to find out someone's opinions, ideas, feelings, etc by talking to them
+
+Q9: A: _______(1) _______(2) _______(3) studying at night or in the morning?
+B: I prefer studying at night. How about you?
+A: I like studying at night, too. _______(4) _______(5) _______(6) prefer—going out to a movie or watching a DVD at home?
+B: I prefer going out to a movie. I like watching movies on a big screen. Which _______(7) _______(8) _______(9) better?
+A: I like to watch DVDs at home. It’s more comfortable, and I can rewind or pause the movie whenever I want to.
+Answer: 1:Do | 2:you | 3:prefer | 4:Which | 5:do | 6:you | 7:do | 8:you | 9:like
+
+Q10: [Speaking] 1. The food took too long to arrive.
+2. They were not professional.
+3. The prices are really high.
+4. The waiters were really slow.
+5. That hotel is too far from the restaurants and clubs.
+6. The rooms are not nice.
+
 
 
 

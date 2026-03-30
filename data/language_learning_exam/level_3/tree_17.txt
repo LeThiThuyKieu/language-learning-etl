@@ -3,173 +3,176 @@ TREE 17
 
 NODE VOCAB
 
-Q1: In a few hundred years' time, oil will not be nearly so ............................ here on Earth.
-A. considerable
-B. ample
-C. immense
-D. abundant
+Q1: The ......... asked the judge to impose a life sentence because of the severity of the crime.
+A. accuser
+B. critic
+C. juror
+D. prosecutor
 Answer: D
 
-Q2: Don't worry – the documents are safely ............................ lock and key at my place.
-A. under
-B. in
-C. within
-D. on
+Q2: If the virus continues to spread ........., we’ll have an epidemic on our hands.
+A. unstoppable
+B. uncaught
+C. unchecked
+D. uncontrolled
+Answer: C
+
+Q3: More than 80 people came to the exhibition, many of ............................ children had pictures on the walls.
+A. whose
+B. which
+C. whom
+D. who
 Answer: A
 
-Q3: My only ambition, really, is to settle down and ............................ a family.
-A. grow
-B. raise
-C. make
-D. bring
+Q4: He's quite scary looking, with bushy eyebrows and long bushy ........... that go all the way down his cheeks.
+A. moustaches
+B. sideburns
+C. fringes
+D. beards
 Answer: B
 
-Q4: I always clean the flat before my mum comes round, but she always finds at least one ............................ of dust and says it's filthy!
-A. scrap
-B. gust
-C. speck
-D. blade
-Answer: C
-
-Q5: You know what they ............................ : variety is the spice of life!
-A. say
-B. tell
-C. speak
-D. state
+Q5: What you're saying now ............................ what you said earlier.
+A. contradicts
+B. comprises
+C. disputes
+D. interferes
 Answer: A
 
-Q6: We're saving for our holiday, so we're ............................ back on luxuries this month.
-A. dropping
-B. moving
-C. cutting
-D. giving
-Answer: C
-
-Q7: When Josh phoned, he sounded like he ............................ quite a shock.
-A. had
-B. had been having
-C. had had
-D. would have
-Answer: C
-
-Q8: To be honest, Harry has ............................ than you have.
-A. considerably been more helpful
-B. been more considerably helpful
-C. been considerably more helpful
-D. been more helpful considerably
-Answer: C
-
-Q9: I don't want to do the course in applied statistics, but it's ............................ .
-A. compulsory
-B. inevitable
-C. indecisive
-D. bound
+Q6: Any budget review will require a government ........... .
+A. endorsement
+B. agreement
+C. appreciation
+D. authorisation
 Answer: A
 
-Q10: Too many people work in the public ............................ in this country, in my opinion.
-A. area
-B. zone
-C. division
-D. sector
+Q7: Every room in the hotel was characterized by shabby furniture and ........... lighting.
+A. morose
+B. negative
+C. sullen
+D. glum
 Answer: D
+
+Q8: That ear infection won't clear ........... on its own; you'll need antibiotics.
+A. out
+B. off
+C. away
+D. up
+Answer: D
+
+Q9: Were ............................ my dad, I would never have started playing tennis in the first place.
+A. it for
+B. it hadn't been for
+C. it to be for
+D. it not for
+Answer: D
+
+Q10: Pete says he doesn't need to study because he's awfully good at ........... .
+A. jamming
+B. cramming
+C. ramming
+D. cramping
+Answer: B
 
 
 
 NODE LISTENING
 
-Q1: Polymorphism is common in nature ; it is related to biodiversity , genetic variation , and ___ .
-Answer: adaptation
-
-Q2: In his weakest form , Frieza is a relatively short humanoid with a large chestnut - shaped skull and two ___ .
-Answer: horns
-
-Q3: Between 1948 and 1950 , she developed a theory : these mobile ___ regulated genes by inhibiting or modulating their action .
-Answer: elements
-
-Q4: Epidemiological practice and the results of epidemiological analysis make a significant ___ to health management
-Answer: contribution
-
-Q5: It is well - known spa ___ , specialising in mud treatment for rheumatism and similar medical problems .
-Answer: town
-
-Q6: Potassium iodate is used to add iodine to ___ .
-Answer: salt
-
-Q7: Wrasses have protractile mouths , usually with ___ jaw teeth that jut outwards .
-Answer: separate
-
-Q8: The drug is commonly used to treat attention - ___ hyperactivity disorder and narcolepsy .
-Answer: deficit
-
-Q9: A ___ view is that the name was a veiled insult .
-Answer: contrary
-
-Q10: Although most of a cell ' s DNA is contained in the cell nucleus , the mitochondrion has its own independent genome that shows ___ similarity to bacterial genomes .
-Answer: substantial
+Q1: Steven points out that, according to _______(1) _______(2) approximately a third of accidents occur because of speeding.
+Most crashes that involve bicycles or people on foot are caused by violations of the _______(3) limit.
+Andrew is generally opposed to _______(4) _______(5) when it comes to punishing drivers for speeding.
+He argues that existing signs directing drivers to slow down to less than 30mph are _______(6)
+Stephen suggests that drivers should go to jail for _______(7) _______(8)
+Andrew suggests that, rather than introducing new legislation, the _______(9) _______(10) should be improved.
+Stephen states that the number of traffic police _______(11) _______(12) in the last ten years.
+Andrew argues that, in order to sensitise drivers, the speed limits should be _______(13)
+Answer: 1:government | 2:research | 3:speed | 4:prison | 5:penalties | 6:inadequate | 7:excessive | 8:speeding | 9:existing | 10:law | 11:has | 12:halved | 13:reasonable
 
 
 
 NODE SPEAKING
 
-1. A consonant may be added to separate vowels in hiatus .
-2. Modern exact cladistic analyses have not been conclusive .
-3. Although completing the square can be used to solve many quadratic equations , it does not work with every equation .
-4. Benzodiazepines are the most commonly used medication for the treatment of alcohol withdrawal and are generally safe and effective in suppressing symptoms of alcohol withdrawal .
-5. Bombards were replaced by weapons using smaller caliber iron shells with more powerful gunpowder .
-6. Gravitational lensing studies of the Bullet cluster are claimed to provide the best evidence to date for the existence of dark matter .
-7. Measurement of the absorption of light is complicated by the solvent used to extract the chlorophyll from plant material , which affects the values obtained ,
-8. A description of any thermodynamic system employs the four laws of thermodynamics that form an axiomatic basis .
-9. Later ornithopods became larger , but never rivaled the incredible size of the long-necked , long-tailed sauropods that they partially supplanted .
-10. The standard method of travel was by foot , as wheeled carts were almost nonexistent and heavy cargo was usually sent by boat .
+Q1: [Speaking] 1. You need to take vitamins.
+2. You should eat more vegetables.
+3. What types of fruit are you eating?
+4. Do you eat a lot of carrots?
+5. I've taken two cooking classes.
+6. I ate four pieces of pizza!
+
+
 
 
 NODE MATCHING
 
-1. tide over -> help someone to get to the end of a difficult period of time, especially by giving them money until they can get some more
-2. figure out -> be able to understand something or solve a problem; understand what someone is like and why they behave in the way they do
-3. have your wits about you -> be able to think quickly and make sensible decisions
-4. Hardly had they locked the shop -> up when the alarm went off.
+1. murder -> planning and causing the death of sb
+2. in/for donkey's years -> an extremely long time
+3. get in -> be elected for a political job
+4. Achilles' heel -> a weak feature of someone or something that could cause failure or be attacked
 5. walk out -> leave a meeting, performance, etc before the end, usually because you are angry or bored; suddenly leave a relationship, your family, your job, etc
-6. lock, stock and barrel -> including every part of a particular thing, situation, place, etc
-7. hold back -> stop someone or something from moving forwards
-8. get in -> be elected for a political job
-9. lash out -> try to hit or attack someone suddenly and violently; speak angrily to or at someone
-10. take the scenic route -> follow a longer path than the usual one because it is more attractive
+6. Give it a try and write and -> let me know how you get on.
+7. meet up -> come together with someone, either unexpectedly or as planned
+8. rob Peter -> to pay Paul
+9. weigh down -> make someone heavy and unable to move easily; cause problems for someone or something or make someone worried
+10. stand the test -> of time
 
 
 NODE REVIEW
 
-1. walk out -> leave a meeting, performance, etc before the end, usually because you are angry or bored; suddenly leave a relationship, your family, your job, etc
-2. Bombards were replaced by weapons using smaller caliber iron shells with more powerful gunpowder .
-3. Modern exact cladistic analyses have not been conclusive .
-Q4: Wrasses have protractile mouths , usually with ___ jaw teeth that jut outwards .
-Answer: separate
+Q1: The recent ........... in Africa led to widespread loss of life.
+A. starvation
+B. malnutrition
+C. famine
+D. hunger
+Answer: C
 
-Q5: Epidemiological practice and the results of epidemiological analysis make a significant ___ to health management
-Answer: contribution
-
-6. The standard method of travel was by foot , as wheeled carts were almost nonexistent and heavy cargo was usually sent by boat .
-Q7: To be honest, Harry has ............................ than you have.
-A. considerably been more helpful
-B. been considerably more helpful
-C. been more considerably helpful
-D. been more helpful considerably
+Q2: If you ............................ to attend the wedding, would you still have to reply to the invitation?
+A. hadn't been planning
+B. weren't planning
+C. aren't planning
+D. don't plan
 Answer: B
 
-Q8: When Josh phoned, he sounded like he ............................ quite a shock.
-A. would have
-B. had
-C. had been having
-D. had had
+Q3: A huge neon ........... in the window read "All you can eat for £5.99."
+A. signal
+B. message
+C. hoarding
+D. sign
 Answer: D
 
-9. Measurement of the absorption of light is complicated by the solvent used to extract the chlorophyll from plant material , which affects the values obtained ,
-Q10: I don't want to do the course in applied statistics, but it's ............................ .
-A. bound
-B. indecisive
-C. inevitable
-D. compulsory
-Answer: D
+Q4: Fewer supporters attended the political ........... than had been expected.
+A. rally
+B. gathering
+C. assembly
+D. convention
+Answer: A
+
+Q5: are being gradually
+Answer: restored
+
+Q6: down on your luck
+Answer: having a long period of difficulty finding work and earning money
+
+Q7: for good
+Answer: permanently, without the possibility of change in the future
+
+Q8: If the police didn't fine people,
+Answer: very few people would obey the law.
+
+Q9: If you want your child's party to be a success, it requires _______(1).
+Enjoyment is more important than _______(2).
+Before buying partyware you and your child need to choose a _______(3).
+Send out invitations _______(4) _______(5) before the party.
+Cater for the same number of guests as invitations and allow for _______(6) _______(7) _______(8).
+Prepare enough food for _______(9) portions for each guest.
+It's best to serve birthday cake _______(10) in napkins.
+Party games shouldn't be _______(11) _______(12).
+Your child should be the _______(13) _______(14) _______(15).
+Answer: 1:planning | 2:perfection | 3:theme | 4:a | 5:month | 6:a | 7:couple | 8:extra | 9:1.5 | 10:wrapped | 11:too | 12:competitive | 13:centre | 14:of | 15:attention
+
+Q10: [Speaking] 1. I have to go to a friend's wedding.
+2. I had to sleep at the bus station.
+3. You've got to go to Rio!
+4. Did you have to fly there?
+
 
 
 

@@ -3,166 +3,160 @@ TREE 3
 
 NODE VOCAB
 
-Q1: Jane and I listened to Guy's explanation, but ............................ of us believed him.
-A. both
-B. either
-C. none
-D. neither
-Answer: D
-
-Q2: I've decided to become a vegetarian and give ............................ meat.
-A. off
-B. up
-C. out
+Q1: Adam ............................ his room last night.
+A. has tidied
+B. tidied
 Answer: B
 
-Q3: “You've been annoying me all day!” my mum said. My mum said I ............................ her all day.
-A. was annoying
-B. annoyed
-C. had been annoying
-Answer: C
+Q2: They live in a lovely ........ in the countryside.
+A. cottage
+B. flat
+C. wardrobe
+Answer: A
 
-Q4: Dinosaurs are ............................ , so there are no dinosaurs alive any more.
-A. mild
-B. global
-C. extinct
-D. tight
-Answer: C
+Q3: Anita works really hard and ............................ to be paid more.
+A. deserves
+B. requires
+C. values
+D. worth
+Answer: A
 
-Q5: ‘Do you need this paintbrush?’ ‘Ah, yes. ............................ it to me, please?’
-A. Will you pass
-B. Are you passing
+Q4: ‘Do you need this paintbrush?’ ‘Ah, yes. ............................ it to me, please?’
+A. Are you passing
+B. Will you pass
 C. Do you pass
+Answer: B
+
+Q5: They live in a two-bedroom ........ in the centre of London.
+A. villa
+B. bathroom
+C. flat
+Answer: C
+
+Q6: I wanted to buy a drink, but the machine was out of ............................ .
+A. order
+B. work
+C. position
+D. operation
 Answer: A
 
-Q6: If you had worn a coat, you ............................ a cold.
+Q7: If you had worn a coat, you ............................ a cold.
 A. don't catch
-B. wouldn't have caught
-C. hadn't caught
-D. didn't catch
-Answer: B
-
-Q7: Jeanne, ............................ us that joke about the guy who knocks on the door.
-A. speak
-B. tell
-C. make
-D. say
-Answer: B
-
-Q8: I'm really ............................ for all your help.
-A. loving
-B. confident
-C. patient
-D. grateful
+B. hadn't caught
+C. didn't catch
+D. wouldn't have caught
 Answer: D
 
-Q9: Let's see what's on at the cinema, ............................ ?
-A. let us
-B. do we
-C. shall us
-D. shall we
+Q8: The Phillipsons won a ............................ on the lottery!
+A. fee
+B. bargain
+C. profit
+D. fortune
 Answer: D
 
-Q10: Of course you can have some milk. Get ............................ out of the cupboard.
-A. a glass
-B. glass
-Answer: A
+Q9: I ........ to the gym three times a week.
+A. am going
+B. goes
+C. go
+Answer: C
+
+Q10: Look at that waiter! He ............ drop those plates.
+A. 'll
+B. 's going to
+C. going to
+Answer: B
 
 
 
 NODE LISTENING
 
-Q1: Gathering was the ___ of the women and children .
-Answer: job
-
-Q2: The ratio of ___ to width is 5 to 8 .
-Answer: height
-
-Q3: I ___ I knew who broke in to our house .
-Answer: wish
-
-Q4: ___ is something I enjoy doing .
-Answer: driving
-
-Q5: The ___ started to play .
-Answer: band
-
-Q6: Do you have ___ plans ?
-Answer: weekend
-
-Q7: It has a ___ of 218 .
-Answer: population
-
-Q8: There is a ___ in my sneakers .
-Answer: hole
-
-Q9: He loves his sneakers more than his regular ___ .
-Answer: shoes
-
-Q10: It is easy to understand people who ___ clearly .
-Answer: speak
+Q1: Name: The Brit School for Performing _______(1) and Technology
+Start age: _______(2)
+Leaving age: _______(3)
+Special features: - Dancing, _______(4), singing and music lessons. Students don't wear _______(5) .
+Exams taken: GCSEs & ‘A’ Levels
+Answer: 1:Arts | 2:14 | 3:19 | 4:drama | 5:a uniform
 
 
 
 NODE SPEAKING
 
-1. She sat at the table in front of ours .
-2. Have you been doing your homework ?
-3. Three men are running along the riverside .
-4. The building was completed in 1941 , after the start of World War II .
-5. Everyone looked for the missing boys .
-6. I 've spoken with all the parents except for his .
-7. I wish I had some cool water to drink .
-8. These are the friends whose names you know .
-9. I miss my mom .
-10. The food was brought on beautiful plates .
+Q1: [Speaking] 1. It's a noisy city.
+2. It's very crowded.
+3. Everything is cheap.
+4. The parks are beautiful.
+
+
 
 
 NODE MATCHING
 
-1. skill -> the ability to do something well, usually as a result of experience and training
-2. image -> picture, especially one in a mirror or on a computer, television, or cinema screen
-3. debt -> an amount of money that you owe
-4. flight -> a journey in a plane
-5. independent -> not depending on other people
-6. I missed a few lessons but I'm catching -> up with the rest of the class quite quickly.
-7. chop -> to cut something such as food or wood into pieces
-8. You live in a village, -> don't you?
-9. term -> one of the periods of time that the year is divided into for students
-10. 'The dog is wet. It must be raining outside.' -> I'm almost certain.
+1. sleeve -> the part of a piece of clothing that covers your arm
+2. turn up -> increase the volume of
+3. result -> to cause or produce something
+4. Passengers travelling in first class may -> wait for their flight in the VIP area.
+5. ambition -> something that you very much want to achieve
+6. 22 -> twenty-two
+7. flight -> a journey in a plane
+8. vehicle -> a machine that you travel in or on, especially one with an engine that travels on roads, for example a car, bus, etc
+9. What's the difference -> between H20 and H2S04?
+10. We were in a hurry and when we got -> on the bus, I realised I didn't have a ticket.
 
 
 NODE REVIEW
 
-Q1: I ___ I knew who broke in to our house .
-Answer: wish
-
-Q2: The ratio of ___ to width is 5 to 8 .
-Answer: height
-
-3. The building was completed in 1941 , after the start of World War II .
-Q4: It is easy to understand people who ___ clearly .
-Answer: speak
-
-5. term -> one of the periods of time that the year is divided into for students
-Q6: I'm really ............................ for all your help.
-A. grateful
-B. patient
-C. confident
-D. loving
-Answer: A
-
-Q7: He loves his sneakers more than his regular ___ .
-Answer: shoes
-
-8. skill -> the ability to do something well, usually as a result of experience and training
-Q9: Jeanne, ............................ us that joke about the guy who knocks on the door.
-A. say
-B. speak
-C. tell
-D. make
+Q1: Rhinos are large animals with a ............ on their nose.
+A. beak
+B. neck
+C. horn
 Answer: C
 
-10. independent -> not depending on other people
+Q2: It's kind of you to offer to help, but you really don't need to.
+A. I don't want you to help me.
+B. Your help isn't necessary.
+C. You won't be able to help me.
+Answer: B
+
+Q3: All passengers must fasten their seatbelts.
+A. They have to fasten their seatbelts now.
+B. They don't have to fasten their seatbelts.
+C. They can fasten their seatbelts.
+Answer: A
+
+Q4: Her achievements are outstanding. She's in a ............ of her own.
+A. lesson
+B. group
+C. school
+D. class
+Answer: D
+
+Q5: shower
+Answer: a short period when it rains
+
+Q6: technology
+Answer: advanced scientific knowledge that is used for practical purposes
+
+Q7: equipment
+Answer: the tools, machines, or other things that you need for a particular job or activity
+
+Q8: clear up
+Answer: tidy
+
+Q9: Hollingsworth Secondary School, Colchester, _______(1) Qualified teacher required to teach science to pupils from year 7 to _______(2) . The school is well-known for its motivated pupils, highly-qualified staff and excellent _______(3) . Permanent _______(4) -time position. Available from September or _______(5) . For an application form and further details call _______(6) 129458.
+Answer: 1:Essex | 2:eleven | 3:facilities | 4:full | 5:January | 6:01621
+
+Q10: [Speaking] 10 ten
+11 eleven
+12 twelve
+13 thirteen
+14 fourteen
+15 fifteen
+16 sixteen
+17 seventeen
+18 eighteen
+19 nineteen
+20 twenty
+
+
 
 

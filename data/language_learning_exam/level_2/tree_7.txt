@@ -3,191 +3,166 @@ TREE 7
 
 NODE VOCAB
 
-Q1: I live in Barcelona, but my ............ town is Madrid.
-A. home
-B. birth
-C. origin
-D. native
-Answer: A
-
-Q2: Once they've finished the extension to the ............ , there'll be room for them to take on a lot more workers.
-A. factory
-B. trade
-C. manufacturing
-D. industry
-Answer: A
-
-Q3: We couldn't find a hotel room so we ............ sleep in the car. It was awful!
-A. should
-B. could
-C. had to
-D. must
+Q1: J.K. Rowling has ............ an enormous influence on children's literature.
+A. set
+B. given
+C. had
+D. done
 Answer: C
 
-Q4: I need a funny ............ for the fancy-dress party. Any ideas?
-A. costume
-B. suit
-C. uniform
-D. dress
+Q2: It's about time you ............ yourself a job.
+A. had got
+B. will get
+C. got
+D. get
+Answer: C
+
+Q3: That’s the man ............ daughter works at the TV studio.
+A. who
+B. which
+C. whose
+Answer: C
+
+Q4: Eventually, William agreed ............ his teacher what he had behind his back.
+A. to show
+B. with showing
+C. on showing
+D. that he shows
 Answer: A
 
-Q5: I was very proud when I was told that I'd been made into a ............ .
-A. classmate
-B. prefect
-C. student
-D. pupil
+Q5: When your boss arrived, ............ finished the report?
+A. you had
+B. were you
+C. had you
+D. did you have
+Answer: C
+
+Q6: Can you get me a ............ bananas at the greengrocer's, please?
+A. many
+B. little
+C. few
+Answer: C
+
+Q7: Listen! A siren is ........... .
+A. splashing
+B. crashing
+C. wailing
+D. barking
+Answer: C
+
+Q8: Don’t say that! You might ............ her feelings.
+A. harm
+B. ache
+C. hurt
+Answer: C
+
+Q9: Some people ............ to London every day from as far away as Leeds.
+A. commence
+B. commute
+C. connect
+D. correspond
 Answer: B
 
-Q6: If you ............ so bad-tempered, Julie wouldn't have got annoyed with you.
-A. won't have been
-B. haven't been
-C. weren't
-D. wouldn't have been
-Answer: C
-
-Q7: Last summer, I ........... to the beach almost every day.
-A. have been going
-B. have been
-C. was going
-D. went
-Answer: D
-
-Q8: Inviting both Doug and Shirley to the party is a ............ for disaster!
-A. recipe
-B. receipt
-C. prescription
-D. bill
-Answer: A
-
-Q9: The shot was ............ quick for the goalkeeper and the ball hit the back of the net.
-A. too
-B. enough
-C. such
-D. so
-Answer: A
-
-Q10: They were ............ out free tickets to the concert to everyone in the shopping centre.
-A. bringing
-B. carrying
-C. holding
-D. handing
-Answer: D
+Q10: Seldom ............ such a rude person!
+A. am I meeting
+B. have I met
+C. I have met
+D. did I met
+Answer: B
 
 
 
 NODE LISTENING
 
-Q1: Weight training is a safe kind of exercise when the ___ is slow , controlled , and careful .
-Answer: motion
-
-Q2: Steadily rising sea levels then further ___ this little island , which is entirely of volcanic origin .
-Answer: isolated
-
-Q3: The theory of their use in ___ display was first proposed by Davitashvili in 1961 and has gained increasing acceptance since .
-Answer: sexual
-
-Q4: All hardcovers contain the contents of the ___ , including the covers , and in some cases bonus material .
-Answer: comics
-
-Q5: Axles are an integral ___ of most practical wheeled vehicles .
-Answer: component
-
-Q6: At about 10 : 3 0 AM the flight paths of the two aircraft intersected over the canyon , and they collided at a closing ___ of about 25 degrees .
-Answer: angle
-
-Q7: The area of the canton is 991 km and is usually divided into three hilly ___ .
-Answer: areas
-
-Q8: Difficulties ___ in tracing the history of design management .
-Answer: arise
-
-Q9: Their skin is thin and soft with ___ hair .
-Answer: shiny
-
-Q10: Named because it resembles a ___ , the ladder frame is the simplest and oldest of all designs .
-Answer: ladder
+Q1: A: Are you going downtown today?
+B: Yes, but _______(1) _______(2) marathon today. There's going to be a lot of traffic.
+A: Yes. _______(3) _______(4) several streets blocked off.
+B: And I just heard there's been an accident, too.
+A: It's true. There's been a collision _______(5) _______(6) _______(7).
+B: Wow! So, I guess I'll walk. _______(8) _______(9) _______(10) with my feet today!
+Answer: 1:there's | 2:a | 3:There | 4:are | 5:between | 6:two | 7:buses | 8:There's | 9:no | 10:problem
 
 
 
 NODE SPEAKING
 
-1. The narrow coastal plain rises rapidly into several mountain ranges .
-2. Sock puppets are often used for the education and entertainment of children .
-3. The wood pigeon is mostly grey , with large white patches on both sides of the neck .
-4. Provisional results are the ballot counts for individual walk - in voting centers .
-5. There is also a bus station in the town center .
-6. From the time the state was created until the election of 1966 , governors were elected to two -year terms .
-7. In 2012 Nanninga went into a coma and only regained conscience five months later .
-8. Internet Explorer has introduced a number of extensions to the DOM that have been adopted by other browsers .
-9. The curtain rises on a warm evening in India , centuries in the past .
-10. The South developed an agricultural economy dependent on commodity crops .
+Q1: [Speaking] 1. Still or sparkling?
+2. Ready to order?
+3. Help yourself.
+4. Rare, medium or well done?
+5. Milk and sugar?
+
+
 
 
 NODE MATCHING
 
-1. fire -> to make someone leave their job, sometimes as a punishment
-2. You won't tell anyone about this, -> will you?
-3. ask after -> ask for news about
-4. count on -> rely on; trust
-5. rash -> an area of small red spots on your skin that is caused by an illness or a reaction to something
-6. suspect (n) -> someone who might have committed a crime
-7. oven -> a large piece of equipment in a kitchen that you cook food in
-8. measure -> to find the exact size, amount, speed or rate of something
-9. learn -> to gain knowledge or experience of something, for example by being taught
+1. dust -> the furniture
+2. I'm thinking -> of getting Dad a CD for his birthday.
+3. prosecute -> to officially accuse someone of a crime and ask a court of law to judge them
+4. Peterson was found guilty of holding -> up the bank and was sentenced to five years in prison.
+5. draw -> if two teams or opponents draw, or if they draw a match, they both have the same score, so that neither wins
+6. I'd like to try -> on that jacket you've got hanging in the window.
+7. I think it was Bob who came -> up with the idea of going to Poland.
+8. learn -> to gain knowledge or experience of something, for example by being taught
+9. deal with -> handle, cope with
 10. primary -> relating to the education of children between the ages of about five and eleven
 
 
 NODE REVIEW
 
-Q1: The shot was ............ quick for the goalkeeper and the ball hit the back of the net.
-A. such
-B. so
-C. too
-D. enough
-Answer: C
+Q1: Could you tell me ............ ?
+A. about where is the manager
+B. where the manager is
+C. where is the manager
+D. the manager is where
+Answer: B
 
-Q2: We couldn't find a hotel room so we ............ sleep in the car. It was awful!
-A. had to
-B. could
-C. should
-D. must
-Answer: A
-
-Q3: Steadily rising sea levels then further ___ this little island , which is entirely of volcanic origin .
-Answer: isolated
-
-Q4: Once they've finished the extension to the ............ , there'll be room for them to take on a lot more workers.
-A. manufacturing
-B. trade
-C. industry
-D. factory
+Q2: The prize is ............ unique opportunity to travel the world!
+A. the
+B. no word
+C. an
+D. a
 Answer: D
 
-Q5: Last summer, I ........... to the beach almost every day.
-A. went
-B. have been going
-C. have been
-D. was going
+Q3: The wizard is evil and ............ .
+A. honest
+B. polite
+C. greedy
+Answer: C
+
+Q4: Have you ............ been to the Italian restaurant on Belm Street?
+A. ever
+B. never
+C. yet
 Answer: A
 
-Q6: I live in Barcelona, but my ............ town is Madrid.
-A. home
-B. birth
-C. native
-D. origin
-Answer: A
+Q5: slim
+Answer: thin in an attractive way
 
-7. rash -> an area of small red spots on your skin that is caused by an illness or a reaction to something
-Q8: The area of the canton is 991 km and is usually divided into three hilly ___ .
-Answer: areas
+Q6: listen
+Answer: to pay attention to a sound, or to try to hear a sound
 
-9. The curtain rises on a warm evening in India , centuries in the past .
-Q10: I was very proud when I was told that I'd been made into a ............ .
-A. classmate
-B. prefect
-C. student
-D. pupil
-Answer: B
+Q7: Aesop is a vegetarian. However, he
+Answer: does occasionally eat fish.
+
+Q8: whisk
+Answer: to mix something such as eggs or cream using a whisk or a fork
+
+Q9: A: Hi, Jen. _______(1) _______(2) your trip?
+B: It was great! I had a wonderful time.
+A: _______(3) _______(4) the food?
+B: It was good! I ate a lot!
+A: How _______(5) _______(6) _______(7) there?
+B: It was beautiful the whole time I was there.
+A: So what was the best thing _______(8) _______(9) _______(10)?
+Answer: 1:How | 2:was | 3:How | 4:was | 5:was | 6:the | 7:weather | 8:about | 9:your | 10:trip
+
+Q10: [Speaking] 1. He's really smart.
+2. He's extremely noisy.
+3. She's terribly rude!
+4. She was very considerate.
+
 
 
 

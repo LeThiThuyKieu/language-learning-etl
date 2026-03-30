@@ -3,165 +3,166 @@ TREE 4
 
 NODE VOCAB
 
-Q1: Leon never ............................ about it, but he was once a world champion skier.
-A. was talking
-B. talks
-C. talk
-D. is talking
-Answer: B
-
-Q2: Lizzie has been having dance classes ............................ she was four years old.
-A. from
-B. for
-C. since
-D. when
-Answer: C
-
-Q3: ............................ the cost, the CD wasn't very good quality.
-A. However
-B. In spite of
-C. Although
-Answer: B
-
-Q4: Have you always been keen ............................ motorbikes?
-A. for
-B. in
+Q1: What's the weather like ............................ Russia at the moment?
+A. to
+B. at
 C. on
-D. with
-Answer: C
+D. in
+Answer: D
 
-Q5: The money ............................ you lent me was really useful. Thanks!
-A. where
-B. that
-C. who
-D. whose
+Q2: Eating a bar of chocolate from time ......... time won't do you any harm.
+A. in
+B. to
+C. with
+D. at
 Answer: B
 
-Q6: Thankfully, the train arrived on ............................ .
-A. schedule
-B. board
-C. coach
-D. platform
+Q3: I wish I ............................ an MP3 player.
+A. had
+B. have
+C. would have
 Answer: A
 
-Q7: Do you remember ............................ to Germany when you were two years old?
-A. going
-B. to go
-C. go
+Q4: Try ............................ the program again on another computer and see what happens.
+A. running
+B. working
+C. making
+D. going
 Answer: A
 
-Q8: That's the girl ............................ grandfather helped to develop the Internet.
+Q5: It was ........... cold for a spring evening.
+A. bitterly
+B. pleasantly
+C. wintry
+Answer: A
+
+Q6: You need ............ and a helmet to do boxing.
+A. weights
+B. hoops
+C. gloves
+Answer: C
+
+Q7: In the 16th century, many ............ set out to discover unknown lands.
+A. sightseers
+B. pilgrims
+C. explorers
+D. backpackers
+Answer: C
+
+Q8: Alex wanted to know how much he would have to pay for his university ............ .
+A. grant
+B. scholarship
+C. fees
+D. loan
+Answer: C
+
+Q9: When you rang, I ............................ my bike.
+A. used to clean
+B. was cleaning
+C. cleaned
+D. clean
+Answer: B
+
+Q10: The money ............................ you lent me was really useful. Thanks!
 A. who
-B. whose
+B. where
 C. that
-D. which
-Answer: B
-
-Q9: Do you remember ............................ excited the first time you went on a train?
-A. to feel
-B. you feel
-C. feeling
-D. to feeling
-Answer: C
-
-Q10: Dean was late for physics so he ............................ up a story about being attacked by a cat!
-A. wrote
-B. created
-C. made
-D. took
+D. whose
 Answer: C
 
 
 
 NODE LISTENING
 
-Q1: Have you just ___ ?
-Answer: arrived
-
-Q2: I ___ I were smarter .
-Answer: wish
-
-Q3: ___ me that football .
-Answer: pass
-
-Q4: You are as ___ as ever to me .
-Answer: beautiful
-
-Q5: If it was his , where did it ___ ?
-Answer: go
-
-Q6: She placed her ___ on the floor .
-Answer: bag
-
-Q7: Megan started playing ___ during the summer break .
-Answer: soccer
-
-Q8: Put away the ___ pajamas .
-Answer: winter
-
-Q9: I need to see my ___ for this toothache .
-Answer: dentist
-
-Q10: The songs tell personal stories of life in the wide ___ country of Australia .
-Answer: open
+Q1: A: Why _______(1) anyone ever clean up this mess? Have you seen my purse?
+B: _______(2) _______(3) usually keep it in the desk drawer?
+A: Yes, but it isn’t there now.
+B: Oh, there _______(4) _______(5), on the table.
+A: Oh, great. Thanks. Okay, now. . . do you know where my keys are?
+B: Well, I know _______(6) _______(7) on the hook where they belong.
+A: Wait a minute. . . uh, I think I left them in the car. But I _______(8) _______(9) where the car is!
+Answer: 1:doesn't | 2:Don't | 3:you | 4:it | 5:is | 6:they | 7:aren't | 8:don't | 9:know
 
 
 
 NODE SPEAKING
 
-1. There was a red car parked there .
-2. I forgot to bring my umbrella .
-3. The history of traditional sports is ancient .
-4. He died doing what he believed in .
-5. He fell on his knees .
-6. I grew up with three brothers .
-7. Arrow was born on August 23 , 1921 in New York City , New York .
-8. My mother calls every weekend .
-9. The songs tell personal stories of life in the wide open country of Australia .
-10. Harrison got very excited when his parents gave him a car .
+Q1: [Speaking] liked
+wanted
+hated
+walked
+looked
+moved
+
+
 
 
 NODE MATCHING
 
-1. I lent my new computer game -> to Daniel and I don't think I'll get it back for a while!
-2. apologise -> to tell someone that you are sorry for doing something wrong
-3. suffer -> to feel pain in your body or your mind; to have a particular illness or physical problem
-4. operate -> if equipment operates, or if you operate it, you use or control it and it works in the way it should
-5. give away -> give sth free of charge
-6. 'Someone is at the door. It must be Mrs Johnson from next door.' -> I'm almost certain.
-7. I would love to work -> as a racing driver, or maybe a car mechanic.
-8. course -> a series of lessons in an academic subject or a practical skill
-9. identity card -> an official document that shows who you are
-10. tradition -> a very old custom, belief, or story
+1. have an operation -> the process of cutting into someone's body for medical reasons
+2. I lent my new computer game -> to Daniel and I don't think I'll get it back for a while!
+3. rip up -> tear into pieces
+4. thought -> a word, idea, or image that comes into your mind
+5. rumour -> something that people are saying that may or may not be true
+6. I'm afraid we're not looking for new workers at -> the moment, but you could try again next month.
+7. thunder -> the loud noise that you sometimes hear in the sky during a storm
+8. Mary is very polite. -> Yes, she always says thank you.
+9. rent -> to pay money regularly to use a house, room, office, etc that belongs to someone else
+10. smooth -> completely even with no rough areas
 
 
 NODE REVIEW
 
-Q1: I need to see my ___ for this toothache .
-Answer: dentist
+Q1: I've decided to become a vegetarian and give ............................ meat.
+A. out
+B. off
+C. up
+Answer: C
 
-2. operate -> if equipment operates, or if you operate it, you use or control it and it works in the way it should
-3. identity card -> an official document that shows who you are
-Q4: ___ me that football .
-Answer: pass
-
-Q5: Dean was late for physics so he ............................ up a story about being attacked by a cat!
-A. took
-B. wrote
-C. created
-D. made
-Answer: D
-
-6. Arrow was born on August 23 , 1921 in New York City , New York .
-Q7: Leon never ............................ about it, but he was once a world champion skier.
-A. is talking
-B. talks
-C. was talking
-D. talk
+Q2: Can you help me to carry the shopping, please? I can't manage by ............ .
+A. yourself
+B. myself
+C. itself
 Answer: B
 
-8. apologise -> to tell someone that you are sorry for doing something wrong
-9. My mother calls every weekend .
-10. Harrison got very excited when his parents gave him a car .
+Q3: It took firefighters hours to put out the ...... .
+A. storm
+B. flames
+C. lava
+Answer: B
+
+Q4: The ............ arrived safely back on Earth.
+A. space shuttle
+B. UFO
+C. comet
+Answer: A
+
+Q5: community
+Answer: the people who live in an area
+
+Q6: Gemma seems a bit bad-tempered today.
+Answer: Yes. She's definitely angry about something.
+
+Q7: Solar-powered houses
+Answer: houses that use energy from the sun for heat, light, etc
+
+Q8: global
+Answer: including or affecting the whole world
+
+Q9: A: What are you _______(1) _______(2) do after you graduate, Evan?
+B: Well, I hope _______(3) _______(4) around the world.
+A: Really? Cool! Where do you want to go?
+B: Let's see. . . first I am _______(5) _______(6) go to Singapore, then Australia.
+A: That's so exciting. Are you going to travel alone?
+B: Well, I would _______(7) _______(8) travel with a friend. Hey, do you want to come with me?
+A: That would be great! But I am going to start a new job in August.
+B: Oh. Well, let me know if you _______(9) your mind.
+Answer: 1:going | 2:to | 3:to | 4:travel | 5:going | 6:to | 7:like | 8:to | 9:change
+
+Q10: [Speaking] 1. I can come to your play.
+2. I can't come to your party.
+3. They can go to the beach with us.
+
+
 
 

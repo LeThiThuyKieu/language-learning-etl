@@ -3,173 +3,173 @@ TREE 22
 
 NODE VOCAB
 
-Q1: When I realised that I'd left my homework at home, I quickly ............................ back to get it.
-A. crawled
-B. dashed
-C. drifted
-D. crept
+Q1: Jim Carrey’s latest film is a ........... comedy in which he once again plays the the loveable clown.
+A. slapstick
+B. charade
+C. prank
+D. farce
+Answer: A
+
+Q2: Had the electrician not come in time, we would ............................ last night's party by candlelight.
+A. have had to have been having
+B. have to be having
+C. have had to have had
+D. have to have
+Answer: A
+
+Q3: Unless Ray ............................ here soon, I'm going to leave because I'm getting bored.
+A. doesn't get
+B. gets
+C. won't get
+D. will get
 Answer: B
 
-Q2: Getting divorced was a ............................ decision, so I don't blame my ex-wife.
-A. relative
-B. cooperative
-C. related
-D. joint
+Q4: When I realised that I'd left my homework at home, I quickly ............................ back to get it.
+A. dashed
+B. drifted
+C. crept
+D. crawled
+Answer: A
+
+Q5: Sandra's unpleasant ........... suggested that she knew about Amanda's terrible secret.
+A. snort
+B. grimace
+C. wince
+D. smirk
 Answer: D
 
-Q3: Sending out e-mails that people haven't asked for to ............................ addresses is often known as 'spamming'.
-A. sufficient
-B. multiple
-C. widespread
-D. countless
+Q6: Frank has been claiming unemployment ........... for over ten months.
+A. allowance
+B. benefit
+C. payment
+D. subsidy
 Answer: B
 
-Q4: Apparently, before the fight some of the youths had ............................ themselves with knives.
-A. armed
-B. readied
-C. installed
-D. fitted
-Answer: A
-
-Q5: Were you really just on the point ............................ ?
-A. of resigning
-B. to resign
-C. with resignation
-D. of having resigned
-Answer: A
-
-Q6: I hope the government reduces the amount of ............................ tape required to start a new company.
-A. red
-B. blue
-C. green
-D. yellow
-Answer: A
-
-Q7: The house I was born in was ............................ some time ago.
-A. demolished
-B. smashed
-C. evicted
-D. ground
-Answer: A
-
-Q8: The ............................ on the kitchen table.
-A. grocery are
-B. grocery is
-C. groceries are
-D. groceries is
+Q7: The discovery of penicillin was a significant medical ......... .
+A. innovation
+B. revolution
+C. breakthrough
+D. novelty
 Answer: C
 
-Q9: You shouldn't have let Kerry ............................ without apologising for what you said to her.
-A. leaving
-B. to leaving
-C. leave
-D. to leave
+Q8: I didn't realise Jean had such a ........... singing voice.
+A. pleased
+B. pleasurable
+C. pleasant
+D. pleasure
 Answer: C
 
-Q10: Unless Ray ............................ here soon, I'm going to leave because I'm getting bored.
-A. doesn't get
-B. will get
-C. gets
-D. won't get
+Q9: Sending out e-mails that people haven't asked for to ............................ addresses is often known as 'spamming'.
+A. countless
+B. multiple
+C. widespread
+D. sufficient
+Answer: B
+
+Q10: Joining a gym ............................, but I didn't really fancy the idea.
+A. to me was suggested
+B. was suggesting me
+C. was suggested to me
+D. was suggested me
 Answer: C
 
 
 
 NODE LISTENING
 
-Q1: During December to March , the lake turns to a ___ cobalt blue color , returning to a colder steel grey color for April to November .
-Answer: vibrant
-
-Q2: CIDCO carved out 16 nodes small townships with a view towards facilitating comprehensive ___ .
-Answer: development
-
-Q3: The ladder ___ arises because no one technique can measure distances at all ranges encountered in astronomy .
-Answer: analogy
-
-Q4: He dubbed the relationship between color and salt ___ halochromy , of which malachite green is a prime example .
-Answer: formation
-
-Q5: One balances a chemical equation by changing the scalar number for each chemical ___ .
-Answer: formula
-
-Q6: Some examples of large Plinian eruptions that formed calderas ___ the following : The lava is usually rhyolitic and has a lot of silicates .
-Answer: include
-
-Q7: The classic varve ___ is a light / dark colored couplet deposited in a glacial lake .
-Answer: archetype
-
-Q8: The adult plumage of most of the albatrosses is usually some variation of dark upper - ___ and back with white undersides , often compared to that of a gull .
-Answer: wing
-
-Q9: Arcanite is the ___ form of potassium sulfate .
-Answer: mineral
-
-Q10: A schismatic is a person who creates or incites ___ in an organization or who is a member of a splinter group .
-Answer: schism
+Q1: Many rural communities have problems obtaining water for domestic use and _______(1)
+Avoiding the use of fossil fuels reduces _______(2) _______(3) and expense, and conserves non-renewable resources.
+Compared to older designs, modern ram pumps are both more efficient and more _______(4)
+Ram pumps are more _______(5) than other methods of supplying water in rural areas.
+_______(6) _______(7) can be taught how to do routine maintenance of ram pumps.
+The smallest ram pumps deliver approximately _______(8) _______(9) of water daily.
+Answer: 1:farming | 2:air | 3:pollution | 4:reliable | 5:cost-effective | 6:community | 7:members | 8:60 | 9:liters
 
 
 
 NODE SPEAKING
 
-1. Commodus also had a passion for gladiatorial combat , which he took so far as to take to the arena himself , dressed as a secutor .
-2. A frequency distribution is said to be skewed when its mean and median are different .
-3. Histones undergo posttranslational modifications that alter their interaction with DNA and nuclear proteins .
-4. Emotional memory , the memory for events that evoke a particularly strong emotion , is a domain that can involve both declarative and procedural memory processes .
-5. Potassium nitrate can be made by combining ammonium nitrate and potassium hydroxide .
-6. Glaucocystophytic algae contain muroplasts , which are similar to chloroplasts except that they have a cell wall , similar to that of prokaryotes .
-7. The statement that is being tested against the null hypothesis is the alternative hypothesis .
-8. This list is arranged by drainage basin , with respective tributaries indented under each larger stream 's name .
-9. Eunomia appears to be an elongated but fairly regularly shaped body , with what appear to be four sides of differing curvature and noticeably different average compositions .
-10. Chondroitin sulfate was originally isolated well before the structure was characterized , leading to changes in terminology with time .
+Q1: [Speaking] 1. We went to the beach on Friday, and just as we arrived, it started to rain.
+2. I was walking to work when all of a sudden, I heard someone call my name.
+3. I was having a great time, and before I knew it, it was midnight.
+4. We waited and waited, and finally, the tow truck arrived.
+
+
 
 
 NODE MATCHING
 
-1. concrete jungle -> unpleasant part of a city where there are a lot of ugly buildings close together
-2. spring up -> appear or be produced suddenly and quickly
-3. never/don't look a gift horse in the mouth -> if you are given something good, you should not complain about it or try to find things that are wrong with it
-4. speak volumes -> provide a lot of information, especially in an indirect way
-5. smarten up -> improve the appearance of something, for example by cleaning or painting it; if you smarten up or smarten yourself up, you make yourself look tidy and clean
-6. It took us ages to figure -> out how to get everyone to the sports centre without Phil knowing.
-7. bump into -> meet someone unexpectedly; accidentally hit against something
-8. take the law into your own hands -> punish someone in your own way without involving the police or the courts, often by doing something illegal yourself
+1. no rhyme or reason -> used for emphasising that there is no reason or explanation for something
+2. give out -> give something to several people
+3. on hold -> waiting
+4. mix up -> put things together without any order; think that one person or thing is another person or thing mix-up (n)
+5. cry over spilt milk -> waste time feeling upset about something bad that has happened and cannot be changed
+6. bump into -> meet someone unexpectedly; accidentally hit against something
+7. If you did decide to leave the company, -> we'd be happy to give you a good reference.
+8. the present manager -> the person who is currently manager
 9. knuckle down -> start working hard, especially when you should have done this earlier
-10. club together -> if people club together, each of them gives some money so all the money collected can be used to buy something
+10. lose your bearings -> become confused about where you are and where other things are
 
 
 NODE REVIEW
 
-Q1: Getting divorced was a ............................ decision, so I don't blame my ex-wife.
-A. related
-B. relative
-C. joint
-D. cooperative
-Answer: C
-
-2. Eunomia appears to be an elongated but fairly regularly shaped body , with what appear to be four sides of differing curvature and noticeably different average compositions .
-Q3: Were you really just on the point ............................ ?
-A. with resignation
-B. of resigning
-C. of having resigned
-D. to resign
+Q1: Mr Nesbitt ........... a lot of weight with the owner of the store, so he's the one you should try to persuade.
+A. measures
+B. carries
+C. takes
+D. pulls
 Answer: B
 
-4. club together -> if people club together, each of them gives some money so all the money collected can be used to buy something
-5. concrete jungle -> unpleasant part of a city where there are a lot of ugly buildings close together
-Q6: During December to March , the lake turns to a ___ cobalt blue color , returning to a colder steel grey color for April to November .
-Answer: vibrant
+Q2: When will advertisers realise that most people find radio ........... just plain irritating?
+A. jingles
+B. rattles
+C. clinks
+D. tinkles
+Answer: A
 
-Q7: The classic varve ___ is a light / dark colored couplet deposited in a glacial lake .
-Answer: archetype
+Q3: The rapid ........... of the earth's resources is a major cause for concern.
+A. completion
+B. extinction
+C. finishing
+D. depletion
+Answer: D
 
-8. smarten up -> improve the appearance of something, for example by cleaning or painting it; if you smarten up or smarten yourself up, you make yourself look tidy and clean
-9. This list is arranged by drainage basin , with respective tributaries indented under each larger stream 's name .
-Q10: Apparently, before the fight some of the youths had ............................ themselves with knives.
-A. readied
-B. armed
-C. installed
-D. fitted
-Answer: B
+Q4: The book would have been perfect ............................ the ending.
+A. had it not been for
+B. it had not been for
+C. it hadn't been for
+D. hadn't it been for
+Answer: A
+
+Q5: brush up (on)
+Answer: practise and improve your skills or knowledge of something
+
+Q6: wear down
+Answer: make something gradually disappear or become thinner by using or rubbing it; make someone gradually lose their energy or confidence
+
+Q7: Drew spends a lot of time seeking
+Answer: out good spots to go windsurfing.
+
+Q8: do sth on a whim
+Answer: do because of a sudden feeling that you must have or do something
+
+Q9: The telephone helpline is one of _______(1) _______(2) that aim to help care-givers.
+The helpline is available at no cost and is accessible _______(3) hours a day.
+Most people taking advantage of the service have never voiced their _______(4) before.
+_______(5) of experienced people form the foundation for helpline.
+Parentline Plus is in need of male volunteers from non-English _______(6)
+Helpline operators must spend _______(7) _______(8) or more each week giving advice over the phone.
+There are _______(9) call centres situated outside of England's capital.
+Parentline Plus publishes a _______(10) containing information about their helpline.
+Answer: 1:several | 2:programmes | 3:twenty-four | 4:concern | 5:hundreds | 6:cultures | 7:four | 8:hours | 9:six | 10:leaflet
+
+Q10: [Speaking] 1. Did you go to Los Angeles?
+2. You need to go on vacation.
+3. We like to travel.
+4. Let's go to Tokyo.
+5. It's hard to drive ten hours.
+6. I'm going to London.
+
 
 
 

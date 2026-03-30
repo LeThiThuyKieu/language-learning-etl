@@ -3,170 +3,173 @@ TREE 2
 
 NODE VOCAB
 
-Q1: If you exercise more, you ............................ weight.
-A. would lose
-B. will lose
-C. have lost
-D. had lost
+Q1: I quite enjoy ............
+A. cycle
+B. cycling
+C. to cycle
 Answer: B
 
-Q2: I'll see you ............................ half past eight.
-A. at
-B. on
-C. in
-D. to
-Answer: A
-
-Q3: ............................ it was expensive, the CD wasn't very good quality.
-A. In spite of
-B. Although
-C. However
+Q2: The strong ............ damaged the trees.
+A. clouds
+B. winds
+C. fog
 Answer: B
 
-Q4: Students mustn't run in school buildings.
-A. They can run if they want to.
-B. Students don't like running.
-C. Running isn't allowed.
+Q3: I sent the letter yesterday, so it ............................ get there tomorrow.
+A. can
+B. need
+C. should
+D. ought
 Answer: C
 
-Q5: If something is illegal, it's against the ............................ .
-A. rule
-B. law
-C. society
-D. government
+Q4: Matthew was fined £100 for driving ......... age.
+A. in
+B. under
+C. on
+D. with
 Answer: B
 
-Q6: I hope ............................ a pilot when I grow up.
-A. become
-B. to become
-C. becoming
-Answer: B
+Q5: If Simon ............ soon, I'll go by myself.
+A. won't come
+B. hasn't come
+C. doesn't come
+Answer: C
 
-Q7: I don't know much about computers, so I asked the assistant for ............................ advice.
-A. a little
-B. a lot
-C. many
-D. a few
-Answer: A
-
-Q8: Bob joined the ............................ about six years ago.
-A. ambition
-B. fame
-C. pension
-D. company
+Q6: ............................ Mum had a cold, she still went to work.
+A. Despite
+B. In spite
+C. However
+D. Although
 Answer: D
 
-Q9: Do you think we'll all have flying cars ............................ the future?
-A. on
-B. at
-C. in
-D. to
+Q7: The vacuum cleaner was ........... by H Booth.
+A. developed
+B. launched
+C. invented
 Answer: C
 
-Q10: It was a fantastic experience because I'd never ............................ in a plane before.
-A. been flying
-B. flown
+Q8: Matt was sleeping while Joanne ............ the dinner.
+A. cooks
+B. cooked
+C. was cooking
+Answer: C
+
+Q9: Mike ........ at a bank.
+A. work
+B. works
+C. is working
 Answer: B
+
+Q10: My job's quite rewarding, but it's also really tiring and ......
+A. exciting
+B. imaginative
+C. stressful
+Answer: C
 
 
 
 NODE LISTENING
 
-Q1: He had very powerful ___ .
-Answer: legs
-
-Q2: The two ___ have never played each other before .
-Answer: teams
-
-Q3: The main ___ used on the line is Class 375 Electrostars .
-Answer: trains
-
-Q4: She joined the U . S . Sailing ___ .
-Answer: team
-
-Q5: Several different explanations exist for the ___ name .
-Answer: original
-
-Q6: She was an only ___ , born in London .
-Answer: child
-
-Q7: Is there any of the vegetable spaghetti left from last night ' s ___ ?
-Answer: dinner
-
-Q8: She died after a long illness on 6 ___ 2014 at the age of 85 .
-Answer: april
-
-Q9: The band ' s second world tour began in ___ 2001 .
-Answer: january
-
-Q10: On ___ 10 , a day of memorials began peacefully .
-Answer: august
+Q1: The boy I like's from Dreamland
+He looks just like Brad Pitt!
+He's got fair hair and big blue eyes
+And he's tall and very _______(1)!
+He's funny and he's friendly
+And he loves to give me flowers
+He can play guitar and sing love songs
+For hours and hours and _______(2)!
+The girl I like's from Dreamland
+She looks just like Cameron Diaz
+She's slim and fair, she's got lovely hair,
+Big eyes and such cute _______(3)!
+She's sweet and kind and clever
+And she loves to watch TV –
+Her favourite sport is football
+And her favourite guy is _______(4)!
+Answer: 1:fit | 2:hours | 3:ears | 4:me
 
 
 
 NODE SPEAKING
 
-1. Alsop died on 12 May 2018 at the age of 70 .
-2. The purpose of the event is to have the hardest shot .
-3. The dogs started to fight .
-4. He was part of the American basketball team , which won the gold medal .
-5. I like dogs more than cats .
-6. Have you already had your lunch ?
-7. I thought I saw him .
-8. He has many works .
-9. I do not always listen to music .
-10. It showed that 5,308,483 people were living in the United States .
+Q1: [Speaking] 1. a thousand
+2. one thousand
+3. two hundred and twenty-seven
+4. two hundred twenty-seven
+5. four thousand-six hundred and eighteen
+6. four thousand-six hundred eighteen
+
+
 
 
 NODE MATCHING
 
-1. eat out -> eat at a restaurant
-2. take away -> remove
-3. have fun -> get enjoyment from an activity that is not important or serious
-4. vitamin -> a natural substance in food that is necessary to keep your body healthy
-5. ferry -> a boat that makes short regular journeys between two or more places
-6. deserve -> if you deserve something, it is right that you get it, because of the way that you are or the way that you have behaved
-7. silk -> a thin smooth cloth made from the fibres produced by insects called silkworms
-8. 'Greg can't be in the final! He's a terrible player!' -> I'm almost certain.
-9. talented -> very good at something
-10. lie down -> start lying(on a bed, etc)
+1. Mr and Mrs Davies have split -> up after more than twenty years together.
+2. add up -> find the total of
+3. forecast -> to make a statement about what is likely to happen, often relating to the weather
+4. I've had an idea -> about how to do this experiment.
+5. classical music -> serious music that is played on instruments such as the piano and the violin
+6. link -> if people, things, or events are linked, they are related to each other in some way
+7. It's important when you apply -> for a job to make a good impression.
+8. youth club -> a place where young people can go to meet and take part in activities
+9. exercise -> to do a physical activity in order to stay healthy and to make your body stronger
+10. expert -> someone who has a particular skill or knows a lot about a particular subject
 
 
 NODE REVIEW
 
-Q1: Students mustn't run in school buildings.
-A. Running isn't allowed.
-B. Students don't like running.
-C. They can run if they want to.
-Answer: A
+Q1: Can you get me a kilo of meat and some sausages at the ........... ?
+A. baker's
+B. chemist's
+C. butcher's
+Answer: C
 
-2. talented -> very good at something
-Q3: I don't know much about computers, so I asked the assistant for ............................ advice.
-A. a few
-B. many
-C. a lot
-D. a little
+Q2: You promised ............................ to my birthday party!
+A. coming
+B. to come
+C. come
+D. that you come
+Answer: B
+
+Q3: Home Lovers have got lots of ............................ in their sale this year.
+A. debts
+B. fortunes
+C. bargains
+D. fees
+Answer: C
+
+Q4: You look worried. ............................ about what happened last night?
+A. You think
+B. You are thinking
+C. Do you think
+D. Are you thinking
 Answer: D
 
-Q4: ............................ it was expensive, the CD wasn't very good quality.
-A. Although
-B. In spite of
-C. However
-Answer: A
+Q5: Intelligent kitchens
+Answer: kitchens with a fridge, cooker, etc that you can programme to do things for you
 
-5. take away -> remove
-6. The dogs started to fight .
-Q7: I'll see you ............................ half past eight.
-A. on
-B. to
-C. in
-D. at
-Answer: D
+Q6: Are we still going to the cinema on Saturday night?
+Answer: I don't know yet. I'll ring you on Friday.
 
-Q8: The main ___ used on the line is Class 375 Electrostars .
-Answer: trains
+Q7: tradition
+Answer: a very old custom, belief, or story
 
-9. silk -> a thin smooth cloth made from the fibres produced by insects called silkworms
-10. It showed that 5,308,483 people were living in the United States .
+Q8: contact
+Answer: to communicate with someone by phone, e-mail, letter, etc
+
+Q9: • Brush your teeth after every _______(1)or at least _______(2) a day.
+• Brush for at least _______(3) minutes.
+• Avoid _______(4) and sugary drinks.
+• Eat lots of fresh _______(5) and vegetables.
+• Visit your dentist every _______(6)
+months for a check-up.
+Answer: 1:meal | 2:twice | 3:three | 4:sweets | 5:fruit | 6:six
+
+Q10: [Speaking] 1. Would you like a large or a small coffee?
+2. Are you paying with cash or credit?
+3. Can this be machine-washed or should I dry-clean it?
+4. Do you like this blue coat or the red one?
+
+
 
 

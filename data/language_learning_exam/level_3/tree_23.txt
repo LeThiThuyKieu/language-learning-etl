@@ -3,169 +3,175 @@ TREE 23
 
 NODE VOCAB
 
-Q1: Reports are coming in that a flood has hit a heavily ............................ area in the south of India.
-A. crowded
-B. populated
-C. personalised
-D. peopled
-Answer: B
-
-Q2: There's so much technical ............................ in this manual that I can't really understand it.
-A. tongue
-B. jargon
-C. slang
-D. speech
-Answer: B
-
-Q3: I'm so ............................ under with work at the moment - it's awful!
-A. snowed
-B. fogged
-C. iced
-D. rained
+Q1: There has been a great deal of ……… surrounding the closure of the hospital.
+A. controversy
+B. disparity
+C. combat
+D. discrepancy
 Answer: A
 
-Q4: It took Edward a long time to ............................ living in Canada.
-A. be used
-B. be used to
-C. get used to
-D. used to
-Answer: C
-
-Q5: My jeans ............................ in the wash and they're too small for me now.
-A. reduced
-B. deteriorated
-C. shrank
-D. diminished
-Answer: C
-
-Q6: Although she would have preferred to carry on working, my mum ............................ her career in order to have children.
-A. devoted
-B. repealed
-C. abolished
-D. sacrificed
-Answer: D
-
-Q7: Hardly ............................ of the paintings at the gallery were for sale.
-A. few
-B. any
-C. none
-D. some
-Answer: B
-
-Q8: That new painting looks a bit out of ............................ in our living room, don't you think?
-A. room
-B. space
-C. spot
-D. place
-Answer: D
-
-Q9: I got totally fed up with telesales, ............................ being quite good at it.
-A. however
-B. even if
-C. despite
-D. although
-Answer: C
-
-Q10: I wish you would stop wasting so much time on computer games and do something a little more ............................ .
-A. worthwhile
-B. feasible
-C. enviable
+Q2: I wish you would stop wasting so much time on computer games and do something a little more ............................ .
+A. feasible
+B. enviable
+C. worthwhile
 D. welcome
+Answer: C
+
+Q3: Although he ............................ to Ernest Hemingway, I think his books are unique.
+A. has often been compared
+B. has often compared
+C. often has been compared
+D. has been comparing often
 Answer: A
+
+Q4: You ............................ have told us you were going to be a bit late!
+A. would
+B. may
+C. will
+D. could
+Answer: D
+
+Q5: This new video game has a ……… storyline and a larger-than-life action hero.
+A. grabbing
+B. growing
+C. grasping
+D. gripping
+Answer: D
+
+Q6: He ……… more and more experience until he finally reached the top of his profession.
+A. gained
+B. achieved
+C. earned
+D. won
+Answer: A
+
+Q7: He ......... on a serious relationship at a very young age; naturally, it ended in tears.
+A. embarked
+B. climbed
+C. boarded
+D. got
+Answer: A
+
+Q8: George had a(n) ........... and enduring affection for the garrulous old man.
+A. unabashed
+B. crude
+C. forward
+D. shameless
+Answer: A
+
+Q9: I ............................ it's going to snow tonight, don't you?
+A. ponder
+B. reckon
+C. speculate
+D. reflect
+Answer: B
+
+Q10: Hardly ............................ of the paintings at the gallery were for sale.
+A. some
+B. few
+C. any
+D. none
+Answer: C
 
 
 
 NODE LISTENING
 
-Q1: A lot of electricity is ___ in arc welding .
-Answer: used
-
-Q2: This research contributed greatly to understanding the lateralization of brain ___ .
-Answer: function
-
-Q3: The early modern period was characterized by ___ changes in many realms of human endeavor .
-Answer: profound
-
-Q4: The ___ of formally defined layers or strata is central to the geologic discipline of stratigraphy .
-Answer: concept
-
-Q5: Dates in brackets represent the ___ dates of the Ptolemaic pharaohs .
-Answer: ruling
-
-Q6: ___ division is more complex in eukaryotes than in other organisms .
-Answer: cell
-
-Q7: Hydrazoic acid is extremely ___ , even more toxic than sodium azide .
-Answer: toxic
-
-Q8: Calcium nitrate is used in waste water pre - conditioning for odor emission ___ .
-Answer: prevention
-
-Q9: Before the age of ___ and computational chemistry , wet chemistry was the predominant form of scientific discovery in the chemical field .
-Answer: theoretical
-
-Q10: In Hydrology , dissipation is the ___ of converting mechanical energy of downward flowing water into thermal and acoustical energy .
-Answer: process
+Q1: A: Didn't you _______(1) _______(2) _______(3) last month?
+B: Yeah, I did. Joe and I went to a great beach resort in the Caribbean.
+A: Wow! _______(4) _______(5) _______(6) a lot of sightseeing?
+B: No, we mostly just relaxed on the beach.
+A: That sounds like fun. Did you do anything else?
+B: Not really, but we _______(7) _______(8) _______(9) to dinner every night.
+A: Were the restaurants good?
+B: _______(10) _______(11) _______(12)! And we went to a different one each night.
+Answer: 1:go | 2:on | 3:vacation | 4:Did | 5:you | 6:do | 7:did | 8:go | 9:out | 10:They | 11:were | 12:great
 
 
 
 NODE SPEAKING
 
-1. On Earth , most basalt magmas have formed by melting of the mantle .
-2. The chessboard on the top of the cabinet was thin enough to allow for a magnetic linkage .
-3. There are many kinds of icosahedra , with some being more symmetrical than others .
-4. Shanbaug died of pneumonia on 18 May 2015 after being in a persistent vegetative state for nearly 42 years .
-5. Engineering ceramics are known for their stiffness , high temperature , and stability under compression and electrical stress .
-6. Furthermore , renewable can also provide energy to refrigerate medicine and sterilize medical equipment in rural areas where the access to electricity is difficult .
-7. Embryo transfer can be performed after various durations of embryo culture , conferring different stages in embryogenesis .
-8. Unusually for falcons , plumage often differs between male and female , although as usual with monogamous raptors the female is slightly larger than the male .
-9. The gymnosperms and angiosperms together make up the spermatophytes or seed plants .
-10. In ancient times , regnal years were counted from the year a new monarch took the throne .
+Q1: [Speaking] 1. I'm so excited about my trip.
+2. Did you do a lot of fun stuff?
+3. You and I should take a trip somewhere.
+4. Let's do it!
+5. I want to go on vacation soon.
+6. Who are you going with?
+
+
 
 
 NODE MATCHING
 
-1. fly off the handle -> suddenly become extremely angry without a good reason
-2. switch on/off -> start/stop a machine/light/etc working
-3. before your time -> used for saying that something happened or existed before you were born or before you lived or worked somewhere
-4. up in arms about -> angry and complaining about something
-5. it’s as broad as it’s long -> used for saying that you cannot choose between two things or actions because they are equal
-6. let your hair down -> relax and enjoy yourself because you are in a comfortable environment
-7. One good way to drum -> up support is to get people in the high street to sign a petition.
-8. crease up -> laugh a lot, or make someone else laugh a lot
-9. go about -> start dealing with a problem, situation or job in a particular way
-10. keep up -> continue to do something; move at the same speed as someone or something
+1. Though not very popular, in my view the exhibition -> is well worth attending.
+2. cancel out -> stop something from having any effect
+3. on a roll -> winning
+4. on the -> house
+5. the talk -> of the town
+6. tell tales -> tell someone in authority about bad things that someone else has done, because you want them to be punished
+7. have nerves -> of steel
+8. take to sth like a duck to water -> do sth new very easily
+9. slip away -> leave secretly
+10. subjugated -> under the control of an enemy, enslaved
 
 
 NODE REVIEW
 
-Q1: Although she would have preferred to carry on working, my mum ............................ her career in order to have children.
-A. repealed
-B. devoted
-C. sacrificed
-D. abolished
+Q1: It's essential that the documents ............................ be destroyed immediately.
+A. had better
+B. should
+C. ought to
+D. would
+Answer: B
+
+Q2: After the fire, the government pledged to implement a programme of ........... all over the devastated national park.
+A. replenishment
+B. reforestation
+C. reconstruction
+D. rebuilding
+Answer: B
+
+Q3: Some advertisements work by transmitting ........... messages to the consumer.
+A. subconscious
+B. devious
+C. subliminal
+D. underhanded
 Answer: C
 
-Q2: I'm so ............................ under with work at the moment - it's awful!
-A. iced
-B. rained
-C. fogged
-D. snowed
-Answer: D
+Q4: Our town has a real problem with youth crime, ............................ do many other British towns.
+A. as
+B. nor
+C. so
+D. like
+Answer: A
 
-3. In ancient times , regnal years were counted from the year a new monarch took the throne .
-Q4: The early modern period was characterized by ___ changes in many realms of human endeavor .
-Answer: profound
+Q5: blend in
+Answer: if someone or something blends in, they are similar to the other people, objects, buildings, etc around them, and so they seem appropriate or you do not notice them
 
-Q5: Hydrazoic acid is extremely ___ , even more toxic than sodium azide .
-Answer: toxic
+Q6: on and off
+Answer: intermittently
 
-Q6: A lot of electricity is ___ in arc welding .
-Answer: used
+Q7: There is also a spacious and comfortable family room, which should appeal to diners with young children.
+Answer: Restaurant
 
-7. Embryo transfer can be performed after various durations of embryo culture , conferring different stages in embryogenesis .
-8. Furthermore , renewable can also provide energy to refrigerate medicine and sterilize medical equipment in rural areas where the access to electricity is difficult .
-9. crease up -> laugh a lot, or make someone else laugh a lot
-10. On Earth , most basalt magmas have formed by melting of the mantle .
+Q8: keep a straight face
+Answer: remain serious and not laugh
+
+Q9: Steven points out that, according to _______(1) _______(2) approximately a third of accidents occur because of speeding.
+Most crashes that involve bicycles or people on foot are caused by violations of the _______(3) limit.
+Andrew is generally opposed to _______(4) _______(5) when it comes to punishing drivers for speeding.
+He argues that existing signs directing drivers to slow down to less than 30mph are _______(6)
+Stephen suggests that drivers should go to jail for _______(7) _______(8)
+Andrew suggests that, rather than introducing new legislation, the _______(9) _______(10) should be improved.
+Stephen states that the number of traffic police _______(11) _______(12) in the last ten years.
+Andrew argues that, in order to sensitise drivers, the speed limits should be _______(13)
+Answer: 1:government | 2:research | 3:speed | 4:prison | 5:penalties | 6:inadequate | 7:excessive | 8:speeding | 9:existing | 10:law | 11:has | 12:halved | 13:reasonable
+
+Q10: [Speaking] 1. You made a reservation, didn't you?
+2. She's in your class, isn't she?
+3. He's driving, isn't he?
+4. We're busy Friday, aren't we?
+
+
 
 

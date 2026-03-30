@@ -3,173 +3,167 @@ TREE 9
 
 NODE VOCAB
 
-Q1: That ............ be Ted at the door. He's in bed with chicken pox.
-A. mustn't
-B. can't
-C. oughtn't to
-D. hasn't to
-Answer: B
-
-Q2: Shelley disagreed with the board's decision and so she ............ and went to work for another company.
-A. resigned
-B. sacked
-C. fired
-D. retired
-Answer: A
-
-Q3: The government is trying to convince people ............ the need for higher taxes.
-A. with
-B. of
-C. that
-D. for
-Answer: B
-
-Q4: It's about time you ............ thinking about setting up your own business.
-A. started
-B. to start
-C. have started
-D. start
-Answer: A
-
-Q5: We .......... when someone knocked at the door.
-A. were talked
-B. talked
-C. were talking
-D. had talked
+Q1: Fox Talbot ............ the first photograph in 1835.
+A. did
+B. gave
+C. took
+D. drew
 Answer: C
 
-Q6: Rachel is mad ........... the Eurovision Song Contest.
-A. about
-B. against
-C. from
+Q2: How ............ do you go to the park?
+A. sometimes
+B. usually
+C. often
+Answer: C
+
+Q3: The teacher glared .......... the children who were not paying attention.
+A. with
+B. for
+C. at
+D. to
+Answer: C
+
+Q4: The hotel has a poor reputation and ............ people want to stay there.
+A. few
+B. a few
+C. a little
+Answer: A
+
+Q5: Do you think that they'll ever send a manned mission to ............ Venus?
+A. no word
+B. the
+C. an
+D. a
+Answer: A
+
+Q6: I'm not siding ........... her because she's my sister, but because she's right.
+A. to
+B. from
+C. with
 D. for
-Answer: A
+Answer: C
 
-Q7: I wish you ............ so rude to Rosalind last night.
-A. wouldn't be
-B. hadn't been
-C. haven't been
-D. weren't
-Answer: B
-
-Q8: If the examiner can't ............ sense of your writing, you'll get a low mark.
-A. make
-B. bring
-C. take
-D. understand
-Answer: A
-
-Q9: ........... TV for the last four hours? Turn it off and get some exercise!
-A. Watched you
-B. Are you watching
-C. Do you watch
-D. Have you been watching
+Q7: The rock star bought a small .......... in the country.
+A. bungalow
+B. penthouse
+C. mansion
+D. cottage
 Answer: D
 
-Q10: 'They've got some great clothes on sale in there!' 'If only I ............ the time to go shopping!'
-A. had
-B. can have
-C. will have
-D. have
-Answer: A
+Q8: Everyone said they had ............ themselves at the wedding.
+A. excited
+B. impressed
+C. enjoyed
+D. pleased
+Answer: C
+
+Q9: I got my little brother ............ my bedroom for me!
+A. tidy
+B. to tidy
+C. having tidied
+D. tidied
+Answer: B
+
+Q10: You need to submit your birth .......... with the application.
+A. paper
+B. document
+C. certificate
+D. card
+Answer: C
 
 
 
 NODE LISTENING
 
-Q1: Adding to science and technology has happened throughout the ___ ' s history .
-Answer: country
-
-Q2: Even though astronomers tried to ___ it again , it has not been reliably seen since .
-Answer: find
-
-Q3: Coherence defines the behavior of reads and writes to the same memory ___ .
-Answer: location
-
-Q4: The microarchitecture is related to , but not the same as , the instruction ___ architecture .
-Answer: set
-
-Q5: While the movie is widely said to be a classic comedy today , ___ reaction was mixed when the movie was first released .
-Answer: critical
-
-Q6: The readout can be analog or digital , and modern instruments have ___ with a computer or network .
-Answer: communications
-
-Q7: The films are ___ and directed by a variety of individuals and feature large , often ensemble , casts .
-Answer: written
-
-Q8: Dial - up modem ___ in the US dropped to 60 % by 2003 , and in 2006 stood at 36 % .
-Answer: use
-
-Q9: For most of its 4.5 billion - year lifetime , Wild 2 probably had a more ___ and circular orbit .
-Answer: distant
-
-Q10: ___ of atmospheric chemistry are important .
-Answer: observations
+Q1: Always lock your _______(1) and _______(2).
+Put all your _______(3) _______(4) in a safe.
+Leave a _______(5) on in the living room or bedroom while you are away.
+The best thing is to get a _______(6) _______(7) installed professionally.
+Ask your _______(8) to check your house for you when you go on holiday.
+Neighbourhood _______(9) schemes can help to prevent burglaries.
+Get a _______(10) _______(11) to protect your home from fire.
+Answer: 1:doors | 2:windows | 3:valuable | 4:jewellery | 5:light | 6:burglar | 7:alarm | 8:neighbours | 9:watch | 10:smoke | 11:alarm
 
 
 
 NODE SPEAKING
 
-1. In 2016 Cocks was diagnosed with kidney cancer .
-2. The foundation of the abbey Fulda and its territory originated with an Imperial grant , and the sovereign principality therefore was subject only to the German emperor .
-3. The movement is controversial .
-4. Civil rights are protected by law and custom .
-5. The film received negative reviews from critics .
-6. NMR spectroscopy databases provide information to relate structure and NMR data .
-7. The chapel offers regular services .
-8. It is held in many mental health circles that masturbation can relieve depression and lead to a higher sense of self-esteem .
-9. Llullaillaco is a stratovolcano which rises 2200 m above the surrounding terrain .
-10. In this version , the wrestler either starts by lying down or dropping down on the mat while the opponent stands near to their head .
+Q1: [Speaking] 1. What do you do?
+2. What do you want?
+3. Where do you live?
+4. How do you do?
+
+
 
 
 NODE MATCHING
 
-1. speed up -> increase speed
-2. Wear a mask because these chemicals give -> off fumes that can be harmful.
-3. high school -> in the UK, a school for children between 11-18; in the US, between 14-18
-4. get along (with) -> have a good relationship (with)
-5. capital punishment -> the punishment of legally killing someone who has committed a serious crime
-6. world -> the planet that we live on
-7. guide -> to show someone where to go by going with them
-8. factory -> a building where large quantities of goods are produced using machines
-9. hand down -> give something valuable to your children or grandchildren, usually when you die
-10. go in for -> enter (a competition, etc); like
+1. get at -> try to express
+2. let off -> give little or no punishment; make a bomb, etc explode
+3. I'm getting really tired of -> telling my dad to give up smoking.
+4. My friends made me -> steal something from the shop.
+5. vegetarian -> someone who chooses not to eat meat or fish
+6. decision -> a choice that you make after you have thought carefully about something
+7. I manage to put -> a little money by each month.
+8. gain -> to get more of something, usually as a result of a gradual process
+9. Wear a mask because these chemicals give -> off fumes that can be harmful.
+10. I regret not -> learning to swim when I had the chance.
 
 
 NODE REVIEW
 
-Q1: 'They've got some great clothes on sale in there!' 'If only I ............ the time to go shopping!'
-A. have
-B. will have
-C. can have
-D. had
+Q1: We’ve decided to ............ to Dublin next month.
+A. moving
+B. move
+C. moved
+Answer: B
+
+Q2: All the members of ............ were asked to attend the meeting.
+A. workers
+B. staff
+C. employees
+D. company
+Answer: B
+
+Q3: I never read ............ of films as I don't trust the critics' opinions.
+A. reviews
+B. criticisms
+C. articles
+D. investigations
+Answer: A
+
+Q4: The news caught me completely by ............ .
+A. disbelief
+B. amazement
+C. shock
+D. surprise
 Answer: D
 
-2. guide -> to show someone where to go by going with them
-Q3: I wish you ............ so rude to Rosalind last night.
-A. weren't
-B. wouldn't be
-C. hadn't been
-D. haven't been
-Answer: C
+Q5: rod
+Answer: a long thin bar or stick made of metal, plastic or wood
 
-4. Llullaillaco is a stratovolcano which rises 2200 m above the surrounding terrain .
-5. go in for -> enter (a competition, etc); like
-6. Civil rights are protected by law and custom .
-7. factory -> a building where large quantities of goods are produced using machines
-Q8: Dial - up modem ___ in the US dropped to 60 % by 2003 , and in 2006 stood at 36 % .
-Answer: use
+Q6: see
+Answer: to watch something such as a film or television programme
 
-Q9: The readout can be analog or digital , and modern instruments have ___ with a computer or network .
-Answer: communications
+Q7: back out
+Answer: decide not to do sth you agreed to do
 
-Q10: It's about time you ............ thinking about setting up your own business.
-A. have started
-B. started
-C. to start
-D. start
-Answer: B
+Q8: grow out of
+Answer: develop from; become too big for
+
+Q9: John McKenzie is an _______(1) _______(2) activist.
+John is working to raise _______(3) _______(4) about the problem of our endangered species.
+We are wiping out the _______(5) _______(6) of many animals.
+We need to be more careful about the _______(7) we buy.
+If we look after the _______(8), more animals will survive.
+We should report people who _______(9) and _______(10) animals to the police.
+Answer: 1:animal | 2:rights | 3:people's | 4:awareness | 5:natural | 6:habitats | 7:souvenirs | 8:environment | 9:hunt | 10:kill
+
+Q10: [Speaking] 1. Could you put your seat back up, please?
+2. Could you fill out the form?
+3. Would you bring me a new one?
+4. Would you give me a hand?
+
 
 
 

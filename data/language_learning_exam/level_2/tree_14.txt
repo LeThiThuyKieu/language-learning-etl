@@ -3,165 +3,167 @@ TREE 14
 
 NODE VOCAB
 
-Q1: We were disappointed that ............ of the members came to the youth club party.
-A. a few
-B. little
-C. few
-D. a little
-Answer: C
-
-Q2: I never read ............ of films as I don't trust the critics' opinions.
-A. reviews
-B. criticisms
-C. investigations
-D. articles
-Answer: A
-
-Q3: Karate hurt my hands at first, but I finally ............ it in the end.
-A. got used to
-B. was used to
-C. was used
-D. got use to
-Answer: A
-
-Q4: That top doesn't ............ me; it's just not my style.
-A. go with
-B. match
-C. fit
-D. suit
-Answer: D
-
-Q5: Could you tell me ............ ?
-A. where is the manager
-B. about where is the manager
-C. the manager is where
-D. where the manager is
-Answer: D
-
-Q6: Not only ............ my keys, I've lost my wallet, too.
-A. I have lost
-B. are I lost
-C. have I lost
-D. I did lose
-Answer: C
-
-Q7: We really ............ ourselves at the party! Thanks so much for inviting us!
-A. entertained
-B. had fun
-C. enjoyed
-D. occupied
-Answer: C
-
-Q8: In English yesterday, we had a discussion ............ different cultures.
-A. from
-B. for
-C. about
-D. around
-Answer: C
-
-Q9: I ............ have joined a gym but in the end I decided to exercise at home.
-A. must
-B. could
-C. will
-D. may
+Q1: 'Why are you taking your PlayStation games?' 'Oh, just ............ Tommy wants to borrow them.'
+A. as long as
+B. in case
+C. provided that
+D. unless
 Answer: B
 
-Q10: In my ............ , freedom of the press must be maintained.
-A. sight
-B. thought
-C. view
-D. mind
+Q2: I wanted to say goodbye to Jerry, but he ............ .
+A. had already left
+B. already left
+C. had already been leaving
+D. was already left
+Answer: A
+
+Q3: Jacob was ............ because he passed his exam.
+A. upset
+B. sad
+C. thrilled
 Answer: C
+
+Q4: Could you please do the washing-.......... tonight?
+A. up
+B. out
+C. off
+Answer: A
+
+Q5: Most ............ people have no idea what it's like to be famous.
+A. usual
+B. ordinary
+C. medium
+D. typical
+Answer: B
+
+Q6: The play was ............ . I really enjoyed it.
+A. tiring
+B. fantastic
+C. dull
+Answer: B
+
+Q7: My mother made chicken with a ............ sauce for dinner last night.
+A. juicy
+B. salty
+C. spicy
+Answer: C
+
+Q8: I don't think people should be allowed to perform experiments ............ animals.
+A. for
+B. over
+C. on
+D. to
+Answer: C
+
+Q9: I must remember to ............ a souvenir back from Spain for my grandmother.
+A. keep
+B. bring
+C. take
+D. go
+Answer: B
+
+Q10: He has straight brown hair with a centre .......... .
+A. arch
+B. parting
+C. curl
+D. wave
+Answer: B
 
 
 
 NODE LISTENING
 
-Q1: Librarians around the ___ still use the number , especially when identifying books published in the United States .
-Answer: world
-
-Q2: ___ Depression Ten - E originated from a tropical wave that moved off the west coast of Africa on August 14 .
-Answer: tropical
-
-Q3: It may be possible to terraform Mars to allow a wide variety of ___ things .
-Answer: living
-
-Q4: It was supposed that he possessed a healing ___ against snakebites .
-Answer: power
-
-Q5: Not all virus ___ produce a protective immune response in this way .
-Answer: infections
-
-Q6: ___ rates are higher in some countries in Africa and Asia .
-Answer: infection
-
-Q7: Health care for the homeless is a major public health ___ .
-Answer: challenge
-
-Q8: The largest animals eat ___ , while the smaller ones follow a hierarchy .
-Answer: first
-
-Q9: Heavy rotation or power rotation is a term that applies to a ___ of songs that get the most airplay on a radio station .
-Answer: list
-
-Q10: Following the explosion , police cleared the area and searched for any ___ explosive devices .
-Answer: additional
+Q1: TO: Tom
+FROM: _______(1)
+DATE: _______(2) October
+PLACE: _______(3) _______(4)
+ADDRESS: 7, _______(5) _______(6)
+TIME: _______(7) _______(8)
+Answer: 1:Anna | 2:31st | 3:Anna's | 4:place | 5:Blackhall | 6:Road | 7:8 | 8:o'clock
 
 
 
 NODE SPEAKING
 
-1. The land on which the circuit is located was originally bought in 1926 by property developers who wanted to build housing .
-2. A grenade explosion blew Apiata off the bonnet of his vehicle , where he had been sleeping .
-3. Performance optimizations were made in order to speed up common tasks across all supported iOS devices .
-4. Many electronic paper technologies keep the same text and images indefinitely without electricity .
-5. The small commune formed only industrial and is residential today , the picturesque buildings mixed with modern buildings .
-6. Its main attraction is its ecological diversity .
-7. It flies slowly with its head facing downwards , looking for its main food , the large apple snails .
-8. The story and its main characters attracted little public interest when it first appeared .
-9. Prey includes a wide variety of small to medium-sized mammals and birds .
-10. A mud volcano may be the result of a piercement structure created by a pressurized mud diapir that breaches the Earth 's surface or ocean bottom .
+Q1: [Speaking] dress – party dress – red party dress – long red party dress
+car – sports car – blue sports car – new blue sports car
+bag – leather bag – black leather bag – big black leather bag
+vase – china vase – white china vase – beautiful white china vase
+
+
 
 
 NODE MATCHING
 
-1. cook (n) -> someone who cooks food, either as their job or for pleasure
-2. blame -> responsibility for an accident, problem or bad situation
-3. right -> something that you are morally or legally allowed to do or have
-4. I used to love basketball, but I've gone -> off team sports lately.
-5. track -> a piece of ground that is used for running or racing
-6. accurate -> correct in every detail and without any mistakes
-7. tabloid -> a newspaper that has small pages and not much serious news
-8. catch on -> understand
-9. pass out -> suddenly become unconscious
-10. finale -> the last part of a performance with the most exciting music and dancing
+1. tabloid -> a newspaper that has small pages and not much serious news
+2. finale -> the last part of a performance with the most exciting music and dancing
+3. set out/off -> start a journey
+4. voyage -> a long journey, especially on a ship
+5. plate -> a flat round dish that you put food on
+6. take after -> look or behave like an older relative
+7. work -> to have a job, or to spend time and effort doing something
+8. do away with -> get rid of
+9. die down -> become less noisy, powerful or active
+10. dye -> to change the colour of something such as cloth or hair using dye
 
 
 NODE REVIEW
 
-Q1: It may be possible to terraform Mars to allow a wide variety of ___ things .
-Answer: living
+Q1: My mum was ............ angry that I knew I'd better disappear for a while.
+A. enough
+B. so
+C. too
+D. such
+Answer: B
 
-2. The small commune formed only industrial and is residential today , the picturesque buildings mixed with modern buildings .
-Q3: I never read ............ of films as I don't trust the critics' opinions.
-A. reviews
-B. investigations
-C. criticisms
-D. articles
+Q2: Diana looks terribly ............ . You don't think she's ill, do you?
+A. slim
+B. thin
+C. slender
+D. slight
+Answer: B
+
+Q3: It's not always easy to ............ the difference between fact and opinion.
+A. make
+B. do
+C. say
+D. tell
+Answer: D
+
+Q4: The .......... broke into the museum and stole the painting.
+A. burglar
+B. smuggler
+C. shoplifter
+D. forger
 Answer: A
 
-Q4: ___ rates are higher in some countries in Africa and Asia .
-Answer: infection
+Q5: business
+Answer: an organisation that buys or sells products or services
 
-Q5: Not all virus ___ produce a protective immune response in this way .
-Answer: infections
+Q6: qualities
+Answer: positive features of a person's character
 
-Q6: Following the explosion , police cleared the area and searched for any ___ explosive devices .
-Answer: additional
+Q7: test
+Answer: a set of written or spoken questions that is used for finding out how much someone knows about a subject
 
-7. The land on which the circuit is located was originally bought in 1926 by property developers who wanted to build housing .
-8. tabloid -> a newspaper that has small pages and not much serious news
-9. I used to love basketball, but I've gone -> off team sports lately.
-10. accurate -> correct in every detail and without any mistakes
+Q8: freezer
+Answer: a large piece of electrical equipment that is used for freezing food
+
+Q9: A: Excuse me, where are _______(1) _______(2)?
+B: Your bags are in the baggage claim area, on carousel 3.
+A: Thanks. Oh, and are there _______(3) _______(4) to eat near the baggage claim area?
+B: Yes. There are two cafes and a couple of _______(5).
+A: Great. How do we get into the city?
+B: There are _______(6) _______(7) _______(8) just outside, after you leave the baggage area.
+A: Thank you so much!
+Answer: 1:our | 2:suitcases | 3:any | 4:places | 5:restaurants | 6:buses | 7:and | 8:taxis
+
+Q10: [Speaking] 1 Who is it?
+2 Wendy speaking – how may I help you?
+3 Can you ring back later?
+4 Will you hold?
+5 Would you like to leave a message?
+
+
 
 

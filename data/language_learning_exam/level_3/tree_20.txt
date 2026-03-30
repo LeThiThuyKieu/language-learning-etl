@@ -3,163 +3,175 @@ TREE 20
 
 NODE VOCAB
 
-Q1: The ............................ of one winning the lottery is hardly worth even considering.
-A. fortune
-B. likelihood
-C. luck
-D. hazard
+Q1: You must complete the Business ......... course satisfactorily before you can progress to the third year programme.
+A. Rights
+B. Ethics
+C. Values
+D. Morals
 Answer: B
 
-Q2: This time tomorrow, Barry will ............................ across the Pacific for exactly three months.
-A. have been rowing
-B. have rowed
-C. be rowing
+Q2: Spending so much money on a dress you only wear once is just money down the ..........., in my opinion!
+A. bin
+B. sink
+C. drain
+D. earth
+Answer: C
+
+Q3: Keeping a relationship going is hard enough, without any ............................ pressure from parents.
+A. external
+B. outdoor
+C. outward
+D. incoming
 Answer: A
 
-Q3: Mona's going to leave early this afternoon but she says she'll ............................ up the hours tomorrow.
-A. catch
-B. make
-C. bring
-D. find
+Q4: It might sound strange, but dinner yesterday was the first time I ............................ octopus.
+A. had eaten
+B. have been eating
+C. have eaten
+D. was eating
+Answer: A
+
+Q5: ............................ getting a pet tarantula?
+A. Does Claire really think of
+B. Is Claire really thinking of
+C. Has Claire really thought that
+D. Has Claire really been thinking that
 Answer: B
 
-Q4: It's high time ............................ rid of this old sofa.
-A. to get
-B. we got
-C. we get
-D. for us to get
-Answer: B
-
-Q5: After what the manager said this morning, I didn't ............................ him about the problems I've been having.
-A. dare telling
-B. dare to telling
-C. dare tell
-D. dare it telling
-Answer: C
-
-Q6: When we were in Athens, I bought a ............................ statuette.
-A. white, beautiful, marble, little
-B. marble, beautiful, little, white
-C. beautiful, little, white, marble
-D. beautiful, little, marble, white
-Answer: C
-
-Q7: When we landed, ............................ on the plane for 18 hours!
-A. we are
-B. we were
-C. we've been
-D. we'd been
+Q6: Jerry passed the examination with ........... colours.
+A. striking
+B. flowing
+C. soaring
+D. flying
 Answer: D
 
-Q8: Has Britain's influence in the world ............................ since the Second World War?
-A. decayed
-B. devastated
-C. worsened
-D. declined
-Answer: D
-
-Q9: ............................ a scholarship, I entered the frightening and unknown territory of private education.
-A. To be awarded
-B. Having been awarded
-C. To award
-D. Having awarded
+Q7: He was knocked out in the fight and they had to throw water on him to bring him ……….
+A. back
+B. round
+C. in
+D. over
 Answer: B
 
-Q10: Don't throw the paper away because I ............................ it yet.
-A. haven't been reading
-B. hadn't read
-C. haven't read
-D. hadn't been reading
-Answer: C
+Q8: The band gave a rousing ......... of the Stones' classic 'Brown Sugar'.
+A. rendition
+B. execution
+C. edition
+D. translation
+Answer: A
+
+Q9: This government would destroy all our civil liberties, ............................ half a chance.
+A. having been given
+B. given
+C. being given
+D. giving
+Answer: B
+
+Q10: When learning a foreign language, keeping well-ordered vocabulary notes is ...........
+A. paramount
+B. substantial
+C. uppermost
+D. highest
+Answer: A
 
 
 
 NODE LISTENING
 
-Q1: Tectonic earthquakes from the volcano had been detected since early August 2017 , and volcanic activity intensified for several weeks before decreasing significantly in late ___ .
-Answer: october
-
-Q2: Geophysics is applied to societal needs , such as mineral resources , mitigation of natural ___ and environmental protection .
-Answer: hazards
-
-Q3: These concerns have intensified due to the ___ of China , the predominant supplier .
-Answer: actions
-
-Q4: Slackware is known as a highly customizable ___ , generally considered a distribution for expert users .
-Answer: distribution
-
-Q5: The ___ is important because it connects complex numbers and trigonometry .
-Answer: formula
-
-Q6: The seventeenth ___ saw a culinary revolution which transported French gastronomy into the modern era .
-Answer: century
-
-Q7: In the United States , the term lien generally refers to a wide range of encumbrances and would include other forms of mortgage or ___ .
-Answer: charge
-
-Q8: Absinthe has often been portrayed as a dangerously addictive psychoactive ___ and hallucinogen .
-Answer: drug
-
-Q9: The temporal lobe holds the primary auditory cortex , which is important for the processing of ___ in both speech and vision in humans .
-Answer: semantics
-
-Q10: The novel has been the ___ of interpretations focusing on the historical role of book burning in suppressing dissenting ideas for change .
-Answer: subject
+Q1: A: There are _______(1) _______(2) _______(3) in the world today.
+B: I know. There’s water pollution, air pollution, global warming, unemployment.
+A: Yeah, and there’s the destruction of the rain _______(4), _______(5) _______(6), housing shortages. It can get depressing if you think about it too much.
+B: No kidding. What do you think the biggest issues are?
+A: I really think air pollution is the most important issue. If we don’t _______(7) _______(8) and improve air quality, we’ll all have health problems.
+B: I agree that air pollution is a _______(9) _______(10). The air in the city has become so dirty.
+Answer: 1:so | 2:many | 3:problems | 4:forests | 5:traffic | 6:problems | 7:reduce | 8:pollution | 9:big | 10:problem
 
 
 
 NODE SPEAKING
 
-1. Cenotes are surface connections to subterranean water bodies .
-2. The taxonomy of the herring gull / lesser black - backed gull group is very complicated , with different authorities recognizing between two and eight species .
-3. The longsword is characterized not so much by a longer blade , but by a longer grip , which indicates a weapon designed for two -handed use .
-4. Unaipon took out provisional patents for 19 inventions , but he could not afford to get any of his inventions fully patented .
-5. Insect galls on plants give some herbivorous insects their own microhabitat .
-6. Alekhine is known for his fierce and imaginative attacking style , combined with great positional and endgame skill .
-7. Modern physical chemistry originated in the 1860s to 1880s with work on chemical thermodynamics , electrolytes in solutions , chemical kinetics and other subjects .
-8. In a synchronous stream cipher , the sender and receiver must be exactly in step for decryption to be successful .
-9. Some extinct animals such as sauropod dinosaurs appear to have used stones to grind tough plant matter .
-10. The drug is commonly used to treat attention - deficit hyperactivity disorder and narcolepsy .
+Q1: [Speaking] 1. Lee is really caring.
+2. He asks a lot of questions.
+3. Is she enthusiastic?
+4. It's important to be informed.
+5. She always does nice things for people.
+6. Did he ever call you?
+
+
 
 
 NODE MATCHING
 
-1. on the spur of the moment -> if you do something on the spur of the moment, you do it suddenly and do not take time to plan it or think carefully about it
-2. have green fingers -> be good at growing plants
+1. pull (a few) strings -> use your influence in order to get something you want or to help someone, especially when this is unfair
+2. opt out (of) -> decide not to take part in something or stop taking part in it
 3. not have a leg to stand on -> not have any way of proving that you are right about something
-4. kick off (with) -> begin (with)
-5. blot on the landscape -> something that makes a place look less attractive, for example an ugly building
-6. opt out (of) -> decide not to take part in something or stop taking part in it
-7. move out -> permanently leave the house or flat where you live or the place where you have your business
-8. run down -> if an organisation or area is run down, its size, importance and activity is reduced run-down (adj)
-9. let off steam -> shout or do something that allows you to get rid of anger
-10. change your tune -> change your opinion or attitude
+4. It is only -> a matter of time before the situation becomes uncontrollable.
+5. are being gradually -> restored
+6. There is also a spacious and comfortable family room, which should appeal to diners with young children. -> Restaurant
+7. mean -> business
+8. fall short -> not reach a particular level or to fail to achieve something you were trying to do
+9. a stitch in time (saves nine) -> used for saying that it is better to solve a problem now, rather than leave it until later when it may be more difficult to deal with
+10. a fish out of water -> sb who feels uncomfortable in unfamiliar surroundings
 
 
 NODE REVIEW
 
-Q1: This time tomorrow, Barry will ............................ across the Pacific for exactly three months.
-A. be rowing
-B. have been rowing
-C. have rowed
+Q1: Sandra's unpleasant ........... suggested that she knew about Amanda's terrible secret.
+A. snort
+B. smirk
+C. grimace
+D. wince
 Answer: B
 
-Q2: Tectonic earthquakes from the volcano had been detected since early August 2017 , and volcanic activity intensified for several weeks before decreasing significantly in late ___ .
-Answer: october
+Q2: Did you plan to meet up with Emma in London, or was it just a ............................?
+A. fate
+B. luck
+C. freak
+D. coincidence
+Answer: D
 
-3. Some extinct animals such as sauropod dinosaurs appear to have used stones to grind tough plant matter .
-4. Alekhine is known for his fierce and imaginative attacking style , combined with great positional and endgame skill .
-5. The drug is commonly used to treat attention - deficit hyperactivity disorder and narcolepsy .
-6. move out -> permanently leave the house or flat where you live or the place where you have your business
-Q7: The novel has been the ___ of interpretations focusing on the historical role of book burning in suppressing dissenting ideas for change .
-Answer: subject
+Q3: Don't you ............................ that Veronica and George are still together?
+A. incredibly find
+B. find incredible
+C. find incredibly
+D. find it incredible
+Answer: D
 
-8. not have a leg to stand on -> not have any way of proving that you are right about something
-Q9: In the United States , the term lien generally refers to a wide range of encumbrances and would include other forms of mortgage or ___ .
-Answer: charge
+Q4: When I asked him if I could photograph him he simply ........... his head in agreement.
+A. shrugged
+B. nodded
+C. shook
+D. bowed
+Answer: B
 
-Q10: The seventeenth ___ saw a culinary revolution which transported French gastronomy into the modern era .
-Answer: century
+Q5: speak out
+Answer: state your opinion firmly and publicly about something, especially in order to protest against or defend something
+
+Q6: Our local GP is held
+Answer: in high esteem by the community.
+
+Q7: for good
+Answer: permanently, without the possibility of change in the future
+
+Q8: down on your luck
+Answer: having a long period of difficulty finding work and earning money
+
+Q9: During a tandem jump, an inexperienced skydiver makes the jump _______(1) _______(2) an instructor.
+Mike suffered from depression for _______(3) _______(4)
+He was diagnosed at the age of _______(5)
+Mike believed his 21st birthday present was _______(6) _______(7)
+Mike says that, as he was about to jump for the first time, he felt _______(8)
+During the dive, Mike felt happy and _______(9)
+He says it is possible that the _______(10) of the jump was what pushed him to snap out of his depression.
+Mike says that sky-diving is not a certain _______(11) _______(12) depression.
+Answer: 1:with | 2:to | 3:five | 4:years | 5:sixteen | 6:a | 7:joke | 8:terrified | 9:serene | 10:sheer | 11:cure | 12:for
+
+Q10: [Speaking] 1. There didn't use to be a lot of jobs.
+2. We used to hear the cars all day and night.
+3. The kids used to skateboard in the street.
+4. I used to eat out a lot.
+5. There used to be a supermarket here.
+6. There didn't use to be any industry here.
+
 
 
 

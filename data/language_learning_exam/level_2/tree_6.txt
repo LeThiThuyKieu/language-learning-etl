@@ -3,179 +3,173 @@ TREE 6
 
 NODE VOCAB
 
-Q1: I suppose now I'm 43, I have ............ hope of playing football for England.
-A. a little
-B. little
-C. a few
-D. few
-Answer: B
-
-Q2: After working at the same factory for thirty years, my grandfather was looking forward to his ............ .
-A. pension
-B. overtime
-C. allowance
-D. charity
+Q1: I'm afraid I won't be able to come to football practice because I've ........... my ankle.
+A. twisted
+B. pulled
+C. headed
 Answer: A
 
-Q3: That necklace is wonderful! It must have ............ you a fortune!
-A. spent
-B. cost
-C. done
-D. charged
-Answer: B
-
-Q4: The earthquake was ............ powerful that the town was destroyed.
-A. enough
-B. so
-C. such
-D. too
-Answer: B
-
-Q5: Why don't you ............ a go? It's not difficult!
-A. have
-B. make
-C. do
-D. set
-Answer: A
-
-Q6: Diana looks terribly ............ . You don't think she's ill, do you?
-A. slim
-B. thin
-C. slender
-D. slight
-Answer: B
-
-Q7: Before she retired, my grandma ............ go for a run every morning before work.
-A. use to
-B. would
-C. got used to
-D. was used to
-Answer: B
-
-Q8: I'll pick up a ............ on the way home and then we won't have to cook.
-A. takeaway
-B. fast food
-C. delivery
-D. microwave
-Answer: A
-
-Q9: I think you should be very proud ............ everything you've achieved.
-A. from
-B. in
-C. for
-D. of
+Q2: Jeans and T-shirts will never go out of ............ .
+A. tendency
+B. trend
+C. image
+D. fashion
 Answer: D
 
-Q10: The mayor was attacked ............ public money.
-A. for wasting
-B. of wasting
-C. to waste
-D. he waste
-Answer: A
+Q3: He keeps his new lawn mower in the garden .......... .
+A. cellar
+B. attic
+C. shed
+D. loft
+Answer: C
+
+Q4: If you wear that shirt with the ............ pattern, you'll look like a chessboard!
+A. plain
+B. striped
+C. shiny
+D. checked
+Answer: D
+
+Q5: You can buy a .......... in the furnishings department.
+A. cooker
+B. tie
+C. lamp
+D. hammer
+Answer: C
+
+Q6: Do you wish ............ an official complaint?
+A. making
+B. to make
+C. you made
+D. you make
+Answer: B
+
+Q7: I'm tired of ............ nothing.
+A. doing
+B. do
+C. does
+Answer: B
+
+Q8: The earthquake was ............ powerful that the town was destroyed.
+A. enough
+B. such
+C. too
+D. so
+Answer: D
+
+Q9: I'd love to work in show ............ . It's so glamorous!
+A. commerce
+B. trade
+C. business
+D. industry
+Answer: C
+
+Q10: The speaker ............ the audience's attention to the numbers on the screen.
+A. pulled
+B. got
+C. drew
+D. made
+Answer: C
 
 
 
 NODE LISTENING
 
-Q1: The ocelli of insects have a simple lens , but their focal point always lies behind the retina . They can never form a ___ image .
-Answer: sharp
-
-Q2: Many types of ducks and geese share the same ___ , have overlapping or identical hunting seasons , and are hunted using the same methods .
-Answer: habitat
-
-Q3: All defensive players wear fielding gloves , made of ___ or similar material .
-Answer: leather
-
-Q4: The narrow coastal plain rises rapidly into several mountain ___ .
-Answer: ranges
-
-Q5: In 2007 , a special TGV ___ the speed record for rail vehicles , reaching 574,8 km / h .
-Answer: set
-
-Q6: The weapon ' s barrel is screwed into the ___ and is not quickly detachable .
-Answer: receiver
-
-Q7: The flattened bodies of stingrays allow them to ___ themselves .
-Answer: hide
-
-Q8: Shortage of rain during the highly variable Monsoon season can cause droughts in U . P . leading to several deaths and loss of ___ .
-Answer: property
-
-Q9: This plant is adaptable and easy to ___ .
-Answer: grow
-
-Q10: LEED is not a standard but an ___ grid .
-Answer: evaluation
+Q1: A: _______(1) _______(2) _______(3) how much traffic there is on the roads these days.
+B: _______(4) _______(5). It took me two hours to drive into the city centre today.
+A: You know, I've just had a brilliant idea. _______(6) _______(7) _______(8) _______(9) starting a car pool?
+B: _______(10) _______(11) _______(12) _______(13)! We would save money and help reduce the amount of traffic at the same time!
+A: _______(14) start right away. Who is going to drive tomorrow?
+Answer: 1:I | 2:can't | 3:believe | 4:I | 5:know | 6:Have | 7:you | 8:thought | 9:about | 10:That's | 11:a | 12:great | 13:idea | 14:Let's
 
 
 
 NODE SPEAKING
 
-1. There are species on the checklist .
-2. The show also has slang not used in today 's culture .
-3. In 1896 , winners ' medals were made from silver .
-4. The Murids are classified in four subfamilies , and about 140 genera .
-5. Because of code sharing , a single flight may be shown with many different flight numbers .
-6. The strong taste that people associate with anchovies is due to the curing process .
-7. Sugar died from cardiac arrest on March 25 , 2012 at age 75 .
-8. Igneous rocks can be classified according to their chemistry .
-9. Like Ulleung - do , the islets are volcanic rocks , with only a thin layer of soil and moss .
-10. As a former President of Ireland he was given a state funeral .
+Q1: [Speaking] 1. There's a lot of traffic.
+2. There's a collision.
+3. There's been an accident.
+4. There's been a problem.
+5. There are two stalled cars.
+6. There are some improvements.
+
+
 
 
 NODE MATCHING
 
-1. exam -> an important test of your knowledge, especially one that you take at school or university
-2. remedy -> a cure for pain or for a minor illness
-3. jury -> a group of members of the public who decide whether someone is guilty in a court case
-4. I've grown -> out of these shoes so my mum's going to get me some new ones.
-5. put through -> connect by phone
-6. operation -> the process of cutting into someone's body for medical reasons
-7. suit (v) -> if a style or something you wear suits you, it makes you look good
-8. Dave's competing -> in the school tennis tournament.
-9. half time -> in football and some other team sports, a period of rest between the two halves of a match
-10. wear off -> stop being effective (for a drug, etc)
+1. operation -> the process of cutting into someone's body for medical reasons
+2. suit (v) -> if a style or something you wear suits you, it makes you look good
+3. Last year, winter started so -> suddenly that many people were taken by surprise.
+4. Dave's competing -> in the school tennis tournament.
+5. saucer -> a small round flat dish that you put a cup on
+6. You catch the bus to school, -> don't you?
+7. bring -> to take someone or something with you from one place to another
+8. jury -> a group of members of the public who decide whether someone is guilty in a court case
+9. stage -> the part of a theatre where the actors or musicians perform
+10. teach -> to help students to learn something in a school, college or university by giving lessons
 
 
 NODE REVIEW
 
-1. half time -> in football and some other team sports, a period of rest between the two halves of a match
-Q2: I'll pick up a ............ on the way home and then we won't have to cook.
-A. takeaway
-B. fast food
-C. delivery
-D. microwave
-Answer: A
+Q1: When I grow up, ............ an inventor.
+A. I'm being
+B. I'm going to be
+C. I will have been
+D. I will be being
+Answer: B
 
-Q3: The ocelli of insects have a simple lens , but their focal point always lies behind the retina . They can never form a ___ image .
-Answer: sharp
-
-4. exam -> an important test of your knowledge, especially one that you take at school or university
-Q5: The weapon ' s barrel is screwed into the ___ and is not quickly detachable .
-Answer: receiver
-
-Q6: I think you should be very proud ............ everything you've achieved.
-A. in
-B. from
-C. of
-D. for
+Q2: One pound is equal to 100 .......... .
+A. shillings
+B. dollars
+C. pence
+D. currency
 Answer: C
 
-Q7: Diana looks terribly ............ . You don't think she's ill, do you?
-A. slight
-B. slim
-C. thin
-D. slender
+Q3: She'd .......... hours lying on her bed, reading.
+A. pass
+B. spend
+C. take
+D. make
+Answer: B
+
+Q4: John tidied the living room while I cleared .......... the dirty dishes.
+A. out
+B. off
+C. away
+D. up
 Answer: C
 
-Q8: Why don't you ............ a go? It's not difficult!
-A. set
-B. make
-C. have
-D. do
-Answer: C
+Q5: suit (n)
+Answer: a set of clothes made from the same cloth, usually a jacket with trousers or a skirt
 
-9. The Murids are classified in four subfamilies , and about 140 genera .
-10. wear off -> stop being effective (for a drug, etc)
+Q6: Let me take you out to dinner to make
+Answer: up for forgetting your birthday.
+
+Q7: novel
+Answer: a long written story about imaginary characters and events
+
+Q8: roast
+Answer: to cook meat or vegetables in an oven
+
+Q9: Organic food is produced without the use of _______(1).
+Diane's first introduction to organic food was as a _______(2).
+Her grandmother used _______(3) fertilizers on her fruit and vegetables.
+_______(4) products can also be organic.
+A lot of _______(5) people go to the restaurant.
+Later in the day, there is a different _______(6).
+In the summer the café has _______(7).
+People are realising that organic food tastes _______(8).
+The _______(9) also benefits from organic food.
+The chemicals used in fertilizers and pesticides _______(10) the soil.
+Answer: 1:chemicals | 2:teenager | 3:natural | 4:Dairy | 5:business | 6:menu | 7:barbecues | 8:better | 9:environment | 10:poison
+
+Q10: [Speaking] local facilities
+traffic congestion
+community spirit
+public transport
+city centre
+
+
 
 

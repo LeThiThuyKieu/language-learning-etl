@@ -3,167 +3,168 @@ TREE 13
 
 NODE VOCAB
 
-Q1: We ............ pay for the tickets as Josie won them in a competition.
-A. couldn't
-B. didn't have to
-C. hadn't to
-D. mustn't
-Answer: B
+Q1: There is a tennis ............ in the sports club.
+A. hall
+B. course
+C. court
+Answer: C
 
-Q2: When you arrive ............ , have your passport ready.
-A. at the airport
-B. on the airport
-C. to the airport
-D. in the airport
+Q2: Dennis has put ............ 6 kg since he stopped playing rugby.
+A. on
+B. up
+C. off
 Answer: A
 
-Q3: I'd have been able to say goodbye to Trish if only ............ to the airport in time.
-A. I get
-B. I had got
-C. I got
-D. I have got
-Answer: B
-
-Q4: I saw the interview while I was ............ through a magazine at the hairdresser's.
-A. clicking
-B. flicking
-C. picking
-D. ticking
-Answer: B
-
-Q5: Oh, I'm sorry! ............ disturbing you?
-A. Am I
-B. Should I
-C. Have I
-D. Do I
+Q3: I'm sorry, but I've got ............ much work to do to come to the beach today.
+A. too
+B. enough
+C. such
+D. so
 Answer: A
 
-Q6: If you hadn't lost the pieces, we ............ a game of chess.
-A. could have
-B. may have
-C. can't have
-D. couldn't have had
-Answer: A
+Q4: In second-............ shops you can find used things.
+A. charity
+B. hand
+C. sales
+Answer: B
 
-Q7: Just ............ practice every day and you'll soon be able to play the piano.
-A. few
-B. a few
-C. little
-D. a little
+Q5: They've got a really .......... house.
+A. brand
+B. tiled
+C. terraced
+D. spacious
 Answer: D
 
-Q8: This fascinating book covers some of the most ............ crimes of the twentieth century.
-A. hidden
-B. infamous
-C. unknown
-D. covered
+Q6: I didn't have any cash so I paid ............ cheque.
+A. by
+B. in
+C. with
+Answer: A
+
+Q7: A door-to-door .......... has to do a great deal of walking.
+A. executive
+B. salesperson
+C. guide
+D. driver
 Answer: B
 
-Q9: The brochure says that the hotel has a great ............ of the sea.
-A. appearance
-B. sight
-C. look
-D. view
+Q8: I know how to pronounce 'controversy', but what ............ ?
+A. means it
+B. is it mean
+C. it means
+D. does it mean
 Answer: D
 
-Q10: .......... your time - don't rush.
-A. Tell
-B. Take
-C. Spend
-D. Find
+Q9: Huge waves were ........... on the shore.
+A. crashing
+B. jumping
+C. dropping
+D. cracking
+Answer: A
+
+Q10: James bought a leather jacket from a ............ shop.
+A. hard-earned
+B. second-hand
+C. handmade
 Answer: B
 
 
 
 NODE LISTENING
 
-Q1: Generally , unblended black teas are named after the ___ in which they are produced .
-Answer: region
-
-Q2: After many concerts , the band went back to Sweden and began writing songs for their next ___ .
-Answer: album
-
-Q3: Anatole France start his career as a parnassianism ___ .
-Answer: poet
-
-Q4: Many of the details of the galaxy ___ a mystery , especially how it formed .
-Answer: remain
-
-Q5: Cockatoos are recognizable by the showy crests and ___ and strong bills .
-Answer: curved
-
-Q6: Cold seeps ___ over cracks in the seafloor caused by the movement of the Earth ' s crust .
-Answer: occur
-
-Q7: An entity whose ___ exceeds its expenditure can lend or invest the excess income to help that excess income produce more income in the future .
-Answer: income
-
-Q8: During the next ten to eleven hours , the radioactive ___ moved towards the northeast , reaching between 300 and 350 kilometers from the accident .
-Answer: cloud
-
-Q9: Spyros Kyprianou died on 12 March 2002 after a long fight with prostate ___ .
-Answer: cancer
-
-Q10: The important material of a given ___ is often its defining point .
-Answer: era
+Q1: A: I heard you had a terrible _______(1) _______(2). What happened?
+B: I slipped on the steps. I dropped my phone and my cup of coffee!
+A: Wow! _______(3) _______(4) _______(5) your phone?
+B: Yes, but I got a new one.
+A: What happened to the coffee? _______(6) _______(7) _______(8) it?
+B: Yes. Now I have a stain on my new pants.
+A: Did you take them to the dry cleaners?
+B: Yes. I hope _______(9) _______(10) comes out!
+Answer: 1:mishap | 2:yesterday | 3:Did | 4:you | 5:break | 6:Did | 7:you | 8:spill | 9:the | 10:stain
 
 
 
 NODE SPEAKING
 
-1. Radiation therapy is commonly applied to the cancerous tumor because of its ability to control cell growth .
-2. An Event Cache is a gathering organized and attended by geocachers .
-3. This system is found in most fish , including sharks .
-4. The origin of supermassive black holes remains an open field of research .
-5. Zinc sulfate can be used to add zinc to the soil .
-6. A flounder 's diet consists mainly of fish spawn , crustaceans , polychaetes and small fish .
-7. In 2012 the event was visited by totally 50 700 people , which meant a new record had been broken .
-8. In one experiment , Lavoisier found that there was no increase in mass when tin and air were heated in a closed container .
-9. Greek philosophy is one of the foundations of Western culture .
-10. If the subject still wished to stop after all four successive verbal prods , the experiment was halted .
+Q1: [Speaking] 1 The thing that worries me most is global warming.
+2. The main problem in this city is air pollution.
+3. The cleanest form of energy is wind power.
+4. A bicycle is something everyone should use.
+5. Many rare species are in danger of extinction.
+
+
 
 
 NODE MATCHING
 
-1. task -> something that you have to do, often something that is difficult or unpleasant
-2. I'll never forget -> learning that I had the winning ticket.
-3. sympathetic -> willing to understand someone's problems and help them
-4. fare -> the money that you pay for a journey
-5. damaged -> harmed physically
-6. The shop's giving -> away free software with every computer.
-7. occur -> to happen
-8. Cynthia's decided to set -> up a small business producing temporary tattoos.
-9. commentator -> someone whose job is to give a description of an event on television or radio as it happens
-10. true -> based on facts or on things that really happened
+1. give off -> produce sth such as heat or a smell
+2. village -> a very small town in the countryside
+3. proof -> information or evidence that shows that something is definitely true
+4. appearance -> the way that someone or something looks
+5. see off -> go to a train station, etc, to see someone leave
+6. live -> to have your home in a particular place
+7. show off -> try to attract people's attention and make them admire you (usually used negatively)
+8. Mr Greene seems to find it difficult to get -> on with people from other countries.
+9. damaged -> harmed physically
+10. boil -> to cook something in boiling water, or to be cooked in this way
 
 
 NODE REVIEW
 
-Q1: Oh, I'm sorry! ............ disturbing you?
-A. Have I
-B. Do I
-C. Should I
-D. Am I
-Answer: D
+Q1: You can't be ............!
+A. joking
+B. serious
+C. true
+Answer: A
 
-Q2: During the next ten to eleven hours , the radioactive ___ moved towards the northeast , reaching between 300 and 350 kilometers from the accident .
-Answer: cloud
+Q2: He put a lot of ........... into the project.
+A. exertion
+B. sweat
+C. effort
+D. struggle
+Answer: C
 
-3. fare -> the money that you pay for a journey
-4. I'll never forget -> learning that I had the winning ticket.
-5. The shop's giving -> away free software with every computer.
-Q6: Many of the details of the galaxy ___ a mystery , especially how it formed .
-Answer: remain
+Q3: I was very sad when the vet said he'd have to ............ Gertie, our labrador.
+A. feel up to
+B. pull through
+C. put down
+D. wear off
+Answer: C
 
-Q7: The important material of a given ___ is often its defining point .
-Answer: era
+Q4: We bought this house because it is close .......... the school.
+A. to
+B. in
+C. at
+D. with
+Answer: A
 
-Q8: Cold seeps ___ over cracks in the seafloor caused by the movement of the Earth ' s crust .
-Answer: occur
+Q5: close down
+Answer: stop operating (for companies)
 
-Q9: An entity whose ___ exceeds its expenditure can lend or invest the excess income to help that excess income produce more income in the future .
-Answer: income
+Q6: article
+Answer: a piece of writing in a newspaper or magazine
 
-10. This system is found in most fish , including sharks .
+Q7: perk
+Answer: an extra payment or benefit that you get in addition to your salary
+
+Q8: I've been thinking
+Answer: of taking up golf.
+
+Q9: The club is going to hold an _______(1) tournament every year.
+The club's _______(2) are closed for two months every year.
+The gym instructors can produce individual _______(3) for members.
+In the first exercise studio, there are _______(4) classes.
+Instructors are able to design _______(5) which are safe and enjoyable.
+Leisure membership does not include _______(6).
+Answer: 1:international | 2:tennis courts | 3:fitness programs | 4:indoor cycling | 5:workouts | 6:golf access
+
+Q10: [Speaking] 1. Can I help you?
+2. Can I get them tonight?
+3. You can leave them here.
+4. I can't open the window.
+5. I can't find my key.
+6. I can't connect to the Internet.
+
+
 
 

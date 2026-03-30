@@ -159,9 +159,7 @@ async function runETL() {
                     distractors: item.options ? item.options.split("|") : [],
                     explanation: `Type: ${item.question_type}. Level: ${item.difficulty}.`,
                     metadata: {
-                      audio_url: item.audio_url || "",
-                      phonetic: item.phonetic || "",
-                      hint: item.hint || "",
+                      audio_url: item.audio_url || ""
                     },
                   },
                 },
