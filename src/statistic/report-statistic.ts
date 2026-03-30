@@ -1,7 +1,7 @@
 // Bảng thông kê các chỉ số của thuật toán: thời gian chạy, độ trùng lặp, độ lệch chuẩn của thời gian chạy
 import fs from "fs";
 import path from "path";
-import { QuestionStatistics } from "./question-statistic.ts"; // Đảm bảo đúng đường dẫn file của bạn
+import { QuestionStatistics } from "./question-statistic.ts";
 import { fileURLToPath } from "url";
 
 const __filename = fileURLToPath(import.meta.url);
